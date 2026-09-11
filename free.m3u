@@ -1009,12 +1009,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/11007/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/11009/index.m3u8
 
-#EXTINF:0 tvg-rec="7",CineMan Ужасы
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/11010/index.m3u8
-
 #EXTINF:0 tvg-rec="7",CineMan Комедия
 
 #EXTGRP:Кино
@@ -1544,24 +1538,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/13093/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/13094/index.m3u8
 
-#EXTINF:0 tvg-rec="0",VF Луи де Фюнес
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17000/index.m3u8
-
-#EXTINF:0 tvg-rec="0",VF Чернобыль
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17001/index.m3u8
-
-#EXTINF:0 tvg-rec="0",VF The X-Files
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17003/index.m3u8
-
 #EXTINF:0 tvg-rec="0",VF Леонид Гайдай
 
 #EXTGRP:Кино
@@ -1590,31 +1566,12 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17014/index.m3u8
 
 #EXTGRP:Кино
 
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17015/index.m3u8
-
-#EXTINF:0 tvg-rec="0",VF Доктор Хаус
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17016/index.m3u8
-
-#EXTINF:0 tvg-rec="0",VF Без цензуры
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17017/index.m3u8
 
 #EXTINF:0 tvg-rec="0",VF Городок
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18097/index.m3u8
-
-#EXTINF:0 tvg-rec="0",VF Comedy Woman
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18101/index.m3u8
 
 #EXTINF:0 tvg-rec="0",VF Игра престолов
 
@@ -1682,35 +1639,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14134/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14135/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Z!Crime HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14136/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Horror HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14137/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Serial HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15140/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Sitcom HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15141/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Smile HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15142/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Grand
 
@@ -1741,18 +1669,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14175/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14177/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Yosso TV Трагичное
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14219/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Yosso TV Забавное
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14234/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
 
@@ -1796,12 +1712,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15510/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16153/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19434/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
 
 #EXTGRP:Кино
@@ -1844,30 +1754,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16152/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18139/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Твое ТВ HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14229/index.m3u8
-
-#EXTINF:0 tvg-rec="0",РЕН ТВ UHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19404/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty DC FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15087/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Ужасы 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15088/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Liberty Триллеры 4K
 
 #EXTGRP:Кино
@@ -1879,18 +1765,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15089/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15090/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Короткометражки FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15091/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Мелодрамы FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15095/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Боевики FHD
 
@@ -1904,41 +1778,12 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15096/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15110/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15111/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15164/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16053/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Liberty Комедии FHD
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16054/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16055/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Аниме FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17029/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
 
@@ -1963,42 +1808,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18045/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18046/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Индия 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18160/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Куб 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18161/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Семейный 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18178/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19303/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19304/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19306/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Liberty Союз 4K
 
@@ -2029,42 +1838,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19403/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15100/index.m3u8
-
-#EXTINF:0 tvg-rec="0",CineMan Симпсоны
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15101/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MS Prisons HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15137/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MS Toons HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15138/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MS Magic 4K
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16143/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MS Young Blood HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/16147/index.m3u8
-
-#EXTINF:0 tvg-rec="0",MS Animated HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17024/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Citrus Cartoon
 
@@ -2202,12 +1975,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/17068/index.m3u8
 
 #EXTGRP:Кино
 
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18036/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Magic Karate HD
-
-#EXTGRP:Кино
-
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18061/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Magic VHS HD
@@ -2240,131 +2007,17 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18066/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18067/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Magic Horror HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18068/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Magic Family HD
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18170/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Magic Love HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18171/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18069/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18070/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18071/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Tviksel Военное кино HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18072/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18073/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Tviksel Детское кино International
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18074/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 1 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18126/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 2 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18127/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 3 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18128/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 4 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18129/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 5 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18130/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 6 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18131/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 7 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18132/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18133/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 9 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18134/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18135/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 11 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18136/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Зал 12 (Триколор)
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/18137/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Киносерия HD
 
@@ -2420,24 +2073,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19278/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19279/index.m3u8
 
-#EXTINF:0 tvg-rec="0",BOX M.Serial HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19280/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BOX Serial HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19281/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BOX Game HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19284/index.m3u8
-
 #EXTINF:0 tvg-rec="0",BOX Spy HD
 
 #EXTGRP:Кино
@@ -2455,12 +2090,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19418/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19419/index.m3u8
-
-#EXTINF:0 tvg-rec="0",BOX Zombie HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/19420/index.m3u8
 
 #EXTINF:0 tvg-rec="0",BOX Cyber HD
 
@@ -2516,12 +2145,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20140/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20141/index.m3u8
 
-#EXTINF:0 tvg-rec="0",BOX Ghost HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20154/index.m3u8
-
 #EXTINF:0 tvg-rec="0",BOX Stories HD
 
 #EXTGRP:Кино
@@ -2564,12 +2187,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20173/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20209/index.m3u8
 
-#EXTINF:0 tvg-rec="0",FamilyJam HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20210/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Кион Хит HD
 
 #EXTGRP:Кино
@@ -2606,29 +2223,11 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20219/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/20220/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Z!Military HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31696/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Biography HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31697/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Z!Adventure HD
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31698/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Drama HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31700/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Z!Detective HD
 
@@ -2654,18 +2253,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31701/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31704/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Z!Fun HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31706/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Science HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31705/index.m3u8
-
 #EXTINF:0 tvg-rec="0",Z!Fantasy HD
 
 #EXTGRP:Кино
@@ -2690,53 +2277,11 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31695/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31694/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Ужас ТВ HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31708/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Громовы
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31712/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Однажды в милиции
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31715/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31711/index.m3u8
-
 #EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
 
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31714/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31718/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Репка HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31719/index.m3u8
-
-#EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31720/index.m3u8
 
 #EXTINF:0 tvg-rec="0",StrahTV Фантастика 2.0 HD
 
@@ -2744,17 +2289,6 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31720/index.m3u8
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31722/index.m3u8
 
-#EXTINF:0 tvg-rec="0",StrahTV Коломбо
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31713/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Atreseries HD ES
-
-#EXTGRP:Кино
-
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31882/index.m3u8
 
 #EXTINF:0 tvg-rec="0",TCM HD ES
 
@@ -2803,30 +2337,8 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/31931/index.m3u8
 #EXTGRP:Кино
 
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/30151/index.m3u8
+##############
 
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/9123/index.m3u8
-#EXTINF:0 tvg-rec="0", VF Вестерн
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31553/index.m3u8
-#EXTINF:0 tvg-rec="0", Liberty Криминал 4K
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31663/index.m3u8
-#EXTINF:0 tvg-rec="0", Yosso TV 4K HDR
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31620/index.m3u8
-#EXTINF:0 tvg-rec="0", Magic Russian HD
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31630/index.m3u8
-#EXTINF:0 tvg-rec="0", MM Кинофестиваль HD
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31621/index.m3u8
-#EXTINF:0 tvg-rec="0", BOX СССР 4K
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31625/index.m3u8
-#EXTINF:0 tvg-rec="0", Liberty Кино UKR FHD
-#EXTGRP:Кино
-http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31660/index.m3u8
 #EXTINF:0 tvg-rec="0", CineMan Комедийные Сериалы
 #EXTGRP:Кино
 http://207b0c65.amazzin.pw/iptv/WBU9TZ9HL2BHM4/31628/index.m3u8
