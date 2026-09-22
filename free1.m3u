@@ -1,6 +1,5 @@
 
 #EXTM3U
-#EXTM3U x-tvg-url="https://is.gd/epg2xml"
 #EXTGRP:Кино
 #EXTINF:-1 tvg-id="Viasat Kino Comedy HD" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
