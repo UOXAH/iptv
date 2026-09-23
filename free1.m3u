@@ -366,22 +366,6 @@ http://bde.online24.pm/play/1742/855C055F42798FB/video.m3u8
 http://bde.online24.pm/play/1747/855C055F42798FB/video.m3u8
 #EXTINF:-1 tvg-id="NEXT Strike HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/6090.png?v1771766586",NEXT Strike HD
 http://bde.online24.pm/play/6090/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-СпортМикс HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/35525-6603e5fe177f7.png",KBC-СпортМикс HD
-http://bde.online24.pm/play/8855/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-Кошмарное HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/36277-6009d669219d3.png",KBC-Кошмарное HD
-http://bde.online24.pm/play/8822/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="NEXT Vision HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/6078.png?v1771766268",NEXT Vision HD
-http://bde.online24.pm/play/6078/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-ГОБЛИН HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/42054-65e74a64c6401.png",KBC-ГОБЛИН HD
-http://bde.online24.pm/play/8825/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-MusKino HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/39822-65f0724f2ac93.png",KBC-MusKino HD
-http://bde.online24.pm/play/8854/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-Вестерн HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/39825-65eb85d46c579.png",KBC-Вестерн HD
-http://bde.online24.pm/play/8821/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="KBC-Animals HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/39823-65f0730c6be29.png",KBC-Animals HD
-http://bde.online24.pm/play/8853/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="GL Exist HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/1820.png?v1744359083",GL Exist HD
-http://bde.online24.pm/play/1820/855C055F42798FB/video.m3u8
 #EXTINF:-1 tvg-id="Кино ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Русский иллюзион" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20иллюзион.png",Русский иллюзион
@@ -402,12 +386,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16049/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16141/index.m3u8
 #EXTINF:-1 tvg-id="Видеокассета Юность" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Видеокассета%20Юность.png",Видеокассета Юность
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19318/index.m3u8
-#EXTINF:-1 tvg-id="Ужастик HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Ужастик%20HD.png",Ужастик HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19273/index.m3u8
-#EXTINF:-1 tvg-id="kino watch тв Свежаки HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/kino%20watch%20тв%20Свежаки%20HD.png",kino watch тв Свежаки HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16045/index.m3u8
-#EXTINF:-1 tvg-id="kino watch тв Уже видел HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/kino%20watch%20тв%20Уже%20видел%20HD.png",kino watch тв Уже видел HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16046/index.m3u8
 #EXTINF:-1 tvg-id="Fresh Cinema HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fresh%20Cinema%20HD.png",Fresh Cinema HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16067/index.m3u8
 #EXTINF:-1 tvg-id="Fresh Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fresh%20Cinema.png",Fresh Cinema
@@ -440,108 +418,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19299/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19300/index.m3u8
 #EXTINF:-1 tvg-id="Fresh Soviet" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Fresh%20Soviet.png",Fresh Soviet
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19301/index.m3u8
-#EXTINF:-1 tvg-id="KLI Cinema HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Cinema%20HD.png",KLI Cinema HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16078/index.m3u8
-#EXTINF:-1 tvg-id="KLI Comedy HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Comedy%20HD.png",KLI Comedy HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16080/index.m3u8
-#EXTINF:-1 tvg-id="KLI History HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20History%20HD.png",KLI History HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18047/index.m3u8
-#EXTINF:-1 tvg-id="KLI Premium HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Premium%20HD.png",KLI Premium HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18048/index.m3u8
-#EXTINF:-1 tvg-id="KLI Russian HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Russian%20HD.png",KLI Russian HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18049/index.m3u8
-#EXTINF:-1 tvg-id="KLI Fantastic HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Fantastic%20HD.png",KLI Fantastic HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18050/index.m3u8
-#EXTINF:-1 tvg-id="KLI CCCP HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20CCCP%20HD.png",KLI CCCP HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18175/index.m3u8
-#EXTINF:-1 tvg-id="KLI Family HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Family%20HD.png",KLI Family HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18176/index.m3u8
-#EXTINF:-1 tvg-id="KLI VHS HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20VHS%20HD.png",KLI VHS HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18173/index.m3u8
-#EXTINF:-1 tvg-id="KLI Retro HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Retro%20HD.png",KLI Retro HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18177/index.m3u8
-#EXTINF:-1 tvg-id="KLI Thriller HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Thriller%20HD.png",KLI Thriller HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18174/index.m3u8
-#EXTINF:-1 tvg-id="KLI Киносерия FHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KLI%20Киносерия%20FHD.png",KLI Киносерия FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19400/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP CINEMA FHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20CINEMA%20FHD.png",PROKOP CINEMA FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19313/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV cinemaQHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20cinemaQHD.png",PROKOP TV cinemaQHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19315/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV Premier HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20Premier%20HD.png",PROKOP TV Premier HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19399/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV cinemaV" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20cinemaV.png",PROKOP TV cinemaV
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19316/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP skazkiussr FHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20skazkiussr%20FHD.png",PROKOP skazkiussr FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19317/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV KIDS HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20KIDS%20HD.png",PROKOP TV KIDS HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18141/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV COMEDY HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20COMEDY%20HD.png",PROKOP TV COMEDY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18146/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV FANTAZY HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20FANTAZY%20HD.png",PROKOP TV FANTAZY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18144/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV CRIMINAL HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20CRIMINAL%20HD.png",PROKOP TV CRIMINAL HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18140/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV CINEMA HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20CINEMA%20HD.png",PROKOP TV CINEMA HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18147/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV COMEDY HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20COMEDY%20HD.png",PROKOP TV COMEDY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18143/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV HORROR HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20HORROR%20HD.png",PROKOP TV HORROR HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18145/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV SERIAL HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20SERIAL%20HD.png",PROKOP TV SERIAL HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19271/index.m3u8
-#EXTINF:-1 tvg-id="PROKOP TV SERIAL FHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/PROKOP%20TV%20SERIAL%20FHD.png",PROKOP TV SERIAL FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19272/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв ХИТ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20ХИТ%20HD.png",Малдер тв ХИТ HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19263/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв VHS" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20VHS.png",Малдер тв VHS
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19264/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв Фантастика" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20Фантастика.png",Малдер тв Фантастика
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19265/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв Сериал" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20Сериал.png",Малдер тв Сериал
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19266/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв Семейный" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20Семейный.png",Малдер тв Семейный
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19267/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв Ужасы" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20Ужасы.png",Малдер тв Ужасы
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19268/index.m3u8
-#EXTINF:-1 tvg-id="Малдер тв Мультики 90ых" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Малдер%20тв%20Мультики%2090ых.png",Малдер тв Мультики 90ых
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19269/index.m3u8
-#EXTINF:-1 tvg-id="AkuDji HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/AkuDji%20HD.png",AkuDji HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14161/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH MIX 4K" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20MIX%204K.png",SKY HIGH MIX 4K
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17025/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH UHD HDR" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20UHD%20HDR.png",SKY HIGH UHD HDR
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17059/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH VHS UHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20VHS%20UHD.png",SKY HIGH VHS UHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17058/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH FRESH 60" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20FRESH%2060.png",SKY HIGH FRESH 60
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16061/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH FRESH HDR" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20FRESH%20HDR.png",SKY HIGH FRESH HDR
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16066/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH HEROES HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20HEROES%20HD.png",SKY HIGH HEROES HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14242/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH BY SLONKA" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20BY%20SLONKA.png",SKY HIGH BY SLONKA
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16142/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH SPIRIT HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20SPIRIT%20HD.png",SKY HIGH SPIRIT HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14249/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH FUTURE HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20FUTURE%20HD.png",SKY HIGH FUTURE HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15103/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH EPOCH HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20EPOCH%20HD.png",SKY HIGH EPOCH HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14243/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH FRESH HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20FRESH%20HD.png",SKY HIGH FRESH HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14244/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH ADULT HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20ADULT%20HD.png",SKY HIGH ADULT HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15166/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH RUSSIAN HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20RUSSIAN%20HD.png",SKY HIGH RUSSIAN HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16060/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH SERIES HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20SERIES%20HD.png",SKY HIGH SERIES HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14240/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH ORIG HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20ORIG%20HD.png",SKY HIGH ORIG HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19310/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH BRAIN HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20BRAIN%20HD.png",SKY HIGH BRAIN HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19404/index.m3u8
-#EXTINF:-1 tvg-id="SKY HIGH ANIME HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/SKY%20HIGH%20ANIME%20HD.png",SKY HIGH ANIME HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19405/index.m3u8
 #EXTINF:-1 tvg-id="BOX Franchise HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BOX%20Franchise%20HD.png",BOX Franchise HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19274/index.m3u8
 #EXTINF:-1 tvg-id="BOX Hybrid HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/BOX%20Hybrid%20HD.png",BOX Hybrid HD
@@ -946,60 +822,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18135/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18136/index.m3u8
 #EXTINF:-1 tvg-id="Кинозал 12" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинозал%2012.png",Кинозал 12
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18137/index.m3u8
-#EXTINF:-1 tvg-id="UZ 4K Kino UHD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%204K%20Kino%20UHD.png",UZ 4K Kino UHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18162/index.m3u8
-#EXTINF:-1 tvg-id="UZ SWIRIDENKO TV HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20SWIRIDENKO%20TV%20HD.png",UZ SWIRIDENKO TV HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18106/index.m3u8
-#EXTINF:-1 tvg-id="UZ SWIRIDENKO TV HD 2" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20SWIRIDENKO%20TV%20HD%202.png",UZ SWIRIDENKO TV HD 2
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18107/index.m3u8
-#EXTINF:-1 tvg-id="UZ TV HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20TV%20HD.png",UZ TV HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14220/index.m3u8
-#EXTINF:-1 tvg-id="UZ Kino1 HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Kino1%20HD.png",UZ Kino1 HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13074/index.m3u8
-#EXTINF:-1 tvg-id="UZ Kino HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Kino%20HD.png",UZ Kino HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13073/index.m3u8
-#EXTINF:-1 tvg-id="UZ Kino3 HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Kino3%20HD.png",UZ Kino3 HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13075/index.m3u8
-#EXTINF:-1 tvg-id="UZ Kino4 HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Kino4%20HD.png",UZ Kino4 HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13076/index.m3u8
-#EXTINF:-1 tvg-id="UZ Kino 5 HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Kino%205%20HD.png",UZ Kino 5 HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14232/index.m3u8
-#EXTINF:-1 tvg-id="UZ Кино Новинки HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Кино%20Новинки%20HD.png",UZ Кино Новинки HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14126/index.m3u8
-#EXTINF:-1 tvg-id="UZ Комедия HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Комедия%20HD.png",UZ Комедия HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14127/index.m3u8
-#EXTINF:-1 tvg-id="UZ МУЛЬТЗАЛ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20МУЛЬТЗАЛ%20HD.png",UZ МУЛЬТЗАЛ HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13066/index.m3u8
-#EXTINF:-1 tvg-id="UZ Ужасное ТВ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Ужасное%20ТВ%20HD.png",UZ Ужасное ТВ HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13068/index.m3u8
-#EXTINF:-1 tvg-id="UZ Фантастика HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Фантастика%20HD.png",UZ Фантастика HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13065/index.m3u8
-#EXTINF:-1 tvg-id="UZ Катастрофа HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Катастрофа%20HD.png",UZ Катастрофа HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18164/index.m3u8
-#EXTINF:-1 tvg-id="UZ Приключение HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Приключение%20HD.png",UZ Приключение HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13069/index.m3u8
-#EXTINF:-1 tvg-id="UZ Боевики HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Боевики%20HD.png",UZ Боевики HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13077/index.m3u8
-#EXTINF:-1 tvg-id="UZ Бойцовское кино HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Бойцовское%20кино%20HD.png",UZ Бойцовское кино HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13070/index.m3u8
-#EXTINF:-1 tvg-id="UZ Vitek tv" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Vitek%20tv.png",UZ Vitek tv
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13100/index.m3u8
-#EXTINF:-1 tvg-id="UZ Кинозал HEVC HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Кинозал%20HEVC%20HD.png",UZ Кинозал HEVC HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15099/index.m3u8
-#EXTINF:-1 tvg-id="UZ Союз-Фильмы HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Союз-Фильмы%20HD.png",UZ Союз-Фильмы HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18167/index.m3u8
-#EXTINF:-1 tvg-id="UZ-Кинокомфорт HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ-Кинокомфорт%20HD.png",UZ-Кинокомфорт HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13101/index.m3u8
-#EXTINF:-1 tvg-id="UZ Сваты HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Сваты%20HD.png",UZ Сваты HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18166/index.m3u8
-#EXTINF:-1 tvg-id="UZ 6kadrov media" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%206kadrov%20media.png",UZ 6kadrov media
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13079/index.m3u8
-#EXTINF:-1 tvg-id="UZ Ералаш ТВ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Ералаш%20ТВ%20HD.png",UZ Ералаш ТВ HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13071/index.m3u8
-#EXTINF:-1 tvg-id="UZ Малютка ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ%20Малютка%20ТВ.png",UZ Малютка ТВ
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13072/index.m3u8
-#EXTINF:-1 tvg-id="UZ-Tom&Jerry HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/UZ-Tom&Jerry%20HD.png",UZ-Tom&Jerry HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13078/index.m3u8
 #EXTINF:-1 tvg-id="YOSSO TV 4K" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/YOSSO%20TV%204K.png",YOSSO TV 4K
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16153/index.m3u8
 #EXTINF:-1 tvg-id="Yosso TV Советские фильмы 4K" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Yosso%20TV%20Советские%20фильмы%204K.png",Yosso TV Советские фильмы 4K
@@ -1178,44 +1000,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13094/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11117/index.m3u8
 #EXTINF:-1 tvg-id="VF Индия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/VF%20Индия.png",VF Индия
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13090/index.m3u8
-#EXTINF:-1 tvg-id="KBC-B.O.B" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-B.O.B.png",KBC-B.O.B
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11072/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Comics" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Comics.png",KBC-Comics
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11073/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Family Animation" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Family%20Animation.png",KBC-Family Animation
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11075/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Elite comedys" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Elite%20comedys.png",KBC-Elite comedys
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11074/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Newfilm" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Newfilm.png",KBC-Newfilm
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11079/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Premium" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Premium.png",KBC-Premium
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11080/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Кошмарное" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Кошмарное.png",KBC-Кошмарное
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11088/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Fantastic" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Fantastic.png",KBC-Fantastic
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11076/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Шпионское" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Шпионское.png",KBC-Шпионское
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11093/index.m3u8
-#EXTINF:-1 tvg-id="KBC-History" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-History.png",KBC-History
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11077/index.m3u8
-#EXTINF:-1 tvg-id="KBC-ГАЙ Ritchie & Tarantino" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-ГАЙ%20Ritchie%20&%20Tarantino.png",KBC-ГАЙ Ritchie & Tarantino
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11085/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Драма tic" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Драма%20tic.png",KBC-Драма tic
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11086/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Кинотеатр" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Кинотеатр.png",KBC-Кинотеатр
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11087/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Легендарное" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Легендарное.png",KBC-Легендарное
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11083/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Видак" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Видак.png",KBC-Видак
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11084/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Russian Комедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Russian%20Комедия.png",KBC-Russian Комедия
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11081/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Light сериал RU" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Light%20сериал%20RU.png",KBC-Light сериал RU
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11078/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Страна СССР" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Страна%20СССР.png",KBC-Страна СССР
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11091/index.m3u8
-#EXTINF:-1 tvg-id="KBC-Криминальный Serial" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/KBC-Криминальный%20Serial.png",KBC-Криминальный Serial
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/11092/index.m3u8
 #EXTINF:-1 tvg-id="Eye Media HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Eye%20Media%20HD.png",Eye Media HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17064/index.m3u8
 #EXTINF:-1 tvg-id="Eye Oscar HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Eye%20Oscar%20HD.png",Eye Oscar HD
