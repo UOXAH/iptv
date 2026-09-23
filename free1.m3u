@@ -2,12 +2,6 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://iptvx.one/EPG_LITE"
 #EXTGRP:Кино
-#EXTINF:-1 tvg-id="Viasat Kino Comedy HD" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Viasat Kino Comedy HD
-http://ukr2.ukrainske.tv/493/video.m3u8
-#EXTINF:-1 tvg-id="Кино и Жизнь" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=8zEp8CoHlUujIbs_ac3I5g&e=2070281160&scheme=https
-#EXTINF:-1 tvg-id="NUR TV" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",NUR TV
-http://146.120.213.172:8086/0.m3u8
 #EXTINF:-1 tvg-id="Arpinet" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Arpinet
 http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 tvg-id="Детективы КД" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Детективы КД
@@ -62,8 +56,6 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://stitch.teletarget.ru/vintera/terra/index.m3u8
 #EXTINF:-1 tvg-id="Жизнь Глазова" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Жизнь Глазова
 http://yellow.garant.tv/glazov24/stream.m3u8
-#EXTINF:-1 tvg-id="Mr.Bean Cartoon HD" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Mr.Bean Cartoon HD
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=x2-KvlIlDO7JTvW9rPHDVA&e=2066519767&scheme=https
 #EXTINF:-1 tvg-id="Ключайка" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Ключайка
 https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
 #EXTINF:-1 tvg-id="СоюзМультфильм" group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",СоюзМультфильм
@@ -212,8 +204,6 @@ http://185.46.16.239:8000/VIP_Comedy
 http://5.188.159.128:8070/KINOPREMIERA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Киносвидание FD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание%20FD.png",Киносвидание FD
 http://5.188.159.128:8070/kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Индийское Кино" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Индийское%20Кино.png",Индийское Кино
-http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 tvg-id="Bolt" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Bolt.png",Bolt
 http://83.217.12.157:81/udp/239.1.1.105:1234
 #EXTINF:-1 tvg-id="Star Family HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Star%20Family%20HD.png",Star Family HD
@@ -224,10 +214,6 @@ http://93.113.203.165/iptv/F5BM9GXMAPYBDK/18036/index.m3u8
 http://178.218.204.217/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Русский Роман" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20Роман.png",Русский Роман
 https://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="Русский Роман" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20Роман.png",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 tvg-id="Русский Роман" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20Роман.png",Русский Роман
-http://185.46.16.239:8000/Russkiy_roman
 #EXTINF:-1 tvg-id="Время" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Время.png",Время
 http://45.11.139.43:8555/vremya/index.m3u8
 #EXTINF:-1 tvg-id="НТВ Хит" group-title="Кино" tvg-logo="http://epg.one/img2/2041.png",НТВ Хит
@@ -396,10 +382,6 @@ http://bde.online24.pm/play/8821/855C055F42798FB/video.m3u8
 http://bde.online24.pm/play/8853/855C055F42798FB/video.m3u8
 #EXTINF:-1 tvg-id="GL Exist HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/1820.png?v1744359083",GL Exist HD
 http://bde.online24.pm/play/1820/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="DITV Пёс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/DITV%20Пёс.png",DITV Пёс
-http://bde.online24.pm/play/2064/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="Cine+ Kids HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/cine-plus-kids.png",Cine+ Kids HD
-http://bde.online24.pm/play/7994/855C055F42798FB/video.m3u8
 #EXTINF:-1 tvg-id="Кино ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ.png",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Русский иллюзион" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20иллюзион.png",Русский иллюзион
@@ -1530,48 +1512,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/5063/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9052/index.m3u8
 #EXTINF:-1 tvg-id="Paramount Comedy HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Paramount%20Comedy%20HD.png",Paramount Comedy HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/6000/index.m3u8
-#EXTINF:-1 tvg-id="Победа HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Победа%20HD.png",Победа HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/5052/index.m3u8
-#EXTINF:-1 tvg-id="Домашний HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Домашний%20HD.png",Домашний HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15116/index.m3u8
-#EXTINF:-1 tvg-id="Домашний" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Домашний.png",Домашний
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/514/index.m3u8
-#EXTINF:-1 tvg-id="Дорама" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Дорама.png",Дорама
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/1066/index.m3u8
-#EXTINF:-1 tvg-id="Наше HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20HD%20orig.png",Наше HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9046/index.m3u8
-#EXTINF:-1 tvg-id="Про Любовь HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Про%20Любовь%20HD%20orig.png",Про Любовь HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9089/index.m3u8
-#EXTINF:-1 tvg-id="Про Любовь HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Про%20Любовь%20HD.png",Про Любовь HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2430/index.m3u8
-#EXTINF:-1 tvg-id="Наше Крутое HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20Крутое%20HD%20orig.png",Наше Крутое HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/10041/index.m3u8
-#EXTINF:-1 tvg-id="Наше крутое HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20крутое%20HD.png",Наше крутое HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/915/index.m3u8
-#EXTINF:-1 tvg-id="Наше Мужское HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20Мужское%20HD%20orig.png",Наше Мужское HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9088/index.m3u8
-#EXTINF:-1 tvg-id="Наше Мужское HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20Мужское%20HD.png",Наше Мужское HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2440/index.m3u8
-#EXTINF:-1 tvg-id="Наше любимое HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20любимое%20HD%20orig.png",Наше любимое HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9062/index.m3u8
-#EXTINF:-1 tvg-id="Наше любимое HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наше%20любимое%20HD.png",Наше любимое HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2106/index.m3u8
-#EXTINF:-1 tvg-id="Наш кинороман HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Наш%20кинороман%20HD%20orig.png",Наш кинороман HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9045/index.m3u8
-#EXTINF:-1 tvg-id="Русский иллюзион HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20иллюзион%20HD%20orig.png",Русский иллюзион HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9080/index.m3u8
-#EXTINF:-1 tvg-id="Русский иллюзион HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20иллюзион%20HD.png",Русский иллюзион HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2114/index.m3u8
-#EXTINF:-1 tvg-id="Русский бестселлер" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20бестселлер.png",Русский бестселлер
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/905/index.m3u8
-#EXTINF:-1 tvg-id="Русская Комедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русская%20Комедия.png",Русская Комедия
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/733/index.m3u8
-#EXTINF:-1 tvg-id="Русский роман HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20роман%20HD%20orig.png",Русский роман HD orig
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9041/index.m3u8
-#EXTINF:-1 tvg-id="Русский роман HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20роман%20HD.png",Русский роман HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/2076/index.m3u8
-#EXTINF:-1 tvg-id="Русский детектив" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Русский%20детектив.png",Русский детектив
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/907/index.m3u8
 #EXTINF:-1 tvg-id="Иллюзион+ HD orig" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Иллюзион+%20HD%20orig.png",Иллюзион+ HD orig
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/9079/index.m3u8
 #EXTINF:-1 tvg-id="Иллюзион +" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Иллюзион%20+.png",Иллюзион +
@@ -2101,20 +2041,6 @@ https://s07.watcher.uz/158/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
 #EXTINF:-1 tvg-id="8 Канал" group-title="TRICOLOR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/8tv.png",8 Канал
 http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=384872&extension=ts&play_token=knRvDJIH72
 
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9123/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Вестерн
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31553/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Криминал 4K
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31663/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV 4K HDR
-#EXTGRP:Кино
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31620/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Russian HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31630/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Кинофестиваль HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31621/index.m3u8
@@ -2229,9 +2155,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5006/index.m3u8
 #EXTINF:0 tvg-rec="0",Viasat Serial HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17056/index.m3u8
-#EXTINF:0 tvg-rec="0",.black HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20019/index.m3u8
 #EXTINF:0 tvg-rec="0",.sci-fi HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20020/index.m3u8
@@ -2391,9 +2314,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/229/index.m3u8
 #EXTINF:0 tvg-rec="7",Hollywood HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/209/index.m3u8
-#EXTINF:0 tvg-rec="3",BollywooD HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/239/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Premiere HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/202/index.m3u8
@@ -2415,15 +2335,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5081/index.m3u8
 #EXTINF:0 tvg-rec="3",Epic Drama HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1048/index.m3u8
-#EXTINF:0 tvg-rec="3",День Победы HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5054/index.m3u8
-#EXTINF:0 tvg-rec="3",Победа HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5052/index.m3u8
-#EXTINF:0 tvg-rec="7",Победа
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2003/index.m3u8
 #EXTINF:0 tvg-rec="7",Amedia 2 HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2046/index.m3u8
@@ -2460,9 +2371,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/525/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинокомедия
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/145/index.m3u8
-#EXTINF:0 tvg-rec="7",Индийское Кино
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/146/index.m3u8
 #EXTINF:0 tvg-rec="7",Киносерия
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/148/index.m3u8
@@ -2502,21 +2410,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/557/index.m3u8
 #EXTINF:0 tvg-rec="7",.red
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/559/index.m3u8
-#EXTINF:0 tvg-rec="7",2x2
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/702/index.m3u8
-#EXTINF:0 tvg-rec="7",.black
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/708/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский бестселлер
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/905/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский роман
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/906/index.m3u8
-#EXTINF:0 tvg-rec="7",Русский детектив
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/907/index.m3u8
 #EXTINF:0 tvg-rec="7",Любимое Кино
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/722/index.m3u8
@@ -2535,75 +2428,21 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/734/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ Хит
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/741/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ Сериал
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/744/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/726/index.m3u8
-#EXTINF:0 tvg-rec="3",Индия
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/1001/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир Сериала
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/856/index.m3u8
-#EXTINF:0 tvg-rec="7",Ретро
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2018/index.m3u8
 #EXTINF:0 tvg-rec="7",Иллюзион+
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2038/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2039/index.m3u8
-#EXTINF:0 tvg-rec="3",.red HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2062/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноман
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2121/index.m3u8
 #EXTINF:0 tvg-rec="3",Cinema
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5051/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2568/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2569/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2570/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2571/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2572/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2573/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 7 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2574/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 8 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 9 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2576/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 10 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2577/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 11 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2578/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 12 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2579/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6299/index.m3u8
 #EXTINF:0 tvg-rec="3",Viju TV1000 Action HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6386/index.m3u8
@@ -2622,9 +2461,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6392/index.m3u8
 #EXTINF:0 tvg-rec="3",Trash HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6396/index.m3u8
-#EXTINF:0 tvg-rec="3",Шокирующее HD orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9004/index.m3u8
 #EXTINF:0 tvg-rec="3",Комедийное HD orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9005/index.m3u8
@@ -2721,12 +2557,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9129/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВ 21 orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9130/index.m3u8
-#EXTINF:0 tvg-rec="3",Индийское Кино orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9131/index.m3u8
-#EXTINF:0 tvg-rec="3",Киносерия orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9132/index.m3u8
 #EXTINF:0 tvg-rec="3",Русский иллюзион orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9133/index.m3u8
@@ -2745,21 +2575,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9137/index.m3u8
 #EXTINF:0 tvg-rec="3",Мужское Кино HD orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9138/index.m3u8
-#EXTINF:0 tvg-rec="3",2x2 orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9139/index.m3u8
-#EXTINF:0 tvg-rec="3",.black orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9140/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский бестселлер orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9141/index.m3u8
-#EXTINF:0 tvg-rec="3",Русский детектив orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9142/index.m3u8
-#EXTINF:0 tvg-rec="3",Любимое Кино orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9143/index.m3u8
 #EXTINF:0 tvg-rec="3",Комедия orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9144/index.m3u8
@@ -2775,15 +2590,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9147/index.m3u8
 #EXTINF:0 tvg-rec="3",НСТ orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9148/index.m3u8
-#EXTINF:0 tvg-rec="3",Индия orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9149/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир Сериала orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9151/index.m3u8
-#EXTINF:0 tvg-rec="3",Ретро orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9152/index.m3u8
 #EXTINF:0 tvg-rec="3",Феникс плюс Кино orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9153/index.m3u8
@@ -2793,12 +2599,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9154/index.m3u8
 #EXTINF:0 tvg-rec="3",Мосфильм. Золотая коллекция orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9156/index.m3u8
-#EXTINF:0 tvg-rec="3",Дорама HD orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9224/index.m3u8
-#EXTINF:0 tvg-rec="3",BollywooD HD orig
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9225/index.m3u8
 #EXTINF:0 tvg-rec="3",Победа orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9226/index.m3u8
@@ -4071,9 +3871,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31711/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31714/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31718/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Репка HD
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31719/index.m3u8
@@ -4116,18 +3913,10 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/30151/index.m3u8
 #EXTINF:0 tvg-rec="0",Saga TV
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32103/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 17 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32104/index.m3u8
+
 #EXTINF:0 tvg-rec="0",Зал 17 (Триколор) orig
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32105/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 19 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32106/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 20 (Триколор)
-#EXTGRP:Кино 1
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32107/index.m3u8
 #EXTINF:0 tvg-rec="0",4ever Theater HD UA
 #EXTGRP:Кино 1
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32108/index.m3u8
@@ -5005,7 +4794,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/ind
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15009/index.m3u8
 #EXTGRP:Теория большого взрыва
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",VF Теория большого взрыва 3
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15010/index.m3u8
 #EXTGRP:Теория большого взрыва
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
