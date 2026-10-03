@@ -65,9 +65,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/237/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/502/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ +7
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6049/index.m3u8
 #EXTINF:0 tvg-rec="7",СТС
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/506/index.m3u8
@@ -101,9 +98,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5033/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВ-3
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/508/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ-3 +7
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6045/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятница! HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/5031/index.m3u8
@@ -119,15 +113,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/826/index.m3u8
 #EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/514/index.m3u8
-#EXTINF:0 tvg-rec="0",Домашний +2
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6016/index.m3u8
-#EXTINF:0 tvg-rec="0",Домашний +4
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6030/index.m3u8
-#EXTINF:0 tvg-rec="0",Домашний +7
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/6044/index.m3u8
 #EXTINF:0 tvg-rec="3",Настоящее время
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/986/index.m3u8
