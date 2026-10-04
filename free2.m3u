@@ -152,12 +152,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/983/index.m3u8
 #EXTINF:0 tvg-rec="7",Союз
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2016/index.m3u8
-#EXTINF:0 tvg-rec="7",Здоровое ТВ
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2022/index.m3u8
-#EXTINF:0 tvg-rec="7",Психология
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2025/index.m3u8
 #EXTINF:0 tvg-rec="7",Успех
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2041/index.m3u8
@@ -173,9 +167,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2099/index.m3u8
 #EXTINF:0 tvg-rec="3",Надежда
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2116/index.m3u8
-#EXTINF:0 tvg-rec="3",БСТ
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2108/index.m3u8
 #EXTINF:0 tvg-rec="3",Вместе-РФ
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2073/index.m3u8
@@ -251,24 +242,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9111/index.m3u8
 #EXTINF:0 tvg-rec="3",Союз orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9112/index.m3u8
-#EXTINF:0 tvg-rec="3",Здоровое ТВ orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9113/index.m3u8
-#EXTINF:0 tvg-rec="3",Психология orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9114/index.m3u8
-#EXTINF:0 tvg-rec="3",Успех orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9115/index.m3u8
-#EXTINF:0 tvg-rec="3",Кто есть кто orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9116/index.m3u8
-#EXTINF:0 tvg-rec="3",Открытый мир orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9117/index.m3u8
-#EXTINF:0 tvg-rec="3",Вместе-РФ orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9124/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9201/index.m3u8
@@ -354,12 +327,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18039/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 UHD
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19242/index.m3u8
-#EXTINF:0 tvg-rec="0",Экоспаскоми (Коми)
-#EXTGRP:Новостные
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17018/index.m3u8
-#EXTINF:0 tvg-rec="0",Крик ТВ HD
-#EXTGRP:Новостные
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15012/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК HD 50
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10029/index.m3u8
@@ -399,9 +366,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2064/index.m3u8
 #EXTINF:0 tvg-rec="3",РБК orig
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9213/index.m3u8
-#EXTINF:0 tvg-rec="7",CGTN
-#EXTGRP:Новостные
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/830/index.m3u8
 #EXTINF:0 tvg-rec="3",Мир 24 HD orig
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9214/index.m3u8
@@ -432,9 +396,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9222/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 24 HD
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15412/index.m3u8
-#EXTINF:0 tvg-rec="0",100% News UA
-#EXTGRP:Новостные
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16041/index.m3u8
 #EXTINF:0 tvg-rec="0",360 Новости HD
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18038/index.m3u8
@@ -462,9 +423,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19405/index.m3u8
 #EXTINF:0 tvg-rec="0",РЕН ТВ UHD
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19404/index.m3u8
-#EXTINF:0 tvg-rec="0",Экоспаскоми (Коми)
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/17018/index.m3u8
 #EXTINF:0 tvg-rec="0",РБК HD 50
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/10029/index.m3u8
@@ -480,15 +438,9 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/112/index.m3u8
 #EXTINF:0 tvg-rec="7",Москва 24
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/523/index.m3u8
-#EXTINF:0 tvg-rec="3",BBC World News UK
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/545/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир 24
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/712/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ +2
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/713/index.m3u8
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/715/index.m3u8
@@ -498,9 +450,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/825/index.m3u8
 #EXTINF:0 tvg-rec="7",Euronews Россия
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/828/index.m3u8
-#EXTINF:0 tvg-rec="7",CGTN
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/830/index.m3u8
 #EXTINF:0 tvg-rec="3",RT
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/840/index.m3u8
@@ -549,12 +498,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18042/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый информационный HD BY
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/31912/index.m3u8
-#EXTINF:0 tvg-rec="0",Fox News FHD US
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/31915/index.m3u8
-#EXTINF:0 tvg-rec="0",24 Канал UA
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/32051/index.m3u8
 #EXTINF:0 tvg-rec="0",360 Новости
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/32070/index.m3u8
@@ -571,6 +514,9 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/126/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/516/index.m3u8
+#EXTINF:0 tvg-rec="0",Кинохит HD
+#EXTGRP:Кино
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7250/index.m3u8
 #EXTINF:0 tvg-rec="7",Наше Новое Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/517/index.m3u8
@@ -640,9 +586,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7248/index.m3u8
 #EXTINF:0 tvg-rec="0",Киномикс HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7249/index.m3u8
-#EXTINF:0 tvg-rec="0",Кинохит HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7250/index.m3u8
 #EXTINF:0 tvg-rec="0",KinoJam 1 HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7260/index.m3u8
@@ -674,210 +617,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11102/index.m3u8
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15000/index.m3u8
 
-#EXTINF:0 tvg-rec="0",MM 007 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13009/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Love HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13010/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13011/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13012/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13013/index.m3u8
-#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13014/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Rock HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13015/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13016/index.m3u8
-#EXTINF:0 tvg-rec="0",MM UFO HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13017/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13018/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13019/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13020/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13021/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Драма HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13022/index.m3u8
-#EXTINF:0 tvg-rec="0",MM World Hits HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13023/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13024/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13025/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Honey HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13026/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13027/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Боевик HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13028/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Вестерн HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13029/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Воронины HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13031/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Затмение HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13032/index.m3u8
-#EXTINF:0 tvg-rec="0",MM История HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13033/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Катастрофа HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13034/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Квартирник HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13035/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Киберпанк HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13036/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13037/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Комедия HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13038/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Криминал HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13039/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13040/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13041/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Lesson HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13042/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Smile HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13043/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Мифология HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13044/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Нуар HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13045/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13046/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Погружение HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13047/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Приключения HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13048/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13049/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Роскино HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13050/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Сваты HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13051/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ситком HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13052/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Скорость HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13053/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Спорт HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13054/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13055/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Супергерои HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13056/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Flip UHD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13057/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Триллер HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13058/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужастик HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13059/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13060/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Синематограф HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13061/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Фантастика HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13062/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Фобия HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13063/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Walt Disney HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13064/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Live Planet HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13095/index.m3u8
-#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13096/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13097/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13098/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужасы HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13099/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14128/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Celebrity HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16084/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Classic HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16085/index.m3u8
-#EXTINF:0 tvg-rec="0",MM Драма HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16086/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Channel HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14134/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Comedy HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14135/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Crime HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14136/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Horror HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14137/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Grand
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14171/index.m3u8
@@ -1262,18 +1001,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31700/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Family HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31701/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Fantastic HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31702/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Fantasy HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31703/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Russian HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31704/index.m3u8
-#EXTINF:0 tvg-rec="0",Z!Fun HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31706/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31711/index.m3u8
@@ -1310,17 +1037,10 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31931/index.m3u8
 #EXTINF:0 tvg-rec="0",Saga TV
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32103/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 20 (Триколор)
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32107/index.m3u8
-
 
 #EXTINF:0 tvg-rec="0",Cartoon Classics
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2075/index.m3u8
-#EXTINF:0 tvg-rec="3",Тооку (Якутия)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/9172/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Disney Cartoon
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15027/index.m3u8
@@ -1384,9 +1104,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/143/index.m3u8
 #EXTINF:0 tvg-rec="7",Карусель
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/156/index.m3u8
-#EXTINF:0 tvg-rec="7",Ani
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/129/index.m3u8
 #EXTINF:0 tvg-rec="7",Мульт
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/909/index.m3u8
@@ -1402,9 +1119,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/730/index.m3u8
 #EXTINF:0 tvg-rec="7",В гостях у сказки
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/737/index.m3u8
-#EXTINF:0 tvg-rec="3",Карусель +3
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/740/index.m3u8
 #EXTINF:0 tvg-rec="7",Мультимузыка
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/749/index.m3u8
@@ -1417,9 +1131,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/1031/index.m3u8
 #EXTINF:0 tvg-rec="3",Baby TV
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2084/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci orig
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/1033/index.m3u8
 #EXTINF:0 tvg-rec="3",СуперГерои
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/1041/index.m3u8
@@ -1435,9 +1146,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2052/index.m3u8
 #EXTINF:0 tvg-rec="3",Капитан Фантастика HD
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2098/index.m3u8
-#EXTINF:0 tvg-rec="3",Тамыр (Уфа)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2109/index.m3u8
 #EXTINF:0 tvg-rec="3",Смайл ТВ HD
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2157/index.m3u8
@@ -1477,21 +1185,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15092/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Дисней FHD
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15093/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney Channel HD FR
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15185/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15340/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +3 (Омск)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15436/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +7
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15442/index.m3u8
-#EXTINF:0 tvg-rec="0",Карусель +0 (Элиста)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15453/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Мультуб
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15520/index.m3u8
@@ -1513,21 +1206,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31646/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Том и Джерри
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31721/index.m3u8
-#EXTINF:0 tvg-rec="0",Baby TV ES
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31838/index.m3u8
-#EXTINF:0 tvg-rec="0",Boing HD ES
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31839/index.m3u8
-#EXTINF:0 tvg-rec="0",Disney Jr. HD ES
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31840/index.m3u8
-#EXTINF:0 tvg-rec="0",Nickelodeon HD ES
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31846/index.m3u8
-#EXTINF:0 tvg-rec="0",Nick Jr. HD ES
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31852/index.m3u8
 #EXTINF:0 tvg-rec="0",Мультиландия HD
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31910/index.m3u8
@@ -1666,12 +1344,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/30196/index.m3u8
 #EXTINF:0 tvg-rec="0",Venera.TV 101 далматинец
 #EXTGRP:детские
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/30198/index.m3u8
-#EXTINF:0 tvg-rec="0",Шаян ТВ (Татарстан)
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32216/index.m3u8
-#EXTINF:0 tvg-rec="0",KidZone Max HD LT
-#EXTGRP:детские
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32283/index.m3u8
 
 # Кино
 
@@ -3082,6 +2754,198 @@ http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/13062/index.m3u8
 http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/13063/index.m3u8
 #http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/13063/index.m3u8
 
+# MM 1
+
+#EXTINF:0 tvg-rec="0",MM 007 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13009/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Love HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13010/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 1 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13011/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 2 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13012/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm 3 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13013/index.m3u8
+#EXTINF:0 tvg-rec="0",MM NewFilm RU HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13014/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Rock HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13015/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13016/index.m3u8
+#EXTINF:0 tvg-rec="0",MM UFO HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13017/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR 1941-1945 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13018/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Комедия HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13019/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13020/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Сказки HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13021/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Драма HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13022/index.m3u8
+#EXTINF:0 tvg-rec="0",MM World Hits HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13023/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Агата Кристи HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13024/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Грайндхаус HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13025/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Honey HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13026/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик Classic HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13027/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Боевик HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13028/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Вестерн HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13029/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Воронины HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13031/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Затмение HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13032/index.m3u8
+#EXTINF:0 tvg-rec="0",MM История HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13033/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Катастрофа HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13034/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Квартирник HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13035/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Киберпанк HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13036/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия Classic HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13037/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Комедия HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13038/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Криминал HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13039/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Крутые 90-е HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13040/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Кунг-Фу HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13041/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Lesson HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13042/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Smile HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13043/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Мифология HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13044/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Нуар HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13045/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком 2.0 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13046/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Погружение HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13047/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Приключения HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13048/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Полицейский с Рублёвки HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13049/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Роскино HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13050/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Сваты HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13051/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ситком HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13052/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Скорость HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13053/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Спорт HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13054/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Стивен Кинг HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13055/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Супергерои HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13056/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Flip UHD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13057/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Триллер HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13058/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужастик HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13059/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Приключения HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13060/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фантастика HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13062/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Фобия HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13063/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Walt Disney HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13064/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Live Planet HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13095/index.m3u8
+#EXTINF:0 tvg-rec="0",MM USSR Детектив HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13096/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 1 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13097/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Семейный 2 HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13098/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/13099/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Ужасы Classic HD
+#EXTGRP:Кино
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14128/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Celebrity HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16084/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Classic HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16085/index.m3u8
+#EXTINF:0 tvg-rec="0",MM Драма HD
+#EXTGRP:MM 1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16086/index.m3u8
+
 # MS
 
 #EXTINF:0 group-title="MS" tvg-logo="https://iptvx.one/picons/minimax-ms-magic-4k.png" tvg-id="minimax-ms-magic-4k",MS Magic
@@ -4373,3 +4237,17 @@ http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/14137/index.m3u8
 http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/15142/index.m3u8
 #http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/15142/index.m3u8
 
+# Z1
+
+#EXTINF:0 tvg-rec="0",Z!Channel HD
+#EXTGRP:Z1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14134/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Comedy HD
+#EXTGRP:Z1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14135/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Crime HD
+#EXTGRP:Z1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14136/index.m3u8
+#EXTINF:0 tvg-rec="0",Z!Horror HD
+#EXTGRP:Z1
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14137/index.m3u8
