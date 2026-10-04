@@ -327,6 +327,8 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 6
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
+#EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",VF Гарри Поттер
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
 
 # Новостные
 
@@ -510,6 +512,34 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/31912/index.m3u8
 #EXTINF:0 tvg-rec="0",360 Новости
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/32070/index.m3u8
+
+# Теория большого взрыва
+
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
+http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 tvg-id="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="Гарри Поттер" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14230/index.m3u8
+#EXTINF:-1 tvg-id="Гарри Поттер 1" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 1
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14230/index.m3u8
+#EXTINF:-1 tvg-id="Гарри Поттер 2" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 2
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14230/index.m3u8
+#EXTINF:-1 tvg-id="Гарри Поттер 3" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 3
+http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14230/index.m3u8
+
 
 # Кино
 
@@ -776,8 +806,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31929/index.m3u8
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31931/index.m3u8
 
-#EXTINF:-1 tvg-id="Arpinet" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Arpinet
-http://timeshift.arpinet.am/237/index.m3u8
 #EXTINF:-1 tvg-id="Детективы КД" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Детективы КД
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
 #EXTINF:-1 tvg-id="Кинолаффка" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кинолаффка
