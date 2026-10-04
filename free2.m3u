@@ -2,24 +2,9 @@
 
 # Общие
 
-#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTINF:0 tvg-rec="3",Первый канал orig
 #EXTGRP:Общие
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19241/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 UHD
-#EXTGRP:Общие
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19242/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ UHD
-#EXTGRP:Общие
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19405/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ UHD
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19238/index.m3u8
-#EXTINF:0 tvg-rec="0",ОТР HD
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20018/index.m3u8
-#EXTINF:0 tvg-rec="7",Санкт-Петербург
-#EXTGRP:Общие
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/715/index.m3u8
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9201/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2402/index.m3u8
@@ -29,6 +14,54 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/204/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
 #EXTGRP:Общие
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/127/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал UHD
+#EXTGRP:Общие
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19241/index.m3u8
+#EXTINF:0 tvg-rec="0",Первый канал HD orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7253/index.m3u8
+#EXTINF:0 tvg-rec="3",Россия 1 orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9202/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 UHD
+#EXTGRP:Общие
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19242/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 HD 50
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15133/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9203/index.m3u8
+#EXTINF:0 tvg-rec="0",НТВ UHD
+#EXTGRP:Общие
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19405/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9204/index.m3u8
+#EXTINF:0 tvg-rec="3",ТНТ4 orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9208/index.m3u8
+#EXTINF:0 tvg-rec="0",ТНТ UHD
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19238/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9205/index.m3u8
+#EXTINF:0 tvg-rec="3",РЕН ТВ HD orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9002/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ-3 orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9206/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятница! orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9207/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР HD
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/20018/index.m3u8
+#EXTINF:0 tvg-rec="7",Санкт-Петербург
+#EXTGRP:Общие
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/715/index.m3u8
 #EXTINF:0 tvg-rec="3",Россия 1 FHD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2409/index.m3u8
@@ -38,9 +71,15 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/205/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия 1
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/504/index.m3u8
+#EXTINF:0 tvg-rec="0",Россия 1 HD orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7252/index.m3u8
 #EXTINF:0 tvg-rec="7",НТВ HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/213/index.m3u8
+#EXTINF:0 tvg-rec="3",НТВ HD orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9028/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ Хит HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/16062/index.m3u8
@@ -56,6 +95,9 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/520/index.m3u8
 #EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9096/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15119/index.m3u8
@@ -68,15 +110,36 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/237/index.m3u8
 #EXTINF:0 tvg-rec="7",ТНТ
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/502/index.m3u8
-#EXTINF:0 tvg-rec="7",СТС
+#EXTINF:0 tvg-rec="0",ТНТ International HD
 #EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/506/index.m3u8
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15230/index.m3u8
 #EXTINF:0 tvg-rec="7",РЕН ТВ HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2024/index.m3u8
 #EXTINF:0 tvg-rec="7",РЕН ТВ
 #EXTGRP:Общие
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19404/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/506/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Love
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/103/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Love orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9099/index.m3u8
+#EXTINF:0 tvg-rec="3",Домашний orig
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9104/index.m3u8
+#EXTINF:0 tvg-rec="0",Домашний HD
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15116/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/514/index.m3u8
+#EXTINF:0 tvg-rec="0",ТВ Центр International
+#EXTGRP:Общие
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32080/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/113/index.m3u8
@@ -89,9 +152,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/19230/index.m3u8
 #EXTINF:0 tvg-rec="7",Звезда
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/544/index.m3u8
-#EXTINF:0 tvg-rec="7",СТС Love
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/103/index.m3u8
 #EXTINF:0 tvg-rec="7",Че!
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/513/index.m3u8
@@ -113,9 +173,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2086/index.m3u8
 #EXTINF:0 tvg-rec="7",Суббота!
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/826/index.m3u8
-#EXTINF:0 tvg-rec="7",Домашний
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/514/index.m3u8
 #EXTINF:0 tvg-rec="3",Настоящее время
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/986/index.m3u8
@@ -125,9 +182,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/102/index.m3u8
 #EXTINF:0 tvg-rec="7",Ю ТВ
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/534/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ4
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/104/index.m3u8
 #EXTINF:0 tvg-rec="7",КВН ТВ
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/546/index.m3u8
@@ -164,21 +218,9 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2078/index.m3u8
 #EXTINF:0 tvg-rec="3",Загородный
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2099/index.m3u8
-#EXTINF:0 tvg-rec="3",Надежда
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2116/index.m3u8
-#EXTINF:0 tvg-rec="3",Вместе-РФ
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2073/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия К
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/505/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ HD orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9002/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ HD orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9028/index.m3u8
 #EXTINF:0 tvg-rec="3",Ратник HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2119/index.m3u8
@@ -188,18 +230,12 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9036/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВ Центр orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9095/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9096/index.m3u8
 #EXTINF:0 tvg-rec="3",Звезда orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9098/index.m3u8
 #EXTINF:0 tvg-rec="0",Звезда HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15115/index.m3u8
-#EXTINF:0 tvg-rec="3",СТС Love orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9099/index.m3u8
 #EXTINF:0 tvg-rec="3",ОТР orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9100/index.m3u8
@@ -215,12 +251,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9103/index.m3u8
 #EXTINF:0 tvg-rec="0",Суббота! HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15118/index.m3u8
-#EXTINF:0 tvg-rec="3",Домашний orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9104/index.m3u8
-#EXTINF:0 tvg-rec="0",Домашний HD
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15116/index.m3u8
 #EXTINF:0 tvg-rec="3",Ностальгия orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9106/index.m3u8
@@ -242,33 +272,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9111/index.m3u8
 #EXTINF:0 tvg-rec="3",Союз orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9112/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9201/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1 orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9202/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 HD 50
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15133/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9203/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9204/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9205/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ-3 orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9206/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятница! orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9207/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ4 orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9208/index.m3u8
 #EXTINF:0 tvg-rec="3",360 orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9209/index.m3u8
@@ -281,30 +284,18 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9212/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ HD orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7251/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 HD orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7252/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал HD orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7253/index.m3u8
 #EXTINF:0 tvg-rec="7",Звезда Плюс
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/10059/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ Центр International
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15229/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ International HD
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15230/index.m3u8
 #EXTINF:0 tvg-rec="0",Патриот
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/31928/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия К HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32078/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВ Центр International
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32080/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ-3 HD orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32081/index.m3u8
@@ -2180,11 +2171,6 @@ http://stream.mcquack.net/351/index.m3u8
 
 #EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-sssr4k.png" tvg-id="cineman-sssr4k",CineMan CCCP 4K
 
-#EXTINF:0 group-title="CineMan" tvg-logo="http://icon.ru-tv.site/icon/CineMan%20ExExEx.png",CineMan ExExEx
-http://stream.mcquack.net/56/index.m3u8
-
-#EXTINF:0 group-title="CineMan" tvg-logo="http://icon.ru-tv.site/icon/CineMan%20ExExEx%20TWO.png",CineMan ExExEx Two
-
 #EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-marvel.png" tvg-id="cineman-marvel",CineMan Marvel
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11009/index.m3u8
 
@@ -2193,10 +2179,6 @@ http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11009/index.m3u8
 #EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-old4k.png" tvg-id="cineman-old4k",Cineman OLD 4K
 
 #EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-premium.png" tvg-id="cineman-premium",CineMan Premium
-
-#EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-relax.png" tvg-id="cineman-relax",CineMan Relax 4K
-http://stream.mcquack.net/459/index.m3u8
-#http://stream.mcquack.net/459/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="CineMan" tvg-logo="https://iptvx.one/picons/cineman-thriller.png" tvg-id="cineman-thriller",CineMan Thriller
 http://stream.mcquack.net/352/index.m3u8
