@@ -511,7 +511,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/31912/index.m3u8
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/32070/index.m3u8
 
-#EXTINF:0 tvg-rec="7",Киномикс
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/509/index.m3u8
 #EXTINF:0 tvg-rec="7",Киносемья
@@ -897,6 +896,135 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31931/index.m3u8
 #EXTINF:0 tvg-rec="0",Saga TV
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/32103/index.m3u8
+
+#EXTINF:-1 tvg-id="Arpinet" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Arpinet
+http://timeshift.arpinet.am/237/index.m3u8
+#EXTINF:-1 tvg-id="Детективы КД" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Детективы КД
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
+#EXTINF:-1 tvg-id="Кинолаффка" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Кинолаффка
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=2ANj0RhjI1hrAkz7Jd83ZQ&e=2069068452&scheme=https
+#EXTINF:-1 tvg-id="Киножелезо" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Киножелезо
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=gMBYxSllxsSYVvLG71o4eg&e=2066519765&scheme=https
+#EXTINF:-1 tvg-id="Тайна ТВ" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Тайна ТВ
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
+#EXTINF:-1 tvg-id="Киносезон" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Киносезон
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 tvg-id="Твоё ТВ HD" group-title="Кино" tvg-logo="https://i.ibb.co/Xr6Ngptx/image-32.png",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="Твоё ТВ HD Юмор" group-title="Кино" tvg-logo="https://i.ibb.co/gFHCVrTw/image-33.png",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 tvg-id="Шеф" group-title="Кино" tvg-logo="https://i.ibb.co/pBZQdVdM/image-30.png",Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Первый Отдел" group-title="Кино" tvg-logo="https://i.ibb.co/7tSd2XYf/image-31.png",Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Невский" group-title="Кино" tvg-logo="https://i.ibb.co/Mxv7fjsN/image-32.png",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Пёс" group-title="Кино" tvg-logo="https://i.ibb.co/nsjTTHm2/image-44.png",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Скорая помощь" group-title="Кино" tvg-logo="https://i.ibb.co/ynB5bFXQ/image-45.png",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Балабол" group-title="Кино" tvg-logo="https://i.ibb.co/kggBNFF4/image-46.png",Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Пять минут тишины" group-title="Кино" tvg-logo="https://i.ibb.co/HpNJPkGR/image-47.png",Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Следствие вели..." group-title="Кино" tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png",Следствие вели...
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Своя Игра" group-title="Кино" tvg-logo="https://i.ibb.co/p6gZ2BXn/image-4.png",Своя Игра
+https://cdn-dvr.ntv.ru/svoya_igra/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Ты супер !" group-title="Кино" tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png",Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="Armenia Premium 6" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Armenia Premium 6
+http://timeshift.arpinet.am/255/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="IPTVPLAY Промо" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY Промо
+http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="IPTVPLAY МультСказки HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="IPTVPLAY ВЕДЬМАК" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="IPTVPLAY TEST HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY TEST HD
+http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-id="Terra Incognita" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Terra Incognita
+http://stitch.teletarget.ru/vintera/terra/index.m3u8
+#EXTINF:-1 tvg-id="Жизнь Глазова" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Жизнь Глазова
+http://yellow.garant.tv/glazov24/stream.m3u8
+#EXTINF:-1 tvg-id="Ключайка" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=8hKIWF5Ng40B0-kW7qvWBA&e=2070122249&scheme=https
+#EXTINF:-1 tvg-id="СоюзМультфильм" group-title="Кино" tvg-logo="https://i.ibb.co/xKh025r9/image-24.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-id="Чип и Дейл" group-title="Кино" tvg-logo="https://i.ibb.co/HfKN7J17/image-27.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://185.46.16.239:8000/Cinema
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://178.134.1.158:8081/cinema/index.m3u8
+#EXTINF:-1 tvg-id="Hollywood" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood.png",Hollywood
+http://83.217.12.157:81/udp/239.1.1.208:1234
+#EXTINF:-1 tvg-id="Hollywood" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood.png",Hollywood
+http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
+#EXTINF:-1 tvg-id="KinoLiving" group-title="Кино" tvg-logo="http://1lot.tv/ch/8146.png",KinoLiving
+http://185.184.233.178:5000/udp/225.1.2.171:1234
+#EXTINF:-1 tvg-id="Shot TV" group-title="Кино" tvg-logo="http://epg.one/img2/431.png",Shot TV
+http://178.134.1.158:8081/shottv/video.m3u8?token=test
+#EXTINF:-1 tvg-id="Shot TV" group-title="Кино" tvg-logo="http://epg.one/img2/431.png",Shot TV
+http://178.134.1.158:8081/shottv/index.m3u8
+#EXTINF:-1 tvg-id="Блокбастер" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Блокбастер.png",Блокбастер
+http://185.184.233.178:5000/udp/225.1.2.68:1234
+#EXTINF:-1 tvg-id="ЕВРОКИНО" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ЕВРОКИНО.png",ЕВРОКИНО
+http://dmi3y-tv6.ru/hls/CH_EVROKINO.m3u8
+#EXTINF:-1 tvg-id="ЕВРОКИНО" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ЕВРОКИНО.png",ЕВРОКИНО
+http://178.134.1.158:8081/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="ЕВРОКИНО" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ЕВРОКИНО.png",ЕВРОКИНО
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="ЕВРОКИНО" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ЕВРОКИНО.png",ЕВРОКИНО
+http://185.46.16.239:8000/Yevrokino
+#EXTINF:-1 tvg-id="ЕВРОКИНО" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ЕВРОКИНО.png",ЕВРОКИНО
+http://94.230.250.140/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="ИЛЛЮЗИОН+" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ИЛЛЮЗИОН+.png",ИЛЛЮЗИОН+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 tvg-id="КИНО ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/КИНО%20ТВ.png",КИНО ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 tvg-id="КИНО ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/КИНО%20ТВ.png",КИНО ТВ
+https://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 tvg-id="Кино ТВ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ%20HD.png",Кино ТВ HD
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 tvg-id="Кино Без Границ SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ SD
+http://185.57.68.33:8091/237/playlist.m3u8
+#EXTINF:-1 tvg-id="Киноман" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киноман.png",Киноман
+http://83.217.12.157:81/udp/239.1.1.236:1234
+#EXTINF:-1 tvg-id="КИНОСАТ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosat.png",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
+http://178.134.1.158:8081/nst/index.m3u8
+#EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
+https://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 tvg-id="Т24" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Т24.png",Т24
+http://178.134.1.158:8081/t24/video.m3u8?token=test
+#EXTINF:-1 tvg-id="Т24" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Т24.png",Т24
+http://178.134.1.158:8081/t24/index.m3u8
+#EXTINF:-1 tvg-id="Т24" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Т24.png",Т24
+http://83.217.12.157:81/udp/239.1.1.158:1234
+#EXTINF:-1 tvg-id="ТВ 21" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТВ%2021.png",ТВ 21
+http://83.217.12.157:81/udp/239.1.1.95:1234
+#EXTINF:-1 tvg-id="ТВ 21" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/ТВ%2021.png",ТВ 21
+http://178.134.1.158:8081/TVXXI/index.m3u8?token=test
+#EXTINF:-1 tvg-id="Классика Кино SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/klassika-kino.png",Классика Кино SD
+http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
+http://83.217.12.157:81/udp/239.1.1.97:1234
+#EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
+http://83.217.12.157:81/udp/239.1.1.101:1234
+#EXTINF:-1 tvg-id="Movie Classic SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/klassika-kino.png",Movie Classic SD
+http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Cartoon Classics
 #EXTGRP:детские
