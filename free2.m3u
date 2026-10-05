@@ -20,6 +20,10 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19241/index.m3u8
 #EXTINF:0 tvg-rec="0",Первый канал HD orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7253/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//2a8ebe8401dd495ceb7b877c9cb43d8a-q-500x500.jpeg",Первый канал HD
+https://cdn.itvuz.workers.dev/stream/61?key=zunotv
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539667812_10_16_2018-q-500x500.jpeg",Первый канал
+https://cdn.itvuz.workers.dev/stream/62?key=zunotv
 #EXTINF:0 tvg-rec="3",Россия 1 orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9202/index.m3u8
@@ -29,12 +33,16 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19242/index.m3u8
 #EXTINF:0 tvg-rec="0",Россия 1 HD 50
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15133/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3949af971384aacf7c3e45bf758dd5b0-q-500x500.jpeg",Россия 1
+https://cdn.itvuz.workers.dev/stream/63?key=zunotv
 #EXTINF:0 tvg-rec="3",НТВ orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9203/index.m3u8
 #EXTINF:0 tvg-rec="0",НТВ UHD
 #EXTGRP:Общие
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19405/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539673835_10_16_2018-q-500x500.jpeg",нтв
+https://cdn.itvuz.workers.dev/stream/64?key=zunotv
 #EXTINF:0 tvg-rec="3",ТНТ orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9204/index.m3u8
@@ -128,6 +136,8 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/103/index.m3u8
 #EXTINF:0 tvg-rec="3",СТС Love orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9099/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/26//0b8831589c48257ae66a279ebaea22f1-q-500x500.jpeg",твц
+https://cdn.itvuz.workers.dev/stream/68?key=zunotv
 #EXTINF:0 tvg-rec="3",Домашний orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9104/index.m3u8
@@ -329,12 +339,17 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",VF Гарри Поттер
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 # Новостные
 
 #EXTINF:0 tvg-rec="0",Известия HD
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18039/index.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3dac3983d4adc9be46d5e797bbff1b0a-q-500x500.jpeg",Россия 24
+#EXTINF:-1 group-title="Новостные" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//279298110b85517552174518018114d4-q-500x500.jpeg",EuroNews
+https://cdn.itvuz.workers.dev/stream/66?key=zunotv
 #EXTINF:0 tvg-rec="0",Россия 1 UHD
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19242/index.m3u8
@@ -785,6 +800,309 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31929/index.m3u8
 #EXTINF:0 tvg-rec="0",VHS-ка Сериал HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31931/index.m3u8
+#EXTINF:-1 group-title="Кино",VHS Classic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19429/index.m3u8
+#EXTINF:-1 group-title="Кино",фантастика
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18043/index.m3u8
+#EXTINF:-1 group-title="Кино",Видеокассета HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16049/index.m3u8
+#EXTINF:-1 group-title="Кино",Видеокассета Ужасы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16141/index.m3u8
+#EXTINF:-1 group-title="Кино",Видеокассета Юность
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19318/index.m3u8
+#EXTINF:-1 group-title="Кино",Ужастик HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19273/index.m3u8
+#EXTINF:-1 group-title="Кино",kino watch тв Свежаки HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16045/index.m3u8
+#EXTINF:-1 group-title="Кино",kino watch тв Уже видел HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16046/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Cinema HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16067/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Cinema
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19287/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Kids
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19288/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Comedy
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19289/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Premiere
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19290/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Family
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19291/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Rating
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19292/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19293/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Fantastic
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19294/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Series
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19295/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Horror
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19296/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Adventure
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19297/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Romantic
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19298/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Russian
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19299/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Thriller
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19300/index.m3u8
+#EXTINF:-1 group-title="Кино",Fresh Soviet
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19301/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Cinema HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16078/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Comedy HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16080/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI History HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18047/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Premium HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18048/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Russian HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18049/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Fantastic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18050/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI CCCP HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18175/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Family HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18176/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI VHS HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18173/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Retro HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18177/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Thriller HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18174/index.m3u8
+#EXTINF:-1 group-title="Кино",KLI Киносерия FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19400/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP CINEMA FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19313/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV cinemaQHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19315/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV Premier HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19399/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV cinemaV
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19316/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP skazkiussr FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19317/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV KIDS HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18141/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV COMEDY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18146/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV FANTAZY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18144/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV CRIMINAL HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18140/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV CINEMA HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18147/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV COMEDY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18143/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV HORROR HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18145/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV SERIAL HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19271/index.m3u8
+#EXTINF:-1 group-title="Кино",PROKOP TV SERIAL FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19272/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв ХИТ HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19263/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19264/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв Фантастика
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19265/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв Сериал
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19266/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв Семейный
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19267/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв Ужасы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19268/index.m3u8
+#EXTINF:-1 group-title="Кино",Малдер тв Мультики 90ых
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19269/index.m3u8
+#EXTINF:-1 group-title="Кино",AkuDji HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14161/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH MIX 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17025/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH UHD HDR
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17059/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH VHS UHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17058/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FRESH 60
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16061/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FRESH HDR
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16066/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH HEROES HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14242/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH BY SLONKA
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16142/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH SPIRIT HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14249/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FUTURE HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15103/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH EPOCH HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14243/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH FRESH HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14244/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH ADULT HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15166/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH RUSSIAN HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16060/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH SERIES HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14240/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH ORIG HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19310/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH BRAIN HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19404/index.m3u8
+#EXTINF:-1 group-title="Кино",SKY HIGH ANIME HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19405/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Franchise HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19274/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Hybrid HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19275/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Anime HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19276/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Gangster HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19277/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Oscar HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19278/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Memory HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19279/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX M.Serial HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19280/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Serial HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19281/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Game HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19284/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Spy HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19285/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Travel HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19418/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Western HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19419/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Zombie HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19420/index.m3u8
+#EXTINF:-1 group-title="Кино",BOX Cyber HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19421/index.m3u8
+
+#EXTINF:-1 group-title="Кино",UZ 4K Kino UHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18162/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ SWIRIDENKO TV HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18106/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ SWIRIDENKO TV HD 2
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18107/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ TV HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14220/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Kino1 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13074/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Kino HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13073/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Kino3 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13075/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Kino4 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13076/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Kino 5 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14232/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Кино Новинки HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14126/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Комедия HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14127/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ МУЛЬТЗАЛ HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13066/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Ужасное ТВ HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13068/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Фантастика HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13065/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Катастрофа HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18164/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Приключение HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13069/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Боевики HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13077/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Бойцовское кино HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13070/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Vitek tv
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13100/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Кинозал HEVC HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15099/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Союз-Фильмы HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18167/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ-Кинокомфорт HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13101/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Сваты HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18166/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ 6kadrov media
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13079/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Ералаш ТВ HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13071/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ Малютка ТВ
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13072/index.m3u8
+#EXTINF:-1 group-title="Кино",UZ-Tom&Jerry HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13078/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16153/index.m3u8
+#EXTINF:-1 group-title="Кино",Yosso TV Советские фильмы 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19435/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV NEW Кино
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14177/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV C-Comedy
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16151/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV C-Inquest
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16152/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV C-Cartoon
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16050/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV C-Marvel
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16051/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Grand
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14171/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Thriller
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15168/index.m3u8
+#EXTINF:-1 group-title="Кино",Yosso TV Мелодрама
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19434/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14172/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Русские фильмы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14174/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Советские фильмы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14175/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Трагичное
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14219/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Забавное
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14234/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Ковбойское
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14235/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Best
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14236/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Adrenaline
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15105/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Oblivion
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15509/index.m3u8
+#EXTINF:-1 group-title="Кино",YOSSO TV Adventure
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15510/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug New HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14216/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Kids HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14214/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Comedy HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14209/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Hit HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14212/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Fantastic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14210/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Marvel HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14215/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug History HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14211/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Horror HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14213/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug Russian HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14217/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug СССР HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14218/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14225/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Ходячие мертвецы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14226/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Сериал
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14227/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV Сваты
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14228/index.m3u8
+#EXTINF:-1 group-title="Кино",Dosug TV ER
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15102/index.m3u8
 
 #EXTINF:-1 tvg-id="Детективы КД" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Детективы КД
 https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=wbVW8VM26OpdW5kxFYEmSQ&e=2069694293&scheme=https
@@ -912,6 +1230,31 @@ http://6g5f8g9d.ucomist.net/iptv/RCY5BALHTUERP7TGCU8ZWFDG/2436/index.m3u8
 #http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/914/index.m3u8
 #http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/914/index.m3u8
 
+# Каналы
+
+#EXTINF:-1 group-title="Каналы",Первый канал
+https://s04.watcher.uz/11/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Мир
+https://s03.watcher.uz/80/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Мир 24
+https://s04.watcher.uz/81/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Россия K
+https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",ТВЦ
+https://s05.watcher.uz/41/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Звезда
+https://s05.watcher.uz/43/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Кинохит
+https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Киносвидание
+https://s03.watcher.uz/48/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Кинопоказ
+https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Индийское кино
+https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="Каналы",Наше новое кино
+https://s05.watcher.uz/44/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+
 #EXTINF:0 group-title="Триколор",Зал 1 (Триколор)
 
 #EXTINF:0 group-title="Триколор",Зал 10 (Триколор)
@@ -989,6 +1332,413 @@ http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/904/index.m3u8
 #EXTINF:0 group-title="Триколор" tvg-logo="https://iptvx.one/picons/prikluchenia-hd.png" tvg-id="prikluchenia-hd",Приключения
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
+
+# TRICOLOR TV
+
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png",Инсайт ТВᴴᴰ
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Наука
+https://s06.watcher.uz/141/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="https://iptvx.one/picons/ducktv.png",Duck TVᴴᴰ
+https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Gulli Girl
+https://s07.watcher.uz/164/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",TiJi
+https://s07.watcher.uz/169/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",В гостях у сказкиᴴᴰ
+https://s06.watcher.uz/135/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://epg.one/img2/2438.png",Капитан Фантастикаᴴᴰ
+https://s06.watcher.uz/122/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Мама
+https://s06.watcher.uz/143/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://epg.one/img2/2437.png",Рыжий
+https://s06.watcher.uz/133/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Родное Кино
+https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Арсеналᴴᴰ
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://epg.one/img2/2649.png",Dunyo Bo'ylabᴴᴰ
+https://s05.watcher.uz/63/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://epg.one/img2/2402.png",Ретро
+https://s05.watcher.uz/39/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Мульт
+https://watcher.uz/152/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",МАТЧ! ПЛАНЕТА
+https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Cinema
+https://s06.watcher.uz/155/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Hollywood
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png",Euronews
+https://s04.watcher.uz/16/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Ретро ТВ.png",Ретро
+https://s05.watcher.uz/39/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Охота и Рыбалка.png",Охота и рыбалка
+https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/24 техно.png",Техно 24
+https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Авто Плюс.png",Авто плюс
+https://s04.watcher.uz/28/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Телекафе.png",Телекафе
+https://s04.watcher.uz/27/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Карусель.png",Карусель
+https://s04.watcher.uz/26/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Детский мир.png",Nickelodeon
+https://s04.watcher.uz/24/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наше Новое Кино.png",Наше новое кино
+https://s05.watcher.uz/44/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/8TVRU.png",8 канал International
+https://s05.watcher.uz/94/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/CGTN.png",CGTN
+https://s05.watcher.uz/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/RU.TV.png",RU TV
+https://s03.watcher.uz/55/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Музыка Первого.png",Музыка первого
+https://s03.watcher.uz/54/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/МУЗ-ТВ.png",Муз ТВ
+https://s03.watcher.uz/53/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Индийское кино.png",Индийское кино
+https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопремьера HD.png",Кинопремьера HD
+https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопоказ.png",Кинопоказ
+https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Киносвидание.png",Киносвидание
+https://s03.watcher.uz/48/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинохит.png",Кинохит
+https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Дом Кино.png",Дом кино
+https://s03.watcher.uz/46/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Родное Кино.png",Родное кино
+https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наука SD.png",Наука
+https://s06.watcher.uz/141/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Приключения SD.png",Приключения HD
+https://s06.watcher.uz/140/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живая планета SD.png",Живая планета
+https://s06.watcher.uz/138/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/В гостях у сказки SD.png",В гостях у сказки HD
+https://s06.watcher.uz/135/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Загородный SD.png",Загородный
+https://s06.watcher.uz/134/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Рыжий SD.png",Рыжий
+https://s06.watcher.uz/133/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Dorama SD.png",Дорама
+https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Хабар24 SD.png",Хабар24
+https://s06.watcher.uz/131/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Drive SD.png",Драйв
+https://s06.watcher.uz/130/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Avto24 SD.png",Авто24
+https://s06.watcher.uz/129/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наша Сибирь HD.png",Наша Сибирь HD
+https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Глазами Туриста HD.png",Глазами Туриста HD
+https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Trace Sport Stars HD.png",Trace Sport Stars HD
+https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Insight TV HD.png",Insight TV HD
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Охотник и рыболов HD.png",Охотник и рыболов HD
+https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Капитан Фантастика HD.png",Капитан Фантастика HD
+https://s06.watcher.uz/122/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Duck TV HD.png",Duck TV HD
+https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Арсенал HD.png",Арсенал HD
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живая природа HD.png",Живая природа HD
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/В мире животных HD.png",В мире животных HD
+https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живи Активно HD.png",Живи Активно HD
+https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nat Geo Wild HD.png",Nat Geo Wild HD
+https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Вопросы и ответы.png",Вопросы и Ответы
+https://s04.watcher.uz/115/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Здоровое ТВ.png",Здоровое ТВ
+https://s04.watcher.uz/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/HDL.png",Точка.РФ HD
+https://s04.watcher.uz/113/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Мама SD.png",Мама
+https://s06.watcher.uz/143/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nick Jr.png",Nick Jr.
+https://s06.watcher.uz/147/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Fashion TV SD.png",Fashion TV
+https://s06.watcher.uz/154/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Сарафан SD.png",Сарафан
+https://s06.watcher.uz/156/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Cinema SD.png",Cinema
+https://s06.watcher.uz/155/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/MMA-TV.png",MMA-TV
+https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/HollyWood.png",Hollywood
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Bollywood.png",Bollywood
+https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/English Club.png",English Club TV
+https://s07.watcher.uz/166/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Doctor.png",Доктор
+https://s07.watcher.uz/165/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/KHL.png",KHL
+https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Gulli Girl.png",Gulli Girl
+https://s07.watcher.uz/164/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/TiJi.png",Tiji
+https://s07.watcher.uz/169/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/KBS WORLD HD.png",KBS WORLD HD
+https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Match Planeta.png",Матч! Планета
+https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/DW RU HD.png",DW RU HD
+https://s05.watcher.uz/186/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV",Дикая рыбалка HD
+https://s05.watcher.uz/187/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV",Дикая охота
+https://s05.watcher.uz/190/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV",Дикий Охота и Рыбалка
+https://s05.watcher.uz/185/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nickelodeon HD.png",Nickelodeon HD
+https://s05.watcher.uz/188/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV",Nicktoons HD
+https://s05.watcher.uz/189/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NDQ3MzUzLCJsb2dpbiI6InR2LTQ0NzM1MyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzUyNDAzNDM2fQ.tf_qQXH-Bv0TZXdTuK5CJmQIjPTMfNvk0W2WCt1zzQg:20
+#EXTINF:-1 group-title="TRICOLOR TV",Дикая охота
+https://s05.watcher.uz/190/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Дикая рыбалка HD
+https://s05.watcher.uz/187/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Setanta Sports 1 HD
+https://s05.watcher.uz/191/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Setanta Sports 2 HD
+https://s05.watcher.uz/192/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Моя Планета
+https://s06.watcher.uz/144/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Сарафан
+https://s06.watcher.uz/156/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Дом Кино
+https://s03.watcher.uz/46/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Кинопремьера HD
+https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Aвто Плюс
+https://s04.watcher.uz/28/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Охота и Рыбалка
+https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",ТВЦ
+https://s07.watcher.uz/173/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV",Bloomberg
+https://s07.watcher.uz/174/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Мир HD.png",Мир
+https://s03.watcher.uz/80/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Мир 24 HD.png",Мир 24 HD
+https://s04.watcher.uz/81/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Kinoteatr HD.png",Kinoteatr HD
+https://s03.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Sport TV HD.png",Sport TV HD
+https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Futbol TV.png",Futbol TV
+https://s03.watcher.uz/62/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Bolajon.png",Bolajon HD
+https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Первый канал.png",Первый канал
+https://s04.watcher.uz/11/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/TV3 International.svg",ТВ3 International
+https://s05.watcher.uz/38/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Россия 1.png",Россия 1
+https://s04.watcher.uz/12/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Россия 24.png",Россия 24
+https://s04.watcher.uz/13/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/НТВ.png",НТВ
+https://s04.watcher.uz/15/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/EuroNews.png",EuroNews
+https://s04.watcher.uz/16/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Детский мир.png",Детский мир
+https://s04.watcher.uz/24/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Карусель.png",Карусель
+https://s04.watcher.uz/26/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Телекафе.png",Телекафе
+https://s04.watcher.uz/27/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Авто Плюс.png",Авто Плюс
+https://s04.watcher.uz/28/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/24 техно.png",Т24
+https://s05.watcher.uz/29/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Охота и Рыбалка.png",Охота и Рыбалка
+https://s05.watcher.uz/30/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Ретро ТВ.png",Ретро
+https://s05.watcher.uz/39/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Россия Культура.png",Россия К
+https://s05.watcher.uz/40/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Звезда.png",Звезда
+https://s05.watcher.uz/43/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наше Новое Кино.png",Наше Новое Кино
+https://s05.watcher.uz/44/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Родное Кино.png",Родное Кино
+https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Дом Кино.png",Дом Кино
+https://s03.watcher.uz/46/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинохит.png",Кинохит
+https://s03.watcher.uz/47/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Киносвидание.png",Киносвидание
+https://s03.watcher.uz/48/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопремьера HD.png",Кинопремьера HD
+https://s04.watcher.uz/5/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Кинопоказ.png",Кинопоказ
+https://s03.watcher.uz/49/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Индийское кино.png",Индийское кино
+https://s03.watcher.uz/52/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/МУЗ-ТВ.png",МУЗ-ТВ
+https://s03.watcher.uz/53/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Музыка Первого.png",Музыка Первого
+https://s03.watcher.uz/54/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/RU.TV.png",RU.TV
+https://s03.watcher.uz/55/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/France24HD.png",France24 HD
+https://s03.watcher.uz:443/89/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/CGTN.png",CGTN
+https://s05.watcher.uz:443/92/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/8TVRU.png",8 Канал
+https://s05.watcher.uz:443/94/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/TuganTEL.png",Tugan
+https://s05.watcher.uz:443/95/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/HDL.png",Точка.РФ HD
+https://s04.watcher.uz:443/113/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Здоровое ТВ.png",Здоровое ТВ
+https://s04.watcher.uz:443/114/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Вопросы и ответы.png",Вопросы и ответы
+https://s04.watcher.uz:443/115/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nat Geo Wild HD.png",Nat Geo Wild HD
+https://s06.watcher.uz/116/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живи Активно HD.png",Живи Активно HD
+https://s06.watcher.uz/117/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/В мире животных HD.png",В мире животных HD
+https://s06.watcher.uz/118/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живая природа HD.png",Живая природа HD
+https://s06.watcher.uz/119/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наша Сибирь HD.png",Наша Сибирь HD
+https://s06.watcher.uz/128/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Глазами Туриста HD.png",Глазами Туриста HD
+https://s06.watcher.uz/127/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Insight TV HD.png",Insight TV HD
+https://s06.watcher.uz/124/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Арсенал HD.png",Арсенал HD
+https://s06.watcher.uz/120/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Duck TV HD.png",Duck TV HD
+https://s06.watcher.uz/121/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Капитан Фантастика HD.png",Капитан Фантастика HD
+https://s06.watcher.uz/122/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Охотник и рыболов HD.png",Охотник и рыболов HD
+https://s06.watcher.uz/123/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Trace Sport Stars HD.png",Trace Sport Stars HD
+https://s06.watcher.uz/125/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Avto24 SD.png",Авто24
+https://s06.watcher.uz/129/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Drive SD.png",Драйв
+https://s06.watcher.uz/130/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Хабар24 SD.png",Хабар24
+https://s06.watcher.uz/131/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Dorama SD.png",Дорама
+https://s06.watcher.uz/132/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Рыжий SD.png",Рыжий
+https://s06.watcher.uz/133/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Загородный SD.png",Загородный
+https://s06.watcher.uz/134/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/В гостях у сказки SD.png",В гостях у сказки SD
+https://s06.watcher.uz/135/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Первый космический SD.png",Первый Космический HD
+https://s06.watcher.uz/136/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Живая планета SD.png",Живая планета
+https://s06.watcher.uz/138/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Приключения SD.png",Приключения HD
+https://s06.watcher.uz/140/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Наука SD.png",Наука
+https://s06.watcher.uz/141/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Мама SD.png",Мама
+https://s06.watcher.uz/143/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nick Jr.png",Nick Jr
+https://s06.watcher.uz/147/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Fashion TV SD.png",Fashion TV
+https://s06.watcher.uz/154/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Cinema SD.png",Cinema
+https://s06.watcher.uz/155/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Сарафан SD.png",Сарафан
+https://s06.watcher.uz/156/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/MMA-TV.png",MMA-TV
+https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/KHL.png",KHL
+https://s04.watcher.uz/20/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Gulli Girl.png",Gulli Girl
+https://s07.watcher.uz/164/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Doctor.png",Доктор
+https://s07.watcher.uz/165/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/English Club.png",English Club TV
+https://s07.watcher.uz/166/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Bollywood.png",Bollywood
+https://s07.watcher.uz/167/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/HollyWood.png",HollyWood
+https://s07.watcher.uz/168/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/TiJi.png",TiJi
+https://s07.watcher.uz/169/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/KBS WORLD HD.png",KBS WORLD HD
+https://s07.watcher.uz/170/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/TVC RU.png",ТВЦ
+https://s07.watcher.uz/173/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Bloomberg TV.png",Bloomberg
+https://s07.watcher.uz/174/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Match Planeta.png",Матч! Планета
+https://s07.watcher.uz/175/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/CGTN RU HD.png",CGTN RU HD
+https://s07.watcher.uz/179/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/AlJazeera HD.png",AlJazeera HD
+https://s07.watcher.uz/181/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/NHK WORLD.png",NHK WORLD
+https://s07.watcher.uz/182/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/DW RU HD.png",DW RU HD
+https://s05.watcher.uz/186/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nickelodeon HD.png",Nickelodeon HD
+https://s05.watcher.uz/188/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Nicktoons HD.png",Nicktoons HD
+https://s05.watcher.uz/189/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports.svg",Setanta Sports 1 HD
+https://s05.watcher.uz/191/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://sarkor.tv/static/images/channels/Setanta Sports 2.svg",Setanta Sports 2 HD
+https://s05.watcher.uz/192/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Киносерия
+https://watcher.uz:443/106/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Киномикс
+https://watcher.uz:443/108/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",365 Дней
+https://watcher.uz:443/98/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Кухня ТВ
+https://watcher.uz:443/96/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Кинокомедия
+https://watcher.uz:443/102/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Зоопарк
+https://watcher.uz:443/101/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Live Музыка SD
+https://watcher.uz:443/97/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Мужское Кино
+https://watcher.uz:443/99/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Живи!
+https://watcher.uz:443/110/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",ТНВ Планета
+https://watcher.uz:443/103/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Уникум
+https://watcher.uz:443/100/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Точка Отрыва
+https://watcher.uz/148/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Домашние животные
+https://watcher.uz:443/112/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Усадьба
+https://watcher.uz:443/111/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Моя Планета
+https://watcher.uz/149/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",National Geographic
+https://watcher.uz/150/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",Qazaqstan
+https://watcher.uz/151/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MTg1MTUwLCJsb2dpbiI6InR2LTE4NTE1MCIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNzgwNjk3NTc4fQ.bXNxmt2iOlX4qQ8TitFHFzmB2Kxh7DkhMjEQXb-aEgc%3A8
+#EXTINF:-1 group-title="TRICOLOR TV",UZBEKISTON 24 HD
+https://s07.watcher.uz/158/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="TRICOLOR TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/UKRAINE/8tv.png",8 Канал
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=384872&extension=ts&play_token=knRvDJIH72
 
 #  Триколор 1
 
@@ -1152,6 +1902,118 @@ http://176.118.197.101/Retro/mono.m3u8
 #EXTINF:-1 tvg-id="Кино ТВ HD" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ%20HD.png",Кино ТВ HD
 http://176.118.197.101:80/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Кино ТВ HD" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ%20HD.png",Кино ТВ HD
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539671291_10_16_2018-q-500x500.jpeg",Кинопремьера
+https://cdn.itvuz.workers.dev/stream/77?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
+https://cdn.itvuz.workers.dev/stream/78?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
+https://cdn.itvuz.workers.dev/stream/79?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//6ca0afa439bff13f635a3d10820e0dd2-q-500x500.jpeg",Киномикс
+https://cdn.itvuz.workers.dev/stream/80?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678644_10_16_2018-q-500x500.jpeg",Индийское кино
+https://cdn.itvuz.workers.dev/stream/81?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//f150911ca6863e154db38355ea8c5c01-q-500x500.jpeg",Мужское кино
+https://cdn.itvuz.workers.dev/stream/82?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное Кино
+https://cdn.itvuz.workers.dev/stream/83?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678706_10_16_2018-q-500x500.jpeg",Наше Новое Кино
+https://cdn.itvuz.workers.dev/stream/84?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//def52b54f333507e6969f453e2852bb1-q-500x500.jpeg",Киносериа
+https://cdn.itvuz.workers.dev/stream/85?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидания
+https://cdn.itvuz.workers.dev/stream/86?key=zunotv
+#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//1a8628a152bbee35f86d784341b25f14-q-500x500.jpeg",Кинокомедия
+https://cdn.itvuz.workers.dev/stream/87?key=zunotv
+#EXTINF:-1 group-title="НТВ+",Россия 1 HD
+http://176.118.197.101/RossiyaHD/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Россия 24
+http://176.118.197.101/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="НТВ+",ТНТ
+http://176.118.197.101/THT/index.m3u8
+#EXTINF:-1 group-title="НТВ+",НТВ
+http://176.118.197.101/NTV/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Cinema
+http://176.118.197.101/Cinema/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Еврокино
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Иллюзион+
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Кинокомедия
+http://176.118.197.101/Kinokomediya/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Киномикс
+http://176.118.197.101/Kinomix/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Родное кино
+http://176.118.197.101/RodnoeKino/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Кинопоказ
+http://176.118.197.101/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Киносерия
+http://176.118.197.101/Kinoseria/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Любимое кино
+http://176.118.197.101/LubimoeKino/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Мир сериала
+http://176.118.197.101/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="НТВ+",2x2
+http://176.118.197.101/2x2/index.m3u8
+#EXTINF:-1 group-title="НТВ+",СТС
+http://176.118.197.101/CTC/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Че
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Ностальгия
+http://176.118.197.101/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="НТВ+",РБК
+http://176.118.197.101/RBK/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Ретро
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="НТВ+",1HD
+http://176.118.197.101/1HD/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOZD.png",ДОЖДЬ HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031961&extension=ts&play_token=vAH4NNHJkC
+#EXTINF:-1 group-title="НТВ+",ИЛЛЮЗИОН+ SD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031919&extension=ts&play_token=bbTv2UDQZL
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOM KINO.png",Дом Кино HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031896&extension=ts&play_token=AIejVl73oa
+#EXTINF:-1 group-title="НТВ+",DISCOVERY SD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031930&extension=ts&play_token=HDJpxgCN2L
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/1620.png",Комедия
+http://176.118.197.101/Komediya/mono.m3u8
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/2834.png",Кинопоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/477.png",Любимое Кино FHD
+http://176.118.197.101/LubimoeKino/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",НСТ
+http://176.118.197.101/HCT/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Комедия
+http://176.118.197.101/Komediya/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Дом Кино
+http://176.118.197.101/Dom_kino/index.m3u8
+#EXTINF:-1 group-title="НТВ+",Россия 24
+http://176.118.197.101/Rossiya24/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Еврокино
+http://176.118.197.101/Evrokino/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",НТВ
+http://176.118.197.101/NTV/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Ностальгия
+http://176.118.197.101/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Дом Кино
+http://176.118.197.101/Dom_kino/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Кинокомедия
+http://176.118.197.101/Kinokomediya/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",НСТ
+http://176.118.197.101/HCT/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Киномикс
+http://176.118.197.101/Kinomix/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Киносерия HD
+http://176.118.197.101/Kinoseria/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Че!
+http://176.118.197.101/Che/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Ретро
+http://176.118.197.101/Retro/mono.m3u8
+#EXTINF:-1 group-title="НТВ+",Кино ТВ HD
+http://176.118.197.101:80/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="НТВ+",Кино ТВ HD
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 
 
@@ -2253,6 +3115,60 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18161/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Семейный 4K
 #EXTGRP:Liberty
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18178/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY KINOENG  UHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17060/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Семейный 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18178/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Индия 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18160/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Куб 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18161/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty MARVEL 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15090/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY NETFLIX 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19402/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Кино Микс 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15110/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty РусФильм 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18046/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Мульт 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18051/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Мульт ENG 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/17061/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY СОЮЗ 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19307/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY ЛЕГЕНДА 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19308/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY DC
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15087/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Ужасы FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15088/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Комедии FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16054/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Триллеры FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15089/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Фан HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19403/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Короткометражное FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15091/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Мелодрамы FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15095/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Боевики FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15096/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Сериалы FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16055/index.m3u8
+#EXTINF:-1 group-title="Liberty",Liberty Сваты
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15164/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY piksar
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15092/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY DISNEI
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15093/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY myltiki
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15094/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERTY SouthPark
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16053/index.m3u8
+#EXTINF:-1 group-title="Liberty",LIBERRTY THE SIMSONS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15111/index.m3u8
 
 
 
@@ -2580,6 +3496,121 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16085/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Драма HD
 #EXTGRP:MM
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16086/index.m3u8
+
+#EXTINF:-1 group-title="MM",MM Flip UHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13057/index.m3u8
+#EXTINF:-1 group-title="MM",MM Newfilm 1 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13011/index.m3u8
+#EXTINF:-1 group-title="MM",MM Newfilm 2 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13012/index.m3u8
+#EXTINF:-1 group-title="MM",MM Newfilm 3 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13013/index.m3u8
+#EXTINF:-1 group-title="MM",MM Newfilm.ru HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13014/index.m3u8
+#EXTINF:-1 group-title="MM",MM Семейный 1 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13097/index.m3u8
+#EXTINF:-1 group-title="MM",MM Семейный 2 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13098/index.m3u8
+#EXTINF:-1 group-title="MM",MM Walt Disney HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13064/index.m3u8
+#EXTINF:-1 group-title="MM",MM Комедия HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13038/index.m3u8
+#EXTINF:-1 group-title="MM",MM Комедия Classic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13037/index.m3u8
+#EXTINF:-1 group-title="MM",MM Приключения HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13048/index.m3u8
+#EXTINF:-1 group-title="MM",MM Фантастика HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13062/index.m3u8
+#EXTINF:-1 group-title="MM",MM Киберпанк HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13036/index.m3u8
+#EXTINF:-1 group-title="MM",MM Катастрофа HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13034/index.m3u8
+#EXTINF:-1 group-title="MM",MM Погружение HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13047/index.m3u8
+#EXTINF:-1 group-title="MM",MM UFO HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13017/index.m3u8
+#EXTINF:-1 group-title="MM",MM Затмение HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13032/index.m3u8
+#EXTINF:-1 group-title="MM",MM Love HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13010/index.m3u8
+#EXTINF:-1 group-title="MM",MM Боевик HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13028/index.m3u8
+#EXTINF:-1 group-title="MM",MM Боевик Classic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13027/index.m3u8
+#EXTINF:-1 group-title="MM",MM Кунг-Фу HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13041/index.m3u8
+#EXTINF:-1 group-title="MM",MM Супергерои HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13056/index.m3u8
+#EXTINF:-1 group-title="MM",MM Криминал HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13039/index.m3u8
+#EXTINF:-1 group-title="MM",MM Агата Кристи HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13024/index.m3u8
+#EXTINF:-1 group-title="MM",MM Вестерн HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13029/index.m3u8
+#EXTINF:-1 group-title="MM",ММ Грайндхаус HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13025/index.m3u8
+#EXTINF:-1 group-title="MM",MM История HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13033/index.m3u8
+#EXTINF:-1 group-title="MM",MM Драма HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16086/index.m3u8
+#EXTINF:-1 group-title="MM",MM Скорость HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13053/index.m3u8
+#EXTINF:-1 group-title="MM",MM Спорт HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13054/index.m3u8
+#EXTINF:-1 group-title="MM",MM Celebrity HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16084/index.m3u8
+#EXTINF:-1 group-title="MM",MM Триллер HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13058/index.m3u8
+#EXTINF:-1 group-title="MM",MM Мифология HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13044/index.m3u8
+#EXTINF:-1 group-title="MM",MM Фобия HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13063/index.m3u8
+#EXTINF:-1 group-title="MM",MM Ужасы HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13099/index.m3u8
+#EXTINF:-1 group-title="MM",MM Ужасы Classic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14128/index.m3u8
+#EXTINF:-1 group-title="MM",MM Ужастик HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13059/index.m3u8
+#EXTINF:-1 group-title="MM",MM Стивен Кинг HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13055/index.m3u8
+#EXTINF:-1 group-title="MM",MM Уэс Крэйвен HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13061/index.m3u8
+#EXTINF:-1 group-title="MM",MM Classic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16085/index.m3u8
+#EXTINF:-1 group-title="MM",MM Нуар HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13045/index.m3u8
+#EXTINF:-1 group-title="MM",MM Роскино HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13050/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Комедия HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13019/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Приключения HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13060/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Фантастика HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13022/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Детектив HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13096/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Мультфильм HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13020/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR Сказки HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13021/index.m3u8
+#EXTINF:-1 group-title="MM",MM USSR 1941-1945 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13018/index.m3u8
+#EXTINF:-1 group-title="MM",MM Крутые 90-е HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13040/index.m3u8
+#EXTINF:-1 group-title="MM",MM Ситком HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13052/index.m3u8
+#EXTINF:-1 group-title="MM",MM OldSchool HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19413/index.m3u8
+#EXTINF:-1 group-title="MM",MM Ольга HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13046/index.m3u8
+#EXTINF:-1 group-title="MM",MM Полицейский с Рублёвки HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13049/index.m3u8
+#EXTINF:-1 group-title="MM",MM Воронины HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13031/index.m3u8
+#EXTINF:-1 group-title="MM",MM Сваты HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13051/index.m3u8
+#EXTINF:-1 group-title="MM",MM 007 HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13009/index.m3u8
 
 
 # PG
@@ -3243,6 +4274,19 @@ http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/2002/index.m3u8
 
 #EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
+
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//efa102b22ab6603f803081b78f9f810d-q-500x500.jpeg",viju TV1000
+https://cdn.itvuz.workers.dev/stream/88?key=zunotv
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//59907578752fdb6fd70d4f5c936554b4-q-500x500.jpeg",viju TV 1000 русское
+https://cdn.itvuz.workers.dev/stream/89?key=zunotv
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//96e0859ce3ac2d56c949cbe1a8488837-q-500x500.jpeg",viju TV1000 Action
+https://cdn.itvuz.workers.dev/stream/90?key=zunotv
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//a7dca3382dc15ac0335d56ad5249fc6d-q-500x500.jpeg",viju Comedy
+https://cdn.itvuz.workers.dev/stream/91?key=zunotv
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//f3eb1e71af2b4938405ceea18ae89a49-q-500x500.jpeg",viju Serial
+https://cdn.itvuz.workers.dev/stream/92?key=zunotv
+#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//e42b4b32e003f64106e46903b50eaaeb-q-500x500.jpeg",viju Premiere
+https://cdn.itvuz.workers.dev/stream/93?key=zunotv
 
 
 # Yosso TV
