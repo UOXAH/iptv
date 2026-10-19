@@ -231,6 +231,12 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9209/index.m3u8
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9211/index.m3u8
 #EXTINF:0 tvg-rec="0",ТНТ HD orig
+#EXTINF:0,ТВ Центр HD
+#EXTGRP:Общие
+http://ro01.plink-pile.ch/3334/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,ТВ Центр
+#EXTGRP:Общие
+http://ro01.plink-pile.ch/334/index.m3u8?token=F3DwiU327mxxCr
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/7251/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ Центр International
@@ -1885,6 +1891,566 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/30196/index.m3u8
 #EXTGRP:Детские
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/30198/index.m3u8
 
+#Кинозал
+
+#EXTINF:0,MiniMax 007
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20701/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Агата Кристи
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20702/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Боевик
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20703/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Боевик classic
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20704/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Комедия classic
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20705/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Семейный 1
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20706/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Семейный 2
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20707/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Фантастика
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20708/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Фобия
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20709/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax История
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20710/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Катастрофа
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20711/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Киберпанк
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20712/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Комедия
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20713/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Криминал
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20714/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Кунг-фу
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20715/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Love
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20716/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Нуар
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20717/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Погружение
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20718/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Приключения
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20719/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Роскино
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20720/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Скорость
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20721/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Спорт
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20722/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Стивен Кинг
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20723/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Супергерои
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20724/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Триллер
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20725/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Синематограф
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20726/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax UFO
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20727/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax translation HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20895/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Ужасы classic
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20728/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Ужасы
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20729/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Ужастик
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20730/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Детектив U.S.S.R
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20731/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Драма U.S.S.R
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20732/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Комедия U.S.S.R
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20733/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Вестерн
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20734/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Затмение
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20735/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Крутые 90e
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20736/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Грайндхаус
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20738/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Newfilm 1
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20739/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Newfilm 2
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20740/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Newfilm 3
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20741/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Newfilm RU
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20742/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Ситком
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20745/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Ситком 2.0
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20743/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Полицейский с Рублёвки
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20744/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Сваты
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20746/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax 1941-1945 U.S.S.R
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20748/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Воронины
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20791/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Мифология
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20757/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Приключения U.S.S.R
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20760/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Celebrity HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20861/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Classic HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20780/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Драма HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20782/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Flip UHD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20852/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax OldSchool HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20784/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MiniMax Кинофестиваль HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20789/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MS PRISONS HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20777/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MS YOUNG BLOOD HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20779/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,MS MAGIC HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20786/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Brief [Короткие истории]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20601/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Evidence [Улика]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20602/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Exist [Существование]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20603/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Island [Остров]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20604/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Naked and Funny [Голые и cмешные]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20605/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Psycho [Психо]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20606/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Series [Сериалы]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20607/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Survival [Выживание]
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20608/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Детектив
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20609/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Невский
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20610/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Chef
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20611/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Girlfight
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20612/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Hostage
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20613/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,GL Motivation
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20614/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20900/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Сделано в СССР
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20902/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Ужасы
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20904/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20905/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Драмы
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20907/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Русский Сериал
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20908/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Вестерн
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20909/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Asia
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20913/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Семейный
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20915/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k КиноФраншизы
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20926/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Комедия
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20927/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Боевик
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20928/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Фэнтези
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20931/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Kинодети Cсср
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20933/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Приключения
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20903/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K КиноНовинки
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20934/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Сумеречный Эфир
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20936/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HBO series
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20938/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Киношарм
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20940/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K RemasterWave
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20945/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4k Боевик VHS
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20946/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Комедия СССР 1
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20947/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Комедия СССР 2
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20948/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Galaxy Films
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21104/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Ужасы VHS
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20924/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K Ужасы VHS (siries)
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21106/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 1
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21161/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 2
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21162/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 3
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21163/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 4
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21164/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 5
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21165/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 6
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21166/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 7
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21167/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 8
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21168/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 9
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21169/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Clarity4K HDR Cinema MIX 10
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21170/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Пограничный HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21123/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Про людей и войну HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21108/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x (90-е) HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21119/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 1 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21120/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 2 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21124/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 3 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21125/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 4 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21126/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 5 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21127/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 6 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21128/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 7 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21129/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 8 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21130/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 9 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21131/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 10 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21137/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 11 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21136/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 12 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21132/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 13 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21133/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 14 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21134/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 15 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21135/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 16 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21138/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 17 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21139/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 18 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21140/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 19 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21141/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 20 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21142/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 21 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21143/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 22 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21144/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Play-x Кинозал 23 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21122/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Action HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20951/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Alien and Predator HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20952/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Celentano Brando Connery HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20957/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Comedy HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20958/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Comedy Horrors HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20959/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis DC HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20961/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Demon Slayer and Dororo HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20962/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Detective HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20963/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Disney Classic HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20964/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Drama HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20965/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Family HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20966/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Фантастика HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20967/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Horror HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20969/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Корейские сериалы HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20971/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Кухня Отель HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20972/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Латиноамериканские сериалы HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20973/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Mafia HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20978/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Marvel HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20979/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Мелодрама HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20980/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Old Horrors HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20982/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis RUS Комедии HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20985/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis RUS Драма HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20986/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis RUS Сериалы HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20988/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis RUS Сериалы Драма HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20989/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Serkan Bolat HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20990/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Soviet Comedy HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20991/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Superheroes Series HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20993/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Ufo and Aliens HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20997/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis USA Сериалы HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20998/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Тайны Смолвиля  HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21003/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Великобританские сериалы HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21004/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Чечня и Афган HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21006/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Доктор Кто HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21007/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,Oasis Саша Таня HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21008/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS 60FPS
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21011/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Киноплёнка
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21014/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Киносерия
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21015/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Movie Hits
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21017/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Premiere
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21018/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Страшное
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21019/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS СССР
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21020/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Криминальный
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21021/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS С Новым годом!
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21022/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Комедия
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21023/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Аниме
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21024/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Триллер
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21025/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Семейный
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21026/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Вестерн
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21027/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Наше Кино
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21028/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,VeleS Гоблин
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/21029/index.m3u8?token=F3DwiU327mxxCr
+
+
+
 # BCU
 
 
@@ -2067,6 +2633,145 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17020/index.m3u8
 #EXTGRP:BCU
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17021/index.m3u8
 
+#EXTINF:0,BCU ACTION HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20810/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU CATASTROPHE HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20811/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU CINEMA HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20812/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU CINEMA+ HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20832/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU COMEDY HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20813/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU COMEDY HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20841/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU FANTASTIC HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20814/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU FANTASTIC HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21211/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU FILMYSTIC HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20815/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU HISTORY HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20816/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU KINORATING HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20817/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU MARVEL HDR
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20818/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU MARVEL HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20840/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU PREMIERE HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20819/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU PREMIERE HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21210/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU ROMANTIC HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20820/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU ROMANTIC h264
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20891/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU RUSSIAN HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20821/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU STARS HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20833/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU VHS HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20822/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU СВАТЫ HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20829/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20836/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU СССР HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20830/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU MEDIA HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20831/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCUMEDIA h264
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20839/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCUMEDIA 2 HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20899/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCUMEDIA 3 HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20844/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Ultra 4K
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20835/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Russia 90s HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21212/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20837/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 1 HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20823/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 2 HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20824/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 3 HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20825/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 1 HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20892/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 2 HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20893/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere 3 HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20894/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premiere Ultra 4K
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20848/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Reality HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20826/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Reality h264
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20843/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Survival HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20838/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Survival h264
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20842/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20845/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Cosmo HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/20846/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Kinozakaz 4K HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21225/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Premium Premiere+ 4K HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21227/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BCU Biography HDR
+#EXTGRP:BCU
+http://ro01.plink-pile.ch/21241/index.m3u8?token=F3DwiU327mxxCr
+
 
 
 # BOX
@@ -2155,6 +2860,70 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19420/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Cyber HD
 #EXTGRP:BOX
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19421/index.m3u8
+
+#EXTINF:0,BOX Franchise HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20851/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Franchise HDR
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/21209/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Hybrid HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20853/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Gangster HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20856/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Oscar HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20857/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Serial HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20860/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Spy HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20865/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Western HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20867/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Zombie HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20868/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Cyber HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20869/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Ghost HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20874/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Fantasy HD
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20876/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Premiere 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20877/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Serial 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20878/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Remast 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20879/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Remast+ 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/20888/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Apocalypse HD
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/20809/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX UltraStars 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/21221/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX СССР 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/21222/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Serial Premiere 4K HDR
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/21229/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,BOX Russian 4K
+#EXTGRP:BOX
+http://ro01.plink-pile.ch/21230/index.m3u8?token=F3DwiU327mxxCr
 
 
 # CineMan
@@ -2558,6 +3327,133 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15164/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15092/index.m3u8
 #EXTINF:-1 group-title="Liberty",LIBERTY DISNEI
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15093/index.m3u8
+
+#EXTINF:0,LIBERTY DC FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8000/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КОРОТКОМЕТРАЖКИ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8001/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ПИКСАР FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8002/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY МЕЛОДРАМЫ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8004/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY БОЕВИКИ  FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8005/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY СВАТЫ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8008/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КОМЕДИИ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8010/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ЗАНАВЕС FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8014/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY АНИМЕ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8015/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY МиМ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8028/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ФАНТАСТИКА FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8030/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ШОУ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8016/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY АВТО ГИР FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8033/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY МАРВЕЛ  FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8034/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY СЕРИАЛЫ FHD
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8047/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ЛЕГЕНДА 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8017/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY РУС ФИЛЬМ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8020/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КИНО МИКС 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8021/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY НЕТФЛИКС 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8024/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КУБ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8025/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY СЕМЕЙНЫЙ 4k
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8026/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY СОЮЗ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8029/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КИНО ENG  4K
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/8031/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ТРИЛЛЕРЫ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8035/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY УЖАСЫ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8036/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY СЕРИАЛЫ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8039/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КРИМИНАЛ 4K
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/8040/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY XX ВЕК 4K
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/8042/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY АВАНПОСТ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8043/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ТУРК ФИЛЬМ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8046/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY ДРИМ ВОРКС 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8048/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY МЮЗИКЛ 4K
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8049/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Азия 4K HDR
+#EXTGRP:RU Кинозал
+http://ro01.plink-pile.ch/8061/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Драма 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8062/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Комедии 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8063/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Скандинавия 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8064/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Фантастика 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8065/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Оскар 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8066/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Ужасы 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8067/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Приключения 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8068/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY КиноХит 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8069/index.m3u8?token=F3DwiU327mxxCr
+#EXTINF:0,LIBERTY Боевики 4K HDR
+#EXTGRP:Liberty
+http://ro01.plink-pile.ch/8070/index.m3u8?token=F3DwiU327mxxCr
 
 
 
