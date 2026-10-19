@@ -2449,6 +2449,274 @@ http://ro01.plink-pile.ch/21028/index.m3u8?token=F3DwiU327mxxCr
 #EXTGRP:RU Кинозал
 http://ro01.plink-pile.ch/21029/index.m3u8?token=F3DwiU327mxxCr
 
+#Кинозалы
+
+#EXTINF:0 tvg-id="Xfresh-fantastic" tvg-name="Fresh Fantastic" tvg-logo="https://iptv.pm/images/ico/fresh/fantastic.png"  tvg-rec="5" timeshift="5", Fresh Fantastic
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1639/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-vhs" tvg-name="Fresh VHS" tvg-logo="https://iptv.pm/images/ico/fresh/VHS.png"  tvg-rec="5" timeshift="5", Fresh VHS
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1640/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-rating" tvg-name="Fresh Rating" tvg-logo="https://iptv.pm/images/ico/fresh/rating.png"  tvg-rec="5" timeshift="5", Fresh Rating
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1641/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-family" tvg-name="Fresh Family" tvg-logo="https://iptv.pm/images/ico/fresh/family.png"  tvg-rec="5" timeshift="5", Fresh Family
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1642/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-premiere" tvg-name="Fresh Premiere" tvg-logo="https://iptv.pm/images/ico/fresh/premiere.png"  tvg-rec="5" timeshift="5", Fresh Premiere
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1643/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-comedy" tvg-name="Fresh Comedy" tvg-logo="https://iptv.pm/images/ico/fresh/comedy.png"  tvg-rec="5" timeshift="5", Fresh Comedy
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1688/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-kids" tvg-name="Fresh Kids" tvg-logo="https://iptv.pm/images/ico/fresh/kids.png"  tvg-rec="5" timeshift="5", Fresh Kids
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1644/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-cinema" tvg-name="Fresh Cinema" tvg-logo="https://iptv.pm/images/ico/fresh/cinema.png"  tvg-rec="5" timeshift="5", Fresh Cinema
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1645/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-horror" tvg-name="Fresh Horror" tvg-logo="https://iptv.pm/images/ico/fresh/horror.png"  tvg-rec="5" timeshift="5", Fresh Horror
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1646/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-adventure" tvg-name="Fresh Adventure" tvg-logo="https://iptv.pm/images/ico/fresh/adventure.png"  tvg-rec="5" timeshift="5", Fresh Adventure
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1647/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-romatic" tvg-name="Fresh Romantic" tvg-logo="https://iptv.pm/images/ico/fresh/romantic.png"  tvg-rec="5" timeshift="5", Fresh Romantic
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1648/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-russian" tvg-name="Fresh Russian" tvg-logo="https://iptv.pm/images/ico/fresh/russian.png"  tvg-rec="5" timeshift="5", Fresh Russian
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1649/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xfresh-thriller" tvg-name="Fresh Thriller" tvg-logo="https://iptv.pm/images/ico/fresh/thriller.png"  tvg-rec="5" timeshift="5", Fresh Thriller
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1687/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39821" tvg-name="KBC-В.О.В. HD" tvg-logo="https://iptv.pm/images/ico/39821-65d85c17dff08.png"  tvg-rec="5" timeshift="5", KBC-В.О.В. HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8810/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39800" tvg-name="KBC-Comics HD" tvg-logo="https://iptv.pm/images/ico/39800-601c3f898f187.png"  tvg-rec="5" timeshift="5", KBC-Comics HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8811/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X35448" tvg-name="KBC-Elite comedy's HD" tvg-logo="https://iptv.pm/images/ico/35448-600488c427e1e.png"  tvg-rec="5" timeshift="5", KBC-Elite comedy's HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8812/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39795" tvg-name="KBC-Fantastic HD" tvg-logo="https://iptv.pm/images/ico/39795-601c19c807f8a.png"  tvg-rec="5" timeshift="5", KBC-Fantastic HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8813/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39796" tvg-name="KBC-History HD" tvg-logo="https://iptv.pm/images/ico/39796-601c197fc25e8.png"  tvg-rec="5" timeshift="5", KBC-History HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8814/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39048" tvg-name="KBC-Newfilm HD" tvg-logo="https://iptv.pm/images/ico/39048-6009db07cf9d0.png"  tvg-rec="5" timeshift="5", KBC-Newfilm HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8815/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42051" tvg-name="KBC-WAR HD" tvg-logo="https://iptv.pm/images/ico/42051-65eb84cfa1c06.png"  tvg-rec="5" timeshift="5", KBC-WAR HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8816/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://iptv.pm/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8817/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36251" tvg-name="KBC-Видак HD" tvg-logo="https://iptv.pm/images/ico/36251-6009d1a8d9ed5.png"  tvg-rec="5" timeshift="5", KBC-Видак HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8818/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39819" tvg-name="KBC-ГАЙ Ritchie & Tarantino" tvg-logo="https://iptv.pm/images/ico/39819-6033440dc126b.png"  tvg-rec="5" timeshift="5", KBC-ГАЙ Ritchie & Tarantino
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8819/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36732" tvg-name="KBC-ДрамаTic HD" tvg-logo="https://iptv.pm/images/ico/36732-6009d2e288130.png"  tvg-rec="5" timeshift="5", KBC-ДрамаTic HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8820/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39825" tvg-name="KBC-Вестерн HD" tvg-logo="https://iptv.pm/images/ico/39825-65eb85d46c579.png"  tvg-rec="5" timeshift="5", KBC-Вестерн HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8821/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36277" tvg-name="KBC-Кошмарное HD" tvg-logo="https://iptv.pm/images/ico/36277-6009d669219d3.png"  tvg-rec="5" timeshift="5", KBC-Кошмарное HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8822/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://iptv.pm/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8824/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39823" tvg-name="KBC-Animals HD" tvg-logo="https://iptv.pm/images/ico/39823-65f0730c6be29.png"  tvg-rec="5" timeshift="5", KBC-Animals HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8853/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39822" tvg-name="KBC-MusKino HD" tvg-logo="https://iptv.pm/images/ico/39822-65f0724f2ac93.png"  tvg-rec="5" timeshift="5", KBC-MusKino HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8854/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X35525" tvg-name="KBC-СпортМикс HD" tvg-logo="https://iptv.pm/images/ico/35525-6603e5fe177f7.png"  tvg-rec="5" timeshift="5", KBC-СпортМикс HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8855/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42054" tvg-name="KBC-ГОБЛИН HD" tvg-logo="https://iptv.pm/images/ico/42054-65e74a64c6401.png"  tvg-rec="5" timeshift="5", KBC-ГОБЛИН HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8825/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39820" tvg-name="KBC-Шпионское HD" tvg-logo="https://iptv.pm/images/ico/39820-6033451916f46.png"  tvg-rec="5" timeshift="5", KBC-Шпионское HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8826/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42053" tvg-name="KBC-АНИМЕ HD" tvg-logo="https://iptv.pm/images/ico/42053-65e741fc573c3.png"  tvg-rec="5" timeshift="5", KBC-АНИМЕ HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8828/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39826" tvg-name="KBC_Легендарное" tvg-logo="https://iptv.pm/images/ico/39826-6103ebfca4db6.png"  tvg-rec="5" timeshift="5", KBC-Легендарное HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8856/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР", DITV ГАРИ ПОТЕР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
+
+
+#Кино 4К
+
+#EXTINF:0 tvg-id="000102_GoldenScreen" tvg-name="Bear TV Золотой ЭкранUHD", Bear TV Золотой ЭкранUHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51233/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000104_KinoTime" tvg-name="Bear TV КиноВремя UHD", Bear TV КиноВремя UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51234/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000105_SerialWorld" tvg-name="Bear TV КиноМир UHD", Bear TV КиноМир UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51235/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000109_SerialHit" tvg-name="Bear TV Хитовый Экран UHD", Bear TV Хитовый Экран UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51236/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000110_Filmonavt" tvg-name="Bear TV Фильмонавт UHD", Bear TV Фильмонавт UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51237/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000113_KinoHorizon" tvg-name="Bear TV КиноГоризонт UHD", Bear TV КиноГоризонт UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51238/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000115_SyuzhetTV" tvg-name="Bear TV Сюжет ТВ UHD", Bear TV Сюжет ТВ UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51239/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000116_KadrPlus" tvg-name="Bear TV Кадр Плюс UHD", Bear TV Кадр Плюс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51240/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000117_KinoPulse" tvg-name="Bear TV КиноПульс UHD", Bear TV КиноПульс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51241/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000121_Ekran24" tvg-name="Bear TV Экран 24 UHD", Bear TV Экран 24 UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51242/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000130_NightSeans" tvg-name="Bear TV Ночной Сеанс UHD", Bear TV Ночной Сеанс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51243/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000131_PremiereLive" tvg-name="Bear TV Премьера Live UHD", Bear TV Премьера Live UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51244/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000132_KinoMarshrut" tvg-name="Bear TV КиноМаршрут UHD", Bear TV КиноМаршрут UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51245/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000133_LegendsEkrana" tvg-name="Bear TV Легенды Экрана UHD", Bear TV Легенды Экрана UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51246/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000135_MovieWave" tvg-name="Bear TV КиноВолна UHD", Bear TV КиноВолна UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51247/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000137_CinemaOrbit" tvg-name="Bear TV КиноОрбита UHD", Bear TV КиноОрбита UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51248/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000139_FilmGalaxy" tvg-name="Bear TV Галактика Кино UHD", Bear TV Галактика Кино UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51249/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000141_KinoSphere" tvg-name="Bear TV КиноСфера UHD", Bear TV КиноСфера UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51250/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000143_KinoDrive" tvg-name="Bear TV КиноДрайв UHD", Bear TV КиноДрайв UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51251/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000144_BlockbusterTV" tvg-name="Bear TV Блокбастер ТВ UHD", Bear TV Блокбастер ТВ UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51252/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000199_FilmKanal" tvg-name="Bear TV Фильм Канал UHD", Bear TV Фильм Канал UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51253/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000201_KinoLine" tvg-name="Bear TV КиноЛиния UHD", Bear TV КиноЛиния UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51254/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000202_MovieStar" tvg-name="Bear TV КиноЗвезда UHD", Bear TV КиноЗвезда UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51255/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000203_KinoArena" tvg-name="Bear TV КиноАрена UHD", Bear TV КиноАрена UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51256/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000204_EkranFuture" tvg-name="Bear TV Экран Будущего UHD", Bear TV Экран Будущего UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51257/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000205_CinemaNova" tvg-name="Bear TV Кино Нова UHD", Bear TV Кино Нова UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51258/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000206_KinoFocus" tvg-name="Bear TV КиноФокус UHD", Bear TV КиноФокус UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51259/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000207_FilmPotok" tvg-name="Bear TV ФильмПоток UHD", Bear TV ФильмПоток UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51260/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000208_KinoMix" tvg-name="Bear TV КиноМикс UHD", Bear TV КиноМикс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51261/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000209_KinoClassic" tvg-name="Bear TV КиноКлассика UHD", Bear TV КиноКлассика UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51262/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000210_SuperSeans" tvg-name="Bear TV СуперСеанс UHD", Bear TV СуперСеанс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51263/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000211_HDKinoDom" tvg-name="Bear TV КиноДом  UHD", Bear TV КиноДом  UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51264/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000212_KinoPlanet" tvg-name="Bear TV КиноПланета UHD", Bear TV КиноПланета UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51265/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000213_MovieNight" tvg-name="Bear TV КиноНочь UHD", Bear TV КиноНочь UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51266/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000214_KinoPortal" tvg-name="Bear TV КиноПортал UHD", Bear TV КиноПортал UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51267/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000215_EkranPremium" tvg-name="Bear TV Экран Премиум UHD", Bear TV Экран Премиум UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51268/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000216_KinoSvet" tvg-name="Bear TV КиноСвет UHD", Bear TV КиноСвет UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51269/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000217_FilmExpress" tvg-name="Bear TV ФильмЭкспресс UHD", Bear TV ФильмЭкспресс UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51270/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000218_SerialPark" tvg-name="Bear TV Парк Кино UHD", Bear TV Парк Кино UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51271/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000219_CinemaTime" tvg-name="Bear TV Время Кино UHD", Bear TV Время Кино UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51272/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000220_KinoMayak" tvg-name="Bear TV КиноМаяк UHD", Bear TV КиноМаяк UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51273/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000221_KinoBaza" tvg-name="Bear TV КиноБаза UHD", Bear TV КиноБаза UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51274/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000222_FilmZone" tvg-name="Bear TV ФильмЗона UHD", Bear TV ФильмЗона UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51275/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000223_KinoEmpire" tvg-name="Bear TV КиноИмперия UHD", Bear TV КиноИмперия UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51276/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000224_EkranHit" tvg-name="Bear TV Экран Хит UHD", Bear TV Экран Хит UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51277/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000225_MovieLine" tvg-name="Bear TV Линия Кино UHD", Bear TV Линия Кино UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51278/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000226_KinoRhythm" tvg-name="Bear TV КиноРитм UHD", Bear TV КиноРитм UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51279/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="000227_Seans247" tvg-name="Bear TV Сеанс 24/7 UHD", Bear TV Сеанс 24/7 UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51280/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="009999_KinoMania" tvg-name="Bear TV Киномания UHD", Bear TV Киномания UHD
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51281/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="velilla4K" tvg-name="Velilla TV Cinema 4K", Velilla TV Cinema 4K
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51287/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="velillathexfiles4k" tvg-name="Velilla TV  The X - Files 4K", Velilla TV  The X - Files 4K
+#EXTGRP:Кино 4K
+http://ua.online24.pm/play/51288/FF2E7C222919825/video.m3u8
+
 
 
 # BCU
@@ -2924,6 +3192,8 @@ http://ro01.plink-pile.ch/21229/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BOX Russian 4K
 #EXTGRP:BOX
 http://ro01.plink-pile.ch/21230/index.m3u8?token=F3DwiU327mxxCr
+
+
 
 
 # CineMan
