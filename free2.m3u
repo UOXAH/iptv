@@ -504,6 +504,64 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7261/index.m3u8
 #EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7347/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Еврокино HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9078/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Иллюзион+ HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9079/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Русский иллюзион HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9080/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Наш Кинопоказ HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9086/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Блокбастер HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9087/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Наше Мужское HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9088/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Про Любовь HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9089/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Хит HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9090/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Камеди HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9091/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинопоказ HD orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9092/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",.sci-fi orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9125/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Киномикс orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9126/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Родное Кино orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9127/index.m3u8
+#EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://185.46.16.239:8000/Fox_HD
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://185.161.224.211/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
+http://83.217.12.157:81/udp/239.1.1.87:1234
+#EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
+http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercont
+#EXTINF:-1 tvg-id="Кинопремьера SD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20SD.png",Кинопремьера SD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Кинопремьера HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20HD.png",Кинопремьера HD
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-id="Кинопремьера HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20HD.png",Кинопремьера HD
+http://185.161.224.211/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
+http://83.217.12.157:81/udp/239.1.1.156:1234
+#EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
+http://185.161.224.211/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Киносвидание FD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание%20FD.png",Киносвидание FD
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 tvg-id="Киносемья" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья.png",Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+
 #EXTINF:0 tvg-rec="7",StrahTV The X-Files
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11055/index.m3u8
@@ -675,90 +733,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16049/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16141/index.m3u8
 #EXTINF:-1 group-title="Кино",Видеокассета Юность
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19318/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Cinema HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16067/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Cinema
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19287/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Kids
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19288/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Comedy
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19289/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Premiere
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19290/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Family
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19291/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Rating
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19292/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh VHS
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19293/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Fantastic
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19294/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Series
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19295/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Horror
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19296/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Adventure
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19297/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Romantic
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19298/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Russian
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19299/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Thriller
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19300/index.m3u8
-#EXTINF:-1 group-title="Кино",Fresh Soviet
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19301/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Cinema HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16078/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Comedy HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16080/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI History HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18047/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Premium HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18048/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Russian HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18049/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Fantastic HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18050/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI CCCP HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18175/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Family HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18176/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI VHS HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18173/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Retro HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18177/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Thriller HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18174/index.m3u8
-#EXTINF:-1 group-title="Кино",KLI Киносерия FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19400/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP CINEMA FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19313/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV cinemaQHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19315/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV Premier HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19399/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV cinemaV
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19316/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP skazkiussr FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19317/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV KIDS HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18141/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV COMEDY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18146/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV FANTAZY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18144/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV CRIMINAL HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18140/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV CINEMA HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18147/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV COMEDY HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18143/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV HORROR HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18145/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV SERIAL HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19271/index.m3u8
-#EXTINF:-1 group-title="Кино",PROKOP TV SERIAL FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19272/index.m3u8
 #EXTINF:-1 group-title="Кино",Малдер тв ХИТ HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19263/index.m3u8
 #EXTINF:-1 group-title="Кино",Малдер тв VHS
@@ -773,75 +747,7 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19267/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19268/index.m3u8
 #EXTINF:-1 group-title="Кино",Малдер тв Мультики 90ых
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19269/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Franchise HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19274/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Hybrid HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19275/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Anime HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19276/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Gangster HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19277/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Oscar HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19278/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Memory HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19279/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX M.Serial HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19280/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Serial HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19281/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Game HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19284/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Spy HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19285/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Travel HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19418/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Western HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19419/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Zombie HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19420/index.m3u8
-#EXTINF:-1 group-title="Кино",BOX Cyber HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19421/index.m3u8
 
-#EXTINF:-1 group-title="Кино",YOSSO TV 4K
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16153/index.m3u8
-#EXTINF:-1 group-title="Кино",Yosso TV Советские фильмы 4K
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19435/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV NEW Кино
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14177/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV C-Comedy
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16151/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV C-Inquest
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16152/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV C-Cartoon
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16050/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV C-Marvel
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16051/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Grand
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14171/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Thriller
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15168/index.m3u8
-#EXTINF:-1 group-title="Кино",Yosso TV Мелодрама
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19434/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV VHS
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14172/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Русские фильмы
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14174/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Советские фильмы
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14175/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Трагичное
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14219/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Забавное
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14234/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Ковбойское
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14235/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Best
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14236/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Adrenaline
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15105/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Oblivion
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15509/index.m3u8
-#EXTINF:-1 group-title="Кино",YOSSO TV Adventure
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15510/index.m3u8
 #EXTINF:-1 group-title="Кино",Dosug New HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14216/index.m3u8
 #EXTINF:-1 group-title="Кино",Dosug Kids HD
@@ -946,6 +852,38 @@ http://83.217.12.157:81/udp/239.1.1.97:1234
 http://83.217.12.157:81/udp/239.1.1.101:1234
 #EXTINF:-1 tvg-id="Movie Classic SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/klassika-kino.png",Movie Classic SD
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1 tvg-id="КиноСезонᴴᴰ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезонᴴᴰ
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
+#EXTINF:-1 tvg-id="КиноСезонᴴᴰ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезонᴴᴰ
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
+#EXTINF:-1 tvg-id="КиноСезонᴴᴰ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезонᴴᴰ
+http://83.217.12.157:81/udp/239.1.1.171:1234
+#EXTINF:-1 tvg-id="Patriot (720p)" group-title="Кино" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",Patriot (720p)
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
+#EXTINF:-1 tvg-id="KBC-Elite comedy's HD" group-title="Кино" tvg-logo="timeshift=",KBC-Elite comedy's HD
+http://bde.online24.pm/play/8812/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="Arpinet SD" group-title="Кино" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg",Arpinet SD
+http://185.57.68.33:80/237/playlist.m3u8
+#EXTINF:-1 tvg-id="Киножелезоᴴᴰ" group-title="Кино" tvg-logo="https://oktv.uz/Channels/ch_2793.png",Киножелезоᴴᴰ
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
+#EXTINF:-1 tvg-id="Кинозал SD" group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал SD
+http://185.57.68.33/237/index.m3u8?WithCaption
+#EXTINF:-1 tvg-id="СТРК SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/strk.png",СТРК SD
+http://sochinskayatrk.ru:2015/STRK/mpegts
+#EXTINF:-1 tvg-id="RVision SD" group-title="Кино" tvg-logo="https://kinowalk.hopto.org/web/image/294/128x128?unique=2026-05-08%2010:20:48.476425&access_token=f0316275-e888-4c81-800f-7fc162d70cba",RVision SD
+https://dvrfl07.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="CineMan Melodrama" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/cineman-melodrama.png",CineMan Melodrama
+http://bde.online24.pm/play/13007/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="USSR HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/1758.png?v1743767360",USSR HD
+http://bde.online24.pm/play/1758/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="CPS Comedy" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/6929.png",CPS Comedy
+http://bde.online24.pm/play/1742/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="CPS Oscar" group-title="Кино" tvg-logo="https://ip-tv.dev/images/ico/7692.png",CPS Oscar
+http://bde.online24.pm/play/1747/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="NEXT Strike HD" group-title="Кино" tvg-logo="https://ip-tv.dev/images/epg/6090.png?v1771766586",NEXT Strike HD
+http://bde.online24.pm/play/6090/855C055F42798FB/video.m3u8
+#EXTINF:-1 tvg-id="Кино ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ.png",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 # Триколор
 
@@ -1456,6 +1394,42 @@ http://176.118.197.101/Retro/mono.m3u8
 http://176.118.197.101:80/KinoTvHD/playlist.m3u8
 #EXTINF:-1 group-title="НТВ+",Кино ТВ HD
 http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 tvg-id="НТВ Хит" group-title="НТВ+" tvg-logo="http://epg.one/img2/2041.png",НТВ Хит
+http://178.134.1.158:8081/ntvhit/video.m3u8?token=test
+#EXTINF:-1 tvg-id="НТВ Хит" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Хит.png",НТВ Хит
+http://83.217.12.157:81/udp/239.1.1.200:1234
+#EXTINF:-1 tvg-id="НТВ Балаболᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvbalabol.png",НТВ Балаболᴴᴰ
+http://cdn.iptvcinema.ru/lb1/balabol.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Балаболᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Балаболᴴᴰ
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Невскийᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvnevskiy.png",НТВ Невскийᴴᴰ
+http://cdn.iptvcinema.ru/lb1/nevskiy.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Сериалы.Невскийᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvnevskiy.png",НТВ Сериалы.Невскийᴴᴰ
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Первый отделᴴᴰ" group-title="НТВ+ tvg-logo="https://iptvcinema.ru/channels/ntvperviyotdel.png",НТВ Первый отделᴴᴰ
+http://cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Сериалы.Первый отделᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvperviyotdel.png",НТВ Сериалы.Первый отделᴴᴰ
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Пёсᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvpyos.png",НТВ Пёсᴴᴰ
+http://cdn.iptvcinema.ru/lb1/pyos.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Пёсᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Пёсᴴᴰ
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Скорая помощьᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvskorayapomosh.png",НТВ Скорая помощьᴴᴰ
+http://cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Скорая Помощьᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Скорая Помощьᴴᴰ
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Шефᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvshef.png",НТВ Шефᴴᴰ
+http://cdn.iptvcinema.ru/lb1/shef.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Сериалы.Шефᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvshef.png",НТВ Сериалы.Шефᴴᴰ
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Пять минут тишиныᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntv5minut.png",НТВ Пять минут тишиныᴴᴰ
+http://cdn.iptvcinema.ru/lb1/5minut.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Пять минут тишиныᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Пять минут тишиныᴴᴰ
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="НТВ Следствие велиᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvsledveli.png",НТВ Следствие велиᴴᴰ
+http://cdn.iptvcinema.ru/lb1/sledstvie.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
+#EXTINF:-1 tvg-id="НТВ Следствие велиᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvsledveli.png",НТВ Следствие велиᴴᴰ
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -3195,6 +3169,35 @@ http://ro01.plink-pile.ch/21229/index.m3u8?token=F3DwiU327mxxCr
 #EXTGRP:BOX
 http://ro01.plink-pile.ch/21230/index.m3u8?token=F3DwiU327mxxCr
 
+#EXTINF:-1 group-title="BOX",BOX Franchise HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19274/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Hybrid HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19275/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Anime HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19276/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Gangster HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19277/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Oscar HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19278/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Memory HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19279/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX M.Serial HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19280/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Serial HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19281/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Game HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19284/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Spy HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19285/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Travel HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19418/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Western HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19419/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Zombie HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19420/index.m3u8
+#EXTINF:-1 group-title="BOX",BOX Cyber HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19421/index.m3u8
+
 
 
 
@@ -3481,6 +3484,66 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19300/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Soviet
 #EXTGRP:Fresh
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19301/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Cinema HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16067/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Cinema
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19287/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Kids
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19288/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Comedy
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19289/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Premiere
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19290/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Family
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19291/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Rating
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19292/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19293/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Fantastic
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19294/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Series
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19295/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Horror
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19296/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Adventure
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19297/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Romantic
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19298/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Russian
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19299/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Thriller
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19300/index.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Soviet
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19301/index.m3u8
+
+
+#KLI
+
+#EXTINF:-1 group-title="KLI",KLI Cinema HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16078/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Comedy HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16080/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI History HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18047/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Premium HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18048/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Russian HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18049/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Fantastic HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18050/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI CCCP HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18175/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Family HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18176/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI VHS HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18173/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Retro HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18177/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Thriller HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18174/index.m3u8
+#EXTINF:-1 group-title="KLI",KLI Киносерия FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19400/index.m3u8
 
 
 # Liberty
@@ -4093,6 +4156,38 @@ http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11097/index.m3u8
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/rukino-hd.png" tvg-id="rukino-hd",PG РуКино HD
 #http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11096/index.m3u8
+
+
+#PROKOP
+
+#EXTINF:-1 group-title="PROKOP",PROKOP CINEMA FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19313/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV cinemaQHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19315/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV Premier HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19399/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV cinemaV
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19316/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP skazkiussr FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19317/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV KIDS HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18141/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV COMEDY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18146/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV FANTAZY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18144/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV CRIMINAL HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18140/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV CINEMA HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18147/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV COMEDY HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18143/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV HORROR HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18145/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV SERIAL HD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19271/index.m3u8
+#EXTINF:-1 group-title="PROKOP",PROKOP TV SERIAL FHD
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19272/index.m3u8
 
 # VF
 
@@ -4727,6 +4822,47 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20164/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
 #EXTGRP:Yosso TV
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20165/index.m3u8
+
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16153/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",Yosso TV Советские фильмы 4K
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19435/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV NEW Кино
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14177/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Comedy
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16151/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Inquest
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16152/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Cartoon
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16050/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Marvel
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16051/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Grand
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14171/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Thriller
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15168/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",Yosso TV Мелодрама
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19434/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV VHS
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14172/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Русские фильмы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14174/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Советские фильмы
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14175/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Трагичное
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14219/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Забавное
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14234/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Ковбойское
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14235/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Best
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14236/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Adrenaline
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15105/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Oblivion
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15509/index.m3u8
+#EXTINF:-1 group-title="Yosso TV",YOSSO TV Adventure
+http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15510/index.m3u8
 
 
 # Z!
