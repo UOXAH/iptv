@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U x-tvg-url="http://uhd.bear-tv.net:8080/beear_uhd_ru_hd_ua/epg.xml"
 
 #http://epg.one/epg.xml.gz
 #https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz
@@ -2462,6 +2462,11 @@ http://ro01.plink-pile.ch/21227/index.m3u8?token=F3DwiU327mxxCr
 http://ro01.plink-pile.ch/21241/index.m3u8?token=F3DwiU327mxxCr
 
 
+#BearTV
+
+
+
+
 
 # BOX
 
@@ -2796,6 +2801,39 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15101/index.m3u8
 #EXTGRP:CineMan
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19437/index.m3u8
 
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/526/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11004/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Top
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11005/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Action
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11006/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Thriller
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11007/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Мелодрама
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11008/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Marvel
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11009/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Ужасы
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11010/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan Комедия
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11011/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan VHS
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11012/index.m3u8
+#EXTINF:0 tvg-rec="7",CineMan РуКино
+#EXTGRP:CineMan
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11013/index.m3u8
+
 
 # Eye
 
@@ -2883,6 +2921,51 @@ http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/19300/index.m3u8
 #EXTINF:0 group-title="Fresh" tvg-logo="https://iptvx.one/picons/fresh-vhs.png" tvg-id="fresh-vhs",Fresh Vhs
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/19293/index.m3u8
 #http://stream.mcquack.net/428/index.m3u8
+
+#EXTINF:0 tvg-rec="0",Fresh Cinema
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19287/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19288/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Comedy
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19289/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Premiere
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Family
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19291/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Rating
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19292/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh VHS
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19293/index.m3u8
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19294/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Series
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19295/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Horror
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19296/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Adventure
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19297/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Romantic
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19298/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Russian
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19299/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Thriller
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19300/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Soviet
+#EXTGRP:Fresh
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19301/index.m3u8
 
 #EXTINF:0 tvg-rec="0",Fresh Cinema
 #EXTGRP:Fresh
