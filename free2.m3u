@@ -1517,7 +1517,7 @@ https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed
 #EXTGRP:КиноStream
 https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
 #EXTINF:-1 tvg-id="38398" tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%a0%d0%a2.png", Сити Эдем - КиноАрт
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
 #EXTINF:-1 tvg-id="34393" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%b7%d0%b8%d1%8f.png", Сити Эдем - КиноАзия
 #EXTGRP:КиноStream
