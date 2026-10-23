@@ -278,45 +278,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32078/index.m3u8
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32081/index.m3u8
 
-#EXTGRP:Теория большого взрыва
-
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 6
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
-#EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",VF Гарри Поттер
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
-#EXTINF:-1 tvg-name="MARVEL CINEMATIC UNIVERSE" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg?width=500", MARVEL CINEMATIC UNIVERSE
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
-#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
-#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН" tvg-logo="https://i.pinimg.com/736x/fc/e7/0f/fce70f99809f656e2ef741107ce7d84f.jpg", ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=8Rvr_KoGTYWePHeLLRUMlA&e=2088007313&scheme=https
-#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-28/ed/c3/edc380ef9dba0a64686651a8cba23b50.jpg", ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=gzTDddWqt5xtwfLzV2xP7Q&e=2090947265&scheme=https
-#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ DC" tvg-logo="https://pic.rtbcdn.ru/userappearance/2026-09-25/23/58/2358e17ae7dbf366412ba1a5967c9afc.jpeg", ВСЕЛЕННАЯ DC
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=AMsR-F6VUPtvhQdeOAZlAQ&e=2090947409&scheme=https
 
 # Новостные
 
@@ -467,6 +428,45 @@ http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14230/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Теория большого взрыва 6
 #EXTGRP:Теория большого взрыва
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15009/index.m3u8
+
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
+http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 6
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
+#EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",VF Гарри Поттер
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
+#EXTINF:-1 tvg-name="MARVEL CINEMATIC UNIVERSE" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg?width=500", MARVEL CINEMATIC UNIVERSE
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН" tvg-logo="https://i.pinimg.com/736x/fc/e7/0f/fce70f99809f656e2ef741107ce7d84f.jpg", ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=8Rvr_KoGTYWePHeLLRUMlA&e=2088007313&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-28/ed/c3/edc380ef9dba0a64686651a8cba23b50.jpg", ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=gzTDddWqt5xtwfLzV2xP7Q&e=2090947265&scheme=https
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ DC" tvg-logo="https://pic.rtbcdn.ru/userappearance/2026-09-25/23/58/2358e17ae7dbf366412ba1a5967c9afc.jpeg", ВСЕЛЕННАЯ DC
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=AMsR-F6VUPtvhQdeOAZlAQ&e=2090947409&scheme=https
 
 # Кино
 
@@ -1499,274 +1499,190 @@ https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
 
 
 #EXTINF:-1 tvg-id="41333" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%ad%d0%ba%d1%88%d0%b5%d0%bd.png", Сити Эдем - КиноЭкшен
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
 #EXTINF:-1 tvg-id="41327" tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%94%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%b8%d0%b2.png", Сити Эдем - КиноДетектив
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
 #EXTINF:-1 tvg-id="40783" tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9c%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноМистика
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
 #EXTINF:-1 tvg-id="41331" tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9a%d0%be%d0%bc%d0%b5%d0%b4%d0%b8%d1%8f.png", Сити Эдем - КиноКомедия
-#EXTGRP: КиноStream SD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
 #EXTINF:-1 tvg-id="34185" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9a%d0%bb%d0%b0%d1%81%d1%81%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноКлассика
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
 #EXTINF:-1 tvg-id="38128" tvg-name="Сити Эдем - КиноСемья" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%a1%d0%b5%d0%bc%d1%8c%d1%8f.png", Сити Эдем - КиноСемья
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
 #EXTINF:-1 tvg-id="38398" tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%a0%d0%a2.png", Сити Эдем - КиноАрт
 #EXTGRP:КиноStream HD
 https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
 #EXTINF:-1 tvg-id="34393" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%b7%d0%b8%d1%8f.png", Сити Эдем - КиноАзия
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
 #EXTINF:-1 tvg-id="45268" tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%a4%d0%b0%d0%bd%d1%82%d0%b0%d1%81%d1%82%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноФантастика
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
 #EXTINF:-1 tvg-id="45269" tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%94%d1%80%d0%b0%d0%bc%d0%b0.png", Сити Эдем - КиноДрама
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
 #EXTINF:-1 tvg-id="46209" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%a2%d0%b5%d0%bb%d0%b5%d0%9d%d0%be%d0%b2%d0%b5%d0%bb%d0%bb%d0%b0.png", Сити Эдем - ТелеНовелла
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
 #EXTINF:-1 tvg-id="34246" tvg-name="Сити Эдем ТВ - Христианский!" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20%d0%a2%d0%92%20-%20%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%b9!.png", Сити Эдем ТВ
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
 #EXTINF:-1 tvg-id="Фантастика HD" tvg-name="Фантастика HD" tvg-logo="http://1lot.tv/ch/6814.png", Фантастика HD
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://s.catcast.tv/content/34816/index.m3u8?token=a9eddceb7e037d1257bb924e0add54b3
 #EXTINF:-1 tvg-id="43064" tvg-name="Malder  vse tv" tvg-logo="https://smotret.tv/images/vse-tv.webp", Малдер Всё ТВ (Дубль)
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312-serial" tvg-logo="https://iptvx.one/picons/312-serial.png",312 Сериал
-#EXTGRP:КиноStream SD
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 audio-track="rus" tvg-id="kinoteatr-uzru" tvg-logo="https://ritsatv.ru/files/poster/medium/901746.webp", Kinoteatr
-#EXTGRP:TV&Films
-https://bl.rutube.ru/livestream/067561b5754d0b7844762fa92939716b/index.m3u8?s=VkhybvzsPeFenOTeffdd4g&e=2075539823&scheme=https
-#EXTINF:-1 tvg-name="КиноСезон" tvg-logo="https://img.vintera.tv/img/ico/kinosezon.png", КиноСезон
-#EXTGRP:TV&Films
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
-#EXTINF:-1 tvg-name="Классика кино" tvg-logo="https://img.vintera.tv/img/ico/klassika_kino.png", Классика кино
-#EXTGRP:TV&Films
-https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
-#EXTINF:-1 tvg-name="Советское кино" tvg-logo="https://img.vintera.tv/img/ico/sovetskoe_kino.png", Советское кино
-#EXTINF:-1 tvg-name="CINEMAN AM" tvg-logo="https://itvget.com/img.php?img=images/channels/6483.png", CINEMAN AM
-#EXTGRP:TV&Films
-https://etv.by/tv/api/efirnoe/play/ch_19b6b36bf1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pic.rtbcdn.ru/user/8a/63/8a63f9316e1d8cc618e79963d7c93a2f.jpg?size=s", НТС
-#EXTGRP:TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd258.okcdn.ru/playback/8170016353210?stkn=n-x7v--1sfV8vmqXUKfnwfALcOtu1foBYfsJj7sJB0kl9mkwLabGEpbH4yWdg-8eAKaFTp8ORDE&uid=0&sp=uid,sp&sig=vlibqm4nyu
-#EXTINF:-1 tvg-id="poisk-tv" tvg-logo="https://epg.iptvx.one/picons/poisk-tv.png", ТВ Поиск
-#EXTGRP:TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd230.okcdn.ru/playback/10443647429442?stkn=_RWUVyeFdQqNwCbpcEsw5pjhhwWQMGNqxYer-PLia_IqRrW8Ip5Jcs1P9Zz0CgsYZ7JayXFKneQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-name="Город" tvg-logo="https://sun1-96.userapi.com/s/v1/ig2/M238Bum2Y19zsKCHCzepxXN6PL60eQYUgllgmC3yxxAj3X1I2joszk460_mFM0A6TBUWiTVVBAm-1IRAhTdUezQc.jpg?quality=95&crop=81,80,1974,1974&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440&ava=1&cs=540x540", Город
-#EXTGRP:TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd200.okcdn.ru/playback/3161073265464?stkn=waSBZKjRq01T9Cet4vQE4gNI-iEdgYfSL3tF57pZT4y0v_ZkjhDQqd_Nh2H6E8GEwJyelRehHjQ&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-id="tayna" tvg-logo="https://ramnet.ru/tv/logo/000003708.png", Тайна ТВ
-#EXTGRP:TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=k9bDH53DPY73h1vlbcNhzQ&e=2071743709&scheme=https
-#EXTINF:-1 tvg-name="1autotvru" tvg-logo="https://static.orgpage.ru/companies/ce/ce37feb8afa045128a63438f1e3132bc.jpg", 1autotvru
-#EXTGRP:TV&Films
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36
-rtmp://vkvsd158.okcdn.ru/playback/10332204051428?stkn=hVx0kn1sfv1eSrGAlIcUsySgZkHrd9_xf3lTnhlbP9v3QWoCIPDZ6tWCko0yGbsh45skapyzpt4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 tvg-id="Epic Media" tvg-name="Epic Media" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXJtPy10ZyNMcHbsKYIkTQ915IOK47L4A3w&s", Epic Media
-#EXTGRP:КиноStream HD
-https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=bc7lIzRmSEzK6u8bhfl1RA&e=2087404289&scheme=https
-#EXTINF:-1 tvg-name="" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-21/cb/00/cb00bf0b844dadef144f7b9fb208e18b.jpg?width=500", AMAZON PRIME VIDEO MEN'S CLUB
-#EXTGRP:КиноStream HD
-https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=uagq7qyIq4Aezo9xxqoWOA&e=2087404567&scheme=https
 #EXTINF:-1 tvg-name="GrandF TV Action HD" tvg-id="action" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Action HD
-#EXTGRP КиноStream HD
+#EXTGRP:КиноStream
 http://62.141.35.207:8080/action/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 tvg-name="GrandF TV Comedy" tvg-id="comedy" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Comedy
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 http://62.141.35.207:8080/comedy/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 tvg-name="GrandF TV Thriller" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Thriller
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 http://62.141.35.207:8080/triller/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 tvg-name="GrandF TV Fantazy" tvg-id="thriller" tvg-logo="https://s6.iimage.su/s/25/goDhfX2xAjDBfI22WCiYpgEIGmTCAqX51E3sX8M3O.jpg",GrandF TV Fantazy
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 http://62.141.35.207:8080/fantazy/video.m3u8?token=WDJ_ON27CzbeN2
 #EXTINF:-1 tvg-name="PZN FILMS" tvg-logo="https://ritsatv.ru/files/poster/original/900989.jpg", PZN FILMS
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Rvision" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://fl1003.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Rvision Movies" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision Movies
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Rvision Кинопанорама" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision Кинопанорама
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Rvision Classic" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision Classic
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://fl1003.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Видеокассета VHS" tvg-logo="http://ru.epg.one/img2/6005.png", Видеокассета VHS
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/vhs90e_live
 #EXTINF:-1 tvg-id="tvzovlive" tvg-name="Твзов Live" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%97%d0%9e%d0%92%20%d0%a2%d0%92.png", ЗОВ ТВ
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba64/index.m3u8
 #EXTINF:-1 tvg-name="FilmOFF" tvg-logo="https://img.icons8.com/m_rounded/1200/shutdown.jpg", FilmOFF
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba65/index.m3u8
 #EXTINF:-1 tvg-name="Кинорейс" tvg-logo="https://avatars.mds.yandex.net/i?id=4afe65e05f6bdd1b5a4c4db042f5a291-4575767-images-thumbs&n=13", Кинорейс
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba82/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Сов.Ком" tvg-logo="https://static.vecteezy.com/system/resources/previews/055/491/549/non_2x/sickle-and-hammer-in-hands-vector.jpg", Сов.Ком
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-z/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Забытое временем" tvg-logo="https://static10.tgstat.ru/channels/_0/b1/b1bcafd9d998c964a44fffacb6c6b0fb.jpg", Забытое временем
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Кинопамять" tvg-logo="https://sun9-42.userapi.com/impf/1uhI4VH-Xtfxtx6ODelI92BYarieYPel2g-ggA/PPi-_hEir0M.jpg?size=750x531&quality=96&sign=5506bd59b38491365061b9f8d5bea5a0&c_uniq_tag=J5bFmGfNupocV446LyIWMHMkawxirf8p19o4qjWbbJ8&type=album", Кинопамять
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Киноностальгия" tvg-logo="https://avatars.mds.yandex.net/i?id=0ab5ee2d4d1d5eeb70351c97a9104e6b_l-5865789-images-thumbs&n=13", Киноностальгия
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Смысл есть" tvg-logo="https://i.taplink.st/a/1/b/d/4/4e67e2.jpg?1", Смысл есть
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Смотрим заново" tvg-logo="https://sun9-72.userapi.com/impf/c841232/v841232099/63204/PwUlRvUG2xM.jpg?size=807x807&quality=96&sign=061c2929f96aa0bd341b9aa45885fbb4&c_uniq_tag=4D0ghBCvZm0Vwb1k1q8Ub07HUazCioAJdqYfkzz85ss&type=album", Смотрим заново
-#EXTGRP:КиноStream SD
+#EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://avatars.mds.yandex.net/get-dialogs/1535439/f0bcea0e95e1a0f0811e/orig", Кинозал
-#EXTGRP:КиноStream HD
+#EXTGRP:КиноStream
 https://etv.by/tv/api/efirnoe/play/ch_acac9805b4
 #EXTINF:-1 tvg-name="Kinowalk_tv" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140", Kinowalk_tv
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/kinowalk_live
 #EXTINF:-1 tvg-id="49811" tvg-name="ScripachTV" tvg-logo="https://kinowalk.hopto.org/web/image/134/128x128?unique=2026-07-25%2013:55:22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825", ScripachTV
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/scripachtv_live
 #EXTINF:-1 tvg-id="49811" tvg-name="ScripachTV" tvg-logo="https://kinowalk.hopto.org/web/image/134/128x128?unique=2026-07-25%2013:55:22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825", ScripachTV (Дубль)
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 https://assimilator.tv/uploads/scripach.m3u8
 #EXTINF:-1 tvg-name="SeleCaoTV" tvg-logo="http://kinowalk.hopto.org/static-content/logo/135?unique=2026-07-27+13%3A53%3A12.491531&access_token=313f9f43-066e-401a-9645-4dead7dddb50", SeleCaoTV
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/selecaotv_live
 #EXTINF:-1 tvg-name="SeleCaoTV 2" tvg-logo="http://kinowalk.hopto.org/static-content/logo/135?unique=2026-07-27+13%3A53%3A12.491531&access_token=313f9f43-066e-401a-9645-4dead7dddb50", SeleCaoTV 2
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/videoarsenal_live
 #EXTINF:-1 tvg-name="" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825", KinoMix Юрич 2
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:-1 tvg-name="KinoMix Юрич" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825", KinoMix Юрич (Дубль)
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 https://assimilator.tv/uploads/kinomix%20double.m3u8
 #EXTINF:-1 tvg-name="Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140", Alex.Films
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/alex.films_live
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 tvg-name="VHS Forever" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140", VHS Forever
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/vhs-forever_live
 #EXTINF:-1 tvg-name="ROMEO Video" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140", ROMEO Video
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/romeovideo_live
 #EXTINF:-1 tvg-name="Эквилибриум" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140", Эквилибриум
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 tvg-name="КОМЕДИИ 24/7" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140", КОМЕДИИ 24/7
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/cmexye4ku_live
 
-#EXTINF:-1 tvg-name="KinoJam" tvg-logo="https://kinowalk.hopto.org/web/image/133/128x128?unique=2026-07-25%2013:58:47.233805&access_token=1b0e08fc-b6a2-4d5e-a842-a8e2d3cc67ba", KinoJam
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/kinojam_live
 #EXTINF:-1 tvg-id="43064" tvg-name="Malder  vse tv" tvg-logo="https://smotret.tv/images/vse-tv.webp", Малдер Всё ТВ
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/maldrvsetv_live
 #EXTINF:-1 tvg-name="Dimpon TV" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg", Dimpon TV
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/dimpon_live
 #EXTINF:-1 tvg-name="Blockbusters Time" tvg-logo="https://images.live.vkvideo.ru/user/23770117/avatar?change_time=1767918213&croped=1&mh=140&mw=140", Blockbusters Time
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/blockbusterstime_live
 #EXTINF:-1 tvg-name="Cinema Time" tvg-logo="https://images.live.vkvideo.ru/user/23803295/avatar?change_time=1767804459&croped=1&mh=140&mw=140", Cinema Time
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/cinematime_live
 #EXTINF:-1 tvg-name="kinolampa" tvg-logo="https://images.live.vkplay.ru/user/18921611/avatar?change_time=1714646402&croped=1&mh=140&mw=140", kinolampa
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 tvg-name="𝕂𝔸ℂℂ𝔼𝕋𝔸" tvg-logo="https://images.live.vkvideo.ru/user/19254112/avatar?change_time=1736877622&croped=1&mh=140&mw=140", 𝕂𝔸ℂℂ𝔼𝕋𝔸
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/kasseta_live
 #EXTINF:-1 tvg-name="Первый ряд" tvg-logo="https://images.live.vkvideo.ru/user/19135223/avatar?change_time=1735603928&croped=1&mh=140&mw=140", Первый ряд
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/perviryad_live 
-#EXTINF:-1 tvg-name="Тоха Стрим" tvg-logo="https://images.live.vkvideo.ru/user/20310353/avatar?change_time=1771179346&croped=1&mh=140&mw=140", Тоха Стрим
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1 tvg-name="Эра VHS" tvg-logo="https://kinowalk.hopto.org/web/image/202/128x128?unique=2026-02-21%2020:44:21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c", Эра VHS
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/vhs90s_live
 #EXTINF:-1 tvg-name="Назад в СССР" tvg-logo="https://kinowalk.hopto.org/web/image/203/128x128?unique=2026-02-24%2017:40:47.422997&access_token=0b4aaf86-06ac-49d3-832e-1f54409ec935", Назад в СССР
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:-1 tvg-name="VHS Power" tvg-logo="https://kinowalk.hopto.org/web/image/229/128x128?unique=2026-02-27%2000:42:39.447034&access_token=5669e3ab-5c82-4751-8438-03a8e7706ad8", VHS Power
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/noir_live
-#EXTINF:-1 tvg-name="KinoFilm" tvg-logo="https://p16-sg.tiktokcdn.com/tos-alisg-avt-0068/7326524358644465685~tplv-tiktokx-cropcenter-q:720:720:q80.jpeg", KinoFilm
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/poe2proxodim_live
 #EXTINF:-1 tvg-name="Кладовая Фильмов" tvg-logo="https://images.live.vkvideo.ru/user/34036642/avatar?change_time=1780923320&croped=1&mh=140&mw=140", Кладовая Фильмов
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/skladfilm_live
-#EXTINF:-1 tvg-name="NeoVision TV" tvg-logo="https://images.live.vkvideo.ru/user/33342535/avatar?change_time=1779428598&croped=1&mh=140&mw=140", NeoVision TV
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/neovisiontv_live
 #EXTINF:-1 tvg-name="KinoPro" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg", KinoPro
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 tvg-name="Фильмоскоп" tvg-logo="https://kinowalk.hopto.org/web/image/339/128x128?unique=2026-07-25%2013:22:03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683", Фильмоскоп
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/filmscope_live
-#EXTINF:-1 tvg-name="Real State Films" tvg-logo="https://kinowalk.hopto.org/web/image/325/128x128?unique=2026-06-26%2014:50:28.479360&access_token=3da0e03e-717b-4969-bce2-6f3f5d5cdbc9", Real State Films
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/rsf_live
 #EXTINF:-1 tvg-name="Кинотека" tvg-logo="https://kinowalk.hopto.org/web/image/177/128x128?unique=2026-02-20%2001:57:49.533570&access_token=47c42de7-a71a-4cf9-8390-aa3f92f5aeb5", Кинотека
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 https://kinowalk.hopto.org/kinoteka_full_hd_top_live
-#EXTINF:-1 tvg-name="DVD online" tvg-logo="https://kinowalk.hopto.org/web/image/333/128x128?unique=2026-07-23%2016:57:08.393206&access_token=6cdc8c7c-09e4-4aaa-a6bf-e0bf95e43703", DVD online
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/kinostream_rezerv_live
-#EXTINF:-1 tvg-name="Kinoshnik" tvg-logo="https://kinowalk.hopto.org/web/image/335/128x128?unique=2026-07-23%2016:59:50.988372&access_token=8a94c915-f2ff-4758-8ea7-86b19aa2d19c", Kinoshnik
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/kinoshnik_8_live
-#EXTINF:-1 tvg-name="СтримКино" tvg-logo="https://kinowalk.hopto.org/web/image/337/128x128?unique=2026-07-29%2012:42:20.802357&access_token=9049becb-ed7d-4eaf-8549-455f3be49c86", СтримКино
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/channel30001568_live
 #EXTINF:-1 tvg-name="МирКино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/387?unique=2026-08-26+11%3A23%3A12.796389&access_token=c4732575-0377-426e-872b-03e94fbd0a71", МирКино
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/ncd_live
 #EXTINF:-1 tvg-name="KinoБайт" tvg-logo="http://kinowalk.hopto.org/static-content/logo/374?unique=2026-08-22+19%3A06%3A02.381591&access_token=fc4fd2e8-27db-4c33-9423-68ac534d0adc", KinoБайт
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/moviebytes_live
 #EXTINF:-1 tvg-name="Мир Ехо" tvg-logo="http://kinowalk.hopto.org/static-content/logo/389?unique=2026-08-28+10%3A44%3A27.482546&access_token=6e779780-a06b-4715-b6dd-a607775eda5f", Мир Ехо
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/mirdobro_live
 #EXTINF:-1 tvg-name="VHS store" tvg-logo="http://kinowalk.hopto.org/static-content/logo/391?unique=2026-09-08+04%3A59%3A08.262286&access_token=e549c1e3-9b47-40ac-90d5-6fd535bbe0ec", VHS store
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/channel36774366_live
-#EXTGRP:Kinowalk Production
+#EXTGRP:КиноStream
 http://kinowalk.hopto.org/whiskywhitcola_live
-#EXTINF:-1 tvg-name="KINO store" tvg-logo="http://kinowalk.hopto.org/static-content/logo/403?unique=2026-10-12+07%3A53%3A09.744069&access_token=06d09888-3e06-4edc-8f76-8b305528c3fe", KINO store
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/kinostore_live
-#EXTINF:-1 tvg-name="KinoPag" tvg-logo="http://kinowalk.hopto.org/static-content/logo/404?unique=2026-10-12+08%3A02%3A43.061817&access_token=1e759f95-e9e7-4168-a1ae-b1376eb24230", KinoPag
-#EXTGRP:Kinowalk Production
-http://kinowalk.hopto.org/channel36569193_live
+
 
 
 #EXTGRP:Детские
@@ -2784,12 +2700,6 @@ http://ro01.plink-pile.ch/20816/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BCU KINORATING HD
 #EXTGRP:BCU
 http://ro01.plink-pile.ch/20817/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU MARVEL HDR
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/20818/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU MARVEL HD
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/20840/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BCU PREMIERE HD
 #EXTGRP:BCU
 http://ro01.plink-pile.ch/20819/index.m3u8?token=F3DwiU327mxxCr
@@ -2844,9 +2754,6 @@ http://ro01.plink-pile.ch/20837/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BCU Premiere 1 HD
 #EXTGRP:BCU
 http://ro01.plink-pile.ch/20823/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 2 HD
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/20824/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BCU Premiere 3 HD
 #EXTGRP:BCU
 http://ro01.plink-pile.ch/20825/index.m3u8?token=F3DwiU327mxxCr
@@ -3032,9 +2939,6 @@ http://ro01.plink-pile.ch/20879/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BOX Remast+ 4K
 #EXTGRP:BOX
 http://ro01.plink-pile.ch/20888/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Apocalypse HD
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/20809/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,BOX UltraStars 4K
 #EXTGRP:BOX
 http://ro01.plink-pile.ch/21221/index.m3u8?token=F3DwiU327mxxCr
@@ -3475,34 +3379,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19300/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19301/index.m3u8
 
 
-#KLI
-
-#EXTINF:-1 group-title="KLI",KLI Cinema HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16078/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Comedy HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16080/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI History HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18047/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Premium HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18048/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Russian HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18049/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Fantastic HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18050/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI CCCP HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18175/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Family HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18176/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI VHS HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18173/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Retro HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18177/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Thriller HD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/18174/index.m3u8
-#EXTINF:-1 group-title="KLI",KLI Киносерия FHD
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19400/index.m3u8
-
-
 # Liberty
 
 #EXTINF:0 tvg-rec="0",Liberty DC FHD
@@ -3686,9 +3562,6 @@ http://ro01.plink-pile.ch/8026/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY СОЮЗ 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8029/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КИНО ENG  4K
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/8031/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY ТРИЛЛЕРЫ 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8035/index.m3u8?token=F3DwiU327mxxCr
@@ -3698,12 +3571,6 @@ http://ro01.plink-pile.ch/8036/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY СЕРИАЛЫ 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8039/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КРИМИНАЛ 4K
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/8040/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY XX ВЕК 4K
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/8042/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY АВАНПОСТ 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8043/index.m3u8?token=F3DwiU327mxxCr
@@ -3716,9 +3583,6 @@ http://ro01.plink-pile.ch/8048/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY МЮЗИКЛ 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8049/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Азия 4K HDR
-#EXTGRP:RU Кинозал
-http://ro01.plink-pile.ch/8061/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY Драма 4K HDR
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8062/index.m3u8?token=F3DwiU327mxxCr
