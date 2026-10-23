@@ -59,9 +59,21 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9205/index.m3u8
 #EXTINF:0 tvg-rec="3",РЕН ТВ HD orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9002/index.m3u8
+#EXTINF:0 tvg-rec="7",РЕН ТВ HD
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/2024/index.m3u8
+#EXTINF:0 tvg-rec="7",РЕН ТВ
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/128/index.m3u8
 #EXTINF:0 tvg-rec="3",ТВ-3 orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9206/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВ-3 HD
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/5033/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ-3
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/508/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятница! orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9207/index.m3u8
@@ -101,12 +113,21 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/501/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВ Центр
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/520/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ Центр
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/520/index.m3u8
 #EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/112/index.m3u8
 #EXTINF:0 tvg-rec="3",Пятый канал orig
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9096/index.m3u8
+#EXTINF:0 tvg-rec="7",Пятый канал
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Пятый канал orig
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/9096/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир HD
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15119/index.m3u8
@@ -148,6 +169,9 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15116/index.m3u8
 #EXTINF:0 tvg-rec="7",Домашний
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/514/index.m3u8
+#EXTINF:0 tvg-rec="7",Домашний
+#EXTGRP:Общие
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/514/index.m3u8
 #EXTINF:0 tvg-rec="0",ТВ Центр International
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32080/index.m3u8
