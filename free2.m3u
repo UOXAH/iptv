@@ -1,8 +1,9 @@
-#EXTM3U x-tvg-url="http://uhd.bear-tv.net:8080/beear_uhd_ru_hd_ua/epg.xml"
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml.gz"
 
 #http://epg.one/epg.xml.gz
 #https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz
 #http://epg.it999.ru/epg2.xml.gz
+#http://uhd.bear-tv.net:8080/beear_uhd_ru_hd_ua/epg.xml
 
 # Общие
 
