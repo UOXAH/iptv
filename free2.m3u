@@ -995,6 +995,7 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 #Познавательные
 
+#EXTINF:0 tvg-rec="0",National Geographic 
 #EXTGRP:Познавательные
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/2336/index.m3u8
 #EXTINF:0 tvg-rec="3",Моя Стихия
@@ -1043,7 +1044,7 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/14000/index.m3u8
 #EXTGRP:Познавательные
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/14027/index.m3u8
 #EXTINF:0 tvg-rec="7",Моя Планета
-#EXTGRP:познавательные
+#EXTGRP:Познавательные
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/117/index.m3u8
 #EXTINF:0 tvg-rec="7",История
 #EXTGRP:Познавательные
