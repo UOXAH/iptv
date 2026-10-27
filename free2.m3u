@@ -750,7 +750,7 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18063/index.m3u8
 #EXTGRP:Кино
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18064/index.m3u8
 #EXTINF:0 tvg-rec="0",Magic Thriller HD
-#EXTGRP:кино
+#EXTGRP:Кино
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18065/index.m3u8
 #EXTINF:0 tvg-rec="0",Magic Action HD
 #EXTGRP:Кино
@@ -3322,7 +3322,7 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11006/index.m3u8
 #EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11007/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Мелодрама
-#EXTGRP:кино
+#EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11008/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Marvel
 #EXTGRP:CineMan
@@ -3579,10 +3579,10 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19295/index.m3u8
 #EXTGRP:Fresh
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19296/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Adventure
-#EXTGRP:кино
+#EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19297/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Romantic
-#EXTGRP:кино
+#EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/19298/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Russian
 #EXTGRP:Fresh
