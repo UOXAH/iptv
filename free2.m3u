@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.iptvx.tv/xmltv.xml.gz"
+#EXTM3U x-tvg-url="https://italo.s.gy/fullepg"
 
 #http://epg.one/epg.xml.gz
 #https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz
@@ -9,8 +9,6 @@
 #http://stb.shara-tv.org/epg/epgtv.xml.gz
 #http://epg.do.am/tv.gz
 #http://st.kineskop.tv/epg.xml.gz
-#http://topiptv.info/download/topiptv.xml.gz
-#http://epg.iptvx.tv/xmltv.xml.gz
 #https://italo.s.gy/fullepg
 
 # Общие
