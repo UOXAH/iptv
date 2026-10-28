@@ -358,21 +358,12 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32070/index.m3u8
 #EXTINF:0 tvg-rec="0",Deutsche Welle Russian
 #EXTGRP:Новостные
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32084/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал UHD
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/19241/index.m3u8
-#EXTINF:0 tvg-rec="7",Пятый канал
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/112/index.m3u8
 #EXTINF:0 tvg-rec="7",Москва 24
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/523/index.m3u8
 #EXTINF:0 tvg-rec="7",Мир 24
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/712/index.m3u8
-#EXTINF:0 tvg-rec="7",Санкт-Петербург
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/715/index.m3u8
 #EXTINF:0 tvg-rec="7",360
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/825/index.m3u8
@@ -397,9 +388,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18038/index.m3u8
 #EXTINF:0 tvg-rec="0",Известия HD
 #EXTGRP:Новостные
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18039/index.m3u8
-#EXTINF:0 tvg-rec="0",РТР Планета
-#EXTGRP:Новостные
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18042/index.m3u8
 
 # Теория большого взрыва
 
@@ -558,10 +546,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7261/index.m3u8
 #EXTINF:0 tvg-rec="0",Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7347/index.m3u8
-#EXTINF:-1 group-title="НТВ+",Кино ТВ HD
-http://176.118.197.101:80/KinoTvHD/playlist.m3u8
-#EXTINF:-1 group-title="НТВ+",Кино ТВ HD
-http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Еврокино HD orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9078/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Иллюзион+ HD orig
@@ -619,55 +603,6 @@ http://185.161.224.211/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Киносемья" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья.png",Киносемья
 http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-
-#EXTINF:0 tvg-rec="7",StrahTV The X-Files
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11055/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Интерны ТВ
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11060/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV СССР
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11061/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Сваты
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11062/index.m3u8
-#EXTINF:0 tvg-rec="7",StrahTV Универ ТВ
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/11063/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Байки из склепа
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31711/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Громовы
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31712/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Коломбо
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31713/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Кинодром HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31714/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Однажды в милиции
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31715/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Ольга HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31718/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Репка HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31719/index.m3u8
-#EXTINF:0 tvg-rec="0",StrahTV Страх 2.0 HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/31720/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Comedy
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16151/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Inquest
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16152/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus History
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18139/index.m3u8
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
 http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
@@ -676,18 +611,6 @@ http://194.152.35.17/cinema/index.m3u8
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
 http://178.134.1.158:8081/cinema/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Marvel
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16051/index.m3u8
-#EXTINF:0 tvg-rec="0",Citrus Cartoon
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16050/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ Classic HD FR
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/17039/index.m3u8
-#EXTINF:0 tvg-rec="0",Start Air HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18036/index.m3u8
 #EXTINF:0 tvg-rec="0",Magic Karate HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18061/index.m3u8
@@ -1085,6 +1008,36 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/2155/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Авто Гир FHD
 #EXTGRP:Познавательные
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/15109/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Приключения HD
+http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Investigation Discovery HD
+http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Channels HD
+http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel XP HD
+http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",The Explorers
+http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Фауна
+http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",One Planet HD
+http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя стихия
+http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",Трофей
+http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Познавательные",В мире животных
+http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
 
 
 # Триколор
@@ -3196,6 +3149,22 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11011/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan VHS
 #EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11012/index.m3u8
+#EXTINF:-1 group-title="CineMan",CineMan
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",CineMan Top
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",Cineman Premium
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",Cineman Катастрофы
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",Cineman Мелодрама
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",CineMan Action
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",CineMan Thriller
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="CineMan",Cineman VHS
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
 
 
 # Eye
@@ -3500,6 +3469,33 @@ http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/19300/index.m3u8
 #EXTGRP:Fresh
 http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/19301/index.m3u8
 
+#EXTINF:-1 group-title="Fresh",Fresh Thriller
+http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Romantic
+http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Adventure
+http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Horror
+http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Series
+http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Fantastic
+http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh VHS
+http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Family
+http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Comedy
+http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Kids
+http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Premiere
+http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Cinema
+http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Fresh",Fresh Rating
+http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
+
 
 # Liberty
 
@@ -3539,30 +3535,9 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16053/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Комедии FHD
 #EXTGRP:Liberty
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16054/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16055/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/17060/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/17061/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт UKR 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18044/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18045/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
 #EXTGRP:Liberty
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18046/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18051/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Индия 4K
-#EXTGRP:Liberty
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18160/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Куб 4K
 #EXTGRP:Liberty
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18161/index.m3u8
@@ -3633,30 +3608,15 @@ http://ro01.plink-pile.ch/8004/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY БОЕВИКИ  FHD
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8005/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY СВАТЫ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8008/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY КОМЕДИИ FHD
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8010/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY ЗАНАВЕС FHD
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8014/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY АНИМЕ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8015/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY МиМ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8028/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY ФАНТАСТИКА FHD
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8030/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ШОУ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8016/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY АВТО ГИР FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8033/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY МАРВЕЛ  FHD
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8034/index.m3u8?token=F3DwiU327mxxCr
@@ -3702,12 +3662,6 @@ http://ro01.plink-pile.ch/8046/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY ДРИМ ВОРКС 4K
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8048/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY МЮЗИКЛ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8049/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Драма 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8062/index.m3u8?token=F3DwiU327mxxCr
 #EXTINF:0,LIBERTY Комедии 4K HDR
 #EXTGRP:Liberty
 http://ro01.plink-pile.ch/8063/index.m3u8?token=F3DwiU327mxxCr
@@ -3757,54 +3711,21 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15096/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Кино Микс 4K
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15110/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15111/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сваты FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15164/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Южный Парк FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/16053/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Комедии FHD
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/16054/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Сериалы FHD
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/16055/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Аниме FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/17029/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино ENG 4K
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/17060/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/17061/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Кино UKR 4K
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/18045/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/18046/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Индия 4K
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/18160/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Куб 4K
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/18161/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Семейный 4K
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/18178/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Турк Фильм 4K
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19303/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Сказки FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19304/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty МиМ FHD
-#EXTGRP:Liberty
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19306/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Союз 4K
 #EXTGRP:Liberty
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19307/index.m3u8
@@ -4156,52 +4077,7 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13009/index.m3u8
 
 #Ott Club
 
-#EXTINF:-1 group-title="Ott Club",Приключения HD
-http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",National Geographic HD
-http://stream.mcquack.net/116/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Nat Geo Wild HD
-http://stream.mcquack.net/149/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Discovery Channel HD
-http://stream.mcquack.net/177/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Investigation Discovery HD
-http://stream.mcquack.net/205/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Travel Channels HD
-http://stream.mcquack.net/231/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Travel XP HD
-http://stream.mcquack.net/451/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",The Explorers
-http://stream.mcquack.net/450/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Insight TV HD
-http://stream.mcquack.net/361/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Масон ТВ
-http://stream.mcquack.net/346/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Наука
-http://stream.mcquack.net/403/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Фауна
-http://stream.mcquack.net/401/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Соль
-http://stream.mcquack.net/398/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",One Planet HD
-http://stream.mcquack.net/448/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Animal Planet HD
-http://stream.mcquack.net/114/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Моя стихия
-http://stream.mcquack.net/141/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Трофей
-http://stream.mcquack.net/357/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",36.6
-http://stream.mcquack.net/331/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",В мире животных
-http://stream.mcquack.net/241/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Свiт на виворiт
-http://stream.mcquack.net/49/tracks-v1a1/mono.ts.m3u
-#EXTINF:-1 group-title="Ott Club",Зоосвіт
-http://stream.mcquack.net/460/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Nature Relaxation 
-http://stream.mcquack.net/459/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",TLC
-http://stream.mcquack.net/168/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 group-title="Ott Club",Cinema 
 http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Кинопоказ
@@ -4216,26 +4092,6 @@ http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Остросюжетное HD
 http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan
-http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Top
-http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Premium
-http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Катастрофы
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman Мелодрама
-http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Action
-http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",CineMan Thriller
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Cineman VHS
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Дорама HD
-http://stream.mcquack.net/412/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinosweet
-http://stream.mcquack.net/447/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Kinowood HD
 http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",KinoLiving HD
@@ -4264,172 +4120,16 @@ http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Ужасающее HD
 http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Thriller
-http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Romantic
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Adventure
-http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Horror
-http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Series
-http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Fantastic
-http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh VHS
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Family
-http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Comedy
-http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Kids
-http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Premiere
-http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Cinema
-http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fresh Rating
-http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Gags Network
-http://stream.mcquack.net/458/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",RAZ 1
 http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",RAZ 2
 http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",Kino 2
 http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Iнтер
-http://stream.mcquack.net/174/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Iнтер+
-http://stream.mcquack.net/345/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ТЕТ HD
-http://stream.mcquack.net/338/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Бiгудi
-http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ПлюсПлюс
-http://stream.mcquack.net/339/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",НТН HD
 http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ДІМ
-http://stream.mcquack.net/383/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Вікторина
-http://stream.mcquack.net/146/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Мега
-http://stream.mcquack.net/325/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",К2 HD
-http://stream.mcquack.net/324/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Zoom Украина
-http://stream.mcquack.net/327/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",2+2
-http://stream.mcquack.net/173/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Enter-фільм HD
-http://stream.mcquack.net/322/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",TV2
 http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ТБ HD
-http://stream.mcquack.net/156/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Канал HD
-http://stream.mcquack.net/157/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",1+1
-http://stream.mcquack.net/219/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",1+1 Марафон HD
-http://stream.mcquack.net/172/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Bolt
-http://stream.mcquack.net/73/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Еспресо HD
-http://stream.mcquack.net/84/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Закон ТВ
-http://stream.mcquack.net/406/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ПРО КИЇВ
-http://stream.mcquack.net/160/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kino 1 HD
-http://stream.mcquack.net/395/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Машина часу
-http://stream.mcquack.net/140/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",ЖВЛ+
-http://stream.mcquack.net/139/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Сiмейнi Мелодрами+
-http://stream.mcquack.net/137/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Панянка + Селянка
-http://stream.mcquack.net/134/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Опер за викликом +
-http://stream.mcquack.net/50/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Твiй серiал
-http://stream.mcquack.net/466/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Фронт
-http://stream.mcquack.net/489/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",МузТВ
-http://stream.mcquack.net/86/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Музвар
-http://stream.mcquack.net/467/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Bridge HD
-http://stream.mcquack.net/92/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Bridge TV
-http://stream.mcquack.net/318/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Bridge TV Classic
-http://stream.mcquack.net/272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Европа плюс тв
-http://stream.mcquack.net/184/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",InRating
-http://stream.mcquack.net/147/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",В гостях у сказки 
-http://stream.mcquack.net/93/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Tiji
-http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Jim Jam
-http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Солнце 
-http://stream.mcquack.net/118/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Da Vinci
-http://stream.mcquack.net/238/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Піксель
-http://stream.mcquack.net/223/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Gulli Girl
-http://stream.mcquack.net/111/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Jim Jam
-http://stream.mcquack.net/150/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",2x2
-http://stream.mcquack.net/187/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Nick Jr
-http://stream.mcquack.net/220/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Nickelodeon 
-http://stream.mcquack.net/443/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",KinoKazka
-http://stream.mcquack.net/167/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Equalympic HD
-http://stream.mcquack.net/485/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Go3 Sport 1
-http://stream.mcquack.net/416/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",IVI Sport
-http://stream.mcquack.net/457/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Sports Extreme
-http://stream.mcquack.net/148/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Maincast Sport
-http://stream.mcquack.net/487/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Maincast Кiберспорт
-http://stream.mcquack.net/490/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Qazsport
-http://stream.mcquack.net/72/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Спорт 1 Украина
-http://stream.mcquack.net/461/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Sport 2
-http://stream.mcquack.net/461/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Спорт 3 Украина
-http://stream.mcquack.net/393/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Спорт 4 Украина
-http://stream.mcquack.net/394/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Спорт 5
-http://stream.mcquack.net/212/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Dynamo Kyiv TV HD
-http://stream.mcquack.net/396/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Setanta Sports 1
-http://stream.mcquack.net/234/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Setanta Sports 2
-http://stream.mcquack.net/235/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Eurosport 1
-http://stream.mcquack.net/176/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Eurosport 2
-http://stream.mcquack.net/192/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",VPN Мужское кино
 http://stream.mcquack.net/107/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Ott Club",VPN Кинокомедия HD
