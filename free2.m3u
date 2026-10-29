@@ -4057,22 +4057,6 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11011/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan VHS
 #EXTGRP:CineMan
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/11012/index.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan
-http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Top
-http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",Cineman Premium
-http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",Cineman Катастрофы
-http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",Cineman Мелодрама
-http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Action
-http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",CineMan Thriller
-http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="CineMan",Cineman VHS
-http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="CineMan" tvg-id="4682" tvg-logo="http://epg.one/img2/4682.png" tvg-rec="7",CineMan
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11004/index.m3u8
@@ -4436,33 +4420,6 @@ http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/19300/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Soviet
 #EXTGRP:Fresh
 http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/19301/index.m3u8
-
-#EXTINF:-1 group-title="Fresh",Fresh Thriller
-http://stream.mcquack.net/434/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Romantic
-http://stream.mcquack.net/433/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Adventure
-http://stream.mcquack.net/432/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Horror
-http://stream.mcquack.net/431/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Series
-http://stream.mcquack.net/430/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Fantastic
-http://stream.mcquack.net/429/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh VHS
-http://stream.mcquack.net/428/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Family
-http://stream.mcquack.net/427/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Comedy
-http://stream.mcquack.net/426/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Kids
-http://stream.mcquack.net/425/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Premiere
-http://stream.mcquack.net/424/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Cinema
-http://stream.mcquack.net/423/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Fresh",Fresh Rating
-http://stream.mcquack.net/422/tracks-v1a1/mono.ts.m3u8
 
 
 # Liberty
@@ -5042,98 +4999,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13031/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13051/index.m3u8
 #EXTINF:-1 group-title="MM",MM 007 HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13009/index.m3u8
-
-#Ott Club
-
-
-#EXTINF:-1 group-title="Ott Club",Cinema 
-http://stream.mcquack.net/62/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Кинопоказ
-http://stream.mcquack.net/64/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Комедийное HD
-http://stream.mcquack.net/74/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Хит HD
-http://stream.mcquack.net/363/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",БЛОКБАСТЕР HD
-http://stream.mcquack.net/364/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Премиальное HD
-http://stream.mcquack.net/421/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Остросюжетное HD
-http://stream.mcquack.net/214/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinowood HD
-http://stream.mcquack.net/446/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",KinoLiving HD
-http://stream.mcquack.net/445/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Hollywood HD
-http://stream.mcquack.net/268/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Fan HD
-http://stream.mcquack.net/420/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Кино ТВ
-http://stream.mcquack.net/221/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia 1
-http://stream.mcquack.net/117/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia Premium 
-http://stream.mcquack.net/151/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Amedia Hit
-http://stream.mcquack.net/162/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Капитан фантастика 
-http://stream.mcquack.net/144/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.red
-http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.Black 
-http://stream.mcquack.net/263/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",.Sci-Fi
-http://stream.mcquack.net/180/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kinogrande
-http://stream.mcquack.net/456/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Ужасающее HD
-http://stream.mcquack.net/75/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",RAZ 1
-http://stream.mcquack.net/463/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",RAZ 2
-http://stream.mcquack.net/464/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",Kino 2
-http://stream.mcquack.net/465/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",НТН HD
-http://stream.mcquack.net/326/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",TV2
-http://stream.mcquack.net/368/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Мужское кино
-http://stream.mcquack.net/107/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Кинокомедия HD
-http://stream.mcquack.net/265/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Кинокомедия HD
-http://stream.mcquack.net/170/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Киносвидание
-http://stream.mcquack.net/171/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Кинохит HD
-http://stream.mcquack.net/126/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Киномикс HD
-http://stream.mcquack.net/133/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN TV 1000 East HD
-http://stream.mcquack.net/110/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN TV 1000 Action HD
-http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN ViP Premiere HD
-http://stream.mcquack.net/202/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN ViP Megahit HD
-http://stream.mcquack.net/200/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN ViP Comedy HD
-http://stream.mcquack.net/201/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN ViP Serial HD
-http://stream.mcquack.net/311/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Fox HD
-http://stream.mcquack.net/182/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Fox Life HD
-http://stream.mcquack.net/129/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN ТВ XXI
-http://stream.mcquack.net/152/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Plan B HD
-http://stream.mcquack.net/152/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN Еврокино HD
-http://stream.mcquack.net/385/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Ott Club",VPN НСТ
-http://stream.mcquack.net/207/tracks-v1a1/mono.ts.m3u8
 
 
 # PG
