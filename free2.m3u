@@ -397,8 +397,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 tvg-id="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="Гарри Поттер" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14230/index.m3u8
 #EXTINF:-1 tvg-id="Гарри Поттер 1" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 1
@@ -418,7 +416,11 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15009/index.m3u8
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 9
 
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LEVQ7L9X7MNCCBD8G23FTBSU/15009/index.m3u8
+
+#EXTINF:-1 group-title="Теория большого взрыва",Гарри Поттер 10
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
+#EXTINF:-1 group-title="Теория большого взрыва",Властелин колец 1
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=H-JEA4j7eacMe_OeHeLrPA&e=2093390366&scheme=https
 #EXTGRP:Теория большого взрыва
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
@@ -464,6 +466,8 @@ https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН" tvg-logo="https://i.pinimg.com/736x/fc/e7/0f/fce70f99809f656e2ef741107ce7d84f.jpg", ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=8Rvr_KoGTYWePHeLLRUMlA&e=2088007313&scheme=https
+#EXTINF:-1 group-title="Теория большого взрыва",Звездные войны 1
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=tn-qt31BRSrjQ2hqHbjmcQ&e=2093390365&scheme=https
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ" tvg-logo="https://pic.rtbcdn.ru/video/2026-09-28/ed/c3/edc380ef9dba0a64686651a8cba23b50.jpg", ВСЕЛЕННАЯ ВЛАСТЕЛИНА КОЛЕЦ
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=gzTDddWqt5xtwfLzV2xP7Q&e=2090947265&scheme=https
