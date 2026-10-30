@@ -1073,6 +1073,284 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19408/index.m3u8
 #EXTINF:0 group-title="Кинозалы" tvg-id="106" tvg-logo="http://epg.one/img2/106.png" tvg-rec="0",MYTV 3
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19411/index.m3u8
 
+#Кинозалы
+
+
+#EXTINF:0 tvg-id="X39821" tvg-name="KBC-В.О.В. HD" tvg-logo="https://iptv.pm/images/ico/39821-65d85c17dff08.png"  tvg-rec="5" timeshift="5", KBC-В.О.В. HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8810/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39800" tvg-name="KBC-Comics HD" tvg-logo="https://iptv.pm/images/ico/39800-601c3f898f187.png"  tvg-rec="5" timeshift="5", KBC-Comics HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8811/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X35448" tvg-name="KBC-Elite comedy's HD" tvg-logo="https://iptv.pm/images/ico/35448-600488c427e1e.png"  tvg-rec="5" timeshift="5", KBC-Elite comedy's HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8812/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39795" tvg-name="KBC-Fantastic HD" tvg-logo="https://iptv.pm/images/ico/39795-601c19c807f8a.png"  tvg-rec="5" timeshift="5", KBC-Fantastic HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8813/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39796" tvg-name="KBC-History HD" tvg-logo="https://iptv.pm/images/ico/39796-601c197fc25e8.png"  tvg-rec="5" timeshift="5", KBC-History HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8814/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39048" tvg-name="KBC-Newfilm HD" tvg-logo="https://iptv.pm/images/ico/39048-6009db07cf9d0.png"  tvg-rec="5" timeshift="5", KBC-Newfilm HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8815/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42051" tvg-name="KBC-WAR HD" tvg-logo="https://iptv.pm/images/ico/42051-65eb84cfa1c06.png"  tvg-rec="5" timeshift="5", KBC-WAR HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8816/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://iptv.pm/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8817/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36251" tvg-name="KBC-Видак HD" tvg-logo="https://iptv.pm/images/ico/36251-6009d1a8d9ed5.png"  tvg-rec="5" timeshift="5", KBC-Видак HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8818/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39819" tvg-name="KBC-ГАЙ Ritchie & Tarantino" tvg-logo="https://iptv.pm/images/ico/39819-6033440dc126b.png"  tvg-rec="5" timeshift="5", KBC-ГАЙ Ritchie & Tarantino
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8819/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36732" tvg-name="KBC-ДрамаTic HD" tvg-logo="https://iptv.pm/images/ico/36732-6009d2e288130.png"  tvg-rec="5" timeshift="5", KBC-ДрамаTic HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8820/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39825" tvg-name="KBC-Вестерн HD" tvg-logo="https://iptv.pm/images/ico/39825-65eb85d46c579.png"  tvg-rec="5" timeshift="5", KBC-Вестерн HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8821/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36277" tvg-name="KBC-Кошмарное HD" tvg-logo="https://iptv.pm/images/ico/36277-6009d669219d3.png"  tvg-rec="5" timeshift="5", KBC-Кошмарное HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8822/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://iptv.pm/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8824/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39823" tvg-name="KBC-Animals HD" tvg-logo="https://iptv.pm/images/ico/39823-65f0730c6be29.png"  tvg-rec="5" timeshift="5", KBC-Animals HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8853/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39822" tvg-name="KBC-MusKino HD" tvg-logo="https://iptv.pm/images/ico/39822-65f0724f2ac93.png"  tvg-rec="5" timeshift="5", KBC-MusKino HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8854/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X35525" tvg-name="KBC-СпортМикс HD" tvg-logo="https://iptv.pm/images/ico/35525-6603e5fe177f7.png"  tvg-rec="5" timeshift="5", KBC-СпортМикс HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8855/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42054" tvg-name="KBC-ГОБЛИН HD" tvg-logo="https://iptv.pm/images/ico/42054-65e74a64c6401.png"  tvg-rec="5" timeshift="5", KBC-ГОБЛИН HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8825/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39820" tvg-name="KBC-Шпионское HD" tvg-logo="https://iptv.pm/images/ico/39820-6033451916f46.png"  tvg-rec="5" timeshift="5", KBC-Шпионское HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8826/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X42053" tvg-name="KBC-АНИМЕ HD" tvg-logo="https://iptv.pm/images/ico/42053-65e741fc573c3.png"  tvg-rec="5" timeshift="5", KBC-АНИМЕ HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8828/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="X39826" tvg-name="KBC_Легендарное" tvg-logo="https://iptv.pm/images/ico/39826-6103ebfca4db6.png"  tvg-rec="5" timeshift="5", KBC-Легендарное HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/8856/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР", DITV ГАРИ ПОТЕР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
+
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825",KinoMix Юрич
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/367?unique=2026-08-20+21%3A26%3A12.233828&access_token=5eb8ee8a-8a44-4763-9f55-bfe6cdb9dae0",KinoMix Юрич 2
+http://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/131?unique=2026-04-18+14%3A59%3A01.656696&access_token=68e10dfb-bb95-4c50-ad98-3489a187164a",фильмы для вас
+http://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/138?unique=2026-02-20+01%3A57%3A49.533570&access_token=285f2593-438c-483d-9e44-56623b9aad6b",Фильмы сериалы трансляции
+http://kinowalk.hopto.org/id582512126_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/143?unique=2026-02-20+01%3A57%3A49.533570&access_token=7f24d00a-1b96-4adf-83f3-ca15905f92ff",SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/144?unique=2026-02-20+01%3A57%3A49.533570&access_token=727fd810-96be-4f07-97df-b005856b3d17",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/154?unique=2026-02-20+01%3A57%3A49.533570&access_token=d9bdbd95-818b-47ce-afbb-f4b030cb55ed",Тоха Киноман
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/156?unique=2026-02-20+01%3A57%3A49.533570&access_token=b6fa67dd-5172-4283-9628-d86364b1fdcd",Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/170?unique=2026-02-20+01%3A57%3A49.533570&access_token=d1125d21-53c0-4f17-88e7-9176f005aa22",Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/185?unique=2026-02-20+01%3A57%3A49.533570&access_token=4aba44f6-7587-4ca4-a6d6-363908f56698",swat2k
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/191?unique=2026-02-20+01%3A57%3A49.533570&access_token=02f463cf-9657-42e0-b756-f22e240371be",ОсторожноМодерн2
+http://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/223?unique=2026-02-24+17%3A40%3A47.422997&access_token=aeac466b-009a-4300-8fa5-98d138320129",VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3",dj Zour
+http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/270?unique=2026-04-19+06%3A48%3A44.166070&access_token=e0548209-0821-42f4-8c7e-c49cd294d8d2",LifeZ
+http://kinowalk.hopto.org/zhekos_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/276?unique=2026-04-19+06%3A56%3A07.841404&access_token=f18173b3-667d-4ffc-9ead-313f66f6d11b",MилаШ
+http://kinowalk.hopto.org/milah_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/305?unique=2026-05-22+10%3A24%3A48.427204&access_token=90e551d1-4a68-439b-8ccd-efeda61ccf34",NEZABUDKA
+http://kinowalk.hopto.org/nezabudka_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/308?unique=2026-06-15+09%3A48%3A56.207257&access_token=9be562f6-87ff-4ed6-accb-a66125d5d590",FRXNKL1N
+http://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/311?unique=2026-06-15+09%3A58%3A34.066788&access_token=86955f71-9d69-4085-80ab-d9f331afbaca",Кладовая Фильмов
+http://kinowalk.hopto.org/skladfilm_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/315?unique=2026-06-15+10%3A29%3A13.651493&access_token=840f7baa-6c2f-47db-9472-837aaec58b79",KinoPro
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/374?unique=2026-08-22+19%3A06%3A02.381591&access_token=fc4fd2e8-27db-4c33-9423-68ac534d0adc",KinoБайт-Лучшие фильмы
+http://kinowalk.hopto.org/moviebytes_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/146?unique=2026-02-20+01%3A57%3A49.533570&access_token=6a569dcf-1a6d-45e5-9430-d5eac39d49b5",ФИЛЬМЫ у Максима
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/184?unique=2026-02-20+01%3A57%3A49.533570&access_token=111465ff-a492-486d-908a-2a0a7ec61768",Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/193?unique=2026-02-20+01%3A57%3A49.533570&access_token=ad120c6d-02a3-401f-9707-03c718ac6fdd",Эквилибриум69
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/195?unique=2026-02-20+01%3A57%3A49.533570&access_token=543f16a6-9ce8-47da-af23-a874c900debe",AkudjiTV
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/198?unique=2026-02-21+20%3A43%3A54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73",ChowAmigo
+http://kinowalk.hopto.org/chowamigo_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/202?unique=2026-02-21+20%3A44%3A21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c",Евгений / Эра VHS
+http://kinowalk.hopto.org/vhs90s_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/228?unique=2026-02-26+21%3A02%3A41.011694&access_token=aa5cad91-128d-4187-8055-0f170c7c99e0",АPRICUS live
+http://kinowalk.hopto.org/apricus_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/229?unique=2026-02-27+00%3A42%3A39.447034&access_token=5669e3ab-5c82-4751-8438-03a8e7706ad8",VHS Power
+http://kinowalk.hopto.org/noir_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/387?unique=2026-08-26+11%3A23%3A12.796389&access_token=c4732575-0377-426e-872b-03e94fbd0a71",МирКино
+http://kinowalk.hopto.org/ncd_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/370?unique=2026-08-22+02%3A23%3A45.911848&access_token=d28a4b8e-a3c2-497b-8547-0754c45dadea",Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/394?unique=2026-09-20+06%3A39%3A16.755553&access_token=49e74283-a599-4c9e-8b17-2e114a2bebfb",ПАРАНОРМАЛЬНЫЙ АРХИВ
+http://kinowalk.hopto.org/paranormal404_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/134?unique=2026-07-25+13%3A55%3A22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825",ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/132?unique=2026-02-20+01%3A57%3A49.533570&access_token=42dbd759-1434-4af9-96b3-e6d634113802",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/135?unique=2026-07-27+13%3A53%3A12.491531&access_token=313f9f43-066e-401a-9645-4dead7dddb50",SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/136?unique=2026-07-27+13%3A53%3A27.708328&access_token=1d33d5f2-8488-4625-bdda-098f544bce49",SeleCaoTV1
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/122?unique=2026-02-20+01%3A57%3A49.533570&access_token=0951c630-f716-4483-8366-ffae49225224",Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/124?unique=2026-07-25+13%3A44%3A26.077501&access_token=f037e8a6-3dab-48b7-916a-625f52c1c10e",TimeToHorror
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/125?unique=2026-07-25+13%3A44%3A42.009275&access_token=34d5bab6-6672-4e67-8ba3-eac6b4a5b0b0",TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa",Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/226?unique=2026-07-27+13%3A37%3A32.858124&access_token=b2c8a399-c663-4a02-b7fc-f3c1f186c698",Cinema Time
+http://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/129?unique=2026-07-27+13%3A36%3A24.469000&access_token=0064eb47-e70b-4d33-81b1-84bd304fb41b",kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/167?unique=2026-02-20+01%3A57%3A49.533570&access_token=77eb8084-5ba1-47ee-a11c-416e34cc979e",Пᛊየᛒьᵻӥ የጸሏ
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/307?unique=2026-05-26+05%3A44%3A04.883875&access_token=dc8ba71e-5aa9-4382-a6ec-9834ea7ae601",ВИДЕОКАССЕТА
+http://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/339?unique=2026-07-25+13%3A22%3A03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683",Фильмоскоп
+http://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/363?unique=2026-08-18+07%3A20%3A13.536964&access_token=35a15753-cc7e-4388-b0fb-13285d78a8e6",VB-All-In-One
+http://kinowalk.hopto.org/vb-all-in-one_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/365?unique=2026-08-18+20%3A21%3A17.992894&access_token=16e1ca9b-0136-4dd6-b3e2-0be1b0ddb7d9",VB-RusSerails
+http://kinowalk.hopto.org/russerials_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57",Йохан грохан
+http://kinowalk.hopto.org/johan_grohan_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c",Kinowalk prime
+http://kinowalk.hopto.org/kinowalk_prime_live
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+
+#EXTINF:0 group-title="Кинозалы", grislytoe
+https://kinowalk.hopto.org/grislytoe_live
+#EXTINF:0 group-title="Кинозалы", ВсеТВ
+https://kinowalk.hopto.org/maldrvsetv_live
+#EXTINF:0 group-title="Кинозалы", Kinowalk
+https://kinowalk.hopto.org/kinowalk_live
+#EXTINF:0 group-title="Кинозалы", Video_Prokat
+https://kinowalk.hopto.org/video_prokat_live
+#EXTINF:0 group-title="Кинозалы", MovieToper
+https://kinowalk.hopto.org/movietoper_live
+#EXTINF:0 group-title="Кинозалы", TimeToMovie
+https://kinowalk.hopto.org/timetomovie_live
+#EXTINF:0 group-title="Кинозалы", Blockbusters Time
+https://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:0 group-title="Кинозалы", Kinolampa
+https://kinowalk.hopto.org/kinolampa_live
+#EXTINF:0 group-title="Кинозалы", VideoArsenal
+https://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:0 group-title="Кинозалы", Kino Jam
+https://kinowalk.hopto.org/kinojam_live
+#EXTINF:0 group-title="Кинозалы", Scripach
+https://kinowalk.hopto.org/scripachtv_live
+#EXTINF:0 group-title="Кинозалы", SeleCaoTV
+https://kinowalk.hopto.org/selecaotv_live
+#EXTINF:0 group-title="Кинозалы", SeleCaoTV1
+https://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:0 group-title="Кинозалы", SerialTV
+https://kinowalk.hopto.org/serialtv_live
+#EXTINF:0 group-title="Кинозалы", Serial4u
+https://kinowalk.hopto.org/serial4u_live
+#EXTINF:0 group-title="Кинозалы", Alex.Films
+https://kinowalk.hopto.org/alex.films_live
+#EXTINF:0 group-title="Кинозалы", Первый ряд
+https://kinowalk.hopto.org/perviryad_live
+#EXTINF:0 group-title="Кинозалы", Мы из 90-х
+https://kinowalk.hopto.org/miiz90x_live
+#EXTINF:0 group-title="Кинозалы", VHS Forever
+https://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:0 group-title="Кинозалы", LampoTV
+https://kinowalk.hopto.org/lampotv_live
+#EXTINF:0 group-title="Кинозалы", Video Channel
+https://kinowalk.hopto.org/video_channel_live
+#EXTINF:0 group-title="Кинозалы", swat2k
+https://kinowalk.hopto.org/swat2k_live
+#EXTINF:0 group-title="Кинозалы", Комедии
+https://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:0 group-title="Кинозалы", ChowAmigo
+https://kinowalk.hopto.org/chowamigo_live
+#EXTINF:0 group-title="Кинозалы", TopMoment
+https://kinowalk.hopto.org/topmoment_live
+#EXTINF:0 group-title="Кинозалы", TopMoment Live
+https://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:0 group-title="Кинозалы", Назад в СССР
+https://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:0 group-title="Кинозалы", VHS кино
+https://kinowalk.hopto.org/and7610_live
+#EXTINF:0 group-title="Кинозалы", Cinema Time
+https://kinowalk.hopto.org/cinematime_live
+#EXTINF:0 group-title="Кинозалы", IGROComp
+https://kinowalk.hopto.org/igrocomp_live
+#EXTINF:0 group-title="Кинозалы", Kycman
+https://kinowalk.hopto.org/kycman_live
+#EXTINF:0 group-title="Кинозалы", dj Zour
+https://kinowalk.hopto.org/zsmedia_live
+#EXTINF:0 group-title="Кинозалы", KinoMix 1
+https://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:0 group-title="Кинозалы", KinoMix 2
+https://kinowalk.hopto.org/dak3767_live
+#EXTINF:0 group-title="Кинозалы", У края бездны
+https://kinowalk.hopto.org/ddator_live
+#EXTINF:0 group-title="Кинозалы", FRXNKL1N
+https://kinowalk.hopto.org/frxnkl1n_live
+#EXTINF:0 group-title="Кинозалы", Кладовая Фильмов
+https://kinowalk.hopto.org/skladfilm_live
+#EXTINF:0 group-title="Кинозалы", RE_BOOT
+https://kinowalk.hopto.org/re_boot_live
+#EXTINF:0 group-title="Кинозалы", Мир Ехо
+https://kinowalk.hopto.org/mirdobro_live
+#EXTINF:0 group-title="Кинозалы", Эра VHS
+https://kinowalk.hopto.org/vhs90s_live
+#EXTINF:0 group-title="Кинозалы", АPRICUS
+https://kinowalk.hopto.org/apricus_live
+#EXTINF:0 group-title="Кинозалы", Видеокассета
+https://kinowalk.hopto.org/vhs90e_live
+#EXTINF:0 group-title="Кинозалы", Фильмоскоп
+https://kinowalk.hopto.org/filmscope_live
+#EXTINF:0 group-title="Кинозалы", Х-TV
+https://kinowalk.hopto.org/durkalive_live
+
+
+#EXTINF:0 group-title="Кинозалы", 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:0 group-title="Кинозалы", 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:0 group-title="Кинозалы", 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:0 group-title="Кинозалы", 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:0 group-title="Кинозалы", 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+
+
 #EXTINF:-1 tvg-id="IPTVPLAY Промо" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY Промо
 http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-id="IPTVPLAY МультСказки HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY МультСказки HD
@@ -3215,282 +3493,6 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/30196/index.m3u8
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/30198/index.m3u8
 
 
-#Кинозалы
-
-
-#EXTINF:0 tvg-id="X39821" tvg-name="KBC-В.О.В. HD" tvg-logo="https://iptv.pm/images/ico/39821-65d85c17dff08.png"  tvg-rec="5" timeshift="5", KBC-В.О.В. HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8810/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39800" tvg-name="KBC-Comics HD" tvg-logo="https://iptv.pm/images/ico/39800-601c3f898f187.png"  tvg-rec="5" timeshift="5", KBC-Comics HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8811/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X35448" tvg-name="KBC-Elite comedy's HD" tvg-logo="https://iptv.pm/images/ico/35448-600488c427e1e.png"  tvg-rec="5" timeshift="5", KBC-Elite comedy's HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8812/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39795" tvg-name="KBC-Fantastic HD" tvg-logo="https://iptv.pm/images/ico/39795-601c19c807f8a.png"  tvg-rec="5" timeshift="5", KBC-Fantastic HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8813/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39796" tvg-name="KBC-History HD" tvg-logo="https://iptv.pm/images/ico/39796-601c197fc25e8.png"  tvg-rec="5" timeshift="5", KBC-History HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8814/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39048" tvg-name="KBC-Newfilm HD" tvg-logo="https://iptv.pm/images/ico/39048-6009db07cf9d0.png"  tvg-rec="5" timeshift="5", KBC-Newfilm HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8815/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X42051" tvg-name="KBC-WAR HD" tvg-logo="https://iptv.pm/images/ico/42051-65eb84cfa1c06.png"  tvg-rec="5" timeshift="5", KBC-WAR HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8816/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X36168" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://iptv.pm/images/ico/36168-6009d4d03d8ee.png"  tvg-rec="5" timeshift="5", KBC-Russian Комедия HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8817/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X36251" tvg-name="KBC-Видак HD" tvg-logo="https://iptv.pm/images/ico/36251-6009d1a8d9ed5.png"  tvg-rec="5" timeshift="5", KBC-Видак HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8818/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39819" tvg-name="KBC-ГАЙ Ritchie & Tarantino" tvg-logo="https://iptv.pm/images/ico/39819-6033440dc126b.png"  tvg-rec="5" timeshift="5", KBC-ГАЙ Ritchie & Tarantino
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8819/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X36732" tvg-name="KBC-ДрамаTic HD" tvg-logo="https://iptv.pm/images/ico/36732-6009d2e288130.png"  tvg-rec="5" timeshift="5", KBC-ДрамаTic HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8820/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39825" tvg-name="KBC-Вестерн HD" tvg-logo="https://iptv.pm/images/ico/39825-65eb85d46c579.png"  tvg-rec="5" timeshift="5", KBC-Вестерн HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8821/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X36277" tvg-name="KBC-Кошмарное HD" tvg-logo="https://iptv.pm/images/ico/36277-6009d669219d3.png"  tvg-rec="5" timeshift="5", KBC-Кошмарное HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8822/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X36506" tvg-name="KBC-Страна СССР" tvg-logo="https://iptv.pm/images/ico/36506-6009d7a51db00.png"  tvg-rec="5" timeshift="5", KBC-Страна СССР
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8824/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39823" tvg-name="KBC-Animals HD" tvg-logo="https://iptv.pm/images/ico/39823-65f0730c6be29.png"  tvg-rec="5" timeshift="5", KBC-Animals HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8853/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39822" tvg-name="KBC-MusKino HD" tvg-logo="https://iptv.pm/images/ico/39822-65f0724f2ac93.png"  tvg-rec="5" timeshift="5", KBC-MusKino HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8854/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X35525" tvg-name="KBC-СпортМикс HD" tvg-logo="https://iptv.pm/images/ico/35525-6603e5fe177f7.png"  tvg-rec="5" timeshift="5", KBC-СпортМикс HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8855/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X42054" tvg-name="KBC-ГОБЛИН HD" tvg-logo="https://iptv.pm/images/ico/42054-65e74a64c6401.png"  tvg-rec="5" timeshift="5", KBC-ГОБЛИН HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8825/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39820" tvg-name="KBC-Шпионское HD" tvg-logo="https://iptv.pm/images/ico/39820-6033451916f46.png"  tvg-rec="5" timeshift="5", KBC-Шпионское HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8826/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X42053" tvg-name="KBC-АНИМЕ HD" tvg-logo="https://iptv.pm/images/ico/42053-65e741fc573c3.png"  tvg-rec="5" timeshift="5", KBC-АНИМЕ HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8828/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="X39826" tvg-name="KBC_Легендарное" tvg-logo="https://iptv.pm/images/ico/39826-6103ebfca4db6.png"  tvg-rec="5" timeshift="5", KBC-Легендарное HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/8856/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР", DITV ГАРИ ПОТЕР
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
-#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
-#EXTGRP:Кинозалы
-http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
-
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825",KinoMix Юрич
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/367?unique=2026-08-20+21%3A26%3A12.233828&access_token=5eb8ee8a-8a44-4763-9f55-bfe6cdb9dae0",KinoMix Юрич 2
-http://kinowalk.hopto.org/dak3767_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/131?unique=2026-04-18+14%3A59%3A01.656696&access_token=68e10dfb-bb95-4c50-ad98-3489a187164a",фильмы для вас
-http://kinowalk.hopto.org/maldrvsetv_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/138?unique=2026-02-20+01%3A57%3A49.533570&access_token=285f2593-438c-483d-9e44-56623b9aad6b",Фильмы сериалы трансляции
-http://kinowalk.hopto.org/id582512126_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/143?unique=2026-02-20+01%3A57%3A49.533570&access_token=7f24d00a-1b96-4adf-83f3-ca15905f92ff",SerialTV
-http://kinowalk.hopto.org/serialtv_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/144?unique=2026-02-20+01%3A57%3A49.533570&access_token=727fd810-96be-4f07-97df-b005856b3d17",serial4u
-http://kinowalk.hopto.org/serial4u_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/154?unique=2026-02-20+01%3A57%3A49.533570&access_token=d9bdbd95-818b-47ce-afbb-f4b030cb55ed",Тоха Киноман
-http://kinowalk.hopto.org/kinomania_stream_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/156?unique=2026-02-20+01%3A57%3A49.533570&access_token=b6fa67dd-5172-4283-9628-d86364b1fdcd",Alex.Films
-http://kinowalk.hopto.org/alex.films_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/170?unique=2026-02-20+01%3A57%3A49.533570&access_token=d1125d21-53c0-4f17-88e7-9176f005aa22",Тоха Стрим
-http://kinowalk.hopto.org/toxa_stream_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/185?unique=2026-02-20+01%3A57%3A49.533570&access_token=4aba44f6-7587-4ca4-a6d6-363908f56698",swat2k
-http://kinowalk.hopto.org/swat2k_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/191?unique=2026-02-20+01%3A57%3A49.533570&access_token=02f463cf-9657-42e0-b756-f22e240371be",ОсторожноМодерн2
-http://kinowalk.hopto.org/ostorozhnomodern2_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/223?unique=2026-02-24+17%3A40%3A47.422997&access_token=aeac466b-009a-4300-8fa5-98d138320129",VHS кино
-http://kinowalk.hopto.org/and7610_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/239?unique=2026-03-03+11%3A23%3A02.745062&access_token=d5965f8e-534f-458b-9634-f0f3bec9d7d3",dj Zour
-http://kinowalk.hopto.org/zsmedia_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/270?unique=2026-04-19+06%3A48%3A44.166070&access_token=e0548209-0821-42f4-8c7e-c49cd294d8d2",LifeZ
-http://kinowalk.hopto.org/zhekos_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/276?unique=2026-04-19+06%3A56%3A07.841404&access_token=f18173b3-667d-4ffc-9ead-313f66f6d11b",MилаШ
-http://kinowalk.hopto.org/milah_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/305?unique=2026-05-22+10%3A24%3A48.427204&access_token=90e551d1-4a68-439b-8ccd-efeda61ccf34",NEZABUDKA
-http://kinowalk.hopto.org/nezabudka_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/308?unique=2026-06-15+09%3A48%3A56.207257&access_token=9be562f6-87ff-4ed6-accb-a66125d5d590",FRXNKL1N
-http://kinowalk.hopto.org/frxnkl1n_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/311?unique=2026-06-15+09%3A58%3A34.066788&access_token=86955f71-9d69-4085-80ab-d9f331afbaca",Кладовая Фильмов
-http://kinowalk.hopto.org/skladfilm_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/315?unique=2026-06-15+10%3A29%3A13.651493&access_token=840f7baa-6c2f-47db-9472-837aaec58b79",KinoPro
-http://kinowalk.hopto.org/kinopro_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/374?unique=2026-08-22+19%3A06%3A02.381591&access_token=fc4fd2e8-27db-4c33-9423-68ac534d0adc",KinoБайт-Лучшие фильмы
-http://kinowalk.hopto.org/moviebytes_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/146?unique=2026-02-20+01%3A57%3A49.533570&access_token=6a569dcf-1a6d-45e5-9430-d5eac39d49b5",ФИЛЬМЫ у Максима
-http://kinowalk.hopto.org/mmaxim0vich_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/184?unique=2026-02-20+01%3A57%3A49.533570&access_token=111465ff-a492-486d-908a-2a0a7ec61768",Video Channel
-http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/193?unique=2026-02-20+01%3A57%3A49.533570&access_token=ad120c6d-02a3-401f-9707-03c718ac6fdd",Эквилибриум69
-http://kinowalk.hopto.org/equilibrium_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/195?unique=2026-02-20+01%3A57%3A49.533570&access_token=543f16a6-9ce8-47da-af23-a874c900debe",AkudjiTV
-http://kinowalk.hopto.org/akudjitv_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/198?unique=2026-02-21+20%3A43%3A54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73",ChowAmigo
-http://kinowalk.hopto.org/chowamigo_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/202?unique=2026-02-21+20%3A44%3A21.583209&access_token=1895e10c-b884-45cf-b1e3-6e4d66617d8c",Евгений / Эра VHS
-http://kinowalk.hopto.org/vhs90s_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/228?unique=2026-02-26+21%3A02%3A41.011694&access_token=aa5cad91-128d-4187-8055-0f170c7c99e0",АPRICUS live
-http://kinowalk.hopto.org/apricus_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/229?unique=2026-02-27+00%3A42%3A39.447034&access_token=5669e3ab-5c82-4751-8438-03a8e7706ad8",VHS Power
-http://kinowalk.hopto.org/noir_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/387?unique=2026-08-26+11%3A23%3A12.796389&access_token=c4732575-0377-426e-872b-03e94fbd0a71",МирКино
-http://kinowalk.hopto.org/ncd_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/370?unique=2026-08-22+02%3A23%3A45.911848&access_token=d28a4b8e-a3c2-497b-8547-0754c45dadea",Kinowalk_tv
-http://kinowalk.hopto.org/kinowalk_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/394?unique=2026-09-20+06%3A39%3A16.755553&access_token=49e74283-a599-4c9e-8b17-2e114a2bebfb",ПАРАНОРМАЛЬНЫЙ АРХИВ
-http://kinowalk.hopto.org/paranormal404_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/134?unique=2026-07-25+13%3A55%3A22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825",ScripachTV
-http://kinowalk.hopto.org/scripachtv_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/132?unique=2026-02-20+01%3A57%3A49.533570&access_token=42dbd759-1434-4af9-96b3-e6d634113802",VideoArsenal
-http://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/135?unique=2026-07-27+13%3A53%3A12.491531&access_token=313f9f43-066e-401a-9645-4dead7dddb50",SeleCaoTV
-http://kinowalk.hopto.org/selecaotv_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/136?unique=2026-07-27+13%3A53%3A27.708328&access_token=1d33d5f2-8488-4625-bdda-098f544bce49",SeleCaoTV1
-http://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/122?unique=2026-02-20+01%3A57%3A49.533570&access_token=0951c630-f716-4483-8366-ffae49225224",Video_Prokat
-http://kinowalk.hopto.org/video_prokat_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6",MovieToper
-http://kinowalk.hopto.org/movietoper_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/124?unique=2026-07-25+13%3A44%3A26.077501&access_token=f037e8a6-3dab-48b7-916a-625f52c1c10e",TimeToHorror
-http://kinowalk.hopto.org/timetohorror_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/125?unique=2026-07-25+13%3A44%3A42.009275&access_token=34d5bab6-6672-4e67-8ba3-eac6b4a5b0b0",TimeToMovie
-http://kinowalk.hopto.org/timetomovie_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa",Blockbusters Time
-http://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/226?unique=2026-07-27+13%3A37%3A32.858124&access_token=b2c8a399-c663-4a02-b7fc-f3c1f186c698",Cinema Time
-http://kinowalk.hopto.org/cinematime_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/129?unique=2026-07-27+13%3A36%3A24.469000&access_token=0064eb47-e70b-4d33-81b1-84bd304fb41b",kinolampa
-http://kinowalk.hopto.org/kinolampa_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/167?unique=2026-02-20+01%3A57%3A49.533570&access_token=77eb8084-5ba1-47ee-a11c-416e34cc979e",Пᛊየᛒьᵻӥ የጸሏ
-http://kinowalk.hopto.org/perviryad_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7",VHS Forever
-http://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/307?unique=2026-05-26+05%3A44%3A04.883875&access_token=dc8ba71e-5aa9-4382-a6ec-9834ea7ae601",ВИДЕОКАССЕТА
-http://kinowalk.hopto.org/vhs90e_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/339?unique=2026-07-25+13%3A22%3A03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683",Фильмоскоп
-http://kinowalk.hopto.org/filmscope_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/363?unique=2026-08-18+07%3A20%3A13.536964&access_token=35a15753-cc7e-4388-b0fb-13285d78a8e6",VB-All-In-One
-http://kinowalk.hopto.org/vb-all-in-one_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/365?unique=2026-08-18+20%3A21%3A17.992894&access_token=16e1ca9b-0136-4dd6-b3e2-0be1b0ddb7d9",VB-RusSerails
-http://kinowalk.hopto.org/russerials_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57",Йохан грохан
-http://kinowalk.hopto.org/johan_grohan_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c",Kinowalk prime
-http://kinowalk.hopto.org/kinowalk_prime_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="https://goodgame.ru/files/avatars/av_1643154_P8Jo.jpg",Dimpon TV
-http://kinowalk.hopto.org/dimpon_live
-
-#EXTINF:0 group-title="Кинозалы Kinowalk", grislytoe
-https://kinowalk.hopto.org/grislytoe_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", ВсеТВ
-https://kinowalk.hopto.org/maldrvsetv_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Kinowalk
-https://kinowalk.hopto.org/kinowalk_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Video_Prokat
-https://kinowalk.hopto.org/video_prokat_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", MovieToper
-https://kinowalk.hopto.org/movietoper_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", TimeToMovie
-https://kinowalk.hopto.org/timetomovie_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Blockbusters Time
-https://kinowalk.hopto.org/blockbusterstime_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Kinolampa
-https://kinowalk.hopto.org/kinolampa_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", VideoArsenal
-https://kinowalk.hopto.org/videoarsenal_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Kino Jam
-https://kinowalk.hopto.org/kinojam_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Scripach
-https://kinowalk.hopto.org/scripachtv_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", SeleCaoTV
-https://kinowalk.hopto.org/selecaotv_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", SeleCaoTV1
-https://kinowalk.hopto.org/selecaotv1_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", SerialTV
-https://kinowalk.hopto.org/serialtv_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Serial4u
-https://kinowalk.hopto.org/serial4u_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Alex.Films
-https://kinowalk.hopto.org/alex.films_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Первый ряд
-https://kinowalk.hopto.org/perviryad_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Мы из 90-х
-https://kinowalk.hopto.org/miiz90x_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", VHS Forever
-https://kinowalk.hopto.org/vhs-forever_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", LampoTV
-https://kinowalk.hopto.org/lampotv_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Video Channel
-https://kinowalk.hopto.org/video_channel_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", swat2k
-https://kinowalk.hopto.org/swat2k_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Комедии
-https://kinowalk.hopto.org/cmexye4ku_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", ChowAmigo
-https://kinowalk.hopto.org/chowamigo_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", TopMoment
-https://kinowalk.hopto.org/topmoment_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", TopMoment Live
-https://kinowalk.hopto.org/topmomentlive_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Назад в СССР
-https://kinowalk.hopto.org/backtotheussr_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", VHS кино
-https://kinowalk.hopto.org/and7610_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Cinema Time
-https://kinowalk.hopto.org/cinematime_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", IGROComp
-https://kinowalk.hopto.org/igrocomp_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Kycman
-https://kinowalk.hopto.org/kycman_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", dj Zour
-https://kinowalk.hopto.org/zsmedia_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", KinoMix 1
-https://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", KinoMix 2
-https://kinowalk.hopto.org/dak3767_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", У края бездны
-https://kinowalk.hopto.org/ddator_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", FRXNKL1N
-https://kinowalk.hopto.org/frxnkl1n_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Кладовая Фильмов
-https://kinowalk.hopto.org/skladfilm_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", RE_BOOT
-https://kinowalk.hopto.org/re_boot_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Мир Ехо
-https://kinowalk.hopto.org/mirdobro_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Эра VHS
-https://kinowalk.hopto.org/vhs90s_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", АPRICUS
-https://kinowalk.hopto.org/apricus_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Видеокассета
-https://kinowalk.hopto.org/vhs90e_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Фильмоскоп
-https://kinowalk.hopto.org/filmscope_live
-#EXTINF:0 group-title="Кинозалы Kinowalk", Х-TV
-https://kinowalk.hopto.org/durkalive_live
-
-
-#EXTINF:0 group-title="Кинозалы Смотрим", 100% Классика
-https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
-#EXTINF:0 group-title="Кинозалы Смотрим", 100% Любовь
-https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
-#EXTINF:0 group-title="Кинозалы Смотрим", 100% Мужское
-https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
-#EXTINF:0 group-title="Кинозалы Смотрим", 100% Праздник
-https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
-#EXTINF:0 group-title="Кинозалы Смотрим", 100% Факты
-https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
 
 #Bear TV
