@@ -460,8 +460,8 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/14230/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Гарри Поттер 8
 #EXTGRP:Теория большого взрыва
 http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/14230/index.m3u8
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rXoN2H9fvKgm-dRbe0cUHQ&e=2087554610&scheme=https
+#EXTINF:0 group-title="Теория большого взрыва" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/18119/index.m3u8
 #EXTINF:-1 tvg-name="MARVEL CINEMATIC UNIVERSE" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg?width=500", MARVEL CINEMATIC UNIVERSE
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
@@ -479,6 +479,8 @@ https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=gz
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ DC" tvg-logo="https://pic.rtbcdn.ru/userappearance/2026-09-25/23/58/2358e17ae7dbf366412ba1a5967c9afc.jpeg", ВСЕЛЕННАЯ DC
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=AMsR-F6VUPtvhQdeOAZlAQ&e=2090947409&scheme=https
+#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 11
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15009/index.m3u8
 
 # Кино
 
@@ -555,6 +557,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9128/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="0",Кинохит HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/7250/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="7",Кинохит
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/516/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="3",Кинохит orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9128/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/516/index.m3u8
@@ -1101,6 +1109,8 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 
 
 #Кинозалы
+
+
 
 #EXTINF:0 group-title="Кинозалы" tvg-id="11311" tvg-logo="http://epg.one/img2/11311.png" tvg-rec="7",StrahTV Sky2000 HD
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11054/index.m3u8
@@ -3951,6 +3961,29 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/15101/index.m3u8
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/15100/index.m3u8
 #EXTINF:0 group-title="CineMan" tvg-id="7150" tvg-logo="http://epg.one/img2/7150.png" tvg-rec="0",CineMan MiniSeries
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19437/index.m3u8
+
+#EXTINF:0 group-title="Кинозалы" tvg-id="4682" tvg-logo="http://epg.one/img2/4682.png" tvg-rec="7",CineMan
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11004/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4683" tvg-logo="http://epg.one/img2/4683.png" tvg-rec="7",CineMan Top
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11005/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="7485" tvg-logo="http://epg.one/img2/7485.png" tvg-rec="0",CineMan Premium
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/20112/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4684" tvg-logo="http://epg.one/img2/4684.png" tvg-rec="7",CineMan Action
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11006/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4685" tvg-logo="http://epg.one/img2/4685.png" tvg-rec="7",CineMan Thriller
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11007/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="5585" tvg-logo="http://epg.one/img2/5585.png" tvg-rec="0",CineMan Катастрофы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15106/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4686" tvg-logo="http://epg.one/img2/4686.png" tvg-rec="7",CineMan Мелодрама
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11008/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4687" tvg-logo="http://epg.one/img2/4687.png" tvg-rec="7",CineMan Marvel
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11009/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4688" tvg-logo="http://epg.one/img2/4688.png" tvg-rec="7",CineMan Ужасы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11010/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4689" tvg-logo="http://epg.one/img2/4689.png" tvg-rec="7",CineMan Комедия
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11011/index.m3u8
+#EXTINF:0 group-title="Кинозалы" tvg-id="4690" tvg-logo="http://epg.one/img2/4690.png" tvg-rec="7",CineMan VHS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/11012/index.m3u8
 
 
 # Eye
