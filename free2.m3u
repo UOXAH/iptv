@@ -680,11 +680,7 @@ http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9127/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
 #EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
-http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
-http://185.161.224.211/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
 http://83.217.12.157:81/udp/239.1.1.87:1234
 #EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
@@ -692,22 +688,12 @@ http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
 http://93.170.254.17/Kinomiks/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercont
-#EXTINF:-1 tvg-id="Кинопремьера SD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20SD.png",Кинопремьера SD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Кинопремьера HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20HD.png",Кинопремьера HD
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 tvg-id="Кинопремьера HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинопремьера%20HD.png",Кинопремьера HD
-http://185.161.224.211/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
-http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
 http://83.217.12.157:81/udp/239.1.1.156:1234
-#EXTINF:-1 tvg-id="Киносвидание" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание.png",Киносвидание
-http://185.161.224.211/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Киносвидание FD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание%20FD.png",Киносвидание FD
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-id="Киносемья" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносемья.png",Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
 
 #EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img2/1372.png" tvg-rec="7",Amedia Premium HD
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/229/index.m3u8
