@@ -477,32 +477,19 @@ https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=AM
 
 # Кино
 
-#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум
-http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus", Дорама
-http://109.248.236.51/dorama/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus", Дорама HD
-http://89.33.29.115:8080/dorama_hd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино HD
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" audio-track="rus", Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" audio-track="rus", Индийское кино
-http://188.113.190.12/329/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="zee-tv" audio-track="rus", Индия
-http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi" audio-track="rus", Камеди HD
 http://89.33.29.115:8080/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko" audio-track="rus", Кинеко
 http://46.32.176.50/foxrussia/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kineko" audio-track="rus", Кинеко HD
-http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
-http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
 http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", КиноМеню HD
@@ -537,8 +524,6 @@ http://46.32.176.50/kinosemya/index.m3u8
 http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" audio-track="rus", Киносерия
 http://46.32.176.50/kinoseria/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" audio-track="rus", Киноужас
-http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" audio-track="rus", Киноужас HD
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" audio-track="rus", Кинохит
@@ -555,8 +540,6 @@ https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 http://46.32.176.50/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Любимое кино HD
 http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала
-http://46.32.176.50/mirseriala/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://185.121.1.163:8083/Mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция HD
@@ -703,14 +686,6 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9022/index.m3u8
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/555/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1372" tvg-logo="http://epg.one/img2/1372.png" tvg-rec="3",Amedia Premium FHD orig
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9233/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png" tvg-rec="3",Amedia Hit HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/6010/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png" tvg-rec="3",Amedia Hit HD orig
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9070/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png" tvg-rec="7",Amedia Hit
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/556/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2007" tvg-logo="http://epg.one/img2/2007.png" tvg-rec="3",Amedia Hit orig
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9234/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img2/1371.png" tvg-rec="3",Amedia 1 HD orig
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9069/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="1371" tvg-logo="http://epg.one/img2/1371.png" tvg-rec="7",Amedia 1
@@ -762,11 +737,6 @@ https://cityeden.catcast.tv/content/45268/index.m3u8?password=loganet
 https://cityeden.catcast.tv/content/41333/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — ТелеНовелла
 https://cityeden.catcast.tv/content/46209/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — Христианский
-https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
-
-#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
@@ -782,9 +752,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18062/index.m3u8
 #EXTINF:0 tvg-rec="0",Magic Comedy HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18063/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Disney HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18064/index.m3u8
 #EXTINF:0 tvg-rec="0",Magic Thriller HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18065/index.m3u8
@@ -834,9 +801,6 @@ http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18171/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Prisons HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15137/index.m3u8
-#EXTINF:0 tvg-rec="0",MS Toons HD
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15138/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Magic 4K
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/16143/index.m3u8
@@ -1321,26 +1285,6 @@ https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
 
 
-#EXTINF:-1 tvg-id="IPTVPLAY Промо" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY Промо
-http://5.188.158.65:4040/IPTVPLAYPromo.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="IPTVPLAY МультСказки HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="IPTVPLAY ВЕДЬМАК" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="IPTVPLAY Великая Отечественная HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="IPTVPLAY TEST HD" group-title="Кино" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",IPTVPLAY TEST HD
-http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 tvg-id="Terra Incognita" group-title="Кино" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png",Terra Incognita
-http://stitch.teletarget.ru/vintera/terra/index.m3u8
-#EXTINF:-1 tvg-id="Hollywood" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood.png",Hollywood
-http://83.217.12.157:81/udp/239.1.1.208:1234
-#EXTINF:-1 tvg-id="Hollywood" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Hollywood.png",Hollywood
-http://dmi3y-tv.online/hls/CH_HOLLYWOOD.m3u8
-#EXTINF:-1 tvg-id="KinoLiving" group-title="Кино" tvg-logo="http://1lot.tv/ch/8146.png",KinoLiving
-http://185.184.233.178:5000/udp/225.1.2.171:1234
 #EXTINF:-1 tvg-id="Shot TV" group-title="Кино" tvg-logo="http://epg.one/img2/431.png",Shot TV
 http://178.134.1.158:8081/shottv/video.m3u8?token=test
 #EXTINF:-1 tvg-id="Shot TV" group-title="Кино" tvg-logo="http://epg.one/img2/431.png",Shot TV
@@ -2347,55 +2291,6 @@ http://6g5f8g9d.ucomist.net/iptv/RCY5BALHTUERP7TGCU8ZWFDG/2436/index.m3u8
 #http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/914/index.m3u8
 
 
-#EXTINF:0 group-title="Триколор",Зал 1 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 10 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 11 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 12 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 13 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 17 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 19 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 2 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 20 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 26 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 3 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 31 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 35 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 36 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 4 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 5 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 6 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 7 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Зал 8 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 1 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 2 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 3 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 4 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 5 (Триколор)
-
-#EXTINF:0 group-title="Триколор",Кинозал 6 (Триколор)
 
 #EXTINF:0 group-title="Триколор" tvg-logo="https://iptvx.one/picons/kinopremiera.png" tvg-id="kinopremiera-hd",Кинопремьера
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
@@ -2782,12 +2677,6 @@ http://176.118.197.101/Kinopokaz/index.m3u8
 http://176.118.197.101/Kinoseria/index.m3u8
 #EXTINF:-1 group-title="НТВ+",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="НТВ+",ИЛЛЮЗИОН+ SD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031919&extension=ts&play_token=bbTv2UDQZL
-#EXTINF:-1 group-title="НТВ+" tvg-logo="http://picon.tivi-ott.net:25461/picon/RUSSIA/RUSSIA/DOM KINO.png",Дом Кино HD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031896&extension=ts&play_token=AIejVl73oa
-#EXTINF:-1 group-title="НТВ+",DISCOVERY SD
-http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031930&extension=ts&play_token=HDJpxgCN2L
 #EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/1620.png",Комедия
 http://176.118.197.101/Komediya/mono.m3u8
 #EXTINF:-1 group-title="НТВ+" tvg-logo="http://epg.one/img2/2834.png",Кинопоказ
@@ -2822,36 +2711,20 @@ http://176.118.197.101/KinoTvHD/playlist.m3u8
 http://178.134.1.158:8081/ntvhit/video.m3u8?token=test
 #EXTINF:-1 tvg-id="НТВ Хит" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Хит.png",НТВ Хит
 http://83.217.12.157:81/udp/239.1.1.200:1234
-#EXTINF:-1 tvg-id="НТВ Балаболᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvbalabol.png",НТВ Балаболᴴᴰ
-http://cdn.iptvcinema.ru/lb1/balabol.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Балаболᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Балаболᴴᴰ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Невскийᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvnevskiy.png",НТВ Невскийᴴᴰ
-http://cdn.iptvcinema.ru/lb1/nevskiy.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Сериалы.Невскийᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvnevskiy.png",НТВ Сериалы.Невскийᴴᴰ
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Первый отделᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvperviyotdel.png",НТВ Первый отделᴴᴰ
-http://cdn.iptvcinema.ru/lb1/perviyotdel.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Сериалы.Первый отделᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvperviyotdel.png",НТВ Сериалы.Первый отделᴴᴰ
 https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Пёсᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvpyos.png",НТВ Пёсᴴᴰ
-http://cdn.iptvcinema.ru/lb1/pyos.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Пёсᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Пёсᴴᴰ
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Скорая помощьᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvskorayapomosh.png",НТВ Скорая помощьᴴᴰ
-http://cdn.iptvcinema.ru/lb1/skorayapomosh.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Скорая Помощьᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Скорая Помощьᴴᴰ
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Шефᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvshef.png",НТВ Шефᴴᴰ
-http://cdn.iptvcinema.ru/lb1/shef.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Сериалы.Шефᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvshef.png",НТВ Сериалы.Шефᴴᴰ
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Пять минут тишиныᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntv5minut.png",НТВ Пять минут тишиныᴴᴰ
-http://cdn.iptvcinema.ru/lb1/5minut.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Пять минут тишиныᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Пять минут тишиныᴴᴰ
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="НТВ Следствие велиᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvsledveli.png",НТВ Следствие велиᴴᴰ
-http://cdn.iptvcinema.ru/lb1/sledstvie.m3u8?/index.m3u8?token=SGFja2VlZWVkfHxkR1Z6ZERFeU13PT0=
 #EXTINF:-1 tvg-id="НТВ Следствие велиᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvsledveli.png",НТВ Следствие велиᴴᴰ
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
 
@@ -2874,9 +2747,6 @@ https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
 #Kinostream
 
 
-#EXTINF:-1 tvg-id="41333" tvg-name="Сити Эдем - КиноЭкшен" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%ad%d0%ba%d1%88%d0%b5%d0%bd.png", Сити Эдем - КиноЭкшен
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/41333/index.m3u8?token=474cd86e39467c9dfaa93e4e49f4be69
 #EXTINF:-1 tvg-id="41327" tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%94%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%b8%d0%b2.png", Сити Эдем - КиноДетектив
 #EXTGRP:КиноStream
 https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
@@ -3569,8 +3439,8 @@ http://ua.online24.pm/play/51281/FF2E7C222919825/video.m3u8
 
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-action.png" tvg-id="bcu-action",BCU Action
-#http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11027/index.m3u8
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11027/index.m3u8
+http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11027/index.m3u8
+#http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11027/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-catastrophe.png" tvg-id="bcu-catastrophe",BCU Catastrophe
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11028/index.m3u8
@@ -3589,8 +3459,8 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/15026/index.m3u8
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11032/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic",BCU Filmystic
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11033/index.m3u8
-#http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11033/index.m3u8
+#http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11033/index.m3u8
+http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11033/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-history.png" tvg-id="bcu-history",BCU History
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11034/index.m3u8
@@ -3605,8 +3475,8 @@ http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/15025/index.m3u8
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11015/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2",BCU Premiere 2
-#http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11016/index.m3u8
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11016/index.m3u8
+http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11016/index.m3u8
+#http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11016/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic",BCU Romantic
 http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11040/index.m3u8
@@ -3746,136 +3616,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17020/index.m3u8
 #EXTGRP:BCU
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/17021/index.m3u8
 
-#EXTINF:0,BCU ACTION HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20810/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU CATASTROPHE HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20811/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU CINEMA HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20812/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU CINEMA+ HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20832/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU COMEDY HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20813/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU COMEDY HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20841/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU FANTASTIC HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20814/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU FANTASTIC HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21211/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU FILMYSTIC HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20815/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU HISTORY HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20816/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU KINORATING HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20817/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU PREMIERE HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20819/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU PREMIERE HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21210/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU ROMANTIC HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20820/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU ROMANTIC h264
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20891/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU RUSSIAN HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20821/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU STARS HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20833/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU VHS HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20822/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU СВАТЫ HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20829/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU RUSERIAL HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20836/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU СССР HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20830/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU MEDIA HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20831/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCUMEDIA h264
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20839/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCUMEDIA 2 HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20899/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCUMEDIA 3 HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20844/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Ultra 4K
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20835/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Russia 90s HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21212/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Criminal HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20837/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 1 HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20823/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 3 HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20825/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 1 HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20892/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 2 HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20893/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere 3 HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20894/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premiere Ultra 4K
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20848/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Reality HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20826/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Reality h264
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20843/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Survival HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20838/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Survival h264
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20842/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Cosmo HD
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20845/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Cosmo HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/20846/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Kinozakaz 4K HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21225/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Premium Premiere+ 4K HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21227/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BCU Biography HDR
-#EXTGRP:BCU
-http://ro01.plink-pile.ch/21241/index.m3u8?token=F3DwiU327mxxCr
-
 
 # BOX
 
@@ -3963,67 +3703,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19420/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Cyber HD
 #EXTGRP:BOX
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19421/index.m3u8
-
-#EXTINF:0,BOX Franchise HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20851/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Franchise HDR
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/21209/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Hybrid HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20853/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Gangster HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20856/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Oscar HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20857/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Serial HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20860/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Spy HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20865/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Western HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20867/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Zombie HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20868/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Cyber HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20869/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Ghost HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20874/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Fantasy HD
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20876/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Premiere 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20877/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Serial 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20878/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Remast 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20879/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Remast+ 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/20888/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX UltraStars 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/21221/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX СССР 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/21222/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Serial Premiere 4K HDR
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/21229/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,BOX Russian 4K
-#EXTGRP:BOX
-http://ro01.plink-pile.ch/21230/index.m3u8?token=F3DwiU327mxxCr
 
 #EXTINF:-1 group-title="BOX",BOX Franchise HD
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/19274/index.m3u8
@@ -4727,100 +4406,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15164/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15092/index.m3u8
 #EXTINF:-1 group-title="Liberty",LIBERTY DISNEI
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15093/index.m3u8
-
-#EXTINF:0,LIBERTY DC FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8000/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КОРОТКОМЕТРАЖКИ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8001/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ПИКСАР FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8002/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY МЕЛОДРАМЫ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8004/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY БОЕВИКИ  FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8005/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КОМЕДИИ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8010/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ЗАНАВЕС FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8014/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ФАНТАСТИКА FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8030/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY МАРВЕЛ  FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8034/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY СЕРИАЛЫ FHD
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8047/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ЛЕГЕНДА 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8017/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY РУС ФИЛЬМ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8020/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КИНО МИКС 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8021/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY НЕТФЛИКС 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8024/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КУБ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8025/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY СЕМЕЙНЫЙ 4k
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8026/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY СОЮЗ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8029/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ТРИЛЛЕРЫ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8035/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY УЖАСЫ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8036/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY СЕРИАЛЫ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8039/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY АВАНПОСТ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8043/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ТУРК ФИЛЬМ 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8046/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY ДРИМ ВОРКС 4K
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8048/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Комедии 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8063/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Скандинавия 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8064/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Фантастика 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8065/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Оскар 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8066/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Ужасы 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8067/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Приключения 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8068/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY КиноХит 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8069/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,LIBERTY Боевики 4K HDR
-#EXTGRP:Liberty
-http://ro01.plink-pile.ch/8070/index.m3u8?token=F3DwiU327mxxCr
 
 #EXTINF:0 tvg-rec="0",Liberty DC FHD
 #EXTGRP:Liberty
@@ -5889,40 +5474,6 @@ http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/19436/index.m3u8
 #EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/c-marvel.png" tvg-id="c-marvel",Yosso TV C-Marvel
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/16051/index.m3u8
 #http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/16051/index.m3u8
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-food.png" tvg-id="yosso-food",Yosso TV Food
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-grand.png" tvg-id="yosso-grand",Yosso TV Grand
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-nature.png" tvg-id="yosso-nature",Yosso TV Nature
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-netflix.png" tvg-id="yosso-netflix",Yosso TV Netflix
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-newkino.png" tvg-id="yosso-newkino",Yosso TV New Кино
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-oblivion.png" tvg-id="yosso-oblivion",Yosso TV Oblivion
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-science.png" tvg-id="yosso-science",Yosso TV Science
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-thriller.png" tvg-id="yosso-thriller",Yosso TV Thriller
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-travel.png" tvg-id="yosso-travel",Yosso TV Travel
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-vhs.png" tvg-id="yosso-vhs",Yosso TV VHS
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-zabavno.png" tvg-id="yosso-zabavno",Yosso TV Забавное
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-cowboy.png" tvg-id="yosso-cowboy",Yosso TV Ковбойское
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-melodrama.png" tvg-id="yosso-melodrama",Yosso TV Мелодрама
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-rusfilm.png" tvg-id="yosso-rusfilm",Yosso TV Русские Фильмы
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-sovfilm.png" tvg-id="yosso-sovfilm",Yosso TV Советские Фильмы
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-sovfilm4k.png" tvg-id="yosso-sovfilm4k",Yosso TV Советские фильмы 4K
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-tragic.png" tvg-id="yosso-tragic",Yosso TV Трагичное
 
 #EXTINF:0 tvg-rec="0",Yosso TV Grand
 #EXTGRP:Yosso TV
