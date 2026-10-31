@@ -489,6 +489,12 @@ http://stream.mcquack.net/108/index.m3u8
 http://46.32.176.50/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино HD
 http://stream.mcquack.net/385/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="3",Еврокино HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9078/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="7",Еврокино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/549/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="3",Еврокино orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9134/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" audio-track="rus", Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kamedi" audio-track="rus", Камеди HD
@@ -541,6 +547,12 @@ http://46.32.176.50/kinoseria/index.m3u8
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" audio-track="rus", Кинохит
 http://89.33.29.115:8080/Kinohit/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="0",Кинохит HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/7250/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="7",Кинохит
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/516/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="3",Кинохит orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9128/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинохит
@@ -578,6 +590,12 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/126/index.m3u8
 #EXTINF:0 tvg-rec="7",Наше Новое Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/517/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="0",Наше Новое Кино HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/19231/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="3",Наше Новое Кино orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9230/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="7",Наше Новое Кино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/517/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинокомедия
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/145/index.m3u8
@@ -605,6 +623,14 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/726/index.m3u8
 #EXTINF:0 tvg-rec="7",Иллюзион+
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2038/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/2121/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9154/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="7",Феникс плюс Кино
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/2039/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="3",Феникс плюс Кино orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9153/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2039/index.m3u8
@@ -715,6 +741,38 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19249/index.m3u8
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18036/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="6240" tvg-logo="http://epg.one/img2/6240.png" tvg-rec="0",Start World
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19248/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="934" tvg-logo="http://epg.one/img2/934.png" tvg-rec="7",Hollywood HD
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/209/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="934" tvg-logo="http://epg.one/img2/934.png" tvg-rec="3",Hollywood HD orig
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/9017/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="608" tvg-logo="http://epg.one/img2/608.png" tvg-rec="7",Hollywood
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/557/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="608" tvg-logo="http://epg.one/img2/608.png" tvg-rec="3",Hollywood orig
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/9236/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="2229" tvg-logo="http://epg.one/img2/2229.png" tvg-rec="3",Epic Drama HD
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/1048/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="2181" tvg-logo="http://epg.one/img2/2181.png" tvg-rec="3",FilmBox+ One
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/1071/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="774" tvg-logo="http://epg.one/img2/774.png" tvg-rec="7",FlixSnip HD
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/10060/index.m3u8
+
+#EXTINF:0 group-title="Кино" tvg-id="774" tvg-logo="http://epg.one/img2/774.png" tvg-rec="3",FlixSnip orig
+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FKEY4K8NZY892T4U6EXSD4CH/9311/index.m3u8
 
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
 https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
