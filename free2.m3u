@@ -415,7 +415,12 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15009/index.m3u8
 #EXTGRP:Теория большого взрыва
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 9
-
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР", DITV ГАРИ ПОТЕР
+#EXTGRP:Теория большого взрыва
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
+#EXTGRP:Теория большого взрыва
+http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
 
 #EXTINF:-1 group-title="Теория большого взрыва",Гарри Поттер 10
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
@@ -636,10 +641,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7261/index.m3u8
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7347/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Еврокино HD orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9078/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Иллюзион+ HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9079/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Русский иллюзион HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9080/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Наш Кинопоказ HD orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9086/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Блокбастер HD orig
@@ -1023,10 +1024,6 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX
 http://83.217.12.157:81/udp/239.1.1.171:1234
 #EXTINF:-1 tvg-id="Patriot (720p)" group-title="Кино" tvg-logo="https://patriotkanal.ru/assets/cached/2025/02/resize/264_112_q100_patriot-only-logo.png",Patriot (720p)
 https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
-#EXTINF:-1 tvg-id="KBC-Elite comedy's HD" group-title="Кино" tvg-logo="timeshift=",KBC-Elite comedy's HD
-http://bde.online24.pm/play/8812/855C055F42798FB/video.m3u8
-#EXTINF:-1 tvg-id="Arpinet SD" group-title="Кино" tvg-logo="https://www.giniko.com/logos/190x110/1576.jpg",Arpinet SD
-http://185.57.68.33:80/237/playlist.m3u8
 #EXTINF:-1 tvg-id="Киножелезоᴴᴰ" group-title="Кино" tvg-logo="https://oktv.uz/Channels/ch_2793.png",Киножелезоᴴᴰ
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
 #EXTINF:-1 tvg-id="Кинозал SD" group-title="Кино" tvg-logo="https://img.catcast.tv/uploads/01022025/logos/43750-679e05e11b30e.jpg",Кинозал SD
@@ -1200,8 +1197,6 @@ http://kinowalk.hopto.org/zsmedia_live
 http://kinowalk.hopto.org/zhekos_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/276?unique=2026-04-19+06%3A56%3A07.841404&access_token=f18173b3-667d-4ffc-9ead-313f66f6d11b",MилаШ
 http://kinowalk.hopto.org/milah_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/305?unique=2026-05-22+10%3A24%3A48.427204&access_token=90e551d1-4a68-439b-8ccd-efeda61ccf34",NEZABUDKA
-http://kinowalk.hopto.org/nezabudka_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/308?unique=2026-06-15+09%3A48%3A56.207257&access_token=9be562f6-87ff-4ed6-accb-a66125d5d590",FRXNKL1N
 http://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/311?unique=2026-06-15+09%3A58%3A34.066788&access_token=86955f71-9d69-4085-80ab-d9f331afbaca",Кладовая Фильмов
@@ -1214,8 +1209,6 @@ http://kinowalk.hopto.org/moviebytes_live
 http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/184?unique=2026-02-20+01%3A57%3A49.533570&access_token=111465ff-a492-486d-908a-2a0a7ec61768",Video Channel
 http://kinowalk.hopto.org/video_channel_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/193?unique=2026-02-20+01%3A57%3A49.533570&access_token=ad120c6d-02a3-401f-9707-03c718ac6fdd",Эквилибриум69
-http://kinowalk.hopto.org/equilibrium_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/195?unique=2026-02-20+01%3A57%3A49.533570&access_token=543f16a6-9ce8-47da-af23-a874c900debe",AkudjiTV
 http://kinowalk.hopto.org/akudjitv_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/198?unique=2026-02-21+20%3A43%3A54.719669&access_token=d72013c7-a66f-4533-b976-2972f914ad73",ChowAmigo
@@ -1266,7 +1259,7 @@ http://kinowalk.hopto.org/filmscope_live
 http://kinowalk.hopto.org/vb-all-in-one_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/365?unique=2026-08-18+20%3A21%3A17.992894&access_token=16e1ca9b-0136-4dd6-b3e2-0be1b0ddb7d9",VB-RusSerails
 http://kinowalk.hopto.org/russerials_live
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57",Йохан грохан
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57",Йохан
 http://kinowalk.hopto.org/johan_grohan_live
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="https://kinowalk.hopto.org/web/image/231/128x128?unique=2026-03-01%2018:13:54.866463&access_token=9715ea54-6d29-4cd5-8845-9aaa72ba071c",Kinowalk prime
 http://kinowalk.hopto.org/kinowalk_prime_live
@@ -1325,8 +1318,6 @@ https://kinowalk.hopto.org/backtotheussr_live
 https://kinowalk.hopto.org/and7610_live
 #EXTINF:0 group-title="Кинозалы", Cinema Time
 https://kinowalk.hopto.org/cinematime_live
-#EXTINF:0 group-title="Кинозалы", dj Zour
-https://kinowalk.hopto.org/zsmedia_live
 #EXTINF:0 group-title="Кинозалы", KinoMix 1
 https://kinowalk.hopto.org/yurich_kinomix_live
 #EXTINF:0 group-title="Кинозалы", KinoMix 2
@@ -1337,8 +1328,6 @@ https://kinowalk.hopto.org/ddator_live
 https://kinowalk.hopto.org/frxnkl1n_live
 #EXTINF:0 group-title="Кинозалы", Кладовая Фильмов
 https://kinowalk.hopto.org/skladfilm_live
-#EXTINF:0 group-title="Кинозалы", АPRICUS
-https://kinowalk.hopto.org/apricus_live
 #EXTINF:0 group-title="Кинозалы", Видеокассета
 https://kinowalk.hopto.org/vhs90e_live
 #EXTINF:0 group-title="Кинозалы", Фильмоскоп
