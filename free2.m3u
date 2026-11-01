@@ -3041,6 +3041,36 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/20134/index.m3u8
 
 # TRICOLOR TV
 
+#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2568/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2569/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2570/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2571/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2572/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2573/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 36 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2574/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 35 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2575/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 31 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2576/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 13 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2579/index.m3u8
 
 #EXTINF:-1 group-title="TRICOLOR TV",Родное Кино
 https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
