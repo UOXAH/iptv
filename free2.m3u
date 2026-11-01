@@ -3044,30 +3044,45 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/20134/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 1 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18126/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2568/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 2 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18127/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2569/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 3 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18128/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2570/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 4 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18129/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2571/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 5 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18130/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2572/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 6 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18131/index.m3u8
+#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
+#EXTGRP:TRICOLOR TV
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2573/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 7 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18132/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18133/index.m3u8
-#EXTINF:0 tvg-rec="0",Знание ТВ
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18134/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18135/index.m3u8
@@ -3077,36 +3092,56 @@ http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18136/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 12 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18137/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 1 (Триколор)
+#EXTINF:0 tvg-rec="3",Зал 13 (Триколор)
 #EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2568/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 2 (Триколор)
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2579/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 17 (Триколор)
+#EXTGRP:Кино
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/32104/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 17 (Триколор) orig
+#EXTGRP:Кино
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/32105/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 19 (Триколор)
+#EXTGRP:Кино
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/32106/index.m3u8
+#EXTINF:0 tvg-rec="0",Зал 20 (Триколор)
+#EXTGRP:Кино
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/32107/index.m3u8
+#EXTINF:0 tvg-rec="3",Зал 31 (Триколор)
 #EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2569/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 3 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2570/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 4 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2571/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 5 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2572/index.m3u8
-#EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2573/index.m3u8
+http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2576/index.m3u8
 #EXTINF:0 tvg-rec="3",Зал 36 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2574/index.m3u8
 #EXTINF:0 tvg-rec="3",Зал 35 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2575/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 31 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2576/index.m3u8
-#EXTINF:0 tvg-rec="3",Зал 13 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2579/index.m3u8
+
+
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6353" tvg-logo="http://epg.one/img/6353.png" tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18126/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6354" tvg-logo="http://epg.one/img/6354.png" tvg-rec="0",Триколор След
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18127/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6355" tvg-logo="http://epg.one/img/6355.png" tvg-rec="0",Триколор Ментовские войны
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18128/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6356" tvg-logo="http://epg.one/img/6356.png" tvg-rec="0",Триколор Мелодрамы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18129/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6357" tvg-logo="http://epg.one/img/6357.png" tvg-rec="0",Триколор Мир без границ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18130/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6358" tvg-logo="http://epg.one/img/6358.png" tvg-rec="0",Триколор Некрасивая подружка
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18131/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6359" tvg-logo="http://epg.one/img/6359.png" tvg-rec="0",Триколор Три богатыря
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18132/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6360" tvg-logo="http://epg.one/img/6360.png" tvg-rec="0",Триколор Сибирские деревянные дома
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18133/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6361" tvg-logo="http://epg.one/img/6361.png" tvg-rec="0",Триколор Знание
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18134/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6362" tvg-logo="http://epg.one/img/6362.png" tvg-rec="0",Триколор Советские мультфильмы
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18135/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6363" tvg-logo="http://epg.one/img/6363.png" tvg-rec="0",Триколор Смешарики
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18136/index.m3u8
+#EXTINF:0 group-title="TRICOLOR TV" tvg-id="6364" tvg-logo="http://epg.one/img/6364.png" tvg-rec="0",Триколор Комедии
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AVNFCNQBEC9VQU/18137/index.m3u8
 
 #EXTINF:-1 group-title="TRICOLOR TV",Родное Кино
 https://s05.watcher.uz/45/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
