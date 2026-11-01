@@ -1303,7 +1303,7 @@ http://ru3.hls.gd/ch1962/mono.m3u8?token=leoneeded.v2_4Ho7rGGLjeRPBeKEAks11Tt_St
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch1963/mono.m3u8?token=leoneeded.v2_svAQF52tYO-f9qoQcFZFL9RiJ5uvmedCL6kT1ScG8ROtm_GUrUV3oY7zdDw6q2KtCZx8AsKbPTBQzw
 #EXTINF:0 tvg-id="ch1960" tvg-name="Sky High Neon VHS HD" tvg-logo="http://hls.gd/images/chIcons/1960.png" tvg-rec="3", Sky High Neon VHS HD
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch1960/mono.m3u8?token=leoneeded.v2_j3jqqk8HuDKP42YeD1AIsZhEQLVlqHwyt3XUccvGWkeFtRrq2622v_3wnjXvt96oS26qOd8Dmdufig
 #EXTINF:0 tvg-id="ch1964" tvg-name="Sky High Dust S HD" tvg-logo="http://hls.gd/images/chIcons/1964.png" tvg-rec="3", Sky High Dust S HD
 #EXTGRP:Кинозалы 2
@@ -1454,7 +1454,7 @@ http://ru3.hls.gd/ch2681/mono.m3u8?token=leoneeded.v2_HaY3i-pQXDLbIoHl71QbjKT7f1
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch2684/mono.m3u8?token=leoneeded.v2_bv67O6LG9JzlO0jo3JyoWB0zu27ANTxN0p2LLIf9w4TxJNfpG7NKv2kxMXzLZXh2dWAZ6d4hRDj6PA
 #EXTINF:0 tvg-id="ch2685" tvg-name="Oasis RUS Сериалы Драма" tvg-logo="http://hls.gd/images/chIcons/2685.png" tvg-rec="3", Oasis RUS Сериалы Драма
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch2685/mono.m3u8?token=leoneeded.v2_JwePQoyk7nlTlCtAZEeeOl--n_71yvBOcJ2n9XkLjA7WbQ9nYEEMeXJI03Tenp05lPRTcI6Ig3BfNg
 #EXTINF:0 tvg-id="ch2690" tvg-name="Oasis Superheroes Сериалы" tvg-logo="http://hls.gd/images/chIcons/2690.png" tvg-rec="3", Oasis Superheroes Сериалы
 #EXTGRP:Кинозалы 2
@@ -1556,10 +1556,10 @@ http://ru3.hls.gd/ch3121/mono.m3u8?token=leoneeded.v2_1AHUiFPLYqlzlPafDSv3xt4SVf
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3122/mono.m3u8?token=leoneeded.v2_mS1beS-G39hMf0lXrJc37Kf1-xKwjCKEukB9vC0dZZENwMgbLw8Q6xybylPxZP-T5C1twV3a8Q3vhg
 #EXTINF:0 tvg-id="ch3123" tvg-name="Gold Line Exist HD" tvg-logo="http://hls.gd/images/chIcons/3123.png" tvg-rec="3", Gold Line Exist HD
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3123/mono.m3u8?token=leoneeded.v2_8CN8NXkp1z4OaWucqyA83jzmKf4oe8gPvwR1K-f-hcLSJqTG2CVIBY3FJB9Li33b95bUaO4RIGqQRA
 #EXTINF:0 tvg-id="ch3124" tvg-name="Gold Line Island HD" tvg-logo="http://hls.gd/images/chIcons/3124.png" tvg-rec="3", Gold Line Island HD
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3124/mono.m3u8?token=leoneeded.v2_5mN5OC0T8pyXOOJGZQlYt6A5u-wvrO7HshWRFGwBtoIEYGhqwLOnbBGhgHL0McqKTGkwECpS668r2w
 #EXTINF:0 tvg-id="ch3125" tvg-name="Gold Line Naked and Funny HD" tvg-logo="http://hls.gd/images/chIcons/3125.png" tvg-rec="3", Gold Line Naked and Funny HD
 #EXTGRP:Кинозалы 2
@@ -1691,7 +1691,7 @@ http://ru3.hls.gd/ch3285/mono.m3u8?token=leoneeded.v2_8zcAwyHdK5UyeB986MNVDphd1m
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3286/mono.m3u8?token=leoneeded.v2_9tQ8BPTgZQV_jfKcdBFgLm-2PveMt0zIOb5GoTXoJErNixFbaSGVQ2YaRHrPpJNOMAwa_Gos8eu12Q
 #EXTINF:0 tvg-id="ch3417" tvg-name="TVPlay Mortal Kombat HD" tvg-logo="http://hls.gd/images/chIcons/3417.png" tvg-rec="3", TVPlay Mortal Kombat HD
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3417/mono.m3u8?token=leoneeded.v2_M6PyayIlF4GxPNgHLo54g-o2httSF_WGqeq63vRj8w-6gAidaUTA5gadiWRZTcK99gEUvjBEyS0PSg
 #EXTINF:0 tvg-id="ch3738" tvg-name="TVPlay VHS HD" tvg-logo="http://hls.gd/images/chIcons/3738.png" tvg-rec="3", TVPlay VHS HD
 #EXTGRP:Кинозалы 2
@@ -1736,7 +1736,7 @@ http://ru3.hls.gd/ch3784/mono.m3u8?token=leoneeded.v2_9ExP3TtztHqleQd_eMNz3gnzQi
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3768/mono.m3u8?token=leoneeded.v2_wbCLBVKxZPpkfADgzODYt8NWju34xI97Z8naVaelMEkmCTRCuNg2zu12p2Xjc_0u5-VPHvQuiDbTcQ
 #EXTINF:0 tvg-id="ch3771" tvg-name="TVPlay Космический HD" tvg-logo="http://hls.gd/images/chIcons/3771.png" tvg-rec="3", TVPlay Космический HD
-#EXTGRP:4. Cinemas/Кинозалы
+#EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3771/mono.m3u8?token=leoneeded.v2_Ais-50KzLUtw9JMYI-70_3HSgGdmj1WADBPbv_DEF3N-I5GntLHUhx7UmhdGjo939ru2NIAJ75Hrag
 #EXTINF:0 tvg-id="ch3773" tvg-name="TVPlay Гарри Поттер HD" tvg-logo="http://hls.gd/images/chIcons/3773.png" tvg-rec="3", TVPlay Гарри Поттер HD
 #EXTGRP:Кинозалы 2
