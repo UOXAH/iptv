@@ -387,16 +387,50 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18038/index.m3u8
 # Теория большого взрыва
 
 #EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 1
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
 #EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 #EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
+#EXTINF:0 tvg-rec="0",VF Теория большого взрыва 5
+#EXTGRP:Теория большого взрыва
+http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15009/index.m3u8
+#EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Теория большого взрыва 6
+#EXTGRP:Теория большого взрыва
+http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 7
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 8
+http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 9
+http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
+#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 10
 http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 11
+http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 12
+http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
+#EXTINF:0 tvg-rec="0",Теория большого взрыва 13
+#EXTGRP:Теория большого взрыва
+http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/15009/index.m3u8
+#EXTINF:0 tvg-rec="0",Теория большого взрыва 14
+#EXTGRP:Теория большого взрыва
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/15009/index.m3u8
+#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",Теория большого взрыва 15
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15009/index.m3u8
+#EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
+#EXTGRP:Теория большого взрыва
+http://ru3.hls.gd/ch3900/mono.m3u8?token=leoneeded.v2_xxnvlmp8DB_KdBWMc37mlUNlbt-h5Kk7rI6AY6wJeg-FAnQm8W6VgTkyLkiYntZp19gOvF5tcYOGDw
+
 #EXTINF:-1 tvg-id="Гарри Поттер" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14230/index.m3u8
 #EXTINF:-1 tvg-id="Гарри Поттер 1" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 1
@@ -405,17 +439,26 @@ http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/14230/index.m3u8
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/14230/index.m3u8
 #EXTINF:-1 tvg-id="Гарри Поттер 3" group-title="Теория большого взрыва" tvg-logo="https://i.ibb.co/4R8vrk8W/image-27.png",Гарри Поттер 3
 http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/14230/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Гарри Поттер 4
+#EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",Гарри Поттер 4
 #EXTGRP:Теория большого взрыва
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Теория большого взрыва 6
-#EXTGRP:Теория большого взрыва
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15009/index.m3u8
-#EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Теория большого взрыва 7
-#EXTGRP:Теория большого взрыва
-http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 9
-#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР", DITV ГАРИ ПОТЕР
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="Гарри Поттер 5",Гарри Поттер 5
+#EXTINF:-1 group-title="Теория большого взрыва",Гарри Поттер 6
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
+#EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",Гарри Поттер7
+http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
+#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",Гарри Поттер 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LEVQ7L9X7MNCCBD8G23FTBSU/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",Гарри Поттер 9
+#EXTGRP:Теория большого взрыва
+http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/14230/index.m3u8
+#EXTINF:0 tvg-rec="0",Гарри Поттер 10
+#EXTGRP:Теория большого взрыва
+http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/14230/index.m3u8
+#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
+#EXTGRP:Теория большого взрыва
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
 #EXTGRP:Теория большого взрыва
 http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
@@ -423,58 +466,18 @@ http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 http://ru3.hls.gd/ch3784/mono.m3u8?token=leoneeded.v2_9ExP3TtztHqleQd_eMNz3gnzQibR-Qb2giqbT0oBZBMojbwxIEWSsZqBfUT3gsEC3iIxX5yODA0CXA
 #EXTINF:0 tvg-id="ch3768" tvg-name="TVPlay Игра Престолов HD" tvg-logo="http://hls.gd/images/chIcons/3768.png" tvg-rec="3", TVPlay Игра Престолов HD
 #EXTGRP:Теория большого взрыва
-http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
-#EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3702/mono.m3u8?token=leoneeded.v2_OFrVNF24tdWN-U-VSIQFzT4BYT1g9ey9STy1IGYAhHrrBDcrY_j6YnBU5nXQgMIjpIsx3ZA8SrIxdg
 #EXTINF:0 tvg-id="ch3703" tvg-name="TEAM StarTrek HD" tvg-logo="http://hls.gd/images/chIcons/3703.png" tvg-rec="7", TEAM StarTrek HD
 #EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3703/mono.m3u8?token=leoneeded.v2_5zn0cWiuMLjTk80fId0_OtSQu3S9W4cQ5DgeWU2fvcXSDwdJuc3o9qjUx5tAr4u-MVVFqvxdn16yfg
 #EXTINF:0 tvg-id="ch3704" tvg-name="TEAM StarWars HD" tvg-logo="http://hls.gd/images/chIcons/3704.png" tvg-rec="7", TEAM StarWars HD
-
-#EXTINF:-1 group-title="Теория большого взрыва",Гарри Поттер 10
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
 #EXTINF:-1 group-title="Теория большого взрыва",Властелин колец 1
 https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=H-JEA4j7eacMe_OeHeLrPA&e=2093390366&scheme=https
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0", Теория большого взрыва 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/E4U2DGXEHR9YCA/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
-http://dc24261a.ucomist.net/iptv/NNTHC9TRM3FTKLEZ7VCSSCKY/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 3
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 4
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 5
-http://66a7f85a.amazzin.pw/iptv/RSZ4CMSH483GSAY2FW9QY54E/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 6
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15009/index.m3u8
-#EXTINF:0 group-title="Теория большого взрыва" tvg-logo="https://iptvx.one/picons/vf-garipoter.png" tvg-id="vf-garipoter",VF Гарри Поттер
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/14230/index.m3u8
-#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",VF Гарри Поттер 9
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LEVQ7L9X7MNCCBD8G23FTBSU/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Теория большого взрыва 8
-#EXTGRP:Теория большого взрыва
-http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/15009/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Теория большого взрыва
-#EXTGRP:Теория большого взрыва
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/15009/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Гарри Поттер
-#EXTGRP:Теория большого взрыва
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/14230/index.m3u8
-#EXTINF:0 tvg-rec="0",VF Гарри Поттер 8
-#EXTGRP:Теория большого взрыва
-http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/14230/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/18119/index.m3u8
 #EXTINF:-1 tvg-name="MARVEL CINEMATIC UNIVERSE" tvg-logo="https://pic.rtbcdn.ru/video/2026-08-26/5f/5f/5f5f4258f912baf2c5a5c0a07550183a.jpg?width=500", MARVEL CINEMATIC UNIVERSE
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=Zk-U5xs6PnXC_hrCvTQSIQ&e=2087765363&scheme=https
-#EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
-#EXTGRP:Теория большого взрыва
-https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН" tvg-logo="https://i.pinimg.com/736x/fc/e7/0f/fce70f99809f656e2ef741107ce7d84f.jpg", ВСЕЛЕННАЯ ЗВЕЗДНЫХ ВОЙН
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=8Rvr_KoGTYWePHeLLRUMlA&e=2088007313&scheme=https
@@ -486,8 +489,13 @@ https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=gz
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ DC" tvg-logo="https://pic.rtbcdn.ru/userappearance/2026-09-25/23/58/2358e17ae7dbf366412ba1a5967c9afc.jpeg", ВСЕЛЕННАЯ DC
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=AMsR-F6VUPtvhQdeOAZlAQ&e=2090947409&scheme=https
-#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 11
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15009/index.m3u8
+#EXTINF:0 tvg-id="ch3703" tvg-name="TEAM StarTrek HD" tvg-logo="http://hls.gd/images/chIcons/3703.png" tvg-rec="7", TEAM StarTrek HD
+#EXTGRP:Теория большого взрыва
+http://ru3.hls.gd/ch3703/mono.m3u8?token=leoneeded.v2_5zn0cWiuMLjTk80fId0_OtSQu3S9W4cQ5DgeWU2fvcXSDwdJuc3o9qjUx5tAr4u-MVVFqvxdn16yfg
+#EXTINF:0 tvg-id="ch3704" tvg-name="TEAM StarWars HD" tvg-logo="http://hls.gd/images/chIcons/3704.png" tvg-rec="7", TEAM StarWars HD
+#EXTGRP:Теория большого взрыва
+http://ru3.hls.gd/ch3704/mono.m3u8?token=leoneeded.v2_FHS_BPwTH558Mk7o9qWoYy-vyuazSa18r4jNplw9n6KZa-E_-ikEtpwEzIOZzpZoojIz4I9tx8esQQ
+
 
 # Кино
 
@@ -1117,7 +1125,6 @@ http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #Кинозалы 2
 
 #EXTGRP:Кинозалы 2
-http://ru3.hls.gd/ch3433/mono.m3u8?token=leoneeded.v2_O8JSR-OOqsWDyY87c822AN9p4VP2OoCROQqU1t8JWki2qtdi2LxPpSrp3gT9e36ZsxqiZbuK9GHAyw
 #EXTINF:0 tvg-id="ch3434" tvg-name="TEAM RuKino HD" tvg-logo="http://hls.gd/images/chIcons/3434.png" tvg-rec="7", TEAM RuKino HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch3434/mono.m3u8?token=leoneeded.v2_xxQG3OvbqZe-J6c350g7Hypnywi00EVLuDppJIYlPSPe9U2EA9-s_dHgdo0yButoSivRfyPiALLrxA
@@ -3077,12 +3084,6 @@ http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18131/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинозал 6 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/2573/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 7 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18132/index.m3u8
-#EXTINF:0 tvg-rec="0",Зал 8 (Триколор)
-#EXTGRP:TRICOLOR TV
-http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18133/index.m3u8
 #EXTINF:0 tvg-rec="0",Зал 10 (Триколор)
 #EXTGRP:TRICOLOR TV
 http://n8agmait.zyntras.top/iptv/T9H75A85UBLDTFZDN74YZ4G6/18135/index.m3u8
@@ -3413,26 +3414,6 @@ http://176.118.197.101/HCT/mono.m3u8
 http://176.118.197.101/Kinomix/mono.m3u8
 #EXTINF:-1 tvg-id="Киносерия HD" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносерия%20HD.png",Киносерия HD
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539671291_10_16_2018-q-500x500.jpeg",Кинопремьера
-https://cdn.itvuz.workers.dev/stream/77?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
-https://cdn.itvuz.workers.dev/stream/78?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
-https://cdn.itvuz.workers.dev/stream/79?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//6ca0afa439bff13f635a3d10820e0dd2-q-500x500.jpeg",Киномикс
-https://cdn.itvuz.workers.dev/stream/80?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//f150911ca6863e154db38355ea8c5c01-q-500x500.jpeg",Мужское кино
-https://cdn.itvuz.workers.dev/stream/82?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное Кино
-https://cdn.itvuz.workers.dev/stream/83?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678706_10_16_2018-q-500x500.jpeg",Наше Новое Кино
-https://cdn.itvuz.workers.dev/stream/84?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//def52b54f333507e6969f453e2852bb1-q-500x500.jpeg",Киносериа
-https://cdn.itvuz.workers.dev/stream/85?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидания
-https://cdn.itvuz.workers.dev/stream/86?key=zunotv
-#EXTINF:-1 group-title="НТВ+" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//1a8628a152bbee35f86d784341b25f14-q-500x500.jpeg",Кинокомедия
-https://cdn.itvuz.workers.dev/stream/87?key=zunotv
 
 #EXTINF:-1 group-title="НТВ+",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
@@ -3476,10 +3457,6 @@ http://176.118.197.101/HCT/mono.m3u8
 http://176.118.197.101/Kinomix/mono.m3u8
 #EXTINF:-1 group-title="НТВ+",Киносерия HD
 http://176.118.197.101/Kinoseria/mono.m3u8
-#EXTINF:-1 tvg-id="НТВ Хит" group-title="НТВ+" tvg-logo="http://epg.one/img2/2041.png",НТВ Хит
-http://178.134.1.158:8081/ntvhit/video.m3u8?token=test
-#EXTINF:-1 tvg-id="НТВ Хит" group-title="НТВ+" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НТВ%20Хит.png",НТВ Хит
-http://83.217.12.157:81/udp/239.1.1.200:1234
 #EXTINF:-1 tvg-id="НТВ Балаболᴴᴰ" group-title="НТВ+" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Балаболᴴᴰ
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="НТВ Сериалы.Невскийᴴᴰ" group-title="НТВ+" tvg-logo="https://iptvcinema.ru/channels/ntvnevskiy.png",НТВ Сериалы.Невскийᴴᴰ
@@ -3511,50 +3488,10 @@ https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Смотрим 100% Горького"  group-title="НТВ+"tvg-logo="https://cdn.smotrim.ru/photobank/prod/medium/156/126/57.jpg", Смотрим 100% Горького
 https://stream.smotrim.ru/hls3/fasttv07/playlist_3.m3u8
-#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="ТВОЁ ТВ HD" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png", ТВОЁ ТВ HD
 
 #Kinostream
 
 
-#EXTINF:-1 tvg-id="41327" tvg-name="Сити Эдем - КиноДетектив" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%94%d0%b5%d1%82%d0%b5%d0%ba%d1%82%d0%b8%d0%b2.png", Сити Эдем - КиноДетектив
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/41327/index.m3u8?token=b4165148a2a733cb7ed075023297d583
-#EXTINF:-1 tvg-id="40783" tvg-name="Сити Эдем - КиноМистика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9c%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноМистика
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/40783/index.m3u8?token=4553db048605eecf46c822b88833ce1d
-#EXTINF:-1 tvg-id="41331" tvg-name="Сити Эдем - КиноКомедия" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9a%d0%be%d0%bc%d0%b5%d0%b4%d0%b8%d1%8f.png", Сити Эдем - КиноКомедия
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/41331/index.m3u8?token=8f96495eee510a33fb3017982ce61eac
-#EXTINF:-1 tvg-id="34185" tvg-name="Сити Эдем - КиноКлассика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%9a%d0%bb%d0%b0%d1%81%d1%81%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноКлассика
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/34185/index.m3u8?token=eedcbaef9723990f462ed5ec343de5ca
-#EXTINF:-1 tvg-id="38128" tvg-name="Сити Эдем - КиноСемья" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%a1%d0%b5%d0%bc%d1%8c%d1%8f.png", Сити Эдем - КиноСемья
-#EXTGRP:КиноStream
-https://autopilot.catcast.tv/content/38128/index.m3u8?token=2c25bdb20383b2533f44f6073ddfa2b6
-#EXTINF:-1 tvg-id="38398" tvg-name="Сити Эдем - КиноАрт" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%a0%d0%a2.png", Сити Эдем - КиноАрт
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/38398/index.m3u8?token=8bf1c1fd44f97f9b58fab4a266a4567e
-#EXTINF:-1 tvg-id="34393" tvg-name="Сити Эдем - КиноАзия" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%90%d0%b7%d0%b8%d1%8f.png", Сити Эдем - КиноАзия
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/34393/index.m3u8?token=dbf2611bd4f1aab379cb289c3e79d512
-#EXTINF:-1 tvg-id="45268" tvg-name="Сити Эдем - КиноФантастика" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%a4%d0%b0%d0%bd%d1%82%d0%b0%d1%81%d1%82%d0%b8%d0%ba%d0%b0.png", Сити Эдем - КиноФантастика
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/45268/index.m3u8?token=83cbe0179bd863b7c1acb9894d7c7ba6
-#EXTINF:-1 tvg-id="45269" tvg-name="Сити Эдем - КиноДрама" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%9a%d0%b8%d0%bd%d0%be%d0%94%d1%80%d0%b0%d0%bc%d0%b0.png", Сити Эдем - КиноДрама
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/45269/index.m3u8?token=28470f31cea5990d1be54eb04a48514a
-#EXTINF:-1 tvg-id="46209" tvg-name="Сити Эдем - ТелеНовелла" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20-%20%d0%a2%d0%b5%d0%bb%d0%b5%d0%9d%d0%be%d0%b2%d0%b5%d0%bb%d0%bb%d0%b0.png", Сити Эдем - ТелеНовелла
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/46209/index.m3u8?token=085e0f93cd0d35977e08d1135585c6f5
-#EXTINF:-1 tvg-id="34246" tvg-name="Сити Эдем ТВ - Христианский!" tvg-logo="https://raw.githubusercontent.com/itaalo67/epg_picons/refs/heads/main/%d0%a1%d0%b8%d1%82%d0%b8%20%d0%ad%d0%b4%d0%b5%d0%bc%20%d0%a2%d0%92%20-%20%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%b9!.png", Сити Эдем ТВ
-#EXTGRP:КиноStream
-https://cityeden.catcast.tv/content/34246/index.m3u8?token=303bceb019d7b28644dd0682a2f5ce8f
-#EXTINF:-1 tvg-id="Фантастика HD" tvg-name="Фантастика HD" tvg-logo="http://1lot.tv/ch/6814.png", Фантастика HD
-#EXTGRP:КиноStream
-https://s.catcast.tv/content/34816/index.m3u8?token=a9eddceb7e037d1257bb924e0add54b3
-#EXTINF:-1 tvg-id="43064" tvg-name="Malder  vse tv" tvg-logo="https://smotret.tv/images/vse-tv.webp", Малдер Всё ТВ (Дубль)
-#EXTGRP:КиноStream
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 tvg-name="Rvision" tvg-logo="https://rvision.tv/wp-content/uploads/2020/09/rvision-1024x453.png", Rvision
 #EXTGRP:КиноStream
 https://fl1003.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
@@ -3597,9 +3534,6 @@ https://lbgo.bozztv.com/07/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Смотрим заново" tvg-logo="https://sun9-72.userapi.com/impf/c841232/v841232099/63204/PwUlRvUG2xM.jpg?size=807x807&quality=96&sign=061c2929f96aa0bd341b9aa45885fbb4&c_uniq_tag=4D0ghBCvZm0Vwb1k1q8Ub07HUazCioAJdqYfkzz85ss&type=album", Смотрим заново
 #EXTGRP:КиноStream
 https://lbgo.bozztv.com/07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Кинозал" tvg-logo="https://avatars.mds.yandex.net/get-dialogs/1535439/f0bcea0e95e1a0f0811e/orig", Кинозал
-#EXTGRP:КиноStream
-https://etv.by/tv/api/efirnoe/play/ch_acac9805b4
 #EXTINF:-1 tvg-name="Kinowalk_tv" tvg-logo="https://images.live.vkvideo.ru/user/20428041/avatar?change_time=1766171277&croped=1&mh=140&mw=140", Kinowalk_tv
 #EXTGRP:КиноStream
 http://kinowalk.hopto.org/kinowalk_live
@@ -3611,13 +3545,6 @@ http://kinowalk.hopto.org/scripachtv_live
 https://assimilator.tv/uploads/scripach.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825", KinoMix Юрич 2
 #EXTGRP:КиноStream
-http://kinowalk.hopto.org/yurich_kinomix_live
-#EXTINF:-1 tvg-name="KinoMix Юрич" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825", KinoMix Юрич (Дубль)
-#EXTGRP:КиноStream
-https://assimilator.tv/uploads/kinomix%20double.m3u8
-#EXTINF:-1 tvg-name="Alex.Films" tvg-logo="https://images.live.vkvideo.ru/user/19397267/avatar?change_time=1763534733&croped=1&mh=140&mw=140", Alex.Films
-#EXTGRP:КиноStream
-http://kinowalk.hopto.org/mmaxim0vich_live
 #EXTINF:-1 tvg-name="VHS Forever" tvg-logo="https://images.live.vkplay.ru/user/19154240/avatar?change_time=1720968476&croped=1&mh=140&mw=140", VHS Forever
 #EXTGRP:КиноStream
 http://kinowalk.hopto.org/vhs-forever_live
@@ -3655,9 +3582,6 @@ http://kinowalk.hopto.org/kinopro_live
 #EXTINF:-1 tvg-name="Фильмоскоп" tvg-logo="https://kinowalk.hopto.org/web/image/339/128x128?unique=2026-07-25%2013:22:03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683", Фильмоскоп
 #EXTGRP:КиноStream
 http://kinowalk.hopto.org/filmscope_live
-#EXTINF:-1 tvg-name="МирКино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/387?unique=2026-08-26+11%3A23%3A12.796389&access_token=c4732575-0377-426e-872b-03e94fbd0a71", МирКино
-#EXTGRP:КиноStream
-http://kinowalk.hopto.org/ncd_live
 #EXTINF:-1 tvg-name="KinoБайт" tvg-logo="http://kinowalk.hopto.org/static-content/logo/374?unique=2026-08-22+19%3A06%3A02.381591&access_token=fc4fd2e8-27db-4c33-9423-68ac534d0adc", KinoБайт
 #EXTGRP:КиноStream
 http://kinowalk.hopto.org/moviebytes_live
