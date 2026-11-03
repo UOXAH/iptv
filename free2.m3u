@@ -5267,17 +5267,17 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/13009/index.m3u8
 
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/premiere-hd.png" tvg-id="premiere-hd",PG Premiere HD
-http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/11094/index.m3u8
-#http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11094/index.m3u8
+#http://b639b845.otttv.pw/iptv/WNHY4X7ZMZ9LVC/11094/index.m3u8
+http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11094/index.m3u8
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/premium-hd.png" tvg-id="premium-hd",PG Premium HD
-http://bde.online24.pm/play/7145/F6E1DD42544DD10/video.m3u8
+#http://bde.online24.pm/play/7145/F6E1DD42544DD10/video.m3u8
 #http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11095/index.m3u8
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11095/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11095/index.m3u8
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/thriller-hd.png" tvg-id="thriller-hd",PG Thriller HD
-http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/11099/index.m3u8
-#http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11099/index.m3u8
+#http://33a28853.cbilant.com/iptv/HVGN6PEPMAXGE2R9NS99WXG4/11099/index.m3u8
+http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11099/index.m3u8
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/ussr-premieregroup.png" tvg-id="ussr-premieregroup",PG USSR HD
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11102/index.m3u8
@@ -5286,11 +5286,11 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11102/index.m3u8
 
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/victory-hd.png" tvg-id="victory-hd",PG Victory HD
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11097/index.m3u8
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11097/index.m3u8
+#http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11097/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11097/index.m3u8
 
 #EXTINF:0 group-title="PG" tvg-logo="https://iptvx.one/picons/rukino-hd.png" tvg-id="rukino-hd",PG РуКино HD
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11096/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11096/index.m3u8
 
 #EXTINF:0 tvg-rec="7",PG Premiere HD
 #EXTGRP:PG
