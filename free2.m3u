@@ -5975,7 +5975,6 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/10087/index.m3u8
 
 # Viju
 
-#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/vip-comedy.png" tvg-id="vip-comedy",Comedy
 
 #EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/vip-megahit.png" tvg-id="vip-megahit",Megahit
 http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/201/index.m3u8
@@ -5986,8 +5985,8 @@ http://6au8zl0c.megatv.fun/iptv/E8Q36367WLXKB3/201/index.m3u8
 http://185.121.1.163:8083/TV1000/index.m3u8
 
 #EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action",TV 1000 Action
-http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/6386/index.m3u8
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/131/index.m3u8
+#http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/6386/index.m3u8
+http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/131/index.m3u8
 
 #EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/viju-tv1000-novella.png" tvg-id="viju-tv1000-novella",TV 1000 Новелла
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/2002/index.m3u8
@@ -5995,35 +5994,50 @@ http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/2002/index.m3u8
 #EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="tv1000-russkoe-kino",TV 1000 Русское кино
 http://185.121.1.163:8083/TV1000RusskoeKino/index.m3u8
 
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//efa102b22ab6603f803081b78f9f810d-q-500x500.jpeg",viju TV1000
-https://cdn.itvuz.workers.dev/stream/88?key=zunotv
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//59907578752fdb6fd70d4f5c936554b4-q-500x500.jpeg",viju TV 1000 русское
-https://cdn.itvuz.workers.dev/stream/89?key=zunotv
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//96e0859ce3ac2d56c949cbe1a8488837-q-500x500.jpeg",viju TV1000 Action
-https://cdn.itvuz.workers.dev/stream/90?key=zunotv
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//a7dca3382dc15ac0335d56ad5249fc6d-q-500x500.jpeg",viju Comedy
-https://cdn.itvuz.workers.dev/stream/91?key=zunotv
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//f3eb1e71af2b4938405ceea18ae89a49-q-500x500.jpeg",viju Serial
-https://cdn.itvuz.workers.dev/stream/92?key=zunotv
-#EXTINF:-1 group-title="Viju" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//e42b4b32e003f64106e46903b50eaaeb-q-500x500.jpeg",viju Premiere
-https://cdn.itvuz.workers.dev/stream/93?key=zunotv
 
+#EXTINF:0 group-title="Viju" tvg-id="1013" tvg-logo="http://epg.one/img2/1013.png" tvg-rec="7",Viju+ Premiere HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/202/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="1013" tvg-logo="http://epg.one/img2/1013.png" tvg-rec="3",Viju+ Premiere HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/5079/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="1012" tvg-logo="http://epg.one/img2/1012.png" tvg-rec="7",Viju+ Megahit HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/201/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="1012" tvg-logo="http://epg.one/img2/1012.png" tvg-rec="3",Viju+ Megahit HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/5081/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="1011" tvg-logo="http://epg.one/img2/1011.png" tvg-rec="7",Viju+ Comedy HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/200/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="1011" tvg-logo="http://epg.one/img2/1011.png" tvg-rec="3",Viju+ Comedy HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/5080/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="2838" tvg-logo="http://epg.one/img2/2838.png" tvg-rec="3",Viju+ Serial HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/2443/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="2838" tvg-logo="http://epg.one/img2/2838.png" tvg-rec="3",Viju+ Serial HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9245/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="127" tvg-logo="http://epg.one/img2/127.png" tvg-rec="3",Viju TV1000 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/6387/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="127" tvg-logo="http://epg.one/img2/127.png" tvg-rec="3",Viju TV1000 HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9058/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="127" tvg-logo="http://epg.one/img2/127.png" tvg-rec="7",Viju TV1000
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/132/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="127" tvg-logo="http://epg.one/img2/127.png" tvg-rec="3",Viju TV1000 orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9235/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="125" tvg-logo="http://epg.one/img2/125.png" tvg-rec="3",Viju TV1000 Action HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/6386/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="125" tvg-logo="http://epg.one/img2/125.png" tvg-rec="3",Viju TV1000 Action HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9057/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="125" tvg-logo="http://epg.one/img2/125.png" tvg-rec="3",Viju TV1000 Action orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9229/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="125" tvg-logo="http://epg.one/img2/125.png" tvg-rec="7",Viju TV1000 Action
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/131/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="267" tvg-logo="http://epg.one/img2/267.png" tvg-rec="0",Viju TV1000 Русское HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/6388/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="267" tvg-logo="http://epg.one/img2/267.png" tvg-rec="0",Viju TV1000 Русское HD orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9059/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="267" tvg-logo="http://epg.one/img2/267.png" tvg-rec="7",Viju TV1000 Русское
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/101/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-id="267" tvg-logo="http://epg.one/img2/267.png" tvg-rec="0",Viju TV1000 Русское orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/9MSM7C9DAAU53WUVEM8CLGCG/9227/index.m3u8
 
 # Yosso TV
 
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-4k.png" tvg-id="yosso-4k",Yosso TV 4K
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-4k-hdr.png" tvg-id="yosso-4k-hdr",Yosso TV 4K HDR
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-adrenalin.png" tvg-id="yosso-adrenalin",Yosso TV Adrenaline
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-adventure.png" tvg-id="yosso-adventure",Yosso TV Adventure
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-best.png" tvg-id="yosso-best",Yosso TV Best
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-best60fps.png" tvg-id="yosso-best60fps",Yosso TV Best 60fps
-
-#EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/yosso-bestbox60.png" tvg-id="yosso-bestbox60",Yosso TV Best Box 60fps
 
 #EXTINF:0 group-title="Yosso TV" tvg-logo="https://iptvx.one/picons/c-comedy.png" tvg-id="c-comedy",Yosso TV C-Comedy
 http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/16151/index.m3u8
@@ -6061,9 +6075,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14175/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV New Кино
 #EXTGRP:Yosso TV
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14177/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Music Hits
-#EXTGRP:Yosso TV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14179/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Трагичное
 #EXTGRP:Yosso TV
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14219/index.m3u8
@@ -6094,13 +6105,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/19434/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Netflix
 #EXTGRP:Yosso TV
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20163/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Disney
-#EXTGRP:Yosso TV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20164/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
-#EXTGRP:Yosso TV
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/20165/index.m3u8
-
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV 4K
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16153/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",Yosso TV Советские фильмы 4K
@@ -6111,8 +6115,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14177/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16151/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Inquest
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16152/index.m3u8
-#EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Cartoon
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16050/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV C-Marvel
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/16051/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV Grand
@@ -6137,8 +6139,6 @@ http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14235/index.m3u8
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/14236/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV Adrenaline
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15105/index.m3u8
-#EXTINF:-1 group-title="Yosso TV",YOSSO TV Oblivion
-http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15509/index.m3u8
 #EXTINF:-1 group-title="Yosso TV",YOSSO TV Adventure
 http://prokazov.ottolok.net/iptv/R3A7B6MZZFDCUL/15510/index.m3u8
 
@@ -6163,12 +6163,6 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/14219/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Забавное
 #EXTGRP:Yosso TV
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/14234/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Ковбойское
-#EXTGRP:Yosso TV
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/14235/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Best
-#EXTGRP:Yosso TV
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/14236/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Adrenaline
 #EXTGRP:Yosso TV
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/15105/index.m3u8
@@ -6187,18 +6181,9 @@ http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/16153/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Мелодрама
 #EXTGRP:Yosso TV
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19434/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы 4K
-#EXTGRP:Yosso TV
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/19435/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Netflix
 #EXTGRP:Yosso TV
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/20163/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Disney
-#EXTGRP:Yosso TV
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/20164/index.m3u8
-#EXTINF:0 tvg-rec="0",Yosso TV Best 60fps
-#EXTGRP:Yosso TV
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/20165/index.m3u8
 
 #EXTINF:0 group-title="Yosso TV" tvg-id="5446" tvg-logo="http://epg.one/img2/5446.png" tvg-rec="0",Yosso TV Best
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/14236/index.m3u8
@@ -6236,24 +6221,11 @@ http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/14172/index.m3u8
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/20163/index.m3u8
 #EXTINF:0 group-title="Yosso TV" tvg-id="7886" tvg-logo="http://epg.one/img2/7886.png" tvg-rec="0",Yosso TV Best 60fps
 http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/20165/index.m3u8
-#EXTINF:0 group-title="Yosso TV" tvg-id="7885" tvg-logo="http://epg.one/img2/7885.png" tvg-rec="0",Yosso TV Disney
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/20164/index.m3u8
 
 
 # Z!
 
 
-#EXTINF:0 group-title="Z!" tvg-logo="https://iptvx.one/picons/z-channel.png" tvg-id="z-channel",Z!Channel HD
-http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/14134/index.m3u8
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/14134/index.m3u8
-
-#EXTINF:0 group-title="Z!" tvg-logo="https://iptvx.one/picons/z-comedy.png" tvg-id="z-comedy",Z!Comedy HD
-http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/14135/index.m3u8
-#http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/14135/index.m3u8
-
-#EXTINF:0 tvg-rec="0",Z!Channel HD
-#EXTGRP:Z!
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14134/index.m3u8
 #EXTINF:0 tvg-rec="0",Z!Comedy HD
 #EXTGRP:Z!
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14135/index.m3u8
