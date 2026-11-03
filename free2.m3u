@@ -3818,28 +3818,11 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/15026/index.m3u8
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-fantastic.png" tvg-id="bcu-fantastic",BCU Fantastic
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11032/index.m3u8
 
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-filmystic.png" tvg-id="bcu-filmystic",BCU Filmystic
-#http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11033/index.m3u8
-http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11033/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-history.png" tvg-id="bcu-history",BCU History
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11034/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-kinorating.png" tvg-id="bcu-kinorating",BCU Kinorating
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11037/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-marvel.png" tvg-id="bcu-marvel",BCU Marvel
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/15025/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-1.png" tvg-id="bcu-kinozal-prem-1",BCU Premiere 1
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11015/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-kinozal-prem-2.png" tvg-id="bcu-kinozal-prem-2",BCU Premiere 2
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11016/index.m3u8
 #http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11016/index.m3u8
 
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-romantic.png" tvg-id="bcu-romantic",BCU Romantic
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11040/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-russian.png" tvg-id="bcu-russian",BCU Russian
 http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11041/index.m3u8
@@ -3848,12 +3831,6 @@ http://hy4dzynk.rostelekom.xyz/iptv/QXRPSB7GMN4VWW/11041/index.m3u8
 http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/11044/index.m3u8
 #http://dda3aa01fc.edemist.com/iptv/KSKRCX75EL4VFTSHWYUKQUGB/11044/index.m3u8
 #http://91ea1cae.edemist.com/iptv/YPYAYTZV9TYE5V/11044/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-ultra4k.png" tvg-id="bcu-ultra4k",BCU Ultra 4K
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11045/index.m3u8
-
-#EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-vhs-hd.png" tvg-id="bcu-vhs",BCU VHS
-http://85bf102f.kazaktelekom.com/iptv/PV75VQNMKV69RQ/11042/index.m3u8
 
 #EXTINF:0 group-title="BCU" tvg-logo="https://iptvx.one/picons/bcu-sssr-hd.png" tvg-id="bcu-sssr",BCU СССР
 http://86f624624.amazzin.pw/iptv/2795X4UAMFQ29D/11026/index.m3u8
