@@ -2837,6 +2837,235 @@ http://ua.online24.pm/play/51341/FF2E7C222919825/video.m3u8
 #EXTGRP:Кинозалы
 http://ua.online24.pm/play/51379/FF2E7C222919825/video.m3u8
 
+#EXTINF:0 tvg-id="Xgoldline-series" tvg-name="GL Series" tvg-logo="https://iptv.pm/images/epg/1824.png?v1744359413"  tvg-rec="5" timeshift="5", GL Series
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1824/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-survival" tvg-name="GL Survival" tvg-logo="https://iptv.pm/images/epg/1825.png?v1744359473"  tvg-rec="5" timeshift="5", GL Survival
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1825/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-detektiv" tvg-name="GL Детектив" tvg-logo="https://iptv.pm/images/epg/1826.png?v1744359544"  tvg-rec="5" timeshift="5", GL Детектив
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1826/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="XGL Невский" tvg-name="GL Невский" tvg-logo="https://iptv.pm/images/epg/1817.png?v1744358816"  tvg-rec="5" timeshift="5", GL Невский
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1817/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-brief" tvg-name="GL Brief" tvg-logo="https://iptv.pm/images/epg/1818.png?v1744358858"  tvg-rec="5" timeshift="5", GL Brief
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1818/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-evidence" tvg-name="GL Evidence" tvg-logo="https://iptv.pm/images/epg/1819.png?v1744358998"  tvg-rec="5" timeshift="5", GL Evidence
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1819/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-exist" tvg-name="GL Exist" tvg-logo="https://iptv.pm/images/epg/1820.png?v1744359083"  tvg-rec="5" timeshift="5", GL Exist
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1820/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-island" tvg-name="GL Island" tvg-logo="https://iptv.pm/images/epg/1821.png?v1744359216"  tvg-rec="5" timeshift="5", GL Island
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1821/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-naked" tvg-name="GL Naked&Funny" tvg-logo="https://iptv.pm/images/epg/1822.png?v1744359298"  tvg-rec="5" timeshift="5", GL Naked&Funny
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1822/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xgoldline-psy" tvg-name="GL Psycho" tvg-logo="https://iptv.pm/images/epg/1823.png?v1744359357"  tvg-rec="5" timeshift="5", GL Psycho
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1823/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Латинские сериалы ретро" tvg-logo="https://iptv.pm/images/epg/1877.png?v1745404574" , TVPlay Латинские сериалы ретро
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1877/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay DC Comics HD" tvg-logo="https://iptv.pm/images/epg/1878.png?v1745404679" , TVPlay DC Comics HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1878/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Indian Cinema" tvg-logo="https://iptv.pm/images/epg/1879.png?v1745404829" , TVPlay Indian Cinema
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1879/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1880/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Авторский перевод HD" tvg-logo="https://iptv.pm/images/epg/1881.png?v1745405012" , TVPlay Авторский перевод HD
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1881/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay АЛЬФ" tvg-logo="https://iptv.pm/images/epg/1882.png?v1745405091" , TVPlay АЛЬФ
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1882/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Космический" tvg-logo="https://iptv.pm/images/epg/1883.png?v1745405225" , TVPlay Космический
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1883/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-name="TVPlay Лихие 90е Сериал" tvg-logo="https://iptv.pm/images/epg/1884.png?v1745405419" , TVPlay Лихие 90е Сериал
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/1884/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Воронины" tvg-logo="https://iptv.pm/images/epg/7681.jpg?v1791054405" , DITV Воронины
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51768/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Маски Шоу" tvg-logo="https://iptv.pm/images/epg/7683.jpg?v1791054445" , DITV Маски Шоу
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51769/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Удивительные странствия Геракла" tvg-logo="https://iptv.pm/images/epg/7687.jpg?v1791054568" , DITV Удивительные странствия Геракла
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51771/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Боевики" tvg-logo="https://iptv.pm/images/epg/7689.jpg?v1791054608" , DITV Боевики
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51772/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Ужасы" tvg-logo="https://iptv.pm/images/epg/7691.jpg?v1791054642" , DITV Ужасы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51773/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Фантастика" tvg-logo="https://iptv.pm/images/epg/7693.jpg?v1791054683" , DITV Фантастика
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51774/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Детективы" tvg-logo="https://iptv.pm/images/epg/7697.jpg?v1791054776" , DITV Детективы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51776/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Фильмы С Джеки Чаном" tvg-logo="https://iptv.pm/images/epg/7699.jpg?v1791054822" , DITV Фильмы С Джеки Чаном
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51777/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Альянс Вольных Переводчиков" tvg-logo="https://iptv.pm/images/epg/7701.jpg?v1791054861" , DITV Альянс Вольных Переводчиков
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51778/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Папины Дочки" tvg-logo="https://iptv.pm/images/epg/7703.jpg?v1791054900" , DITV Папины Дочки
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51779/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Осторожно модерн!" tvg-logo="https://iptv.pm/images/epg/7705.jpg?v1791055031" , DITV Осторожно модерн!
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51780/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Шоу Бенни Хилла" tvg-logo="https://iptv.pm/images/epg/7707.jpg?v1791055075" , DITV Шоу Бенни Хилла
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51781/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV НТВ Сериалы" tvg-logo="https://iptv.pm/images/epg/7709.jpg?v1791055360" , DITV НТВ Сериалы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51782/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Детективные сериалы" tvg-logo="https://iptv.pm/images/epg/7711.jpg?v1791055393" , DITV Детективные сериалы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51783/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Ивановы-Ивановы" tvg-logo="https://iptv.pm/images/epg/7713.jpg?v1791055429" , DITV Ивановы-Ивановы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51784/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DIZAL Домашний арест" tvg-logo="https://iptv.pm/images/epg/7715.jpg?v1791055555" , DIZAL Домашний арест
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51785/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DIZAL Гости из прошлого" tvg-logo="https://iptv.pm/images/epg/7717.jpg?v1791055580" , DIZAL Гости из прошлого
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51786/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ФИЛЬМЫ УЖАСОВ 80-х" tvg-logo="https://iptv.pm/images/epg/5671.jpg?v1791047046" , DITV ФИЛЬМЫ УЖАСОВ 80-х
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2051/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DIZAL КРИК" tvg-logo="https://iptv.pm/images/epg/7719.jpg?v1791055613" , DIZAL КРИК
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51787/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Американские комедии 80-90-х" tvg-logo="https://iptv.pm/images/epg/5673.jpg?v1791047053" , DITV Американские комедии 80-90-х
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2052/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DIZAL БИМ" tvg-logo="https://iptv.pm/images/epg/7721.jpg?v1791055658" , DIZAL БИМ
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51788/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ГАРИ ПОТЕР" tvg-logo="https://iptv.pm/images/epg/5675.jpg?v1791047062" , DITV ГАРИ ПОТЕР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Индиана Джонс" tvg-logo="https://iptv.pm/images/epg/7723.jpg?v1791055688" , DITV Индиана Джонс
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51789/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Про акул" tvg-logo="https://iptv.pm/images/epg/5677.jpg?v1791047072" , DITV Про акул
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2054/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Стивена Кинга" tvg-logo="https://iptv.pm/images/epg/7725.jpg?v1791055805" , DITV Стивена Кинга
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51790/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Про вампиров" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Про вампиров
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2055/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Меч" tvg-logo="https://iptv.pm/images/epg/7727.jpg?v1791055844" , DITV Меч
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51791/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Карпов" tvg-logo="https://iptv.pm/images/epg/5681.jpg?v1791047079" , DITV Карпов
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2056/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Каламбур" tvg-logo="https://iptv.pm/images/epg/7729.jpg?v1791055871" , DITV Каламбур
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51792/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Лихач" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Лихач
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2057/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV комедийные сериалы" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV комедийные сериалы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51412/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Невский" tvg-logo="https://iptv.pm/images/epg/7731.jpg?v1791055909" , DITV Невский
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51793/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV ФИЛЬМЫ" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV ФИЛЬМЫ
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2058/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV КОМЕДИИ СССР" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV КОМЕДИИ СССР
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51413/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV комедийные сериалы" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV комедийные сериалы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2059/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV КОМЕДИИ 90-х" tvg-logo="https://iptv.pm/images/epg/.jpg?v1785921090" , DITV КОМЕДИИ 90-х
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51414/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Первый-отдел" tvg-logo="https://iptv.pm/images/epg/7735.jpg?v1791055994" , DITV Первый-отдел
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51795/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Глухарь" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Глухарь
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2060/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV КОМЕДИИ" tvg-logo="https://iptv.pm/images/epg/.jpg?v1785921199" , DITV КОМЕДИИ
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51415/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Братаны" tvg-logo="https://iptv.pm/images/epg/7737.jpg?v1791056024" , DITV Братаны
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51796/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Куба" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Куба
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2061/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV СССР 4К" tvg-logo="https://iptv.pm/images/epg/.jpg?v1785921267" , DITV СССР 4К
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51416/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Учитель в законе*Динозавр" tvg-logo="https://iptv.pm/images/epg/7739.jpg?v1791056071" , DITV Учитель в законе*Динозавр
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51797/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Walt Disney" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Walt Disney
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2062/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Кинозал О Рыбалке" tvg-logo="https://iptv.pm/images/epg/7741.jpg?v1791056095" , DITV Кинозал О Рыбалке
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51798/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Concert" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Concert
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2063/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Пёс" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Пёс
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2064/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Сериал Жуки" tvg-logo="https://iptv.pm/images/epg/7745.jpg?v1791056175" , DITV Сериал Жуки
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51800/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Фильмы С Арнольда Шварценеггера" tvg-logo="https://iptv.pm/images/epg/7747.jpg?v1791056203" , DITV Фильмы С Арнольда Шварценеггера
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51801/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Зло" tvg-logo="https://iptv.pm/images/epg/7749.jpg?v1791056262" , DITV Зло
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51802/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Юмористические телешоу" tvg-logo="https://iptv.pm/images/epg/7751.jpg?v1791056287" , DITV Юмористические телешоу
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51803/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Братья по обмену" tvg-logo="https://iptv.pm/images/epg/7755.jpg?v1791056350" , DITV Братья по обмену
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51805/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Агент национальной безопасности" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Агент национальной безопасности
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2067/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Пункт назначения" tvg-logo="https://iptv.pm/images/epg/7757.jpg?v1791056381" , DITV Пункт назначения
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51806/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Пятницкий" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Пятницкий
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2068/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Зловещие мертвецы" tvg-logo="https://iptv.pm/images/epg/7759.jpg?v1791056406" , DITV Зловещие мертвецы
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51807/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="DITV Game of Thrones" tvg-logo="https://iptv.pm/images/epg/5679.jpg?v1791047094" , DITV Game of Thrones
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/2069/FF2E7C222919825/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_cinema" tvg-name="DITV Лучшие выпуски Уральские пельмени" tvg-logo="https://iptv.pm/images/epg/7761.jpg?v1791056459" , DITV Лучшие выпуски Уральские пельмени
+#EXTGRP:Кинозалы
+http://ua.online24.pm/play/51808/FF2E7C222919825/video.m3u8
+
 
 
 #Познавательные
