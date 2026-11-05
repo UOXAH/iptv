@@ -8009,121 +8009,54 @@ http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxz
 http://185.221.213.254/live/stream112.php?q=h0c5Eyuek0CppzJQmzPiyBmI9DfhNnGVuNxzdYNOfd80OsapFPaD3ZXfEOTb3uPpl7bu8sjlQxAFn2v9IWeLOnF7togvtZTk0DwJXcN2Za4
 
 
-#EXTINF:0 tvg-id="1560" tvg-logo="http://epg.cdntv.online/img/1560.png" group-title="Кинозалы", Clarity4K Приключения
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1560" tvg-logo="http://epg.cdntv.online/img/1560.png" group-title="Кинозалы 3", Clarity4K Приключения
 http://cdntv.online/high/4862a9mx3f/1560.m3u8
-#EXTINF:0 tvg-id="1561" tvg-logo="http://epg.cdntv.online/img/1561.png" group-title="Кинозалы", Clarity4K Ужасы
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1561" tvg-logo="http://epg.cdntv.online/img/1561.png" group-title="Кинозалы 3", Clarity4K Ужасы
 http://cdntv.online/high/4862a9mx3f/1561.m3u8
-#EXTINF:0 tvg-id="1562" tvg-logo="http://epg.cdntv.online/img/1562.png" group-title="Кинозалы", Clarity4K Фантастика
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1562" tvg-logo="http://epg.cdntv.online/img/1562.png" group-title="Кинозалы 3", Clarity4K Фантастика
 http://cdntv.online/high/4862a9mx3f/1562.m3u8
-#EXTINF:0 tvg-id="1563" tvg-logo="http://epg.cdntv.online/img/1563.png" group-title="Кинозалы", Clarity4k Драмы
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1563" tvg-logo="http://epg.cdntv.online/img/1563.png" group-title="Кинозалы 3", Clarity4k Драмы
 http://cdntv.online/high/4862a9mx3f/1563.m3u8
-#EXTINF:0 tvg-id="1564" tvg-logo="http://epg.cdntv.online/img/1564.png" group-title="Кинозалы", Clarity4k Русские сериалы
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1564" tvg-logo="http://epg.cdntv.online/img/1564.png" group-title="Кинозалы 3", Clarity4k Русские сериалы
 http://cdntv.online/high/4862a9mx3f/1564.m3u8
-#EXTINF:0 tvg-id="1565" tvg-logo="http://epg.cdntv.online/img/1565.png" group-title="Кинозалы", Clarity4k Классика кино
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1565" tvg-logo="http://epg.cdntv.online/img/1565.png" group-title="Кинозалы 3", Clarity4k Классика кино
 http://cdntv.online/high/4862a9mx3f/1565.m3u8
-#EXTINF:0 tvg-id="1566" tvg-logo="http://epg.cdntv.online/img/1566.png" group-title="Кинозалы", Clarity4k Единоборства
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1566.m3u8
-#EXTINF:0 tvg-id="1567" tvg-logo="http://epg.cdntv.online/img/1567.png" group-title="Кинозалы", Clarity4K Семейный
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1567" tvg-logo="http://epg.cdntv.online/img/1567.png" group-title="Кинозалы 3", Clarity4K Семейный
 http://cdntv.online/high/4862a9mx3f/1567.m3u8
-#EXTINF:0 tvg-id="1568" tvg-logo="http://epg.cdntv.online/img/1568.png" group-title="Кинозалы", Clarity4K Travel blog
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1568.m3u8
-#EXTINF:0 tvg-id="1569" tvg-logo="http://epg.cdntv.online/img/1569.png" group-title="Кинозалы", Clarity4K Звериный мир
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1569.m3u8
-#EXTINF:0 tvg-id="1570" tvg-logo="http://epg.cdntv.online/img/1570.png" group-title="Кинозалы", Clarity4K КосмоМир
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1570.m3u8
-#EXTINF:0 tvg-id="1571" tvg-logo="http://epg.cdntv.online/img/1571.png" group-title="Кинозалы", Clarity4K Ужасы  VHS
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1571" tvg-logo="http://epg.cdntv.online/img/1571.png" group-title="Кинозалы 3", Clarity4K Ужасы  VHS
 http://cdntv.online/high/4862a9mx3f/1571.m3u8
-#EXTINF:0 tvg-id="1572" tvg-logo="http://epg.cdntv.online/img/1572.png" group-title="Кинозалы", Clarity4k КиноФраншизы
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1572" tvg-logo="http://epg.cdntv.online/img/1572.png" group-title="Кинозалы 3", Clarity4k КиноФраншизы
 http://cdntv.online/high/4862a9mx3f/1572.m3u8
-#EXTINF:0 tvg-id="1573" tvg-logo="http://epg.cdntv.online/img/1573.png" group-title="Кинозалы", Clarity4K Комедия
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1573" tvg-logo="http://epg.cdntv.online/img/1573.png" group-title="Кинозалы 3", Clarity4K Комедия
 http://cdntv.online/high/4862a9mx3f/1573.m3u8
-#EXTINF:0 tvg-id="1574" tvg-logo="http://epg.cdntv.online/img/1574.png" group-title="Кинозалы", Clarity4k Боевик
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1574" tvg-logo="http://epg.cdntv.online/img/1574.png" group-title="Кинозалы 3", Clarity4k Боевик
 http://cdntv.online/high/4862a9mx3f/1574.m3u8
-#EXTINF:0 tvg-id="1575" tvg-logo="http://epg.cdntv.online/img/1575.png" group-title="Кинозалы", Clarity4K Фэнтези
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1575" tvg-logo="http://epg.cdntv.online/img/1575.png" group-title="Кинозалы 3", Clarity4K Фэнтези
 http://cdntv.online/high/4862a9mx3f/1575.m3u8
-#EXTINF:0 tvg-id="1576" tvg-logo="http://epg.cdntv.online/img/1576.png" group-title="Кинозалы", Clarity4K Walt Disney
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1576.m3u8
-#EXTINF:0 tvg-id="1577" tvg-logo="http://epg.cdntv.online/img/1577.png" group-title="Кинозалы", Clarity4K Мультимир
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1577.m3u8
-#EXTINF:0 tvg-id="1579" tvg-logo="http://epg.cdntv.online/img/1579.png" group-title="Развлекательные", Ювелирочка
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1580.m3u8
-#EXTINF:0 tvg-id="1581" tvg-logo="http://epg.cdntv.online/img/1581.png" group-title="Кинозалы", CineMan Комедийные сериалы
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1581" tvg-logo="http://epg.cdntv.online/img/1581.png" group-title="Кинозалы 3", CineMan Комедийные сериалы
 http://cdntv.online/high/4862a9mx3f/1581.m3u8
-#EXTINF:0 tvg-id="1583" tvg-logo="http://epg.cdntv.online/img/1583.png" group-title="Кинозалы", Clarity4K Комедия СССР 2
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1583" tvg-logo="http://epg.cdntv.online/img/1583.png" group-title="Кинозалы 3", Clarity4K Комедия СССР 2
 http://cdntv.online/high/4862a9mx3f/1583.m3u8
-#EXTINF:0 tvg-id="1584" tvg-logo="http://epg.cdntv.online/img/1584.png" group-title="Кинозалы", Clarity4K Комедия СССР 1
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1584" tvg-logo="http://epg.cdntv.online/img/1584.png" group-title="Кинозалы 3", Clarity4K Комедия СССР 1
 http://cdntv.online/high/4862a9mx3f/1584.m3u8
-#EXTINF:0 tvg-id="1585" tvg-logo="http://epg.cdntv.online/img/1585.png" group-title="Кинозалы", Clarity4k Боевик VHS
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1585" tvg-logo="http://epg.cdntv.online/img/1585.png" group-title="Кинозалы 3", Clarity4k Боевик VHS
 http://cdntv.online/high/4862a9mx3f/1585.m3u8
-#EXTINF:0 tvg-id="1586" tvg-logo="http://epg.cdntv.online/img/1586.png" group-title="Кинозалы", Clarity4K Кино 80х
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1586" tvg-logo="http://epg.cdntv.online/img/1586.png" group-title="Кинозалы 3", Clarity4K Кино 80х
 http://cdntv.online/high/4862a9mx3f/1586.m3u8
-#EXTINF:0 tvg-id="1587" tvg-logo="http://epg.cdntv.online/img/1587.png" group-title="Кинозалы", Clarity4K UrbanBlack
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1587.m3u8
-#EXTINF:0 tvg-id="1588" tvg-logo="http://epg.cdntv.online/img/1588.png" group-title="Кинозалы", CineMan Фитнес
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1588.m3u8
-#EXTINF:0 tvg-id="1642" tvg-logo="http://epg.cdntv.online/img/1642.png" group-title="Кинозалы", Clarity4k UFO
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1642" tvg-logo="http://epg.cdntv.online/img/1642.png" group-title="Кинозалы 3", Clarity4k UFO
 http://cdntv.online/high/4862a9mx3f/1642.m3u8
-#EXTINF:0 tvg-id="1643" tvg-logo="http://epg.cdntv.online/img/1643.png" group-title="Кинозалы", Clarity4K Молодежные комедии
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1643" tvg-logo="http://epg.cdntv.online/img/1643.png" group-title="Кинозалы 3", Clarity4K Молодежные комедии
 http://cdntv.online/high/4862a9mx3f/1643.m3u8
-#EXTINF:0 tvg-id="1644" tvg-logo="http://epg.cdntv.online/img/1644.png" group-title="Кинозалы", Clarity4K Триллер
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1644" tvg-logo="http://epg.cdntv.online/img/1644.png" group-title="Кинозалы 3", Clarity4K Триллер
 http://cdntv.online/high/4862a9mx3f/1644.m3u8
-#EXTINF:0 tvg-id="1650" tvg-logo="http://epg.cdntv.online/img/1650.png" group-title="Кинозалы", Clarity4K Galaxy Films
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1650" tvg-logo="http://epg.cdntv.online/img/1650.png" group-title="Кинозалы 3", Clarity4K Galaxy Films
 http://cdntv.online/high/4862a9mx3f/1650.m3u8
-#EXTINF:0 tvg-id="1660" tvg-logo="http://epg.cdntv.online/img/1660.png" group-title="Кинозалы", Clarity4k Anime
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1660.m3u8
-#EXTINF:0 tvg-id="1661" tvg-logo="http://epg.cdntv.online/img/1661.png" group-title="Кинозалы", Clarity4K Heavy metal
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1661.m3u8
-#EXTINF:0 tvg-id="1662" tvg-logo="http://epg.cdntv.online/img/1662.png" group-title="Кинозалы", Clarity4K КиноНовинки
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1662" tvg-logo="http://epg.cdntv.online/img/1662.png" group-title="Кинозалы 3", Clarity4K КиноНовинки
 http://cdntv.online/high/4862a9mx3f/1662.m3u8
-#EXTINF:0 tvg-id="1663" tvg-logo="http://epg.cdntv.online/img/1663.png" group-title="Кинозалы", Clarity4K Киношарм
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1663" tvg-logo="http://epg.cdntv.online/img/1663.png" group-title="Кинозалы 3", Clarity4K Киношарм
 http://cdntv.online/high/4862a9mx3f/1663.m3u8
-#EXTINF:0 tvg-id="1665" tvg-logo="http://epg.cdntv.online/img/1665.png" group-title="Кинозалы", Clarity4K Kинодети CССР
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1665" tvg-logo="http://epg.cdntv.online/img/1665.png" group-title="Кинозалы 3", Clarity4K Kинодети CССР
 http://cdntv.online/high/4862a9mx3f/1665.m3u8
-#EXTINF:0 tvg-id="1666" tvg-logo="http://epg.cdntv.online/img/1666.png" group-title="Кинозалы", Clarity4k DeepMe
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1666.m3u8
-#EXTINF:0 tvg-id="1667" tvg-logo="http://epg.cdntv.online/img/1667.png" group-title="Кинозалы", Clarity4K Запал
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1667.m3u8
-#EXTINF:0 tvg-id="1668" tvg-logo="http://epg.cdntv.online/img/1668.png" group-title="Кинозалы", Clarity4K RemasterWave
-#EXTGRP:Кинозалы 3
-http://cdntv.online/high/4862a9mx3f/1668.m3u8
-#EXTINF:0 tvg-id="1670" tvg-logo="http://epg.cdntv.online/img/1670.png" group-title="Кинозалы", Clarity4K HBO series
-#EXTGRP:Кинозалы 3
+#EXTINF:0 tvg-id="1670" tvg-logo="http://epg.cdntv.online/img/1670.png" group-title="Кинозалы 3", Clarity4K HBO series
 http://cdntv.online/high/4862a9mx3f/1670.m3u8
 
