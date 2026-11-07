@@ -996,12 +996,6 @@ http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3873/str
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv32782" tvg-name="Telik фентези" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3874/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/m0j7FxkN3PqPjMxNDxtFySJiLkP9fW.png",Telik фентези
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3874/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="ttv29076" tvg-name="Terra HD" tvg-logo="http://ttvrun.one/uploads/kJdSsaoTE45pOctnK2dlYkkt55IFS0.png",Terra HD
-#EXTGRP:Познавательные
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/1999/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-id="ttv30847" tvg-name="The Pet Collective HD" tvg-logo="http://ttvrun.one/uploads/wWebfosyp5VoZVhDK9d73qDCd6EM1q.png",The Pet Collective HD
-#EXTGRP:Развлекательные
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/2881/stream.m3u8
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33055" tvg-name="TheBestAction" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4063/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/zTyH7gvbhh5R0kKNl9b8pnINVsYrxG.png",TheBestAction
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4063/stream.m3u8
@@ -4445,6 +4439,55 @@ http://kinowalk.hopto.org/kinopro_live
 
 
 
+#EXTINF:0 group-title="Кинозал 4" tvg-id="11311" tvg-logo="http://epg.one/img2/11311.png" tvg-rec="7",StrahTV Sky2000 HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11054/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4693" tvg-logo="http://epg.one/img2/4693.png" tvg-rec="7",StrahTV The X-Files
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11055/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4777" tvg-logo="http://epg.one/img2/4777.png" tvg-rec="7",StrahTV Хит HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11064/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4776" tvg-logo="http://epg.one/img2/4776.png" tvg-rec="7",StrahTV VHS HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11059/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4694" tvg-logo="http://epg.one/img2/4694.png" tvg-rec="7",StrahTV Интерны ТВ
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11060/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4697" tvg-logo="http://epg.one/img2/4697.png" tvg-rec="7",StrahTV Универ ТВ
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11063/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4695" tvg-logo="http://epg.one/img2/4695.png" tvg-rec="7",StrahTV СССР
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11061/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4696" tvg-logo="http://epg.one/img2/4696.png" tvg-rec="7",StrahTV Сваты
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11062/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4779" tvg-logo="http://epg.one/img2/4779.png" tvg-rec="7",StrahTV Страх HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11069/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="4780" tvg-logo="http://epg.one/img2/4780.png" tvg-rec="7",StrahTV Фантастика HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11070/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="5118" tvg-logo="http://epg.one/img2/5118.png" tvg-rec="0",TOP MIX HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13006/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="5116" tvg-logo="http://epg.one/img2/5116.png" tvg-rec="0",TOP Cinema HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13004/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="5113" tvg-logo="http://epg.one/img2/5113.png" tvg-rec="0",TOP Великолепный Век HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13001/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="5114" tvg-logo="http://epg.one/img2/5114.png" tvg-rec="0",TOP 80 S HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13002/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="5117" tvg-logo="http://epg.one/img2/5117.png" tvg-rec="0",TOP USSR HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13005/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="6256" tvg-logo="http://epg.one/img2/6256.png" tvg-rec="0",Tviksel Кино 1 HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18069/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" tvg-rec="0",Tviksel Кино 1 International
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18071/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="6257" tvg-logo="http://epg.one/img2/6257.png" tvg-rec="0",Tviksel Кино 2 HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18070/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" tvg-rec="0",Tviksel Военное кино HD
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18072/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="107" tvg-logo="http://epg.one/img2/107.png" tvg-rec="0",MYTV HIT
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19410/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="104" tvg-logo="http://epg.one/img2/104.png" tvg-rec="0",MYTV
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19407/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="105" tvg-logo="http://epg.one/img2/105.png" tvg-rec="0",MYTV 2
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19408/index.m3u8
+#EXTINF:0 group-title="Кинозал 4" tvg-id="106" tvg-logo="http://epg.one/img2/106.png" tvg-rec="0",MYTV 3
+http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19411/index.m3u8
+
+
+
 
 
 #Кинозал 5
@@ -4906,59 +4949,6 @@ https://nl01.plink-pile.ch/8068/index.m3u8?token=NSpX5xT7EuLNSV
 https://nl01.plink-pile.ch/8069/index.m3u8?token=NSpX5xT7EuLNSV
 #EXTINF:0 tvg-logo="http://iptv-content.rv77.pw/336x192/8070.png" group-title="Кинозал 5", LIBERTY Боевики 4K HDR
 https://nl01.plink-pile.ch/8070/index.m3u8?token=NSpX5xT7EuLNSV
-
-
-
-#Кинозалы
-
-
-
-#EXTINF:0 group-title="Кинозалы" tvg-id="11311" tvg-logo="http://epg.one/img2/11311.png" tvg-rec="7",StrahTV Sky2000 HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11054/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4693" tvg-logo="http://epg.one/img2/4693.png" tvg-rec="7",StrahTV The X-Files
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11055/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4777" tvg-logo="http://epg.one/img2/4777.png" tvg-rec="7",StrahTV Хит HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11064/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4776" tvg-logo="http://epg.one/img2/4776.png" tvg-rec="7",StrahTV VHS HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11059/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4694" tvg-logo="http://epg.one/img2/4694.png" tvg-rec="7",StrahTV Интерны ТВ
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11060/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4697" tvg-logo="http://epg.one/img2/4697.png" tvg-rec="7",StrahTV Универ ТВ
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11063/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4695" tvg-logo="http://epg.one/img2/4695.png" tvg-rec="7",StrahTV СССР
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11061/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4696" tvg-logo="http://epg.one/img2/4696.png" tvg-rec="7",StrahTV Сваты
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11062/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4779" tvg-logo="http://epg.one/img2/4779.png" tvg-rec="7",StrahTV Страх HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11069/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="4780" tvg-logo="http://epg.one/img2/4780.png" tvg-rec="7",StrahTV Фантастика HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/11070/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5118" tvg-logo="http://epg.one/img2/5118.png" tvg-rec="0",TOP MIX HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13006/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5116" tvg-logo="http://epg.one/img2/5116.png" tvg-rec="0",TOP Cinema HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13004/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5113" tvg-logo="http://epg.one/img2/5113.png" tvg-rec="0",TOP Великолепный Век HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13001/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5114" tvg-logo="http://epg.one/img2/5114.png" tvg-rec="0",TOP 80 S HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13002/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="5117" tvg-logo="http://epg.one/img2/5117.png" tvg-rec="0",TOP USSR HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/13005/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6256" tvg-logo="http://epg.one/img2/6256.png" tvg-rec="0",Tviksel Кино 1 HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18069/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" tvg-rec="0",Tviksel Кино 1 International
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18071/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6257" tvg-logo="http://epg.one/img2/6257.png" tvg-rec="0",Tviksel Кино 2 HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18070/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" tvg-rec="0",Tviksel Военное кино HD
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/18072/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="107" tvg-logo="http://epg.one/img2/107.png" tvg-rec="0",MYTV HIT
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19410/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="104" tvg-logo="http://epg.one/img2/104.png" tvg-rec="0",MYTV
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19407/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="105" tvg-logo="http://epg.one/img2/105.png" tvg-rec="0",MYTV 2
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19408/index.m3u8
-#EXTINF:0 group-title="Кинозалы" tvg-id="106" tvg-logo="http://epg.one/img2/106.png" tvg-rec="0",MYTV 3
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/19411/index.m3u8
 
 
 
