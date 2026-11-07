@@ -1164,72 +1164,22 @@ http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3997/str
 #EXTINF:-1 tvg-id="ttv32466" tvg-name="   Маски шоу" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3883/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/XkzVcNdNT1nNwtI1lIm0wBpTrRL0gZ.png",   Маски шоу
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3883/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32260" tvg-name="   Могучая девятка" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3562/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/TyH8WPRoud1d9MQBo5N6xE6XMc0uZG.png",   Могучая девятка
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3562/stream.m3u8
-#EXTINF:-1 tvg-id="ttv33002" tvg-name="   Мой шумный дом" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4021/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/VrGR6i23TE6ABeK6bk01Oo5wYTFvOz.png",   Мой шумный дом
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4021/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32642" tvg-name="   Монолог фармацевта" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3804/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Op54xOSwOWOyrX9mNvuLXm1HreSPlE.png",   Монолог фармацевта
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3804/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32948" tvg-name="   Мумия" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3991/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/MZVEyNjRRXY8JhK6BtwUz0kzNCKlO3.png",   Мумия
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3991/stream.m3u8
 #EXTINF:-1 tvg-id="ttv32278" tvg-name="   Назад в будущее" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3556/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/CSJIuIcuGZIpFyZS4BeG3CcCj9Epbe.png",   Назад в будущее
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3556/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32487" tvg-name="   Повелитель тайн" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3771/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/sAnnza2CGjoeBhKNxT6TRQ1ro32n0O.png",   Повелитель тайн
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3771/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32632" tvg-name="   Поднятие уровня в одиночку" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3812/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ks6fYNwO9YtIbGVgGWaDqPbVehappk.png",   Поднятие уровня в одиночку
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3812/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32265" tvg-name="   Полный расколбас: Пищевая утопия" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3558/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4FpQAew6qiOir2BFGymfA8fjYkpsdw.png",   Полный расколбас: Пищевая утопия
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3558/stream.m3u8
 #EXTINF:-1 tvg-id="ttv31902" tvg-name="   Полярный" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3256/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AGfzr0FQjLhT0lEsWfYia37YqpaThl.png",   Полярный
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3256/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32011" tvg-name="   Путешествие к бессмертию" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3585/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/iH5iNcvK56lTAtectWJFD1DZ4K5RZl.png",   Путешествие к бессмертию
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3585/stream.m3u8
-#EXTINF:-1 tvg-id="ttv31929" tvg-name="   Разочарование" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3306/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/GArckWtb9O6MYU5jn1OKOn0ETql9l3.png",   Разочарование
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3306/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32630" tvg-name="   Созданный в Бездне" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3826/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/EFa2KuNtTCPVe1a3BcTw9nppk4qITZ.png",   Созданный в Бездне
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3826/stream.m3u8
 #EXTINF:-1 tvg-id="ttv32111" tvg-name="   Сорвиголова" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3370/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Y5IqNuV3Vv8iz4kwu8yLeNw8YxFAzG.png",   Сорвиголова
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3370/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32646" tvg-name="   Тетрадь смерти" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3825/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/EeHuV45qtJBESFwLjUDQMqfluZOXNs.png",   Тетрадь смерти
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3825/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32420" tvg-name="   Тихоокеанский рубеж" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3625/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/bM1qGpjOdKSVZIeWCjbzGLpXluGQdK.png",   Тихоокеанский рубеж
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3625/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32275" tvg-name="   УдивЛа" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3547/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/xsbrDQPdG1Ad9tAwJTyZdZETeGx03T.png",   УдивЛа
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3547/stream.m3u8
 #EXTINF:-1 tvg-id="ttv32511" tvg-name="   Фантастическая четвёрка" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3666/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/n8mBe42ylrKbjw9wg1TPCiJHEQaKkv.png",   Фантастическая четвёрка
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3666/stream.m3u8
-#EXTINF:-1 tvg-id="ttv31946" tvg-name="   Чип и Дейл" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3450/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/EP3VL1SMNzt5dYjNFiboVADLBy5NUw.png",   Чип и Дейл
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3450/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32232" tvg-name="   Что, если...?" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3571/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/N5gWqKdp8Ef71wUtIEH8ISSX5Gaxyi.png",   Что, если...?
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3571/stream.m3u8
-#EXTINF:-1 tvg-id="ttv32279" tvg-name="   Шоу Кливленда" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3549/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ZAP8GC1VgZeFRa0481LZhHNmmx7l6p.png",   Шоу Кливленда
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3549/stream.m3u8
 #EXTINF:-1 tvg-id="ttv33164" tvg-name="Комедии СССР" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4111/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/deID1TFXEouabNOIa2c6oBRdeWYRyw.png",Комедии СССР
 #EXTGRP:Колобок ТВ
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4111/stream.m3u8
-#EXTINF:-1 tvg-id="ttv33133" tvg-name="Крыжовник HD" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4105/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7uJP3bdg4KBz485ZPygFBUebJPB8Q4.png",Крыжовник HD
-#EXTGRP:Колобок ТВ
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4105/stream.m3u8
+
 
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv33155" tvg-name="ТаПаТВ - Голодные игры" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/4123/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/5lu2wG5QciW8TQBkDrFudaHHmppvAn.png",ТаПаТВ - Голодные игры
 #EXTGRP:Авторские
