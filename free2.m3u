@@ -3045,9 +3045,6 @@ http://ru3.hls.gd/ch4045/mono.m3u8?token=leoneeded.v2_7K2oEcgRQbWhikbYdJzwdL0ARS
 #EXTINF:0 tvg-id="ch4049" tvg-name="TEAM RuDetectTV HD" tvg-logo="http://hls.gd/images/chIcons/4049.png" tvg-rec="7", TEAM RuDetectTV HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4049/mono.m3u8?token=leoneeded.v2_Wq7rj65BIHnzAZLJ23H6J_zATgIiFNcVI85TELz_XcOKx3jg8hfkcGu-BoEJy-90_Gl9IiivvYNLMA
-#EXTINF:0 tvg-id="ch4105" tvg-name="TEAM Симпсоны HD" tvg-logo="http://hls.gd/images/chIcons/4105.png" tvg-rec="7", TEAM Симпсоны HD
-#EXTGRP:Кинозалы 2
-http://ru3.hls.gd/ch4105/mono.m3u8?token=leoneeded.v2_jpCcRMZB0eZr8XgIazlN9MfjZcHH7RmPv3pFdtEDKzAVguvVPTrG-6P2agplr-QOS9Cp-tYZdgZASg
 #EXTINF:0 tvg-id="ch4154" tvg-name="TEAM MafiaFilm HD" tvg-logo="http://hls.gd/images/chIcons/4154.png" tvg-rec="7", TEAM MafiaFilm HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4154/mono.m3u8?token=leoneeded.v2_CjlBZpVGpr3trY9oK88zE9QuZFtcApA9bRWPvTYHg3uXsjP_NJLVD3FbSc8ep1xRHyJ5BgMNRrzY9w
@@ -3063,9 +3060,6 @@ http://ru3.hls.gd/ch4160/mono.m3u8?token=leoneeded.v2_stz2Kxus6VkyA0ne5pknz9URCq
 #EXTINF:0 tvg-id="ch4161" tvg-name="TEAM ГикТВ HD" tvg-logo="http://hls.gd/images/chIcons/4161.png" tvg-rec="7", TEAM ГикТВ HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4161/mono.m3u8?token=leoneeded.v2_927t31ERH_CEsexgnG5DWxDhLwHU3as9voQoQoEqP-vm38sToLXV2XlaLxk5INEnarN8MNcnTwxz_A
-#EXTINF:0 tvg-id="ch3999" tvg-name="TEAM Гриффины HD" tvg-logo="http://hls.gd/images/chIcons/3999.png" tvg-rec="7", TEAM Гриффины HD
-#EXTGRP:Кинозалы
-http://ru3.hls.gd/ch3999/mono.m3u8?token=leoneeded.v2_o9frUS_t0N26ph8HHD8WQeauKyZ_PfEgsXDoPmAy9pN8Xx1Q4ToHPJuEZfO2IrSpbfQMOdrNJI7q4w
 #EXTINF:0 tvg-id="ch4167" tvg-name="TEAM НЛС-ТВ HD" tvg-logo="http://hls.gd/images/chIcons/4167.png" tvg-rec="7", TEAM НЛС-ТВ HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4167/mono.m3u8?token=leoneeded.v2_vzNmkZE-KDMc25qTnn8WaEQQsD2eXfVqBV6ie2BIs9aZv-_O2LIMKvFEb1P145gpwky6vlSXSFYvbA
@@ -3075,12 +3069,6 @@ http://ru3.hls.gd/ch4102/mono.m3u8?token=leoneeded.v2_rv0NlvQaKv5DuQkbliDxhg5-Tj
 #EXTINF:0 tvg-id="ch4103" tvg-name="TEAM ЭксМент HD" tvg-logo="http://hls.gd/images/chIcons/4103.png" tvg-rec="7", TEAM ЭксМент HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4103/mono.m3u8?token=leoneeded.v2_CMjU225jnG5vxd6GCxoBOEaTebRG-2aaZqx7kBbEkNVrLg5AB674E3dUkq-1ffwIJsKlLjVLH5LXKg
-#EXTINF:0 tvg-id="ch4137" tvg-name="TEAM Воронины HD" tvg-logo="http://hls.gd/images/chIcons/4137.png" tvg-rec="7", TEAM Воронины HD
-#EXTGRP:Кинозалы
-http://ru3.hls.gd/ch4137/mono.m3u8?token=leoneeded.v2_FWuEBERDdxJqcX5LlWTHO4jK3qBHxKkRwHdgmhHjXJu-2AIjpcNhRtv2IDWOCi20i1683da8Mfp9gg
-#EXTINF:0 tvg-id="ch4094" tvg-name="TEAM Дочки HD" tvg-logo="http://hls.gd/images/chIcons/4094.png" tvg-rec="7", TEAM Дочки HD
-#EXTGRP:Кинозалы 2
-http://ru3.hls.gd/ch4094/mono.m3u8?token=leoneeded.v2_2m4ApQWSfjJArqpKGUhJKYMzsfZ3UzbkDDpN0olUH2e1KQ6988FQJCZKSInjIKYxNo8N6S48dok00g
 #EXTINF:0 tvg-id="ch4052" tvg-name="TEAM Альбукерке HD" tvg-logo="http://hls.gd/images/chIcons/4052.png" tvg-rec="7", TEAM Альбукерке HD
 #EXTGRP:Кинозалы 2
 http://ru3.hls.gd/ch4164/mono.m3u8?token=leoneeded.v2_w3b5rm3QvHr6Vez7jS_ditrahzZleZpUURF-ImHosu2owEHXz_f_XUKP-iFm8tFRW2Uu17WFy_KbDg
