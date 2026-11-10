@@ -379,8 +379,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18038/index.m3u8
 # Теория большого взрыва
 
 
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
-http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Теория большого взрыва 6
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 9
@@ -404,8 +402,6 @@ http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede91
 #EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
 #EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3900/mono.m3u8?token=leoneeded.v2_xxnvlmp8DB_KdBWMc37mlUNlbt-h5Kk7rI6AY6wJeg-FAnQm8W6VgTkyLkiYntZp19gOvF5tcYOGDw
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Гарри Поттер 2
-http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",Гарри Поттер 3
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
@@ -1917,19 +1913,12 @@ http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede91
 
 # Кино
 
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Блокбастер HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9087/index.m3u8
+
 #EXTINF:-1 tvg-id="Блокбастер" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Блокбастер.png",Блокбастер
 http://185.184.233.178:5000/udp/225.1.2.68:1234
 #EXTINF:0 tvg-rec="7",Дом Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/154/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="3",Еврокино HD orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9078/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="7",Еврокино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/549/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="352" tvg-logo="http://epg.one/img2/352.png" tvg-rec="3",Еврокино orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9134/index.m3u8
 #EXTINF:0 tvg-rec="7",Еврокино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/549/index.m3u8
@@ -1952,25 +1941,19 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/550/index.m3u8
 #EXTINF:0 tvg-rec="7",Кино ТВ
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/732/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
-http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:-1 tvg-id="КИНО ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/КИНО%20ТВ.png",КИНО ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 tvg-id="КИНО ТВ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/КИНО%20ТВ.png",КИНО ТВ
 https://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 tvg-id="Кино ТВ HD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кино%20ТВ%20HD.png",Кино ТВ HD
-http://194.152.35.17/kino-tv/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/2121/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман orig
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9154/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/2121/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2407" tvg-logo="http://epg.one/img2/2407.png" tvg-rec="3",Киноман orig
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9154/index.m3u8
 #EXTINF:0 tvg-rec="3",Киноман
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2121/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinosat" audio-track="rus", Киноман
+http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 tvg-id="Киножелезоᴴᴰ" group-title="Кино" tvg-logo="https://oktv.uz/Channels/ch_2793.png",Киножелезоᴴᴰ
 https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=mPZ2z97b3j24PKD8bwFUzA&e=2069068451&scheme=https
 #EXTINF:-1 group-title="Кино" audio-track="rus", КиноМеню HD
@@ -1980,39 +1963,23 @@ http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинокомедия
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/145/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия HD
-http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Кинокомедия" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Кинокомедия.png",Кинокомедия
 http://185.46.16.239:8000/Fox_HD
 #EXTINF:-1 tvg-id="Кино Без Границ SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/kino-bez-granic.png",Кино Без Границ SD
 http://185.57.68.33:8091/237/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinosat" audio-track="rus", Киноман
-http://185.121.1.163:8083/Kinoman/index.m3u8
 #EXTINF:-1 tvg-id="КИНОСАТ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosat.png",КИНОСАТ
 http://5.188.221.43:8080/play/kinosat
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Киномикс orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9126/index.m3u8
 #EXTINF:-1 tvg-id="Киномикс" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киномикс.png",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ HD
-http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера
 http://185.121.1.163:8083/Kinopremyera/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера HD
-http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание
-http://tv.ttk.mx:9164
-#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание HD
-http://185.195.184.30:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="КиноСезонᴴᴰ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезонᴴᴰ
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:-1 tvg-id="КиноСезонᴴᴰ" group-title="Кино" tvg-logo="https://iptvx.one/picons/kinosezon.png",КиноСезонᴴᴰ
 http://stitch.teletarget.ru/vintera/movieseason/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMC8yMDI2IDc6NDk6NDcgUE0maGFzaF92YWx1ZT1qUlgvaDF3a2IvNkM1cWFnK3lqN2tBPT0mdmFsaWRtaW51dGVzPTQ4MA==
 
-#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" audio-track="rus", Киносемья
-http://46.32.176.50/kinosemya/index.m3u8
 #EXTINF:0 tvg-rec="7",Киносемья
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/125/index.m3u8
@@ -2021,11 +1988,6 @@ http://185.121.1.163:8083/Kinosemya/index.m3u8
 #EXTINF:0 tvg-rec="0",Киносемья HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7244/index.m3u8
-#EXTINF:0 tvg-rec="7",Киносвидание
-#EXTGRP:Кино
-http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/728/index.m3u8
-#EXTINF:-1 tvg-id="Киносвидание FD" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Киносвидание%20FD.png",Киносвидание FD
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="Классика Кино SD" group-title="Кино" tvg-logo="https://iptvx.one/picons/klassika-kino.png",Классика Кино SD
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDI2IDExOjQ5OjIxIFBNJmhhc2hfdmFsdWU9NzBLbWM5SUpMWitZVEplblVPVDFHUT09JnZhbGlkbWludXRlcz00ODA=
 #EXTINF:0 tvg-rec="0",KinoJam 1 HD
@@ -2034,27 +1996,10 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7260/index.m3u8
 #EXTINF:0 tvg-rec="0",KinoJam 2 HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7261/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="0",Кинохит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/7250/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="7",Кинохит
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/516/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="3",Кинохит orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9128/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="0",Кинохит HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/7250/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="7",Кинохит
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/516/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="3",Кинохит orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9128/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинохит orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9128/index.m3u8
+
 #EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/516/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Кинопоказ HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9092/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="klassika-kino" audio-track="rus", Классика кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:0 tvg-rec="7",Любимое Кино
@@ -2077,16 +2022,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/126/index.m3u8
 #EXTINF:0 tvg-rec="7",Наше Новое Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/517/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="0",Наше Новое Кино HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/19231/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="3",Наше Новое Кино orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9230/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="485" tvg-logo="http://epg.one/img2/485.png" tvg-rec="7",Наше Новое Кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/517/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Наш Кинопоказ HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9086/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Наше Мужское HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9088/index.m3u8
 #EXTINF:0 tvg-rec="7",НСТ
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/726/index.m3u8
@@ -2098,22 +2033,12 @@ http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9089/index.m3u8
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9127/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",Хит HD orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9090/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="7",Феникс плюс Кино
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/2039/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="3",Феникс плюс Кино orig
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/9153/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="7",Феникс плюс Кино
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/2039/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2404" tvg-logo="http://epg.one/img2/2404.png" tvg-rec="3",Феникс плюс Кино orig
-http://28ee3a6f.kablakaka.ru/iptv/9FVBWENB9GGB326YAVUDTBMB/9153/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2039/index.m3u8
 #EXTINF:-1  group-title="Кино"   tvg-rec="3",.sci-fi orig
 http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9125/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
-http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 tvg-id="Cinema" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Cinema.png",Cinema
@@ -2143,36 +2068,7 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18068/index.m3u8
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/18170/index.m3u8
 
-#EXTINF:0 tvg-rec="0",Magic Karate HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18061/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic VHS HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18062/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Comedy HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18063/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Disney HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18064/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Thriller HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18065/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Action HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18066/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Galaxy HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18067/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Horror HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18068/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Family HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18170/index.m3u8
-#EXTINF:0 tvg-rec="0",Magic Love HD
-#EXTGRP:Кино
-http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/18171/index.m3u8
+
 #EXTINF:0 tvg-rec="0",MS Prisons HD
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/15137/index.m3u8
