@@ -399,10 +399,10 @@ http://ahz1seig.lunexas.top/iptv/5PEDN3VA439B8KTVXUL7LXBR/15009/index.m3u8
 http://dtfcw0dz.vexiumis.top/iptv/QL63XCPSAXD83XW54XEES2PB/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",Теория большого взрыва 15
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15009/index.m3u8
-#EXTINF:-1 group-title="Теория Большого Взрыва" tvg-id="ttv31530" tvg-name="Теория Большого Взрыва 16" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QyiTvBWUy2wWWCsS6Be4URJuzGNqyb.png",Теория Большого Взрыва
+#EXTINF:-1 group-title="Теория большого Взрыва" tvg-id="ttv31530" tvg-name="Теория Большого Взрыва 16" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QyiTvBWUy2wWWCsS6Be4URJuzGNqyb.png",Теория Большого Взрыва
 #EXTGRP:Теория большого взрыва
 http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8
-#EXTINF:-1 tvg-id="ttv31981" tvg-name="Теория Большого Взрыва 17" catchup="default" catchup-source="http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7CH62SrhPoPmt555JvJlnYjejLzLKl.png",Чебур ТВ - Теория Большого Взрыва
+#EXTINF:-1 tvg-id="ttv31981" tvg-name="Теория большого Взрыва 17" catchup="default" catchup-source="http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7CH62SrhPoPmt555JvJlnYjejLzLKl.png",Чебур ТВ - Теория Большого Взрыва
 #EXTGRP:Теория большого взрыва
 http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8
 #EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
