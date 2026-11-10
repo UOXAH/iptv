@@ -379,8 +379,6 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18038/index.m3u8
 # Теория большого взрыва
 
 
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 1
-http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Теория большого взрыва 6
@@ -406,6 +404,8 @@ http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede91
 #EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
 #EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3900/mono.m3u8?token=leoneeded.v2_xxnvlmp8DB_KdBWMc37mlUNlbt-h5Kk7rI6AY6wJeg-FAnQm8W6VgTkyLkiYntZp19gOvF5tcYOGDw
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Гарри Поттер 2
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",Гарри Поттер 3
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=p8sqO2JZJ6QnRvlmph6YRQ&e=2093390366&scheme=https
