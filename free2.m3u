@@ -2000,6 +2000,8 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/7261/index.m3u8
 #EXTINF:0 tvg-rec="7",Кинохит
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/516/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="542" tvg-logo="http://epg.one/img2/542.png" tvg-rec="3",Кинохит orig
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/AR22FK2Q7D2SLQ/9128/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="klassika-kino" audio-track="rus", Классика кино
 http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
 #EXTINF:0 tvg-rec="7",Любимое Кино
@@ -2027,12 +2029,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/517/index.m3u8
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/726/index.m3u8
 #EXTINF:-1 tvg-id="НСТ" group-title="Кино" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/НСТ.png",НСТ
 http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Про Любовь HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9089/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Родное Кино orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9127/index.m3u8
-#EXTINF:-1  group-title="Кино"   tvg-rec="3",Хит HD orig
-http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/9090/index.m3u8
 #EXTINF:0 tvg-rec="7",Феникс плюс Кино
 #EXTGRP:Кино
 http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/2039/index.m3u8
