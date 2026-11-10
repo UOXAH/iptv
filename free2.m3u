@@ -379,14 +379,12 @@ http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/18038/index.m3u8
 # Теория большого взрыва
 
 
-#EXTGRP:Теория большого взрыва
+#EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 1
+http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 2
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",VF Теория большого взрыва 6
-#EXTGRP:Теория большого взрыва
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
-#EXTGRP:Теория большого взрыва
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 9
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 #EXTINF:-1 group-title="Теория большого взрыва" tvg-rec="0",Теория большого взрыва 12
@@ -416,9 +414,6 @@ http://pfnwl2av.lunexas.top/iptv/PDS2THE2VHU8NZ/14230/index.m3u8
 #EXTINF:0 tvg-rec="0" group-title="Теория большого взрыва",Гарри Поттер 4
 #EXTGRP:Теория большого взрыва
 http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/14230/index.m3u8
-#EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва 9
-#EXTINF:0 tvg-id="no_epg_cinema" tvg-name="Гарри Поттер 5",Гарри Поттер 5
-#EXTINF:-1 group-title="Теория большого взрыва",Гарри Поттер 6
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",Гарри Поттер 8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/LEVQ7L9X7MNCCBD8G23FTBSU/14230/index.m3u8
 #EXTINF:0 tvg-rec="0",Гарри Поттер 9
@@ -433,8 +428,6 @@ http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede91
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
-#EXTGRP:Теория большого взрыва
-http://ua.online24.pm/play/2053/FF2E7C222919825/video.m3u8
 #EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов HD
 #EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3784/mono.m3u8?token=leoneeded.v2_9ExP3TtztHqleQd_eMNz3gnzQibR-Qb2giqbT0oBZBMojbwxIEWSsZqBfUT3gsEC3iIxX5yODA0CXA
