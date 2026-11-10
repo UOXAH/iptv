@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://italo.s.gy/fullepg"
+#EXTM3U x-tvg-url="https://epg.team/1.1.xml?pkg=442"
 
 #http://epg.one/epg.xml.gz
 #http://epg.it999.ru/epg2.xml.gz
@@ -6,6 +6,7 @@
 #http://programtv.ru/xmltv.xml.gz
 #https://italo.s.gy/fullepg
 #http://tapitv.com/ttv.xmltv.xml.gz
+#https://epg.team/1.1.xml?pkg=442
 
 # Общие
 
