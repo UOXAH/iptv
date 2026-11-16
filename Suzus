@@ -50,8 +50,6 @@ http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/49kanal.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_49kanal" $ExtFilter="GADEM 2",49 канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://i.ibb.co/wh4J4FfK/image-87.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",4FUN Dance
-http://mains.services/live/0228902066/tc674KJ3du/a8d19b65-7fab-4e48-9b91-46a325ae3adf.m3u
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/6tv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_6tv" $ExtFilter="GADEM 2",6 ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_6TV/variant.m3u8
@@ -816,12 +814,6 @@ https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8
 http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://i115.fastpic.org/big/2021/0926/b0/88591fbaa914901704c03514d929c9b0.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Дон 24" $ExtFilter="GADEM 2",ДОН 24 HD
 https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_RD_DON24/variant.m3u8?version=2
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://edemtv.my1.ru/LOGO/qr_bcdf0a3beb9ce4f0b1110889afb8296d.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Донат Webmoney Z457575729000 Поблагодарить
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_dorama" $ExtFilter="GADEM 2",Дорама HD
-http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_drive" $ExtFilter="GADEM 2",Драйв
-http://127.0.0.1:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
 #EXTINF:-1 group-title="Kinowalk" tvg-logo="https://images.live.vkvideo.ru/user/18907130/avatar?change_time=1734455298&croped=1&mh=140&mw=140" tvg-id="e10432067b0942800a78cadacc6c7675_ttv31559" $ExtFilter="GADEM 2",Друзья
 http://kinowalk.hopto.org/lampotv_live
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ewpatorya24.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ewpatorya24" $ExtFilter="GADEM 2",Евпатория 24
@@ -887,8 +879,6 @@ https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=Ko
 https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=BBdO0PGkkckScTTT_Nwqlw&e=2093765741&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zdorovoe-tv" $ExtFilter="GADEM 2",Здоровое ТВ
 http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd
-#EXTINF:-1 group-title="🎧 Музло+ 🔊🎶🎵🎧🎸🎷" tvg-logo="https://headicon.trovo.live/user/2l7xgbqaaaaaby365l2bw4g2cy.jpeg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ЗОНА М1
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8?|User-agent=deooleg
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/ivanovo-ot.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ivanovo-ot" $ExtFilter="GADEM 2",Ивановское общественное телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
@@ -962,17 +952,6 @@ http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_INKOMTV/variant.m3u8
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="http://i115.fastpic.org/big/2021/0926/df/672c45dc7d94e39321e050b05c93d9df.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Инфо 24 HD (Шадринск)" $ExtFilter="GADEM 2",Инфо 24 HD
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?version=2
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/Imagem-Telegram-Logo-PNG-Preto.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Инфоканал info Чат https://t.me/iptvsuzukan2
-https://camsecure.co/HLS/boatq.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://i115.fastpic.org/big/2021/0926/86/b8082225d1c04d9f9c41b65a1a075c86.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Информационная служба Югры (Сургут)" $ExtFilter="GADEM 2",Информационная служба Югры
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1562587410193.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Информационная служба Югры (Сургут)" $ExtFilter="GADEM 2",Информационная служба Югры
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_PERVIYSOVETSKIY/variant.m3u8
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/rentv-istoki.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-istoki" $ExtFilter="GADEM 2",Истоки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
 
 #EXTINF:-1 group-title="Kinowalk" tvg-logo="http://kinowalk.hopto.org/static-content/logo/396?unique=2026-09-24+19%3A57%3A51.509738&access_token=d3adaef7-f195-40f4-9f8f-90946394df57" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Йохан грохан
 http://kinowalk.hopto.org/johan_grohan_live
@@ -2607,19 +2586,6 @@ https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=rA
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 group-title="Плюсовые" tvg-logo="http://epg.one/img/3038.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+7)" $ExtFilter="GADEM 2",ТВЦ +7
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210297&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210294&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210293&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210296&extension=ts
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO👉©️ SuzuS TV™️ ®️🔴🔺↕️" tvg-logo="https://suzustv.clan.su/Logo/photo_2026-09-22_13-46-02.jpg" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",ТГ https://t.me/SuzusTVMedia
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:AD:A9:35&stream=210295&extension=ts
-#EXTINF:-1 group-title="Региональные" tvg-id="simpleTVFakeEpgId" $ExtFilter="GADEM 2",Телевитрина-Восток (Новосибирск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_VITRINAVOSTOK/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-logo="https://iptvx.one/picons/86-surgut.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_86-surgut" $ExtFilter="GADEM 2",Телеканал 86 Сургут HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
