@@ -5412,6 +5412,10 @@ http://ru02.plink-pile.ch/8070/mpegts?token=Hbu9XiuczkAn8N
 
 #TEAMTV
 
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+#http://nl.hls.gd/ch3433/mono.m3u8?token=masco.v2_59gspkVtcwyYcC6KqK1ea-233QI_zlmij6gL6wFYVFBKNvHrXpixyZDgMkHckq-IywoyNQvkXQ
+#EXTINF:0 tvg-id="tvg_3434" tvg-logo="http://hls.gd/images/chIcons/3434.png" timeshift="7", TEAM RuKino HD
+
 
 #EXTGRP:4. Cinemas/Кинозалы TV Team
 https://16.hls.gd/ch3433/mono.m3u8?token=skynex.v2_-tQVXQ-jLSJlm48FmOKpTncq-sqqU26xUy9sqHevwgjud3h41lNHCupMDhweyYi_fkEAaDEa2g&nostub=1
