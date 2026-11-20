@@ -3935,3 +3935,2826 @@ http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/31694/index.m3u8
 
 #Проверка
 
+
+
+#Sharovoz
+
+
+
+#EXTINF:0,Первый канал HD
+#http://nl01.plink-pile.ch/128/index.m3u8?token=mFYDC4cScXy9ZS
+
+#EXTINF:0,Первый канал HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/128/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Первый канал
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5005/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Россия 1 HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/129/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Россия 1
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/20002/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Россия К HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5100/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Россия К
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5099/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Россия РТР
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5299/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/253/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5097/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ Мир
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5633/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,РЕН ТВ HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/200/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,РЕН ТВ
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5106/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТНТ HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/301/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТНТ
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5001/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТНТ4 HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/3571/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТНТ International
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5296/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,СТС HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/3187/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,СТС
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/292/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,СТС International
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5297/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,СТС Love
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5253/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Суббота! HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6855/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Пятый канал
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/338/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Звезда HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1337/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Звезда
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/337/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Звезда Плюс HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/13086/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Звезда Плюс
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/13087/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ Центр HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/3334/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ Центр
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/334/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ Центр International
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1982/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Домашний HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/2291/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Домашний
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/291/mpegts?token=Hbu9XiuczkAn8N
+
+#EXTINF:0,Пятница! HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/213/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Пятница!
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5300/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Че!
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/363/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Кухня ТВ
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/283/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ-3 HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1519/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ-3
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/336/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ-3 (+2)
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1715/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ-3 (+4)
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1745/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/138/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1139/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир (+2)
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1718/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир (+4)
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/1748/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир 24
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5129/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,360° HD
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6791/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,360°
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6792/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,8 канал
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5288/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КВН ТВ
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5177/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ОТР
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5501/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Перец International
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6711/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Продвижение
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6759/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Сарафан
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5332/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Союз
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5047/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Спас
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5133/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Телеканал ТЕАТР
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5116/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Телекафе
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5323/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Успех
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/6853/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Ю
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5142/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Ю (+2)
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/4346/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Москва Доверие
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/20321/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Время
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/5628/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ЛенТВ24
+#EXTGRP:RU Общероссийские
+http://ru02.plink-pile.ch/7333/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир Белогорья
+
+
+#EXTINF:0,Россия-24
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/302/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Euronews Россия
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/325/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,RT HD
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/105/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,RT Doc HD
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/214/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Москва 24
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/295/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,360° Новости HD
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/6790/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,РБК HD
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/1316/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,РБК-ТВ
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/316/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Известия HD
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/6749/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Известия
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/6750/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Соловьев Live
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/6753/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,News Front
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/6755/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,RTVi
+#EXTGRP:RU Новости
+http://ru02.plink-pile.ch/5673/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Авто 24
+#EXTGRP:RU Познавательные
+http://ru02.plink-pile.ch/315/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Авто Плюс
+#EXTGRP:RU Познавательные
+http://ru02.plink-pile.ch/279/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Драйв
+#EXTGRP:RU Познавательные
+http://ru02.plink-pile.ch/20097/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Большая Азия
+#EXTGRP:RU Познавательные
+http://ru02.plink-pile.ch/6452/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:RU Познавательные
+http://ru02.plink-pile.ch/267/mpegts?token=Hbu9XiuczkAn8N
+
+
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/209/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,START Air HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5770/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,START World HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5771/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Кино UHD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/17372/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОХИТ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2272/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОХИТ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/272/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОМИКС HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2273/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОМИКС
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/273/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСЕМЬЯ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2274/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/274/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСЕРИЯ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2286/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/286/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСВИДАНИЕ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2271/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/271/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/281/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНОУЖАС HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/22395/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Комедия
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5089/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/287/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Наше новое кино
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/289/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/288/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju+ Premiere
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/104/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju+ Megahit
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/103/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju+ Comedy
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/102/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju+ Serial
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/109/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju TV1000
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/320/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju TV1000 Action
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/319/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju TV1000 Русское
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/318/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,viju TV1000 новелла
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20124/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Viasat Kino World
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/430/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НСТ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/312/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Премиальное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/121/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/122/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Шокирующее HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/119/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Страшное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/218/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНО ТВ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/147/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Комедийное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/120/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Наше Крутое HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/123/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Наш Кинороман
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/107/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Русский роман
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/142/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/108/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Дом Кино HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1333/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Дом Кино
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/333/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Любимое HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/139/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Любимое Кино
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/335/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Русский бестселлер
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/276/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/294/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Иллюзион +
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/293/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Русский детектив
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/277/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Феникс Плюс Кино
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/350/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,.red
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/140/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,.black
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/227/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,.sci-fi
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/228/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Amedia Hit
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/270/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Amedia Premium
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/258/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,A1
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/268/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,A2
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/269/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Epic Drama HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/4992/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FX HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/101/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FX
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5266/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FX Life HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/207/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FX Life
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5668/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНЕКО HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1350/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,КИНЕКО
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1266/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,САПФИР HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/6714/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,САПФИР
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1668/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Bollywood HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/251/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Hollywood HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/127/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Hollywood
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5511/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ТВ-21
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7014/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Еврокино
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/275/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ-ХИТ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/328/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ Сериал HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1347/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,НТВ Сериал
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/347/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мир Сериала
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5264/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FilmBox
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/6888/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,ZEE TV
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/5596/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Дорама
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/6723/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Победа HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/3084/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Победа
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/3085/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FAN HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/23562/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Советская киноклассика HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20797/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мосфильм. Золотая коллекция HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/4429/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Мосфильм. Золотая коллекция
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/429/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Ретро
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/6722/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20799/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Наш Кинопоказ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20800/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Блокбастер HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20801/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Наше Мужское HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20802/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Хит HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20803/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Про Любовь HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20804/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Камеди HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20805/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Кинопоказ HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20806/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,День Победы
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20807/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Патриот
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20796/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Романтичное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/419/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Криминальное HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/20808/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Киноман
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/425/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Cinema HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/2223/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Cinema
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/22223/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Plan B
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/484/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,FlixSnip
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1263/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Shot TV
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/1150/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Trash HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/4830/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Detective Jam HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7311/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,KinoJam 1 HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7008/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,KinoJam 2 HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7009/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,KION ХИТ
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7310/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,KINOLIVING
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7010/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VHS-ka HD
+#EXTGRP:RU Кино
+http://ru02.plink-pile.ch/7015/mpegts?token=Hbu9XiuczkAn8N
+
+
+#EXTINF:0,BCU ACTION HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20810/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU CATASTROPHE HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20811/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU CINEMA HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20812/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU CINEMA+ HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20832/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU COMEDY HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20813/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU COMEDY HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20841/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU FANTASTIC HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20814/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU FANTASTIC HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21211/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU FILMYSTIC HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20815/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU HISTORY HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20816/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU KINORATING HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20817/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU MARVEL HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20818/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU MARVEL HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20840/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU PREMIERE HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20819/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU PREMIERE HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21210/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU ROMANTIC HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20820/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU ROMANTIC h264
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20891/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU RUSSIAN HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20821/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU STARS HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20833/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU VHS HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20822/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU СВАТЫ HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20829/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU RUSERIAL HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20836/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU СССР HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20830/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU MEDIA HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20831/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCUMEDIA h264
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20839/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCUMEDIA 2 HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20899/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCUMEDIA 3 HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20844/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Ultra 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20835/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Russia 90s HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21212/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Criminal HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20837/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 1 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20823/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 2 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20824/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 3 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20825/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 1 HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20892/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 2 HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20893/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere 3 HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20894/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premiere Ultra 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20848/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Reality HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20826/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Reality h264
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20843/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Survival HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20838/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Survival h264
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20842/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Cosmo HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20845/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Cosmo HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20846/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU TruMotion HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20847/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Kinozakaz 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21225/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Premium Premiere+ 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21227/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BCU Biography HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21241/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Franchise HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20851/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Franchise HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21209/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Hybrid HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20853/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Gangster HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20856/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Oscar HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20857/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Serial HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20860/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Spy HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20865/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Western HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20867/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Zombie HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20868/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Cyber HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20869/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Ghost HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20874/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Fantasy HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20876/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Premiere 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20877/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Serial 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20878/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Remast 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20879/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Remast+ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20888/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Apocalypse HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20809/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX UltraStars 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21221/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX СССР 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21222/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Serial Premiere 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21229/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,BOX Russian 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21230/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax 007
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20701/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Агата Кристи
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20702/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Боевик
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20703/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Боевик classic
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20704/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Комедия classic
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20705/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Семейный 1
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20706/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Семейный 2
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20707/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Фантастика
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20708/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Фобия
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20709/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax История
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20710/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Катастрофа
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20711/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Киберпанк
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20712/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Комедия
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20713/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Криминал
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20714/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Кунг-фу
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20715/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Love
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20716/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Нуар
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20717/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Погружение
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20718/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Приключения
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20719/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Роскино
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20720/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Скорость
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20721/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Спорт
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20722/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Стивен Кинг
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20723/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Супергерои
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20724/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Триллер
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20725/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Синематограф
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20726/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax UFO
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20727/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax translation HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20895/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Ужасы classic
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20728/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Ужасы
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20729/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Ужастик
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20730/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Детектив U.S.S.R
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20731/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Драма U.S.S.R
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20732/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Комедия U.S.S.R
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20733/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Вестерн
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20734/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Затмение
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20735/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Крутые 90e
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20736/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Грайндхаус
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20738/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Newfilm 1
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20739/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Newfilm 2
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20740/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Newfilm 3
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20741/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Newfilm RU
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20742/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Ситком
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20745/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Ситком 2.0
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20743/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Полицейский с Рублёвки
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20744/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Сваты
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20746/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax 1941-1945 U.S.S.R
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20748/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Воронины
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20791/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Мифология
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20757/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Приключения U.S.S.R
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20760/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Celebrity HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20861/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Classic HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20780/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Драма HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20782/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Flip UHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20852/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax OldSchool HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20784/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MiniMax Кинофестиваль HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20789/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MS PRISONS HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20777/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MS YOUNG BLOOD HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20779/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,MS MAGIC HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20786/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Brief [Короткие истории]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20601/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Evidence [Улика]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20602/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Exist [Существование]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20603/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Island [Остров]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20604/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Naked and Funny [Голые и cмешные]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20605/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Psycho [Психо]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20606/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Series [Сериалы]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20607/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Survival [Выживание]
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20608/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Детектив
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20609/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Невский
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20610/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Chef
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20611/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Girlfight
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20612/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Hostage
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20613/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,GL Motivation
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20614/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20900/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Сделано в СССР
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20902/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Ужасы
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20904/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20905/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Драмы
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20907/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Русский Сериал
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20908/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Вестерн
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20909/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Asia
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20913/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Семейный
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20915/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k КиноФраншизы
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20926/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Комедия
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20927/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Боевик
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20928/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Фэнтези
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20931/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Kинодети Cсср
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20933/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Приключения
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20903/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K КиноНовинки
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20934/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Сумеречный Эфир
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20936/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HBO series
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20938/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Киношарм
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20940/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K RemasterWave
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20945/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4k Боевик VHS
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20946/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Комедия СССР 1
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20947/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Комедия СССР 2
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20948/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Galaxy Films
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21104/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Ужасы VHS
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20924/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K Ужасы VHS (siries)
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21106/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 1
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21161/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 2
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21162/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 3
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21163/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 4
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21164/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 5
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21165/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 6
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21166/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 7
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21167/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 8
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21168/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 9
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21169/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Clarity4K HDR Cinema MIX 10
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21170/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Пограничный HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21123/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Про людей и войну HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21108/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x (90-е) HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21119/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 1 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21120/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 2 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21124/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 3 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21125/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 4 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21126/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 5 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21127/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 6 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21128/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 7 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21129/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 8 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21130/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 9 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21131/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 10 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21137/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 11 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21136/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 12 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21132/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 13 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21133/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 14 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21134/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 15 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21135/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 16 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21138/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 17 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21139/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 18 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21140/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 19 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21141/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 20 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21142/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 21 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21143/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 22 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21144/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Play-x Кинозал 23 HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21122/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Action HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20951/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Alien and Predator HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20952/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Celentano Brando Connery HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20957/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Comedy HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20958/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Comedy Horrors HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20959/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis DC HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20961/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Demon Slayer and Dororo HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20962/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Detective HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20963/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Disney Classic HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20964/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Drama HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20965/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Family HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20966/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Фантастика HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20967/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Horror HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20969/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Корейские сериалы HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20971/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Кухня Отель HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20972/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Латиноамериканские сериалы HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20973/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Mafia HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20978/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Marvel HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20979/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Мелодрама HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20980/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Old Horrors HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20982/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis RUS Комедии HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20985/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis RUS Драма HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20986/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis RUS Сериалы HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20988/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis RUS Сериалы Драма HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20989/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Serkan Bolat HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20990/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Soviet Comedy HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20991/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Superheroes Series HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20993/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Ufo and Aliens HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20997/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis USA Сериалы HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/20998/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Тайны Смолвиля  HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21003/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Великобританские сериалы HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21004/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Чечня и Афган HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21006/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Доктор Кто HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21007/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,Oasis Саша Таня HD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21008/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS 60FPS
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21011/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Киноплёнка
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21014/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Киносерия
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21015/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Movie Hits
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21017/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Premiere
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21018/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Страшное
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21019/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS СССР
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21020/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Криминальный
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21021/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS С Новым годом!
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21022/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Комедия
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21023/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Аниме
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21024/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Триллер
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21025/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Семейный
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21026/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Вестерн
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21027/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Наше Кино
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21028/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,VeleS Гоблин
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/21029/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY DC FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8000/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КОРОТКОМЕТРАЖКИ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8001/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ПИКСАР FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8002/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY МЕЛОДРАМЫ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8004/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY БОЕВИКИ  FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8005/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY СВАТЫ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8008/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КОМЕДИИ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8010/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ЗАНАВЕС FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8014/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY АНИМЕ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8015/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY МиМ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8028/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ФАНТАСТИКА FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8030/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ШОУ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8016/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY АВТО ГИР FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8033/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY МАРВЕЛ  FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8034/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY СЕРИАЛЫ FHD
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8047/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ЛЕГЕНДА 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8017/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY РУС ФИЛЬМ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8020/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КИНО МИКС 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8021/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ИНДИЯ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8023/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY НЕТФЛИКС 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8024/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КУБ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8025/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY СЕМЕЙНЫЙ 4k
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8026/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY СОЮЗ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8029/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КИНО ENG  4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8031/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ТРИЛЛЕРЫ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8035/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY УЖАСЫ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8036/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY СЕРИАЛЫ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8039/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КРИМИНАЛ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8040/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY XX ВЕК 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8042/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY АВАНПОСТ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8043/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ТУРК ФИЛЬМ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8046/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY ДРИМ ВОРКС 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8048/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY МЮЗИКЛ 4K
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8049/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Азия 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8061/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Драма 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8062/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Комедии 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8063/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Скандинавия 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8064/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Фантастика 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8065/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Оскар 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8066/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Ужасы 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8067/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Приключения 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8068/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY КиноХит 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8069/mpegts?token=Hbu9XiuczkAn8N
+#EXTINF:0,LIBERTY Боевики 4K HDR
+#EXTGRP:RU Кинозал
+http://ru02.plink-pile.ch/8070/mpegts?token=Hbu9XiuczkAn8N
+
+
+
+#TEAMTV
+
+
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3433/mono.m3u8?token=skynex.v2_-tQVXQ-jLSJlm48FmOKpTncq-sqqU26xUy9sqHevwgjud3h41lNHCupMDhweyYi_fkEAaDEa2g&nostub=1
+#EXTINF:0 tvg-id="ch3434" tvg-name="TEAM RuKino HD" tvg-logo="https://rus.hls.gd/images/chIcons/3434.png" tvg-rec="7", TEAM RuKino HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3434/mono.m3u8?token=skynex.v2_7YlJmcivJe5xoZFwhMUbASAbvvHrf9SpWwVpzlX5xvw4JVcK_EeKN5ZCEWMAIoYUX8I5uuwzyA&nostub=1
+#EXTINF:0 tvg-id="ch3446" tvg-name="TEAM WSeries HD" tvg-logo="https://rus.hls.gd/images/chIcons/3446.png" tvg-rec="7", TEAM WSeries HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3446/mono.m3u8?token=skynex.v2_NxwH9osBl89t58p69gEwbBr_XQiCJRv8JgUF5cDP2UJ8PHJy7vWTQ03RQ357fFGPFoAYDiKlZA&nostub=1
+#EXTINF:0 tvg-id="ch3445" tvg-name="TEAM RuSerial HD" tvg-logo="https://rus.hls.gd/images/chIcons/3445.png" tvg-rec="7", TEAM RuSerial HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3445/mono.m3u8?token=skynex.v2_N81aOcTpV_wi6qUITTSGAUGo_HYlDFLV_aSYaKbjLaj3LM9A0Ee0TeYAWVYbOiDyL8E5Wcnk5A&nostub=1
+#EXTINF:0 tvg-id="ch3447" tvg-name="TEAM TRSeries HD" tvg-logo="https://rus.hls.gd/images/chIcons/3447.png" tvg-rec="7", TEAM TRSeries HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3447/mono.m3u8?token=skynex.v2_cinUqHW8ZrKObCT1Ttnv9UO1SfgKD-koHenjaVPUTMEJP4D35qWErmqCDgH1ttZM8ZVQCU_RzA&nostub=1
+#EXTINF:0 tvg-id="ch3383" tvg-name="TEAM NextGen HD" tvg-logo="https://rus.hls.gd/images/chIcons/3383.png" tvg-rec="7", TEAM NextGen HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3383/mono.m3u8?token=skynex.v2_fkH3DUC1gmFY5HQQTPIiChwlIoInKdmrjqaOi3jnQxzqCMjMIipsIsgReAGyu3RoiixbW2dtYw&nostub=1
+#EXTINF:0 tvg-id="ch3900" tvg-name="TEAM Bigbang HD" tvg-logo="https://rus.hls.gd/images/chIcons/3900.png" tvg-rec="7", TEAM Bigbang HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3900/mono.m3u8?token=skynex.v2_W5ZqDlLztcVVpYGGMaAFoOyLsyt5hXSRU-okqTak2fBK9RSZxXSNsQoxTKcXV5PQhyQFR0bXaQ&nostub=1
+#EXTINF:0 tvg-id="ch3701" tvg-name="TEAM Agatha HD" tvg-logo="https://rus.hls.gd/images/chIcons/3701.png" tvg-rec="7", TEAM Agatha HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3701/mono.m3u8?token=skynex.v2_pVB0XyTqiXyeJLDpAL2WA89zQUeH3RxdiZegKEeWJZ4y9m-hjLN7XSP0SPfRVTc6wnssLgWWcQ&nostub=1
+#EXTINF:0 tvg-id="ch3926" tvg-name="TEAM Game Of Thrones HD" tvg-logo="https://rus.hls.gd/images/chIcons/3926.png" tvg-rec="7", TEAM Game Of Thrones HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3926/mono.m3u8?token=skynex.v2_pjhyZKHRfIwW5VJTRIyoptqcloMYcEBd3snlq7toJDRR1TD7LAhXINCaxzhN9LWJMwOUUL517g&nostub=1
+#EXTINF:0 tvg-id="ch4028" tvg-name="TEAM C.S.I. HD" tvg-logo="https://rus.hls.gd/images/chIcons/4028.png" tvg-rec="7", TEAM C.S.I. HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4028/mono.m3u8?token=skynex.v2_sv4_MLLAlpQ8ql6xprSNfpYLc1v2G63FDGURniS7Yzg6nfVu2_JTWhR38tJhnW2CDO48-U-Vtg&nostub=1
+#EXTINF:0 tvg-id="ch3702" tvg-name="TEAM Spaceopera HD" tvg-logo="https://rus.hls.gd/images/chIcons/3702.png" tvg-rec="7", TEAM Spaceopera HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3702/mono.m3u8?token=skynex.v2_iS0ol-67H0_IHESWT-EkgJMx8DS4euQuIoDjZKq1oowdxHho2Pf2L1CztAAjLU3U8Ynol0r_Ew&nostub=1
+#EXTINF:0 tvg-id="ch3703" tvg-name="TEAM StarTrek HD" tvg-logo="https://rus.hls.gd/images/chIcons/3703.png" tvg-rec="7", TEAM StarTrek HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3703/mono.m3u8?token=skynex.v2_XZ8OVMmLyblINofaewZ44a6Tpe2I8c-POu3SoodxSOUBox9zsfd_dtMY7EZ_qm72-2z-DkWvaw&nostub=1
+#EXTINF:0 tvg-id="ch3874" tvg-name="TEAM Marvel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3874.png" tvg-rec="7", TEAM Marvel HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3874/mono.m3u8?token=skynex.v2_TqBAjw8OVbnQXrQ5cf6icGv8CMwosuTo7CGi0XrqUM4Yuq0hXzC_AsUvYfIeaOjdkWsJ_Da2sw&nostub=1
+#EXTINF:0 tvg-id="ch3704" tvg-name="TEAM StarWars HD" tvg-logo="https://rus.hls.gd/images/chIcons/3704.png" tvg-rec="7", TEAM StarWars HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3704/mono.m3u8?token=skynex.v2_bPNUuHInbV7N3nv1hW4Q5RFs0axP_dZjtmF4JZPfR8KVo6Osyif_VWwj6REkEEVreKOrqQdQgw&nostub=1
+#EXTINF:0 tvg-id="ch4029" tvg-name="TEAM Доктор Кто HD" tvg-logo="https://rus.hls.gd/images/chIcons/4029.png" tvg-rec="7", TEAM Доктор Кто HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4029/mono.m3u8?token=skynex.v2_DUZsOqhBO0v-h_fMPge75eqYiZGIjOG8OEA9hIPq2mAxAPyvRt-11Yhbo1lyV-fP5QVhUeJW0g&nostub=1
+#EXTINF:0 tvg-id="ch3852" tvg-name="TEAM Crime24 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3852.png" tvg-rec="7", TEAM Crime24 HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3852/mono.m3u8?token=skynex.v2_aH1IORnqGb5uEb6tw46xtClTJaeb83l4C52oWVgAvnkwoFcmSWuo8F_rOEaJcZ71KbMcu4OJwQ&nostub=1
+#EXTINF:0 tvg-id="ch3835" tvg-name="TEAM Darkverse HD" tvg-logo="https://rus.hls.gd/images/chIcons/3835.png" tvg-rec="7", TEAM Darkverse HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3835/mono.m3u8?token=skynex.v2_ZVjKehBk3oxpE0xir9A8pmL7UWKhvKSFxp3aKx170hoJd0dPHYUkxG_y65saTQC75LW_AylPHw&nostub=1
+#EXTINF:0 tvg-id="ch4045" tvg-name="TEAM DetectTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/4045.png" tvg-rec="7", TEAM DetectTV HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4045/mono.m3u8?token=skynex.v2_9vF5YB9igd8_0fOuKaAGiGoCvveHNxVXJ1SSW79IvAK3BPE39KR4qe3uTaogV2IUSJYDWLdJjQ&nostub=1
+#EXTINF:0 tvg-id="ch4049" tvg-name="TEAM RuDetectTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/4049.png" tvg-rec="7", TEAM RuDetectTV HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4049/mono.m3u8?token=skynex.v2_kbDICg0aE0UX0wBERc5gwWeLkymjdDFPkDCYe0qHZ4jVqlj2Ju2l7-AF7Er6ppWIn72-WMfSNw&nostub=1
+#EXTINF:0 tvg-id="ch4038" tvg-name="TEAM Actions HD" tvg-logo="https://rus.hls.gd/images/chIcons/4038.png" tvg-rec="7", TEAM Actions HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4038/mono.m3u8?token=skynex.v2_-mQ8fgfkYJuRjJK8S-XcPPCkCQOrgFr2njt5JmqAZi2kpYBSsFE2bxWAAKV38yubXL5g8gLwdQ&nostub=1
+#EXTINF:0 tvg-id="ch4032" tvg-name="TEAM Знай Наших HD" tvg-logo="https://rus.hls.gd/images/chIcons/4032.png" tvg-rec="7", TEAM Знай Наших HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4032/mono.m3u8?token=skynex.v2_rALGFtgXPQzi5TkH2Nz_Ao9TQ6dxa5YnAF4YMhHkVe2MMA9Fr59URFF3yNFbTYn_cSR25Mhp0A&nostub=1
+#EXTINF:0 tvg-id="ch4160" tvg-name="TEAM Братва HD" tvg-logo="https://rus.hls.gd/images/chIcons/4160.png" tvg-rec="7", TEAM Братва HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4160/mono.m3u8?token=skynex.v2_nh5Dg2J-xh_gbMwFhrrcLbwUjorfSySAvZoL81YSHWSqk_3Oy_oYXaPU4XTaF5dUGAdX9dRg2Q&nostub=1
+#EXTINF:0 tvg-id="ch3870" tvg-name="TEAM MedikTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3870.png" tvg-rec="7", TEAM MedikTV HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3870/mono.m3u8?token=skynex.v2_jQ63cdX_Z-nQH695IROSWUGYaz1uycCCG6wtLR3TkaM8RAulk46M3DPQWqyIR3ayNr0OkSIENA&nostub=1
+#EXTINF:0 tvg-id="ch3854" tvg-name="TEAM ClinicX HD" tvg-logo="https://rus.hls.gd/images/chIcons/3854.png" tvg-rec="7", TEAM ClinicX HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3854/mono.m3u8?token=skynex.v2_UikN6tuT6vt_PipEK6nkDi66uL3mlHLsRh6lTXD1os6PqXf9BP33n-k_3TaFigfCEMk5WtGrMg&nostub=1
+#EXTINF:0 tvg-id="ch4031" tvg-name="TEAM Подвиг HD" tvg-logo="https://rus.hls.gd/images/chIcons/4031.png" tvg-rec="7", TEAM Подвиг HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4031/mono.m3u8?token=skynex.v2_IlEiI5zjYGywcxmf35ABr_40vuYf9N9dGV-UUAzfVhGXBnMaZ33bKftt1WO1p1Oa2nc50Is9ew&nostub=1
+#EXTINF:0 tvg-id="ch4030" tvg-name="TEAM Woman HD" tvg-logo="https://rus.hls.gd/images/chIcons/4030.png" tvg-rec="7", TEAM Woman HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4030/mono.m3u8?token=skynex.v2_B5q4560X_4IA4JPMFGceSNM72LxGo4zj3idFfzsBprSwEvSZ3rbj3FQa0Te4yh118-iOex_XIw&nostub=1
+#EXTINF:0 tvg-id="ch4154" tvg-name="TEAM MafiaFilm HD" tvg-logo="https://rus.hls.gd/images/chIcons/4154.png" tvg-rec="7", TEAM MafiaFilm HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4154/mono.m3u8?token=skynex.v2_PluORVccZ7J-9eA7yK9sUdYoTwNZkGqXhJUtfpDI2928IyB6nGiY4q_C772uOcCqjuyg3prIYw&nostub=1
+#EXTINF:0 tvg-id="ch3853" tvg-name="TEAM Mystix HD" tvg-logo="https://rus.hls.gd/images/chIcons/3853.png" tvg-rec="7", TEAM Mystix HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3853/mono.m3u8?token=skynex.v2_qv51pVJv4c-qcW6yPgImLpOIsj6Nuew0mTcUY2hDRxCfd8o6iLhx_lnT9LMwZprWHysrXAOslQ&nostub=1
+#EXTINF:0 tvg-id="ch2154" tvg-name="TEAM Bollywood HD" tvg-logo="https://rus.hls.gd/images/chIcons/2154.png" tvg-rec="7", TEAM Bollywood HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch2154/mono.m3u8?token=skynex.v2_ffIWMGNDj9mHn0zfWy0qrpVJqF0w9L45npcaOwJKBbmvaqNafGikikV3W4V1S-vxMam9kbpIuQ&nostub=1
+#EXTINF:0 tvg-id="ch4092" tvg-name="TEAM AntiHero HD" tvg-logo="https://rus.hls.gd/images/chIcons/4092.png" tvg-rec="7", TEAM AntiHero HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4092/mono.m3u8?token=skynex.v2_jmAuG2PLrva4RyTy_fLjw8zRmfBjebXyTbBnmg9rIjp-mzrcl1XQU3kY70XT2Sl0yRDfMSXUlw&nostub=1
+#EXTINF:0 tvg-id="ch3909" tvg-name="TEAM Пельмени HD" tvg-logo="https://rus.hls.gd/images/chIcons/3909.png" tvg-rec="7", TEAM Пельмени HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3909/mono.m3u8?token=skynex.v2_3EGhT4EZOk0Vk0ua7vm9JL85GX5xspVZcEte5qwNfxD5Njd0IO9y5GrM3zynfvALPFY0UB8KHg&nostub=1
+#EXTINF:0 tvg-id="ch3907" tvg-name="TEAM Comedy Club HD" tvg-logo="https://rus.hls.gd/images/chIcons/3907.png" tvg-rec="7", TEAM Comedy Club HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3907/mono.m3u8?token=skynex.v2_18p5l4iRzioMderIYOjvaiH-wTE0a0ixRwHENx9ES1kddrbVj3cTTU86q1kCJtaWs-oPmqV67A&nostub=1
+#EXTINF:0 tvg-id="ch4037" tvg-name="TEAM RuComedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/4037.png" tvg-rec="7", TEAM RuComedy HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4037/mono.m3u8?token=skynex.v2_rnGDU7yXbcSijarKjLm82MtQz_zVWYNZscHBJYmQBq3fmzmZ89txGA7_OY2JJllxsQQLoedWdQ&nostub=1
+#EXTINF:0 tvg-id="ch4039" tvg-name="TEAM Comedic HD" tvg-logo="https://rus.hls.gd/images/chIcons/4039.png" tvg-rec="7", TEAM Comedic HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4039/mono.m3u8?token=skynex.v2_lyDyHu1T0r2Mb2ZR6L83SHsSG2dbt6nQ-HJlCdrqkeDR7p-ZjWA2sYRD6v-SRBDBOG-LghigHg&nostub=1
+#EXTINF:0 tvg-id="ch4104" tvg-name="TEAM Мусагалиев HD" tvg-logo="https://rus.hls.gd/images/chIcons/4104.png" tvg-rec="7", TEAM Мусагалиев HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4104/mono.m3u8?token=skynex.v2_s0yr3fbvmM829DLA3YfjG6BzqU0hs3islGHspKEoNzuapw2j6QbNFKNNdz-4ClCFFOyZaD2Qvw&nostub=1
+#EXTINF:0 tvg-id="ch4105" tvg-name="TEAM Симпсоны HD" tvg-logo="https://rus.hls.gd/images/chIcons/4105.png" tvg-rec="7", TEAM Симпсоны HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4105/mono.m3u8?token=skynex.v2_De_1oTa90yBiqHvf9gnx6atMObUKvulyKAOAh6d7hPco1YoyB7kaL-FCBkjf8YoKFwKVlngMUw&nostub=1
+#EXTINF:0 tvg-id="ch3999" tvg-name="TEAM Гриффины HD" tvg-logo="https://rus.hls.gd/images/chIcons/3999.png" tvg-rec="7", TEAM Гриффины HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3999/mono.m3u8?token=skynex.v2_15dddKEHC1pPqmupNvmme8r07TNtKsL9dWntJycLqzJs9YqJ3RC4rb_gAh6jeVH77l_3H4cUfg&nostub=1
+#EXTINF:0 tvg-id="ch3902" tvg-name="TEAM Mini HD" tvg-logo="https://rus.hls.gd/images/chIcons/3902.png" tvg-rec="7", TEAM Mini HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3902/mono.m3u8?token=skynex.v2_PI8BprpPjF0LhEnGuaYGXkHNE-ETgkD0EvCVCfzsObFzWTdFkR6qktSXeFrSX6r8xq8wwnrkKg&nostub=1
+#EXTINF:0 tvg-id="ch4161" tvg-name="TEAM ГикТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4161.png" tvg-rec="7", TEAM ГикТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4161/mono.m3u8?token=skynex.v2_J7Wr3pIvkYVJHs9oizKgavN9LVHjk69GQvkRIJvJgeOP5UYwrMp3EwhtdtNSQuPesyzyYILBDA&nostub=1
+#EXTINF:0 tvg-id="ch4093" tvg-name="TEAM CircusTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/4093.png" tvg-rec="7", TEAM CircusTV HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4093/mono.m3u8?token=skynex.v2_beLUx4lOQ7fSnudf7pFEIdFWr5jijRsAa_iPlGtfK460yrcYZryGw4LKMUjI0IBm3GbAocXq9Q&nostub=1
+#EXTINF:0 tvg-id="ch4198" tvg-name="TEAM Бенефис HD" tvg-logo="https://rus.hls.gd/images/chIcons/4198.png" tvg-rec="7", TEAM Бенефис HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4198/mono.m3u8?token=skynex.v2__MiCVerJcs4HCSFoGsz-xkRb6Yy0Z0c36UH9mMEbAJ3n5Gqae2ynT1eszFTxEV88bsfJnQbGYw&nostub=1
+#EXTINF:0 tvg-id="ch3384" tvg-name="TEAM Эпоха 60 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3384.png" tvg-rec="7", TEAM Эпоха 60 HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3384/mono.m3u8?token=skynex.v2_oMin8MTars6cM0mS8inEq4AaEt8ZuKmLoqtMQHr0C40Lr158XJhs0eAzTAZb4P3JGsnB9mnugQ&nostub=1
+#EXTINF:0 tvg-id="ch3393" tvg-name="TEAM Эпоха 70 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3393.png" tvg-rec="7", TEAM Эпоха 70 HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3393/mono.m3u8?token=skynex.v2_z4d0DKQ4MMJpW0qW-sek0kwK322_HqpwYwxtRes6WXJ9p4FInU8wHpYtP4-cc4fBcYvO3QW41w&nostub=1
+#EXTINF:0 tvg-id="ch3903" tvg-name="TEAM Эпоха 80 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3903.png" tvg-rec="7", TEAM Эпоха 80 HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3903/mono.m3u8?token=skynex.v2_eEnVx8pNtd13X29ffYmpypalUCrhqxrzai7wEWiOLIMU069gG1XgDGTFyBlTSjCLQU0Xbgw-Vw&nostub=1
+#EXTINF:0 tvg-id="ch3850" tvg-name="TEAM Back 90s HD" tvg-logo="https://rus.hls.gd/images/chIcons/3850.png" tvg-rec="7", TEAM Back 90s HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3850/mono.m3u8?token=skynex.v2_4fInLYuJNJLjqH-8lDj02P2jFVC4iFsnlbH6giuO4JslNCviPi7A0Pnoi3g-RqYdjxj0u_AS4A&nostub=1
+#EXTINF:0 tvg-id="ch3901" tvg-name="TEAM RetroTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3901.png" tvg-rec="7", TEAM RetroTV HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3901/mono.m3u8?token=skynex.v2_ZpEjdlBzTN1NTO_9MQffOmcm-oDFiF2GWmlRth-2IplPNwqWbEfMUa2aqik_8oCeJQffUUpItw&nostub=1
+#EXTINF:0 tvg-id="ch4156" tvg-name="TEAM Кино СССР HD" tvg-logo="https://rus.hls.gd/images/chIcons/4156.png" tvg-rec="7", TEAM Кино СССР HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4156/mono.m3u8?token=skynex.v2_-wDAExzMjizbVHNrTe0dMD9Ie2LMnJ3DDTpoWm1kv7kUOnOtEQCELi6dAMwV49Zdv8EqLh6m3Q&nostub=1
+#EXTINF:0 tvg-id="ch3392" tvg-name="TEAM След" tvg-logo="https://rus.hls.gd/images/chIcons/3392.png" tvg-rec="7", TEAM След
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3392/mono.m3u8?token=skynex.v2_pizQti0Wkb9XxGUTklAO7e67KL8P4xq5vFjvtms9_oOc_S6pszEAQzdN3p5gWaO853vLiwAFXw&nostub=1
+#EXTINF:0 tvg-id="ch4178" tvg-name="TEAM Фонари HD" tvg-logo="https://rus.hls.gd/images/chIcons/4178.png" tvg-rec="7", TEAM Фонари HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4178/mono.m3u8?token=skynex.v2_VwB2SIsKq759SYOMTiKhsS8COCEKo2IQ-q8GQRQJwPm8Db-KUGCKI5ao3YPK3oKHPgYxIIu7Mg&nostub=1
+#EXTINF:0 tvg-id="ch4164" tvg-name="TEAM СМЕРШ-ТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4164.png" tvg-rec="7", TEAM СМЕРШ-ТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4164/mono.m3u8?token=skynex.v2_q8xJt0DGpzU3Hfun1uLUVhx7yqR4PqbnelBUG89RRHhGjSf3HJDEGCaNZSI_sY2c8mTfirPOOA&nostub=1
+#EXTINF:0 tvg-id="ch4103" tvg-name="TEAM ЭксМент HD" tvg-logo="https://rus.hls.gd/images/chIcons/4103.png" tvg-rec="7", TEAM ЭксМент HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4103/mono.m3u8?token=skynex.v2_v1-Rs7JYbx6GonP_uVQ1hyQ3gVAlRA4GtKUk5xnLscB87zp7IwNzN-O5Vfkzi6sP-lmxoYoxng&nostub=1
+#EXTINF:0 tvg-id="ch4137" tvg-name="TEAM Воронины HD" tvg-logo="https://rus.hls.gd/images/chIcons/4137.png" tvg-rec="7", TEAM Воронины HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4137/mono.m3u8?token=skynex.v2_3mbY1ivCxkATG1TEFU5SQeqpAxdMZviKtMhZluLwpU0ZTBJlBhP93Ne0WYK6XgZdepAfs2bhUA&nostub=1
+#EXTINF:0 tvg-id="ch4153" tvg-name="TEAM Универ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4153.png" tvg-rec="7", TEAM Универ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4153/mono.m3u8?token=skynex.v2_g_ZTCbAf_zmxqi9B80KHDknlxhAyUXZqmvGfRQ5GDMhNf0AK7TZgrrmx58aiviejNZ5OvyhazA&nostub=1
+#EXTINF:0 tvg-id="ch3851" tvg-name="TEAM Friendshow HD" tvg-logo="https://rus.hls.gd/images/chIcons/3851.png" tvg-rec="7", TEAM Friendshow HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch3851/mono.m3u8?token=skynex.v2_DH43eC1YUPt6fGtR2cskaNUHuTO3aP07rnP97RYv_db_xwBo6GBO0TTPiPfVT-EirQfXyVADwA&nostub=1
+#EXTINF:0 tvg-id="ch4052" tvg-name="TEAM Альбукерке HD" tvg-logo="https://rus.hls.gd/images/chIcons/4052.png" tvg-rec="7", TEAM Альбукерке HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4052/mono.m3u8?token=skynex.v2_id8jMtTpNPCRlRNv_tkQv0ed61ukeiqrdrnk0zGpLSEhZmqRYSN4qeaFFZ7-KRkRrJNYVlwQiw&nostub=1
+#EXTINF:0 tvg-id="ch4102" tvg-name="TEAM Кухня HD" tvg-logo="https://rus.hls.gd/images/chIcons/4102.png" tvg-rec="7", TEAM Кухня HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4102/mono.m3u8?token=skynex.v2_UG2H3ylCgveHXQjPmPOLWXpKSw41Y2oZg1GuhjbvguE_bez_QiNTt6yqeJ8qGAKsYER5zvLPiw&nostub=1
+#EXTINF:0 tvg-id="ch4167" tvg-name="TEAM НЛС-ТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4167.png" tvg-rec="7", TEAM НЛС-ТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4167/mono.m3u8?token=skynex.v2_5Xnn5cDM3BVCCfWY8ziSraopD74G4_s7Q6-eG6h8g0YPUXTSTOoK1pP8r59VlUkmpoucBdYYlA&nostub=1
+#EXTINF:0 tvg-id="ch4162" tvg-name="TEAM Мурка-ТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4162.png" tvg-rec="7", TEAM Мурка-ТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4162/mono.m3u8?token=skynex.v2_Pp4zxYuT75Qg7lfpRuOXK_gnnv8aJqmVJ7lVXlI9iAhvaHYI-jMQGFMOYAEd_kyzjQ_AWs8y8Q&nostub=1
+#EXTINF:0 tvg-id="ch4155" tvg-name="TEAM MafiaSeria HD" tvg-logo="https://rus.hls.gd/images/chIcons/4155.png" tvg-rec="7", TEAM MafiaSeria HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4155/mono.m3u8?token=skynex.v2_Bc6X8NtfVIEccHS7t--5HOk7GDPq8V4RZpfKw0PIMJj3yiaSQ_qbOZpWfKY1_232CwSBXEGbBA&nostub=1
+#EXTINF:0 tvg-id="ch4177" tvg-name="TEAM Опера HD" tvg-logo="https://rus.hls.gd/images/chIcons/4177.png" tvg-rec="7", TEAM Опера HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4177/mono.m3u8?token=skynex.v2_mtaafd5xZsZLQhClR7ELomAuPEnhvvggbYRyKzQQ8y27_dLe1j31dmRWpzKUYJRV_po6XoaGnw&nostub=1
+#EXTINF:0 tvg-id="ch4176" tvg-name="TEAM Интрига HD" tvg-logo="https://rus.hls.gd/images/chIcons/4176.png" tvg-rec="7", TEAM Интрига HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4176/mono.m3u8?token=skynex.v2_NjK6R3_qzpf0GntpDkGG1M9eppm1nSvChKROaliFK08IZp82pOcdSR_Rhe3iCgJw6PT1mxusyQ&nostub=1
+#EXTINF:0 tvg-id="ch4094" tvg-name="TEAM Дочки HD" tvg-logo="https://rus.hls.gd/images/chIcons/4094.png" tvg-rec="7", TEAM Дочки HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4094/mono.m3u8?token=skynex.v2_SgTw042zA20JGRSD6sDtVQE_VJnARNFeGQ2mcF246WSa7NtoDv2PnHXyMIOO2KiRniczJ3O0Vg&nostub=1
+#EXTINF:0 tvg-id="ch4172" tvg-name="TEAM Big Money HD" tvg-logo="https://rus.hls.gd/images/chIcons/4172.png" tvg-rec="7", TEAM Big Money HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4172/mono.m3u8?token=skynex.v2_vGO84-5OQoLrWOXk5Bk9UnL-18ztwQMGxMmiudb4dt6M7pbx6X9g6Dcr2RWHFbhxjQWex3A3CQ&nostub=1
+#EXTINF:0 tvg-id="ch4184" tvg-name="TEAM БинТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4184.png" tvg-rec="7", TEAM БинТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4184/mono.m3u8?token=skynex.v2_e29qGqgu0O0s-gSgROEeajx4nmNckYcigx0u1ItY6P-bZQL3E_cf-1vEx5jw7ldjjvXSomCs3g&nostub=1
+#EXTINF:0 tvg-id="ch4197" tvg-name="TEAM Ситком ТВ HD" tvg-logo="https://rus.hls.gd/images/chIcons/4197.png" tvg-rec="7", TEAM Ситком ТВ HD
+#EXTGRP:4. Cinemas/Кинозалы TV Team
+https://16.hls.gd/ch4197/mono.m3u8?token=skynex.v2_0wsAb-AxduNoIdVorujl10GNpdvTai3AjioCQfG1yqk2qKRTmzMopcnUGIgXBJwvMKolyX6d4g&nostub=1
+#EXTINF:0 tvg-id="ch1000" tvg-name="BCU Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/1000.png" tvg-rec="3", BCU Comedy HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1000/mono.m3u8?token=skynex.v2_gUB6yepRRzv4kegoWebH6k82bP24T_x4Lplqoht40y1N2rATiEHhZ8h6AuF6I7Dpj4wDQQfN6g&nostub=1
+#EXTINF:0 tvg-id="ch773" tvg-name="BCU Fantastic HD" tvg-logo="https://rus.hls.gd/images/chIcons/773.png" tvg-rec="3", BCU Fantastic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch773/mono.m3u8?token=skynex.v2_XI1Y7hHEIupRkjlN2nASgw0w-rckx84KDG0jPLnKMya5VOMoGKvBsWZ_xzsAaf_cu4jIXLNC&nostub=1
+#EXTINF:0 tvg-id="ch835" tvg-name="BCU Stars HD" tvg-logo="https://rus.hls.gd/images/chIcons/835.png" tvg-rec="3", BCU Stars HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch835/mono.m3u8?token=skynex.v2_kDpHyAIspycrhCgj1vTmbXRmowRsYGhBum9uJQM7kJIgOLxmX73MlMsyaXB_PnjZRb6Fdm5D&nostub=1
+#EXTINF:0 tvg-id="ch785" tvg-name="BCU Reality HD" tvg-logo="https://rus.hls.gd/images/chIcons/785.png" tvg-rec="3", BCU Reality HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch785/mono.m3u8?token=skynex.v2_qZkfPHOwviEQct9L7AqSFHr0uLYEY10sd6kC768XYOrm0o7mHPISgh0NmI9Ab8asunV8CDwK&nostub=1
+#EXTINF:0 tvg-id="ch2743" tvg-name="BCU Reality OLD HD" tvg-logo="https://rus.hls.gd/images/chIcons/2743.png" tvg-rec="3", BCU Reality OLD HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2743/mono.m3u8?token=skynex.v2_DiuOqgr4uRVhF2MO00vIH5gFzHPrCMWtCB6iVOBZYKv5AY6ZGF1BDJXJwb_RNICROyUKtzWUHQ&nostub=1
+#EXTINF:0 tvg-id="ch778" tvg-name="BCU Premiere HD" tvg-logo="https://rus.hls.gd/images/chIcons/778.png" tvg-rec="3", BCU Premiere HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch778/mono.m3u8?token=skynex.v2_eTZ71xezsPA6o3xujccAtb7s3RO_n3koDeTeJUtIHU3nGHIfnRWjazGsAia_3eVFtMA-n2St&nostub=1
+#EXTINF:0 tvg-id="ch782" tvg-name="BCU Premiere 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/782.png" tvg-rec="3", BCU Premiere 1 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch782/mono.m3u8?token=skynex.v2_RGWRLb9SBCJ9Zvj_BGWad31ApEn381xkvxz1pc-OfQxfDu2xGZTdYHRnr1a2wtjIJB_rPQyp&nostub=1
+#EXTINF:0 tvg-id="ch783" tvg-name="BCU Premiere 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/783.png" tvg-rec="3", BCU Premiere 2 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch783/mono.m3u8?token=skynex.v2_e_hBl1ytfZQnDQUomHQG1fuGkKxEbBaLftuUwU-Zf1Y6YIW8sxV7Hw-EkJnfw4pxWSzzN-iw&nostub=1
+#EXTINF:0 tvg-id="ch784" tvg-name="BCU Premiere 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/784.png" tvg-rec="3", BCU Premiere 3 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch784/mono.m3u8?token=skynex.v2_DZX98KcqKsOG7xDc5-5e24WsWfrVwpG2v3YjINuvxwoy8xTVXs2UJFOVi6VD1H5Rw-78wg6w&nostub=1
+#EXTINF:0 tvg-id="ch2744" tvg-name="BCU Russia 90s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2744.png" tvg-rec="3", BCU Russia 90s HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2744/mono.m3u8?token=skynex.v2_TkO8TCPekZgFfTVmIgC7c1qPPHOYTtLwkWsBg-BxNcTpf4K4SqMalt1OBllE9PlktDygCH1FAg&nostub=1
+#EXTINF:0 tvg-id="ch781" tvg-name="BCU VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/781.png" tvg-rec="3", BCU VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch781/mono.m3u8?token=skynex.v2_T8EfHnWWD1V_jv9QFqEBX2MsyaX6aNC7-UT9dnZzyjXcZxtaQhOGHlu5EZv1642qG3s2_W-q&nostub=1
+#EXTINF:0 tvg-id="ch788" tvg-name="BCU RUSerial HD" tvg-logo="https://rus.hls.gd/images/chIcons/788.png" tvg-rec="3", BCU RUSerial HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch788/mono.m3u8?token=skynex.v2_ZbuMEVUVTFsIe0OU8fhEBRqJAg13rs7UkpKC6sJBXV70GyNkw99DohZT3WOUyfomSBIOaEW1&nostub=1
+#EXTINF:0 tvg-id="ch790" tvg-name="BCU Media HD" tvg-logo="https://rus.hls.gd/images/chIcons/790.png" tvg-rec="3", BCU Media HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch790/mono.m3u8?token=skynex.v2_0sNMKF0TJHN6vkHzoiXp1u9DW2enNpnBByQTcepNRwsr1hRpnCl5yCN_bUV9sPN2OB_AVzcL&nostub=1
+#EXTINF:0 tvg-id="ch590" tvg-name="BCU Media OLD" tvg-logo="https://rus.hls.gd/images/chIcons/590.png" tvg-rec="3", BCU Media OLD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch590/mono.m3u8?token=skynex.v2_K055sfwnJo_j2g_MV_-mCDl-XkIZPbpgE7ruC-gD2BEOWpJrtSYF4uUsyoa3_v2COX1le6po&nostub=1
+#EXTINF:0 tvg-id="ch1429" tvg-name="BCU TruMotion HD" tvg-logo="https://rus.hls.gd/images/chIcons/1429.png" tvg-rec="3", BCU TruMotion HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1429/mono.m3u8?token=skynex.v2_8T8qEeS-tmttTzCoQIvefCtV0pqTuixiBJ2VjW3p67w2ZFwcIjDhYsBv97O2QF3CfGTJdS21Qg&nostub=1
+#EXTINF:0 tvg-id="ch1444" tvg-name="BCU Survival HD" tvg-logo="https://rus.hls.gd/images/chIcons/1444.png" tvg-rec="3", BCU Survival HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1444/mono.m3u8?token=skynex.v2_huqxVDOXFBqyOwMuRQco0f4t43WZ-CsWTmCsoieWjHn0XL7j4VDuyam_TWM7nxkHCgW7pXXrqw&nostub=1
+#EXTINF:0 tvg-id="ch1445" tvg-name="BCU Survival OLD" tvg-logo="https://rus.hls.gd/images/chIcons/1445.png" tvg-rec="3", BCU Survival OLD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1445/mono.m3u8?token=skynex.v2_NGd2qZ21qoGufxj3-t3nRzgiNmmCtI-GGLPh0AUdNDN8LBQ5WGT8lmh_lIlo9g2czgNbTEE_eg&nostub=1
+#EXTINF:0 tvg-id="ch1030" tvg-name="CineMan" tvg-logo="https://rus.hls.gd/images/chIcons/1030.png" tvg-rec="3", CineMan
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1030/mono.m3u8?token=skynex.v2_AS3E2NzW56Odh8gHFYiF3CuoqJtjvhTkcBShtD-jtn1-NpekXJoBDDdUILxuubvLUftDkYwOrg&nostub=1
+#EXTINF:0 tvg-id="ch2142" tvg-name="CineMan Premium" tvg-logo="https://rus.hls.gd/images/chIcons/2142.png" tvg-rec="3", CineMan Premium
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2142/mono.m3u8?token=skynex.v2_wyccmEnNUtZV4dsd49onctwzP32EB6jHkKBtrrZOV99PKvQUGzXhnacIJ5T4UjDeyUv07cCbSQ&nostub=1
+#EXTINF:0 tvg-id="ch1031" tvg-name="CineMan Top" tvg-logo="https://rus.hls.gd/images/chIcons/1031.png" tvg-rec="3", CineMan Top
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1031/mono.m3u8?token=skynex.v2_PeoPWBeR-AoI6eQ6ISuu7F_xb9KRSD_PUgBb8hx7T9EBA2zjliBmWxuA442cSdyaBNIiBg5H6g&nostub=1
+#EXTINF:0 tvg-id="ch1032" tvg-name="CineMan Action" tvg-logo="https://rus.hls.gd/images/chIcons/1032.png" tvg-rec="3", CineMan Action
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1032/mono.m3u8?token=skynex.v2_lIq4QE0kCbpD_XIdbN1egH9d85ukuMupZj-_hsIB7pVOmZuIEvSv5jvieJgV6vJQIF6tg0Earw&nostub=1
+#EXTINF:0 tvg-id="ch1033" tvg-name="CineMan Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/1033.png" tvg-rec="3", CineMan Thriller
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1033/mono.m3u8?token=skynex.v2_of1Pz_IgS6j2WhTdfVDwFlH3Y9AYCoWnNm9pZqx0AIqC9-Irn7GPVVzGOwmEwqZzdhCUN-cAnA&nostub=1
+#EXTINF:0 tvg-id="ch1074" tvg-name="CineMan Катастрофы" tvg-logo="https://rus.hls.gd/images/chIcons/1074.png" tvg-rec="3", CineMan Катастрофы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1074/mono.m3u8?token=skynex.v2_zM6kxcU7xONOEv7or3ruhTRbw2yhZ02NCxRrqGKE3ju6S3rfBYBj5QcRGeoO0cDuL5B9feSrvA&nostub=1
+#EXTINF:0 tvg-id="ch1034" tvg-name="CineMan Melodrama" tvg-logo="https://rus.hls.gd/images/chIcons/1034.png" tvg-rec="3", CineMan Melodrama
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1034/mono.m3u8?token=skynex.v2_ufQh5O77vXDt6tBsGBlfmuLpjxmJUcbFecafifdSrbQv4N62iLUGjn5hZG6WVeoQO6WyDs1wWw&nostub=1
+#EXTINF:0 tvg-id="ch1035" tvg-name="CineMan Marvel" tvg-logo="https://rus.hls.gd/images/chIcons/1035.png" tvg-rec="3", CineMan Marvel
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1035/mono.m3u8?token=skynex.v2_MwbFNOx3NiqiZppVLnsge__oL3TZC-RF90Nrdk8AQnewfoLrjKNRrr-7U0tN1HjHp3okU1sQLw&nostub=1
+#EXTINF:0 tvg-id="ch1036" tvg-name="CineMan Ужасы" tvg-logo="https://rus.hls.gd/images/chIcons/1036.png" tvg-rec="3", CineMan Ужасы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1036/mono.m3u8?token=skynex.v2_887jle18rtzT5sOSktvQTQA-TCTHjnikQ0M2Oll_arzVBaF2g8dBnKnPIg5HfgLwBi_UW01gIg&nostub=1
+#EXTINF:0 tvg-id="ch1037" tvg-name="CineMan Комедия" tvg-logo="https://rus.hls.gd/images/chIcons/1037.png" tvg-rec="3", CineMan Комедия
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1037/mono.m3u8?token=skynex.v2_LukVe1vDanoCxt8YdTyTVNlhjY9jiK34tKO-lU1sckvJ5Q5bksqWG3KfSG6Qz-wfXg--1reg8w&nostub=1
+#EXTINF:0 tvg-id="ch1038" tvg-name="CineMan VHS" tvg-logo="https://rus.hls.gd/images/chIcons/1038.png" tvg-rec="3", CineMan VHS
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1038/mono.m3u8?token=skynex.v2_ofp7kScp5CTyjlfbL-H47Ix2ndWEgqnALLxdWQrYrEZmHyh8vptX5frTrMmIcn70X3cL66jwWQ&nostub=1
+#EXTINF:0 tvg-id="ch1039" tvg-name="CineMan РуКино" tvg-logo="https://rus.hls.gd/images/chIcons/1039.png" tvg-rec="3", CineMan РуКино
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1039/mono.m3u8?token=skynex.v2_57g8tTs_wFOT1ROPFd1lrwEsk5Dr2PWrTFntP5m_YQzbAUmbNlAsBBDYYfhKkr8uu-5SETN5Ag&nostub=1
+#EXTINF:0 tvg-id="ch1040" tvg-name="CineMan Сваты" tvg-logo="https://rus.hls.gd/images/chIcons/1040.png" tvg-rec="3", CineMan Сваты
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1040/mono.m3u8?token=skynex.v2_s-CKMkFqcL2xpgsiJuOoUO10ATMerv0MyfeiBYLPkm8ZcDGaYKnCRedOakzmGDeOSnIt884t6Q&nostub=1
+#EXTINF:0 tvg-id="ch1325" tvg-name="CineMan Ментовские войны" tvg-logo="https://rus.hls.gd/images/chIcons/1325.png" tvg-rec="3", CineMan Ментовские войны
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1325/mono.m3u8?token=skynex.v2_XvaR_vfPwx3nRnMeuRc7BWnwVpu4eUhoWr7pZOvN1SJno7hdHCt3grikFAiZGE5iPFFbF301Tw&nostub=1
+#EXTINF:0 tvg-id="ch1326" tvg-name="CineMan ПёС" tvg-logo="https://rus.hls.gd/images/chIcons/1326.png" tvg-rec="3", CineMan ПёС
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1326/mono.m3u8?token=skynex.v2_tw9OVhmCLTFPFxaEMF3MQSSM8tDfyJeKEmcIls8MFqO4wENybq5Eo69k_7_IMfwZfdZpGA9ErA&nostub=1
+#EXTINF:0 tvg-id="ch1327" tvg-name="CineMan Лесник" tvg-logo="https://rus.hls.gd/images/chIcons/1327.png" tvg-rec="3", CineMan Лесник
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1327/mono.m3u8?token=skynex.v2_iNd44TDugKgiWqRPDF4YVl7mPYwOAFqc7vSXyfyO8YPq0EJiM5AJSu5f27ZJLcU9My8e8-x7ZA&nostub=1
+#EXTINF:0 tvg-id="ch1622" tvg-name="CineMan Скорая помощь" tvg-logo="https://rus.hls.gd/images/chIcons/1622.png" tvg-rec="3", CineMan Скорая помощь
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1622/mono.m3u8?token=skynex.v2_i1BZDhBmYSdvFyK_r0UKNVXMD8bjxBSvS3pbwV816F7UqfJesvnh2nauh3b7-RWRN-LFfAjV1g&nostub=1
+#EXTINF:0 tvg-id="ch2067" tvg-name="CineMan Miniseries" tvg-logo="https://rus.hls.gd/images/chIcons/2067.png" tvg-rec="3", CineMan Miniseries
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2067/mono.m3u8?token=skynex.v2_5K_60yVCQI4kXB7y2mzSQtGWVlii3jrbK12B1hBSsogGGRM0rNr4H1IPZXu91XPs_DkDE25-UQ&nostub=1
+#EXTINF:0 tvg-id="ch2748" tvg-name="CineMan Криминальные Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2748.png" tvg-rec="3", CineMan Криминальные Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2748/mono.m3u8?token=skynex.v2_yUct_h4whOW7MIVMPYpBCwE-HftCaoeHayZZQirdGDvquKFWNRuSEYSVx1kNvil4cqsQPBZa5g&nostub=1
+#EXTINF:0 tvg-id="ch2925" tvg-name="CineMan Комедийные сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2925.png" tvg-rec="3", CineMan Комедийные сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2925/mono.m3u8?token=skynex.v2_oV9reTgBt6so3WSIQj7yWPKk34j0wzKg-7jbQ1K-BlHiyiisLQ3dg0gahUGdPBM37YkbdTLLqA&nostub=1
+#EXTINF:0 tvg-id="ch3131" tvg-name="CineMan Военные Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/3131.png" tvg-rec="3", CineMan Военные Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3131/mono.m3u8?token=skynex.v2_ahRIPmWMGXVHCAhQ_vF3AL5WSnGPcz16RjfBTSgHY1uMVNuYJbkv8s-OrPBzNxD8wUO7NBc0ew&nostub=1
+#EXTINF:0 tvg-id="ch2866" tvg-name="CineMan СССР" tvg-logo="https://rus.hls.gd/images/chIcons/2866.png" tvg-rec="3", CineMan СССР
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2866/mono.m3u8?token=skynex.v2_NRk5seKCpyN7WN1V7KDcdX1iAFLdj53pLtIjIPyzC2p-dcs-hVMzsvjCFcGgwHZgMsZawloiOA&nostub=1
+#EXTINF:0 tvg-id="ch3925" tvg-name="CineMan Дубляж СССР" tvg-logo="https://rus.hls.gd/images/chIcons/3925.png" tvg-rec="3", CineMan Дубляж СССР
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3925/mono.m3u8?token=skynex.v2_0ZOQKqa-P_Y5lvW4j0KcVOXL2xHXfftR3YpGTyedM0-IqZVzJ3qq8ebbYbYNS_GV6y5HOq11Mw&nostub=1
+#EXTINF:0 tvg-id="ch1219" tvg-name="MM NewFilm RU HD" tvg-logo="https://rus.hls.gd/images/chIcons/1219.png" tvg-rec="3", MM NewFilm RU HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1219/mono.m3u8?token=skynex.v2_DrY0_SpRr17bJPrHvhsFOGy8nGgP6yfkobgPD1dfSZpP_3KzcjQ-hBOLOeHwe7BBPqmtaLnKMQ&nostub=1
+#EXTINF:0 tvg-id="ch1216" tvg-name="MM NewFilm 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1216.png" tvg-rec="3", MM NewFilm 1 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1216/mono.m3u8?token=skynex.v2_lj7Nbd-xdtPdgSPDUS8o2Dc1fFlhiCrfYjxzQJpiuRucPt1bQdH8OD9iglIbF5FJ1xpPoM5a6Q&nostub=1
+#EXTINF:0 tvg-id="ch1217" tvg-name="MM NewFilm 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1217.png" tvg-rec="3", MM NewFilm 2 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1217/mono.m3u8?token=skynex.v2_r3aIIz2dgcQJ4QpE9JlH9SPMpY1wa99BGDdu_hrH8T5GcaKnFBbkjQCScPxOsK-GHEXxLp0TRA&nostub=1
+#EXTINF:0 tvg-id="ch1218" tvg-name="MM NewFilm 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1218.png" tvg-rec="3", MM NewFilm 3 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1218/mono.m3u8?token=skynex.v2_2oZmGQkK0SD6ll65ZTuPBVG_ufajy64ZR48eoYk46YDDQZwtlIZ-1dtbRiqIfzBiEQT0prb96A&nostub=1
+#EXTINF:0 tvg-id="ch1215" tvg-name="MM Love HD" tvg-logo="https://rus.hls.gd/images/chIcons/1215.png" tvg-rec="3", MM Love HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1215/mono.m3u8?token=skynex.v2_JaAUnSTNrFGSv-4WlVtlaY3xHUpoZVKrErYCoerJwyN6HQunRXAhFrhbKMmzqfr5ra-GPfE9Xg&nostub=1
+#EXTINF:0 tvg-id="ch1222" tvg-name="MM UFO HD" tvg-logo="https://rus.hls.gd/images/chIcons/1222.png" tvg-rec="3", MM UFO HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1222/mono.m3u8?token=skynex.v2__fHN2a5_Ej41I3u4SqhfKfABOEvLddVOD1ZdN4XY3qlxI3a2U8vntG2Ril31199sxMnLhB_xVQ&nostub=1
+#EXTINF:0 tvg-id="ch1214" tvg-name="MM 007 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1214.png" tvg-rec="3", MM 007 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1214/mono.m3u8?token=skynex.v2_H9edvnzd68Orj0Z-QNPhf0t-BIViPEz8NlE6ept0jbvxNl92kzyK1LnuhQ86NvuoUYqa4OI0gQ&nostub=1
+#EXTINF:0 tvg-id="ch1229" tvg-name="MM Агата Кристи HD" tvg-logo="https://rus.hls.gd/images/chIcons/1229.png" tvg-rec="3", MM Агата Кристи HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1229/mono.m3u8?token=skynex.v2_MXk7nQs70aiKggvg4-hAVYQkRs1E7S9oZ6S0soBv0ZjIFeLP4VJCGFeMh0MQQZfq-HbukDQzIw&nostub=1
+#EXTINF:0 tvg-id="ch1232" tvg-name="MM Боевик Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/1232.png" tvg-rec="3", MM Боевик Classic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1232/mono.m3u8?token=skynex.v2_2T_Ax2IMZjdkejtNwcx3069_Gr-Smj5R8yOOdEPfhB89SrCObbJNhNNbP5rJ5herNyt_tHmC1w&nostub=1
+#EXTINF:0 tvg-id="ch1233" tvg-name="MM Боевик HD" tvg-logo="https://rus.hls.gd/images/chIcons/1233.png" tvg-rec="3", MM Боевик HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1233/mono.m3u8?token=skynex.v2_Nn9gjhxo0blllzUYTG8aEs78_zhMSNVtavceLcNqcf4_HXjHGxYNetTpnG-v56a7GNzGIsNhhQ&nostub=1
+#EXTINF:0 tvg-id="ch1234" tvg-name="MM Вестерн HD" tvg-logo="https://rus.hls.gd/images/chIcons/1234.png" tvg-rec="3", MM Вестерн HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1234/mono.m3u8?token=skynex.v2_aLnvgHcUSRcbOuIIfzZmLoY7FtkGq5VAiM0OMFz5hh7GIMvMnTnrXtENwltK-fOzCAx7pSVEDQ&nostub=1
+#EXTINF:0 tvg-id="ch1237" tvg-name="MM Затмение HD" tvg-logo="https://rus.hls.gd/images/chIcons/1237.png" tvg-rec="3", MM Затмение HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1237/mono.m3u8?token=skynex.v2_8guZqvQFa9APvqRHcRFCSQGhm7YYVCJWdNI5382XS2_4j76F2hPTbtNDpiNTByfbqh4D4OBfTQ&nostub=1
+#EXTINF:0 tvg-id="ch1238" tvg-name="MM История HD" tvg-logo="https://rus.hls.gd/images/chIcons/1238.png" tvg-rec="3", MM История HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1238/mono.m3u8?token=skynex.v2_zioEPWBCaihwUH-e1nS_cEPqJOu4yjiqsFJl0OcMsHMetCGVv7Gd7NODsq7i7glti1bmRVH_Cw&nostub=1
+#EXTINF:0 tvg-id="ch1239" tvg-name="MM Катастрофа HD" tvg-logo="https://rus.hls.gd/images/chIcons/1239.png" tvg-rec="3", MM Катастрофа HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1239/mono.m3u8?token=skynex.v2_6Qf_iuCpfli7AqXt6f6Oyfpcyllm6jJVtErJNPY0yYNUNkjmXe3x7h3kWInUa-629QJ-myMs9Q&nostub=1
+#EXTINF:0 tvg-id="ch1241" tvg-name="MM Киберпанк HD" tvg-logo="https://rus.hls.gd/images/chIcons/1241.png" tvg-rec="3", MM Киберпанк HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1241/mono.m3u8?token=skynex.v2_HNE1rxhexHfvozvr9YTMa5rHERr1Jqv0sb_TOw8ald2mPEzvjg1JaYT6kT7HlzOtm_sCkLv1RQ&nostub=1
+#EXTINF:0 tvg-id="ch1242" tvg-name="MM Комедия Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/1242.png" tvg-rec="3", MM Комедия Classic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1242/mono.m3u8?token=skynex.v2_UdBTI66wFGpwkyXKZonpQRET4aUMjyETov2ksXuvQU3rSiaaQxUQGtaMMfZ-blRGmfHm2w1TzA&nostub=1
+#EXTINF:0 tvg-id="ch1243" tvg-name="MM Комедия HD" tvg-logo="https://rus.hls.gd/images/chIcons/1243.png" tvg-rec="3", MM Комедия HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1243/mono.m3u8?token=skynex.v2_71_rzESStPq4_2JWpbOdZN9PlcSzg8GL33k_1RNtuRv_tQ8xbvFiwjVLTFaDULlPz9W96LaaNw&nostub=1
+#EXTINF:0 tvg-id="ch1244" tvg-name="MM Криминал HD" tvg-logo="https://rus.hls.gd/images/chIcons/1244.png" tvg-rec="3", MM Криминал HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1244/mono.m3u8?token=skynex.v2_onz0symWcCP9NquehoiuGAMnjK-cWH54XTp3uf5KB5cW4XUtyChhHXXGVH96qlaOAadVrRjTmg&nostub=1
+#EXTINF:0 tvg-id="ch1245" tvg-name="MM Крутые 90-е HD" tvg-logo="https://rus.hls.gd/images/chIcons/1245.png" tvg-rec="3", MM Крутые 90-е HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1245/mono.m3u8?token=skynex.v2_1fMRAuiau8XFUKytH0Gf9kl45X1RBSW3rwb1SAdSlu8QUkK-yWMrIhEdhSBWLJdrv8AKkXFNCA&nostub=1
+#EXTINF:0 tvg-id="ch1246" tvg-name="MM Кунг-Фу HD" tvg-logo="https://rus.hls.gd/images/chIcons/1246.png" tvg-rec="3", MM Кунг-Фу HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1246/mono.m3u8?token=skynex.v2_3ezKR1aiAhvYe9sKZzBLQx1ZfKLWmHH6BD7RcZ2f7GM5vNy4lIXK_g2XkbLqfpy0bW_vzAnX7Q&nostub=1
+#EXTINF:0 tvg-id="ch1249" tvg-name="MM Мифология HD" tvg-logo="https://rus.hls.gd/images/chIcons/1249.png" tvg-rec="3", MM Мифология HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1249/mono.m3u8?token=skynex.v2_VIqYXKftG2LffEiJuaTQWVNQZ0ufnmfNl0jukaVBZORWFoNpNnL6xt4X9K-G_4kOTBFTzaE9fg&nostub=1
+#EXTINF:0 tvg-id="ch1252" tvg-name="MM Погружение HD" tvg-logo="https://rus.hls.gd/images/chIcons/1252.png" tvg-rec="3", MM Погружение HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1252/mono.m3u8?token=skynex.v2_xqPgn-kvkaltDGkschPs6PiNcJr5LMdQf-HHWdgcKBekIaKiSWzRhmYWI8hL_RJB-fapAWPM1g&nostub=1
+#EXTINF:0 tvg-id="ch1255" tvg-name="MM Роскино HD" tvg-logo="https://rus.hls.gd/images/chIcons/1255.png" tvg-rec="3", MM Роскино HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1255/mono.m3u8?token=skynex.v2_c_8O7He0u9UeB1hoJB6wb60AimG3ed6OWcBQmS1n0QWNfsuok7wkoIxowGcbbTPu5NeAQcH5uQ&nostub=1
+#EXTINF:0 tvg-id="ch1250" tvg-name="MM Нуар HD" tvg-logo="https://rus.hls.gd/images/chIcons/1250.png" tvg-rec="3", MM Нуар HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1250/mono.m3u8?token=skynex.v2_s2Mb8-ShhYUG6L2owoNuwdIzGnl3IMaagoqzh3d52WJCpjH2upIQfjZSJoHE--vR0_aBFsJaEw&nostub=1
+#EXTINF:0 tvg-id="ch1254" tvg-name="MM Приключения HD" tvg-logo="https://rus.hls.gd/images/chIcons/1254.png" tvg-rec="3", MM Приключения HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1254/mono.m3u8?token=skynex.v2_qhx78UZQfK2XYnIrp1nAnM_63sS-tNl52joetL1qyiw52T6W7KOjoP3FRkrSzLdRb6qDo1WpZA&nostub=1
+#EXTINF:0 tvg-id="ch1230" tvg-name="MM Грайндхаус HD" tvg-logo="https://rus.hls.gd/images/chIcons/1230.png" tvg-rec="3", MM Грайндхаус HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1230/mono.m3u8?token=skynex.v2_BA7Rjh5nenX5Z9zG5wCplsMrHOW_9cDAaj8nkK3Xa2fx0D5vWAPYzLz_kxlAgi5wTzKVf8OsWw&nostub=1
+#EXTINF:0 tvg-id="ch1251" tvg-name="MM Ситком 2.0 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1251.png" tvg-rec="3", MM Ситком 2.0 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1251/mono.m3u8?token=skynex.v2_noq6sE1P-R84SG_-7JCR3vACvhbeyDEVO06dDo0M_Lj8_52KTQBSo3XRMA9ukYRfGQrGXDgeDA&nostub=1
+#EXTINF:0 tvg-id="ch1236" tvg-name="MM Воронины HD" tvg-logo="https://rus.hls.gd/images/chIcons/1236.png" tvg-rec="3", MM Воронины HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1236/mono.m3u8?token=skynex.v2_stLzpmAXWs3dNlwoOpo5AMID5iWjbkYIO5x2yvgqP1Yj8Zf07GqKp75jXMGgclVdrznDdBK-5g&nostub=1
+#EXTINF:0 tvg-id="ch1253" tvg-name="MM Полицейский с Рублёвки HD" tvg-logo="https://rus.hls.gd/images/chIcons/1253.png" tvg-rec="3", MM Полицейский с Рублёвки HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1253/mono.m3u8?token=skynex.v2_XC5wS0X58Pgw-S4PY5H0Z4Ki2LNpLoycYHeboyGPigGzNO8bsd697oEwRfcVcCmKtFXKbexn0Q&nostub=1
+#EXTINF:0 tvg-id="ch1256" tvg-name="MM Сваты HD" tvg-logo="https://rus.hls.gd/images/chIcons/1256.png" tvg-rec="3", MM Сваты HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1256/mono.m3u8?token=skynex.v2_a4llBGQylZbdeZKJHyCOXWcgmL6LKggr0B-RmXtBIVqlinaWZQu6TdRHoDJH7QOrzMIgpewQ-w&nostub=1
+#EXTINF:0 tvg-id="ch1257" tvg-name="MM Ситком HD" tvg-logo="https://rus.hls.gd/images/chIcons/1257.png" tvg-rec="3", MM Ситком HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1257/mono.m3u8?token=skynex.v2_kApBndpG7kKJuvTAWrn8yTzHIhYyqfMwOtBgeCwWxGBRFXZ-_7VB2tnO4OByXz85QyaCoaG_Pw&nostub=1
+#EXTINF:0 tvg-id="ch1258" tvg-name="MM Скорость HD" tvg-logo="https://rus.hls.gd/images/chIcons/1258.png" tvg-rec="3", MM Скорость HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1258/mono.m3u8?token=skynex.v2_cjF2Ijb0C5kkPj-cVX8AYOq8dtYRVzCFkX8mGy7kWtrmyLCYekXF-W8naogYzObSfXhX0l619Q&nostub=1
+#EXTINF:0 tvg-id="ch1259" tvg-name="MM Спорт HD" tvg-logo="https://rus.hls.gd/images/chIcons/1259.png" tvg-rec="3", MM Спорт HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1259/mono.m3u8?token=skynex.v2_WrNBKCC6iwPYNOIGPbGysmdasECQa8VhTh7MIhR3ESRz0cmuxh6o6t4NyrUP7rHsCqRf1Z6q-g&nostub=1
+#EXTINF:0 tvg-id="ch1260" tvg-name="MM Стивен Кинг HD" tvg-logo="https://rus.hls.gd/images/chIcons/1260.png" tvg-rec="3", MM Стивен Кинг HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1260/mono.m3u8?token=skynex.v2_pqq2CUsEGumbFmKNglSBRfiWCPFyqSnt4y3h6tAu9kXb8bTovjmAldWmef7MdfF3qkzVOZqP-g&nostub=1
+#EXTINF:0 tvg-id="ch1261" tvg-name="MM Супергерои HD" tvg-logo="https://rus.hls.gd/images/chIcons/1261.png" tvg-rec="3", MM Супергерои HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1261/mono.m3u8?token=skynex.v2_pRvMAPsXieEmZlJnm3GnCgbklSe35M7dn4YKH9uIxPHxBMG8XDjFNBw1G26k3-Mwo8IA93mYxA&nostub=1
+#EXTINF:0 tvg-id="ch1263" tvg-name="MM Триллер HD" tvg-logo="https://rus.hls.gd/images/chIcons/1263.png" tvg-rec="3", MM Триллер HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1263/mono.m3u8?token=skynex.v2_geZf1j_nhAGhhhxqBF7pmPF3JJaU7qQsPi2JDKp7dddO6PdhODmblmV_mm3jQNGqbsxjsorODw&nostub=1
+#EXTINF:0 tvg-id="ch1264" tvg-name="MM Ужастик HD" tvg-logo="https://rus.hls.gd/images/chIcons/1264.png" tvg-rec="3", MM Ужастик HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1264/mono.m3u8?token=skynex.v2_iVrd4E4o1IAWKzMjwk4GD60jwA1oCvPu5a9DA8grNvZ89jyoMUGZYOLKa_MqtSe5FWs0wssrBg&nostub=1
+#EXTINF:0 tvg-id="ch1266" tvg-name="MM Синематограф HD" tvg-logo="https://rus.hls.gd/images/chIcons/1266.png" tvg-rec="3", MM Синематограф HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1266/mono.m3u8?token=skynex.v2_2b0wqkJW_uv5--KU8Q5hMRYqY8aCf_9DPDf2MP8_IGdjVRGKVujegGTA4dPKMQxK07AODW6b-g&nostub=1
+#EXTINF:0 tvg-id="ch1267" tvg-name="MM Фантастика HD" tvg-logo="https://rus.hls.gd/images/chIcons/1267.png" tvg-rec="3", MM Фантастика HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1267/mono.m3u8?token=skynex.v2_sarwWbztUoa-OEGHPvi9wDBnIdAC5ldjZC75R11cd-OTHZYki4hVazRlc_C0jcTMWbwzU47tPg&nostub=1
+#EXTINF:0 tvg-id="ch1268" tvg-name="MM Фобия HD" tvg-logo="https://rus.hls.gd/images/chIcons/1268.png" tvg-rec="3", MM Фобия HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1268/mono.m3u8?token=skynex.v2_vRXiW_09DOskmNuDN364kbK7tQw6_5QjaYn6Gznky_TOFR_nsozubEBoqInMdVct6HUaAhA5RA&nostub=1
+#EXTINF:0 tvg-id="ch1274" tvg-name="MM Семейный 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1274.png" tvg-rec="3", MM Семейный 1 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1274/mono.m3u8?token=skynex.v2_o5WCkQiGkLBWFZb_C1eUUa-R9kvkOBzF6OTzc2K750qgEoak47Y3jK8N3HwyvO2-7SC1VoddMg&nostub=1
+#EXTINF:0 tvg-id="ch1270" tvg-name="MM Семейный 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1270.png" tvg-rec="3", MM Семейный 2 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1270/mono.m3u8?token=skynex.v2_esxnZlrvCa5uSDg8r_PR-qaJ_Xar0_v8DLy8Izq_1PIf2J4RSq84qFQqEIE4l_Gm0vjO_HIA2w&nostub=1
+#EXTINF:0 tvg-id="ch1223" tvg-name="MM USSR 1941-1945 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1223.png" tvg-rec="3", MM USSR 1941-1945 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1223/mono.m3u8?token=skynex.v2_TsO_CZ3eCkEimFs7Q2KQjQM1PDIGsVcjqzLMO9xIRvmxHhCukadVKRhHi3s0g0mnmFRTM-EKyQ&nostub=1
+#EXTINF:0 tvg-id="ch1273" tvg-name="MM USSR Детектив HD" tvg-logo="https://rus.hls.gd/images/chIcons/1273.png" tvg-rec="3", MM USSR Детектив HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1273/mono.m3u8?token=skynex.v2_0LraQvyHNn3MAAc_xaf6SbqKxar4ExTBHmBMoVXgB563rqXmqV089d8A1vv9-4ttIexeFbHjFg&nostub=1
+#EXTINF:0 tvg-id="ch1269" tvg-name="MM USSR Приключения HD" tvg-logo="https://rus.hls.gd/images/chIcons/1269.png" tvg-rec="3", MM USSR Приключения HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1269/mono.m3u8?token=skynex.v2_eHLMzwdrvICaP2FSQgSzgymWqe1SmZsdyssQNto8UtUvmTSISOS_YFdYVI1XFud4e3HGp3Zmgw&nostub=1
+#EXTINF:0 tvg-id="ch1224" tvg-name="MM USSR Комедия HD" tvg-logo="https://rus.hls.gd/images/chIcons/1224.png" tvg-rec="3", MM USSR Комедия HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1224/mono.m3u8?token=skynex.v2_CNeVL1xSHKoSUGGMdn6uS5g1AzLyHzWjqyaAO338UIfmjqn_cYNguCkWV2m0ws5yRlRsxlEdgw&nostub=1
+#EXTINF:0 tvg-id="ch1227" tvg-name="MM USSR Драма HD" tvg-logo="https://rus.hls.gd/images/chIcons/1227.png" tvg-rec="3", MM USSR Драма HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1227/mono.m3u8?token=skynex.v2_gsLodeqS6Wj2-9nXEf3nH6ZzYKLLzmvf_XOZYFRjcI3ngHbY0Q_-gnJQmnltYdNMSjsUTTzkVg&nostub=1
+#EXTINF:0 tvg-id="ch1275" tvg-name="MM Ужасы Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/1275.png" tvg-rec="3", MM Ужасы Classic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1275/mono.m3u8?token=skynex.v2_6tcNehJRmuLvNQz_1oTJU7434qpQUt1JnbePjBzRjeRR5DMGutsVp2ssm63t3zK-zV0UJgpD0w&nostub=1
+#EXTINF:0 tvg-id="ch1276" tvg-name="MM Ужасы HD" tvg-logo="https://rus.hls.gd/images/chIcons/1276.png" tvg-rec="3", MM Ужасы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1276/mono.m3u8?token=skynex.v2_JBHfUnQi4iL6l_wibwiIkMKtuolhRLZv6D7aX43mDIz0bEXuRFXcBv6QFx5HG2Y_HdMLgzZwow&nostub=1
+#EXTINF:0 tvg-id="ch1286" tvg-name="MM Celebrity HD" tvg-logo="https://rus.hls.gd/images/chIcons/1286.png" tvg-rec="3", MM Celebrity HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1286/mono.m3u8?token=skynex.v2_7QRZQxlkT8tEQqXOdiUNtlvKiHHGvAuIzUKLhHgkc6JhSlxLGLWcdL3VgiFR2lDasBxiz0Qang&nostub=1
+#EXTINF:0 tvg-id="ch1323" tvg-name="MM Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/1323.png" tvg-rec="3", MM Classic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1323/mono.m3u8?token=skynex.v2_TCeOUCeg_M5SKbhGCXnu0Pr3YY7dd3CBiuKOQPyyjzmgKm5vNk2rHdJyZm9L7aICZ25eUS1Gdw&nostub=1
+#EXTINF:0 tvg-id="ch1324" tvg-name="MM Драма HD" tvg-logo="https://rus.hls.gd/images/chIcons/1324.png" tvg-rec="3", MM Драма HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1324/mono.m3u8?token=skynex.v2_mXKfTSci7PLRvK1OPn9-OZrTeac563fRCzZMoCYUNZeRt0EA4n8RsQBOHjlTgiTYJFv-CnZffQ&nostub=1
+#EXTINF:0 tvg-id="ch1621" tvg-name="MM Translation HD" tvg-logo="https://rus.hls.gd/images/chIcons/1621.png" tvg-rec="3", MM Translation HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1621/mono.m3u8?token=skynex.v2_4X8ScfY6MJX9_qIZUYH3h1k4WJ__wahmx0oIJwxtTOp2GszxsQo2xzdtHVzSUyVaxB3BE1hD8A&nostub=1
+#EXTINF:0 tvg-id="ch2501" tvg-name="MM Кинофестиваль HD" tvg-logo="https://rus.hls.gd/images/chIcons/2501.png" tvg-rec="3", MM Кинофестиваль HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2501/mono.m3u8?token=skynex.v2_mf9yqBuzRKl5W_A3w7C3tV4kYlsFuvKYh4y2Q4zJtZ7VE0RG4JuM8txX0o0v_hJARZh-q8gzyg&nostub=1
+#EXTINF:0 tvg-id="ch1288" tvg-name="MS Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/1288.png" tvg-rec="3", MS Crime HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1288/mono.m3u8?token=skynex.v2_I-F1qLUcsjRqn0NPoREC6q5aRsBCSplmMlR_E0DE_Jn9L20BaS0pB_Wsm1A1ZgCcjoRuF9LUCw&nostub=1
+#EXTINF:0 tvg-id="ch1289" tvg-name="MS Prisons HD" tvg-logo="https://rus.hls.gd/images/chIcons/1289.png" tvg-rec="3", MS Prisons HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1289/mono.m3u8?token=skynex.v2_Ctkl-VdjyztUhs4s7DwkeF4Yl4PTgOmUfqFgdh4nwyTM3Z1-SLaXNISepJCltLLDsRvhpJTEVg&nostub=1
+#EXTINF:0 tvg-id="ch1291" tvg-name="MS Young Blood HD" tvg-logo="https://rus.hls.gd/images/chIcons/1291.png" tvg-rec="3", MS Young Blood HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1291/mono.m3u8?token=skynex.v2_SvrAG_DWCW6rRfpUlkkQLW3j0EC29XhgSXTmb2EEEOgCLna2uNw51jR_nqF-v4O1_TbXombiMQ&nostub=1
+#EXTINF:0 tvg-id="ch3038" tvg-name="MS Magic HD" tvg-logo="https://rus.hls.gd/images/chIcons/3038.png" tvg-rec="3", MS Magic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3038/mono.m3u8?token=skynex.v2_NbpqLvvogWIkNqp1k4L-Ymftcd7-9Gmoz1dKGhpp30Yl9fdrzwEpLEAV6dGbSXx3UgIE2dfEaQ&nostub=1
+#EXTINF:0 tvg-id="ch1297" tvg-name="Yosso TV Grand" tvg-logo="https://rus.hls.gd/images/chIcons/1297.png" tvg-rec="3", Yosso TV Grand
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1297/mono.m3u8?token=skynex.v2_piIZO5_Ydhtl9sMRNjJvm3VvQAdngRc8Pv8JiKjSIeMyevM16yiHcEPZYs_nLL2KBvO_kEaatg&nostub=1
+#EXTINF:0 tvg-id="ch1298" tvg-name="Yosso TV VHS" tvg-logo="https://rus.hls.gd/images/chIcons/1298.png" tvg-rec="3", Yosso TV VHS
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1298/mono.m3u8?token=skynex.v2_xn1tF0DspHu6OFKgfnZ1IwxfjcdH4jYOAPyn4u0u7YtYOpUv20-FlBA_2E_paWLwvsT2qxtyhw&nostub=1
+#EXTINF:0 tvg-id="ch1300" tvg-name="Yosso TV Русские Фильмы" tvg-logo="https://rus.hls.gd/images/chIcons/1300.png" tvg-rec="3", Yosso TV Русские Фильмы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1300/mono.m3u8?token=skynex.v2_luLzcdlPUDZf7WsXwvzLYr4k2G1bLvYBM4jiuShFNxGjnMWh2gKFbfdFSYvEXdnnE7OxQEs6kw&nostub=1
+#EXTINF:0 tvg-id="ch1301" tvg-name="Yosso TV Советские Фильмы" tvg-logo="https://rus.hls.gd/images/chIcons/1301.png" tvg-rec="3", Yosso TV Советские Фильмы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1301/mono.m3u8?token=skynex.v2_DYxNzzOIEr0rAvsm_ATi76aNJZ0SSt8w1xUZo8ciEUkqttTWg2dd5ED0ieOqU76m5yG7mXovQg&nostub=1
+#EXTINF:0 tvg-id="ch1303" tvg-name="Yosso TV New Кино" tvg-logo="https://rus.hls.gd/images/chIcons/1303.png" tvg-rec="3", Yosso TV New Кино
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1303/mono.m3u8?token=skynex.v2_3y_t11PlQQuz8XJGmqRBKUOMfjtIbpa1lq9pIRo6p4r5ijstFxKCw6kI4bRcykSenM-9Jekvdw&nostub=1
+#EXTINF:0 tvg-id="ch1306" tvg-name="Yosso TV Трагичное" tvg-logo="https://rus.hls.gd/images/chIcons/1306.png" tvg-rec="3", Yosso TV Трагичное
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1306/mono.m3u8?token=skynex.v2_yaXfk4g7WMDB1_vux7pdMAVqtzOqP7TPUWyz0aTFGMO2_Uszh9PgBqSeqpZBFPRFFkkvxBqknw&nostub=1
+#EXTINF:0 tvg-id="ch1307" tvg-name="Yosso TV Забавное" tvg-logo="https://rus.hls.gd/images/chIcons/1307.png" tvg-rec="3", Yosso TV Забавное
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1307/mono.m3u8?token=skynex.v2_QTHSq1rvDqq7rYMvWcKreB50a7FDrqG3izQh2I2bcKjBaaihKcF9RPFy3auzC86VBVKzJDgGsg&nostub=1
+#EXTINF:0 tvg-id="ch1308" tvg-name="Yosso TV Best" tvg-logo="https://rus.hls.gd/images/chIcons/1308.png" tvg-rec="3", Yosso TV Best
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1308/mono.m3u8?token=skynex.v2_Ebge6OXGbs4G87c63KtsBGuqg2iy9dKZYPAUwzoWT5OjNWPfHZCppuUo6AruwTIudmj86vVydw&nostub=1
+#EXTINF:0 tvg-id="ch1309" tvg-name="Yosso TV Ковбойское" tvg-logo="https://rus.hls.gd/images/chIcons/1309.png" tvg-rec="3", Yosso TV Ковбойское
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1309/mono.m3u8?token=skynex.v2_-dzPv39B0HkjG0dmIoiCUt4MZ3aRwFc-otWE7tB18n0IvaF2nde52S_Ml8wisEJxiCmGrCBklw&nostub=1
+#EXTINF:0 tvg-id="ch1310" tvg-name="Yosso TV Adrenaline" tvg-logo="https://rus.hls.gd/images/chIcons/1310.png" tvg-rec="3", Yosso TV Adrenaline
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1310/mono.m3u8?token=skynex.v2_10-WH0RwUJMVlvA2wXtMmzeNDOho0jJDev0p_1wCEHfUOtnqWDEd6cbZNeZB05Pc-PG38biHAQ&nostub=1
+#EXTINF:0 tvg-id="ch1311" tvg-name="Yosso TV Oblivion" tvg-logo="https://rus.hls.gd/images/chIcons/1311.png" tvg-rec="3", Yosso TV Oblivion
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1311/mono.m3u8?token=skynex.v2_fpUyfpHN6NA03XDRTjlRUUmVB5QD6uG6YasMRiGD0JHFizDbYWqbXsS2hcQqeKT0M4K6UIhzQg&nostub=1
+#EXTINF:0 tvg-id="ch1312" tvg-name="Yosso TV Adventure" tvg-logo="https://rus.hls.gd/images/chIcons/1312.png" tvg-rec="3", Yosso TV Adventure
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1312/mono.m3u8?token=skynex.v2_-0OsHaDJb43nsJWdTR8VqCI7wrzn6bY5iflGiCfwtu1aOPndA8wf6aIqf9N_bwIFaO2UIfd_9A&nostub=1
+#EXTINF:0 tvg-id="ch1313" tvg-name="Yosso TV Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/1313.png" tvg-rec="3", Yosso TV Thriller
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1313/mono.m3u8?token=skynex.v2_F9Zm1uWXp-3rj02GFMzpMeJDzlU0EOw3MD3lsx2CNAe6VnwbQf00_rVIhxuuhu0lgxNNSlcxDA&nostub=1
+#EXTINF:0 tvg-id="ch2062" tvg-name="Yosso TV Мелодрама" tvg-logo="https://rus.hls.gd/images/chIcons/2062.png" tvg-rec="3", Yosso TV Мелодрама
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2062/mono.m3u8?token=skynex.v2_M3yN3koYpKGsao6mvGH-4FZBchiG4bY5mCFBPDPXyn7d90siHUODqQeQDGSbE93JLvZ669qDGQ&nostub=1
+#EXTINF:0 tvg-id="ch2455" tvg-name="Yosso TV Netflix" tvg-logo="https://rus.hls.gd/images/chIcons/2455.png" tvg-rec="3", Yosso TV Netflix
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2455/mono.m3u8?token=skynex.v2_R2XZESv7T69dQV3uhayxRraoZZ3dnTv0HBcwrGV5GYFLsDGn_epBTA7C2tCUU_bySyl_zG3bqA&nostub=1
+#EXTINF:0 tvg-id="ch2457" tvg-name="Yosso TV Best 60fps" tvg-logo="https://rus.hls.gd/images/chIcons/2457.png" tvg-rec="3", Yosso TV Best 60fps
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2457/mono.m3u8?token=skynex.v2_rIbhZkm1qvayMwhzPBIYEVAoPIP-d3LZJWc44jQ6_CXta4hWteuabu5KCTZ2KCNCgD5_RlbVCQ&nostub=1
+#EXTINF:0 tvg-id="ch3182" tvg-name="Yosso TV Best Box 60fps" tvg-logo="https://rus.hls.gd/images/chIcons/3182.png" tvg-rec="3", Yosso TV Best Box 60fps
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3182/mono.m3u8?token=skynex.v2_MWAvq-HmYqNuusq9jkG5FufX6ieFKKnnrbNQbm-ol0R0gb6J_1MNkFov52NnP4SWwj4rYUMPkg&nostub=1
+#EXTINF:0 tvg-id="ch1315" tvg-name="Yosso TV C-Marvel" tvg-logo="https://rus.hls.gd/images/chIcons/1315.png" tvg-rec="3", Yosso TV C-Marvel
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1315/mono.m3u8?token=skynex.v2_vRJQ2NUORQ016T-r6oz_oxIn5ezlZnvsGAk5tgjFVktXVFKcrYj-fx1sAt2nIrv6bsHBtKLHxA&nostub=1
+#EXTINF:0 tvg-id="ch1001" tvg-name="Yosso TV C-Inquest" tvg-logo="https://rus.hls.gd/images/chIcons/1001.png" tvg-rec="3", Yosso TV C-Inquest
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1001/mono.m3u8?token=skynex.v2_fe58FQYyIHGYxvI2XD9PiVnzksRZ8gDb7DwnNq53buG1477kqQCmCRcVe33PwtbBqm_Q086JEA&nostub=1
+#EXTINF:0 tvg-id="ch1002" tvg-name="Yosso TV C-Comedy" tvg-logo="https://rus.hls.gd/images/chIcons/1002.png" tvg-rec="3", Yosso TV C-Comedy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1002/mono.m3u8?token=skynex.v2_rLMzXPs-cqA6So81TwqOzEHMPedwi60v2V_Mnyx0lFql-Z4Ke8VFWDqS92wHpeVn_1WJoGjOpA&nostub=1
+#EXTINF:0 tvg-id="ch1575" tvg-name="Yosso TV C-History HD" tvg-logo="https://rus.hls.gd/images/chIcons/1575.png" tvg-rec="3", Yosso TV C-History HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1575/mono.m3u8?token=skynex.v2_VTWtCJ-uRrP7K4oRkVpR2t6kRzgIQLCx9fy9781IO0KE0vpQCcnpPjNqDQ2ggGZnT8HtZ-nE3w&nostub=1
+#EXTINF:0 tvg-id="ch394" tvg-name="Yosso TV C-Holiday" tvg-logo="https://rus.hls.gd/images/chIcons/394.png" tvg-rec="3", Yosso TV C-Holiday
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch394/mono.m3u8?token=skynex.v2_MqIcJ727okePjOCza2LxSFvXhc9mvTdWsq9H4vZPGRsfFH9GlXLY7BMMD8Qpu8m10MVdro6L&nostub=1
+#EXTINF:0 tvg-id="ch1556" tvg-name="Magic Action" tvg-logo="https://rus.hls.gd/images/chIcons/1556.png" tvg-rec="3", Magic Action
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1556/mono.m3u8?token=skynex.v2_V_g-dAJa7ZXIQXWdHhwekXR8oRD7dJQrqjaUT6vO15UgNSFOJb3i1w7ArNhtrOpLghEqLMyGEQ&nostub=1
+#EXTINF:0 tvg-id="ch2203" tvg-name="Magic Adventure" tvg-logo="https://rus.hls.gd/images/chIcons/2203.png" tvg-rec="3", Magic Adventure
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2203/mono.m3u8?token=skynex.v2_OnrVWY32tLl6teBLS6Pb2dHXESCA7U6YhirYPga6qL1oY5p5XHTRwRlanpuJSs33ScyoeA6PAg&nostub=1
+#EXTINF:0 tvg-id="ch1557" tvg-name="Magic Comedy" tvg-logo="https://rus.hls.gd/images/chIcons/1557.png" tvg-rec="3", Magic Comedy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1557/mono.m3u8?token=skynex.v2_SLpPW-M2LXQg_jLagO8tyzC2paVylJRKvR-s_xrNq7qiCq8JYFqHxkcJDSuqhL8-N2vcpCF5Ig&nostub=1
+#EXTINF:0 tvg-id="ch1559" tvg-name="Magic Galaxy" tvg-logo="https://rus.hls.gd/images/chIcons/1559.png" tvg-rec="3", Magic Galaxy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1559/mono.m3u8?token=skynex.v2_gfhAo7-kIFwhenRC-UROw4bVZBTe4fSxOBtbk7fQk2up0VgJxdfrQd-uC95SPIwvHFLWn1tHvw&nostub=1
+#EXTINF:0 tvg-id="ch1560" tvg-name="Magic Horror" tvg-logo="https://rus.hls.gd/images/chIcons/1560.png" tvg-rec="3", Magic Horror
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1560/mono.m3u8?token=skynex.v2_fob96sbO7r0kdgNmzi7OiVDnV2xJdrcJVMtEWuS4TSEkRIY74glTIH9yeOa7mamktrGDRNklKA&nostub=1
+#EXTINF:0 tvg-id="ch992" tvg-name="Magic Russian" tvg-logo="https://rus.hls.gd/images/chIcons/992.png" tvg-rec="3", Magic Russian
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch992/mono.m3u8?token=skynex.v2_gRpqTSNKmgtLkzlhggCb631xLbFBAih9OLO27loZdlBDl7c3HaU7gg28V2a50pwPtq7Jo__T&nostub=1
+#EXTINF:0 tvg-id="ch1561" tvg-name="Magic Karate" tvg-logo="https://rus.hls.gd/images/chIcons/1561.png" tvg-rec="3", Magic Karate
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1561/mono.m3u8?token=skynex.v2_55wcJDUMgS-S0eZkrYUVXP_TaumbZY_B5HmA7wh03ORphnDCs2dK-nIjlSFTftNjPJVFmHblhA&nostub=1
+#EXTINF:0 tvg-id="ch1562" tvg-name="Magic Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/1562.png" tvg-rec="3", Magic Thriller
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1562/mono.m3u8?token=skynex.v2_x0PrhvA111nPiHTuS7gy0abUWYpDAqVwDAVNzlN5_ag3R2UeSi6V9RLE2hEZJn3f4Dg3Et8THQ&nostub=1
+#EXTINF:0 tvg-id="ch1563" tvg-name="Magic VHS" tvg-logo="https://rus.hls.gd/images/chIcons/1563.png" tvg-rec="3", Magic VHS
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1563/mono.m3u8?token=skynex.v2_pN0EH2LpAgCjlyk2iQkyeALmHg-EAyQBkKvaZrw2SKorMWL8xVY9qeE42_aZmAK0phQ56LxhKA&nostub=1
+#EXTINF:0 tvg-id="ch1581" tvg-name="Magic Love" tvg-logo="https://rus.hls.gd/images/chIcons/1581.png" tvg-rec="3", Magic Love
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1581/mono.m3u8?token=skynex.v2_VlUUe0TsQI4sWxTaZiCHm08SunYI1qTRV1KJx1PraYpUUfPjwF2rzhr6vklGUtxqby-jBdrHFA&nostub=1
+#EXTINF:0 tvg-id="ch1582" tvg-name="Magic Family" tvg-logo="https://rus.hls.gd/images/chIcons/1582.png" tvg-rec="3", Magic Family
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1582/mono.m3u8?token=skynex.v2_WMqgP93gcOXTTQj6j0jBh7pHsqrBhqVknwGKVW3keYYPx2ccvR48GoiqeCDDN-2I-cBpLytehA&nostub=1
+#EXTINF:0 tvg-id="ch3223" tvg-name="Magic Premiere" tvg-logo="https://rus.hls.gd/images/chIcons/3223.png" tvg-rec="3", Magic Premiere
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3223/mono.m3u8?token=skynex.v2_aTUCvnrrGDg-Fnjz2HgnPvwDR6hjaME5MUNv1sWZACZsUp1_SaJ9NofXj9qHZ7Zj5_hkGDKHGQ&nostub=1
+#EXTINF:0 tvg-id="ch1721" tvg-name="Fresh Adventure" tvg-logo="https://rus.hls.gd/images/chIcons/1721.png" tvg-rec="3", Fresh Adventure
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1721/mono.m3u8?token=skynex.v2__YUacOWWMp0217OluHH8oP3Z-AyWMcArQWKncRa07-aT6KLekPN1jwWV9Izjxb8DnyaFHus6lA&nostub=1
+#EXTINF:0 tvg-id="ch1722" tvg-name="Fresh Cinema" tvg-logo="https://rus.hls.gd/images/chIcons/1722.png" tvg-rec="3", Fresh Cinema
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1722/mono.m3u8?token=skynex.v2_d4JbzeyUEYxjY6f4KyfaCLBauLrMKVITSjoycOUNEONphk6GCutB-aQpxnfMbW7jAwJqmB_0UA&nostub=1
+#EXTINF:0 tvg-id="ch1723" tvg-name="Fresh Comedy" tvg-logo="https://rus.hls.gd/images/chIcons/1723.png" tvg-rec="3", Fresh Comedy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1723/mono.m3u8?token=skynex.v2_IE6bFCHAbdrPWdg6XIBM_DidFf7fjgfrsZ6eVpQ6fuZfIT8eTTlPvYZCmhl3DN4FJajAA01EWA&nostub=1
+#EXTINF:0 tvg-id="ch1724" tvg-name="Fresh Family" tvg-logo="https://rus.hls.gd/images/chIcons/1724.png" tvg-rec="3", Fresh Family
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1724/mono.m3u8?token=skynex.v2_VAD4Hb0FShjkrkpQFBz0_6uJxc0CD3_46NA9ptIi2_SCzZSOf6wuSVIYplL6wnciQpu41AVARA&nostub=1
+#EXTINF:0 tvg-id="ch1725" tvg-name="Fresh Fantastic" tvg-logo="https://rus.hls.gd/images/chIcons/1725.png" tvg-rec="3", Fresh Fantastic
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1725/mono.m3u8?token=skynex.v2_6wUWQ7s_JTESwM1IrV_LhyCgXtoy2Z_p_9AyD8wHcnMrr6FxFjjUxNJhzcNwa9gO7G5jQJAMoA&nostub=1
+#EXTINF:0 tvg-id="ch1726" tvg-name="Fresh Horror" tvg-logo="https://rus.hls.gd/images/chIcons/1726.png" tvg-rec="3", Fresh Horror
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1726/mono.m3u8?token=skynex.v2_7qXT2P3QUvXaGZI0eUb9PnEjTUS7lMfendhbbEq6lHNKu-MY2lJP66AsKORYJyRBF-UG4iY3Zw&nostub=1
+#EXTINF:0 tvg-id="ch1727" tvg-name="Fresh Premiere" tvg-logo="https://rus.hls.gd/images/chIcons/1727.png" tvg-rec="3", Fresh Premiere
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1727/mono.m3u8?token=skynex.v2_moN0zdv0eosaxZphCDR2V6862zwWIYX9pEmKIhUbJctZhNfT88wDL_H9ZQteuwt1DW8eDYR4GA&nostub=1
+#EXTINF:0 tvg-id="ch1728" tvg-name="Fresh Rating" tvg-logo="https://rus.hls.gd/images/chIcons/1728.png" tvg-rec="3", Fresh Rating
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1728/mono.m3u8?token=skynex.v2_4WQlphc-zw1ZGsFfHOgbvLFPC4Xfh6h02UR_J2xiKU1A-kiGL2TxrIN-I1TmE87NfAzaYfe2-w&nostub=1
+#EXTINF:0 tvg-id="ch1729" tvg-name="Fresh Romantic" tvg-logo="https://rus.hls.gd/images/chIcons/1729.png" tvg-rec="3", Fresh Romantic
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1729/mono.m3u8?token=skynex.v2_fhWNqxyT8ZhpvjocqE5ixgnTptM2JitL1rtdeb4ITKaYQ4ZvQJk2BrJl45uv8vMvTUbeWL2K_Q&nostub=1
+#EXTINF:0 tvg-id="ch1730" tvg-name="Fresh Russian" tvg-logo="https://rus.hls.gd/images/chIcons/1730.png" tvg-rec="3", Fresh Russian
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1730/mono.m3u8?token=skynex.v2_4qA_7j1yz4bZgPZV1ZMQOFwnl4P7B2Xt3AT8ZmmS7UiNpNKnvSWGYkaJWLBOtt4uPhZfJhlLvg&nostub=1
+#EXTINF:0 tvg-id="ch1731" tvg-name="Fresh Series" tvg-logo="https://rus.hls.gd/images/chIcons/1731.png" tvg-rec="3", Fresh Series
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1731/mono.m3u8?token=skynex.v2_eCuCsoaqFKMlXEz7gPCUgaKvJw0oOddPmr3LKNluZhQQjfwzQt8RZlTUjGlEJ9UJYZMK-uvTnA&nostub=1
+#EXTINF:0 tvg-id="ch1732" tvg-name="Fresh Soviet" tvg-logo="https://rus.hls.gd/images/chIcons/1732.png" tvg-rec="3", Fresh Soviet
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1732/mono.m3u8?token=skynex.v2_mBUvBfSzXTUSG6bMpOIBThf2fW-SE4mpT-Sftr1-Wnf-0Vs6NoBJFoBwlzhj6or_hZOJWUQyow&nostub=1
+#EXTINF:0 tvg-id="ch1733" tvg-name="Fresh Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/1733.png" tvg-rec="3", Fresh Thriller
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1733/mono.m3u8?token=skynex.v2_vTu6cj41M7Ah8oEAbGDN0ptTTC_-mzfGmBt2DckJWpghIpfofpxiZYAiDaIxt4RtVDK-wF7Hgw&nostub=1
+#EXTINF:0 tvg-id="ch1734" tvg-name="Fresh Vhs" tvg-logo="https://rus.hls.gd/images/chIcons/1734.png" tvg-rec="3", Fresh Vhs
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1734/mono.m3u8?token=skynex.v2_swrEhOMe-yIdrmJTnk_IbzQkfnuoN9lB7XU25rfZSyi3muZGCq0goxB8gNbBFqlePGMaVhY74w&nostub=1
+#EXTINF:0 tvg-id="ch1741" tvg-name="Liberty DC FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1741.png" tvg-rec="3", Liberty DC FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1741/mono.m3u8?token=skynex.v2_qEkZDLRwrnuRVuO4W4ONWlFhIIMRkoqPmcmW4wsTdhr7JcLOMQw_pqCAHe8S_iWFzHA0uAaczQ&nostub=1
+#EXTINF:0 tvg-id="ch1745" tvg-name="Liberty Короткометражный FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1745.png" tvg-rec="3", Liberty Короткометражный FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1745/mono.m3u8?token=skynex.v2_w2UanYrosNXbooig_oZx9B4908h3Sid3ilwsWNg47lKdX9RYo3Kr3CXUcQqqTw3ZmcHUrhd82Q&nostub=1
+#EXTINF:0 tvg-id="ch1748" tvg-name="Liberty Мелодрамы FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1748.png" tvg-rec="3", Liberty Мелодрамы FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1748/mono.m3u8?token=skynex.v2_yEEr5bKetkqneY0XoB_G1G7Wbk22IZF4eAIssmtwH6W9KCtTu_VUtNvb2iEPiTorcxyb2DUllA&nostub=1
+#EXTINF:0 tvg-id="ch1749" tvg-name="Liberty Боевики FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1749.png" tvg-rec="3", Liberty Боевики FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1749/mono.m3u8?token=skynex.v2_D-3chA81erNG6Oc_GXx7kbFFDzUAEb0wESllZi9fmM7MYGRHBtjWzgxRXQTEMwXm_mwIQpkTpA&nostub=1
+#EXTINF:0 tvg-id="ch1752" tvg-name="Liberty Сваты FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1752.png" tvg-rec="3", Liberty Сваты FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1752/mono.m3u8?token=skynex.v2_sQf3hxnimqeMfaTv-qZVJ2XD8CXikUpy8X_A6x8lJ-NjELi382PbrTXc3g22zEvZ0FckM9aWiw&nostub=1
+#EXTINF:0 tvg-id="ch1754" tvg-name="Liberty Комедии FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1754.png" tvg-rec="3", Liberty Комедии FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1754/mono.m3u8?token=skynex.v2_hxmvxl9iiWWLdW79iDkgZPyPnaFxWXCJ_r26FLkMUDVrcv8lmdqBwesOmnGaPCi8oNRPanLZAw&nostub=1
+#EXTINF:0 tvg-id="ch1755" tvg-name="Liberty Сериалы FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1755.png" tvg-rec="3", Liberty Сериалы FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1755/mono.m3u8?token=skynex.v2_6dwueCKUMu7n1zIC7WUHtljIJs2HRcKWK5_Iqk22GP-8_a6O3bQSHek11w_ktjGtwHkG1ya8gA&nostub=1
+#EXTINF:0 tvg-id="ch1760" tvg-name="Liberty Занавес FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1760.png" tvg-rec="3", Liberty Занавес FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1760/mono.m3u8?token=skynex.v2_jJJMxz8gx9P1mS1GIFlExm1hppyzcQY5ELbQEyGwL4auVTa9CXjdS4G1-7RRHxJEFCQMYra6BA&nostub=1
+#EXTINF:0 tvg-id="ch1761" tvg-name="Liberty Аниме FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1761.png" tvg-rec="3", Liberty Аниме FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1761/mono.m3u8?token=skynex.v2_Ssu7E1WuudZlyCN0IwVN1IrTsdY7Y_kwA5dCokh6YBbuOwC1Nn5sZK3d0imvIu-WAqdFX1LUlQ&nostub=1
+#EXTINF:0 tvg-id="ch1762" tvg-name="Liberty Шоу FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1762.png" tvg-rec="3", Liberty Шоу FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1762/mono.m3u8?token=skynex.v2_bAcpqHy6wNsdMAqCzv03ydvfMb4f51HNE5PhaRnBoZPcSDd7XA-UyAwQXVlbfOa7Kyo3tyQDdQ&nostub=1
+#EXTINF:0 tvg-id="ch1574" tvg-name="Liberty Fan FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1574.png" tvg-rec="3", Liberty Fan FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1574/mono.m3u8?token=skynex.v2_tvoLp1SXlxDB6L2l36U6LK7A9ANfpuNBsQROjWSWge3oUSLotRX6It32TPGv-vheNGwT-aIuog&nostub=1
+#EXTINF:0 tvg-id="ch1744" tvg-name="Liberty Marvel FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1744.png" tvg-rec="3", Liberty Marvel FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1744/mono.m3u8?token=skynex.v2_fKasU5wnQhmMLHcDs2M9hvi9isnV0ih_CN9HEdz-2oIigtrkY-gr3LRPqT_7tv2T5D86fb1qwg&nostub=1
+#EXTINF:0 tvg-id="ch2341" tvg-name="Liberty Plankton FHD" tvg-logo="https://rus.hls.gd/images/chIcons/2341.png" tvg-rec="3", Liberty Plankton FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2341/mono.m3u8?token=skynex.v2_IS6_HV9cePtnwzX-wrSGA4hJKZyi5U_ZQ0JC5yrMF5bNAnHfR8O7g8BE3Qyvkvn7c4lxPlobeA&nostub=1
+#EXTINF:0 tvg-id="ch1753" tvg-name="Liberty South Park FHD" tvg-logo="https://rus.hls.gd/images/chIcons/1753.png" tvg-rec="3", Liberty South Park FHD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1753/mono.m3u8?token=skynex.v2_TvaNrE82FD5C7Xifurun4DBfgqElKl8-j_ylCHB_X03xjA7ZOOJxjRaKGabi_8Nx5sebtJ8N2A&nostub=1
+#EXTINF:0 tvg-id="ch1978" tvg-name="Sky High Archive HD" tvg-logo="https://rus.hls.gd/images/chIcons/1978.png" tvg-rec="3", Sky High Archive HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1978/mono.m3u8?token=skynex.v2_-n9dOuCkpBt3n66yPRIDt2ae-ZkOaWMc0nwJtcbP5sU48ZuewHf24thOIRmHLEU2YI3NroEw8Q&nostub=1
+#EXTINF:0 tvg-id="ch1975" tvg-name="Sky High Civil S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1975.png" tvg-rec="3", Sky High Civil S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1975/mono.m3u8?token=skynex.v2_Am9GjbHer9qeTHAi9h04hsTQCtiSqWHaoH2c2Rmd1p3iCRgKqSRIWMC6eW2186VHAJWbw3cc0g&nostub=1
+#EXTINF:0 tvg-id="ch1961" tvg-name="Sky High Undead HD" tvg-logo="https://rus.hls.gd/images/chIcons/1961.png" tvg-rec="3", Sky High Undead HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1961/mono.m3u8?token=skynex.v2_gydfWyEe8PxlCqPJdJuWNVKUqh9HY15ALLlt-iCpsV7qPia4J-nXjz6fciEb-99r219xKqZHng&nostub=1
+#EXTINF:0 tvg-id="ch1962" tvg-name="Sky High  Fear VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/1962.png" tvg-rec="3", Sky High  Fear VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1962/mono.m3u8?token=skynex.v2_W0pqO8hSEeTHTnTapwUlP_sqDe-IQ3ILAYu1KF915Yfm_zKQM94GsxfjgnlJ72YHPpyblW4FwA&nostub=1
+#EXTINF:0 tvg-id="ch1963" tvg-name="Sky High Strike VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/1963.png" tvg-rec="3", Sky High Strike VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1963/mono.m3u8?token=skynex.v2_6J8nWKuEFziYDuiAGAWVr9s7ijMSguMzFul1zL7c0tdUBL7Nw4cl39iIPHNtahuFU8jarj3ZHg&nostub=1
+#EXTINF:0 tvg-id="ch1960" tvg-name="Sky High Neon VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/1960.png" tvg-rec="3", Sky High Neon VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1960/mono.m3u8?token=skynex.v2_75etctE1zkeYrDHbo-icsqZrSf5-UuTgJiuyJAFWu8wkUOLyJvA9NZvkkZWAZRohzidYJOYV2w&nostub=1
+#EXTINF:0 tvg-id="ch1964" tvg-name="Sky High Dust S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1964.png" tvg-rec="3", Sky High Dust S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1964/mono.m3u8?token=skynex.v2_lsA3b7r1uV5C1qdnvmDO2d6gZgBFnx0preLu75OcHII6anPzXsDxZ8y_AxQbBolQA4vpsMgknQ&nostub=1
+#EXTINF:0 tvg-id="ch1965" tvg-name="Sky High Beyond S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1965.png" tvg-rec="3", Sky High Beyond S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1965/mono.m3u8?token=skynex.v2_xxUW2BY98EojgVg1XVc42r27tOB41uAejaagV9OfO3zWJowYk2eDSvVZ5odx1c6N1x67Ckua6w&nostub=1
+#EXTINF:0 tvg-id="ch1966" tvg-name="Sky High Redroom HD" tvg-logo="https://rus.hls.gd/images/chIcons/1966.png" tvg-rec="3", Sky High Redroom HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1966/mono.m3u8?token=skynex.v2_ePw9l_mnFSLFKxndYUzE9dn61vcFMAOho4ZrSAMIZUMxtE1I-xXxIzbYrwJRto_UePqrl3Dm7Q&nostub=1
+#EXTINF:0 tvg-id="ch1967" tvg-name="Sky High Brick S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1967.png" tvg-rec="3", Sky High Brick S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1967/mono.m3u8?token=skynex.v2_HgzPPc-JDKoIcRbnPRFJwEtUxfi1qHUKg2hnUzH4ClzgYCvR0vX7wjZnjTkvFXerhhpS7pquEg&nostub=1
+#EXTINF:0 tvg-id="ch1969" tvg-name="Sky High Firezone HD" tvg-logo="https://rus.hls.gd/images/chIcons/1969.png" tvg-rec="3", Sky High Firezone HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1969/mono.m3u8?token=skynex.v2_lW6jVUGC0PdstCHqKjSBGjLCRQMmgBAQkUvKHZtLcUEfltjjuIn2O6-42Mcnrn3EFr2xCL5iRQ&nostub=1
+#EXTINF:0 tvg-id="ch1970" tvg-name="Sky High Scream HD" tvg-logo="https://rus.hls.gd/images/chIcons/1970.png" tvg-rec="3", Sky High Scream HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1970/mono.m3u8?token=skynex.v2_SVmTJkizdAYbqXirZBUiWcDCIem3MLZtYKHIldnXVS-XzUdkbbNVDkBD84VgCWISzGRe9_Gw_w&nostub=1
+#EXTINF:0 tvg-id="ch1973" tvg-name="Sky High Gunrush HD" tvg-logo="https://rus.hls.gd/images/chIcons/1973.png" tvg-rec="3", Sky High Gunrush HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1973/mono.m3u8?token=skynex.v2_NL2dSPToHvMu1UgIOussWPH2Kvw2Gk3OL2SKowvYEWuuiU_0ulPKjh7ZlDvkAXSw7W1nP7krmQ&nostub=1
+#EXTINF:0 tvg-id="ch1976" tvg-name="Sky High Quant S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1976.png" tvg-rec="3", Sky High Quant S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1976/mono.m3u8?token=skynex.v2_td37q_6DCCnyRxS5_fuEgD8USRIvB6a305VIRw_E-ravRTf2F5AnvZkGWlRGOd0Tlg-2bB8QUw&nostub=1
+#EXTINF:0 tvg-id="ch1985" tvg-name="Sky High Tanos S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1985.png" tvg-rec="3", Sky High Tanos S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1985/mono.m3u8?token=skynex.v2_xoeO3-W62kmrjq-P4vFP6thDPa3YSkF6wLsjpaNYJBW58kUlG5LZwMILDgtuS0I4N8udvtmMoA&nostub=1
+#EXTINF:0 tvg-id="ch1958" tvg-name="Sky High BAT S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1958.png" tvg-rec="3", Sky High BAT S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1958/mono.m3u8?token=skynex.v2_aGfx1bkDu84MCldNGKTAYfPMmATPnPi4hTO7s6lioMzS4Bi0JuCV3HOKi7u5in30BU6ZQa1AuA&nostub=1
+#EXTINF:0 tvg-id="ch1986" tvg-name="Sky High Future HD" tvg-logo="https://rus.hls.gd/images/chIcons/1986.png" tvg-rec="3", Sky High Future HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1986/mono.m3u8?token=skynex.v2_TebhkM0hNhRpfuLNQ0ujZDw594Lmt6pqZcfC8W-NW-KS2f-Q7D9tATR6_3ALYjxM47xvDKiLEw&nostub=1
+#EXTINF:0 tvg-id="ch1981" tvg-name="Sky High Trace S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1981.png" tvg-rec="3", Sky High Trace S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1981/mono.m3u8?token=skynex.v2_1viOmn6wHFCumJFNlaUnsT_tuv3lXbzNMwSQpc7tsDYEIraieHOO5HYaUblcYVlkARKcNFae9A&nostub=1
+#EXTINF:0 tvg-id="ch3707" tvg-name="Sky High Nord S HD" tvg-logo="https://rus.hls.gd/images/chIcons/3707.png" tvg-rec="3", Sky High Nord S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3707/mono.m3u8?token=skynex.v2_s0HdNTDXzghZHx5UU0o0XGZjbONuXiMjsQSJBp_fW7B6Ok6UzAhkCKGhKLY7CKbRuZx8QrqgGA&nostub=1
+#EXTINF:0 tvg-id="ch3709" tvg-name="Sky High Votum S HD" tvg-logo="https://rus.hls.gd/images/chIcons/3709.png" tvg-rec="3", Sky High Votum S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3709/mono.m3u8?token=skynex.v2_pwhIhT9p-2YQuJvF3iq8z35uS8dpPaj00jNPfVhYKL9Gvx-PQCUnpkc2EHiBDIsCd-HtojsG4Q&nostub=1
+#EXTINF:0 tvg-id="ch3710" tvg-name="Sky High Case VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/3710.png" tvg-rec="3", Sky High Case VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3710/mono.m3u8?token=skynex.v2_FrPpviS5t1mnKX9DjajD9vCGZr6jvZ1q9qAh57dCL3nHYKlQWUgu6oMWPdP5OC1sTLJO8uYKdQ&nostub=1
+#EXTINF:0 tvg-id="ch3711" tvg-name="Sky High Mono HD" tvg-logo="https://rus.hls.gd/images/chIcons/3711.png" tvg-rec="3", Sky High Mono HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3711/mono.m3u8?token=skynex.v2_eKmWIlKITBgiUzwjmY4pjVmklrmPIZ_tQhSqTK3lB32X3OD50Q-rh3TlgHXH6U9kpWeUcLrq4g&nostub=1
+#EXTINF:0 tvg-id="ch3718" tvg-name="Sky High Zippy S HD" tvg-logo="https://rus.hls.gd/images/chIcons/3718.png" tvg-rec="3", Sky High Zippy S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3718/mono.m3u8?token=skynex.v2_rVmlb24b5vXEjHtpZk6tisYUR0GQE1y9StUjCcksAil7O8CAzQk9h2bIxV6HzEJ0MdiWzKd1kQ&nostub=1
+#EXTINF:0 tvg-id="ch3719" tvg-name="Sky High Heart S HD" tvg-logo="https://rus.hls.gd/images/chIcons/3719.png" tvg-rec="3", Sky High Heart S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3719/mono.m3u8?token=skynex.v2_yiJVBHFIW1nocpLrwXgUJLHQEJB8fycg2WWr1ih_Vl0aeJUunY-nbczw5CgP_OfMqKUoSeuSOg&nostub=1
+#EXTINF:0 tvg-id="ch3720" tvg-name="Sky High Joke HD" tvg-logo="https://rus.hls.gd/images/chIcons/3720.png" tvg-rec="3", Sky High Joke HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3720/mono.m3u8?token=skynex.v2_48l7OQMFZKwf3VOJPLMqHbvb9dX2pKGMYok3QYdPOXVzNZ80NpAJeROtrRCxG7la5HiqwxOn3w&nostub=1
+#EXTINF:0 tvg-id="ch1068" tvg-name="Sky High Medy VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/1068.png" tvg-rec="3", Sky High Medy VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1068/mono.m3u8?token=skynex.v2_nxeYyctR8urDJ_JbdiYp1t6_nlHyGyQ0CL_zJeiJGD1DYMx9jCPHnBSj7NmSaXf5RILzV22WaA&nostub=1
+#EXTINF:0 tvg-id="ch1069" tvg-name="Sky High Romix HD" tvg-logo="https://rus.hls.gd/images/chIcons/1069.png" tvg-rec="3", Sky High Romix HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1069/mono.m3u8?token=skynex.v2_aqbiMsMymKz5GyXkYXXeU3_Mt6_wo2Ae5brSO9lZitO2NmW6XhwSBV37vuWeOWnrKs9F8OOWIg&nostub=1
+#EXTINF:0 tvg-id="ch1070" tvg-name="Sky High RED S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1070.png" tvg-rec="3", Sky High RED S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1070/mono.m3u8?token=skynex.v2_-2S0PUlD9OICRqLGqxvIRkYNTggIkVPnOGBtMsQnY9gKk_8k5mhcSxaeFw8f6Wat-uzMsP3Leg&nostub=1
+#EXTINF:0 tvg-id="ch1071" tvg-name="Sky High Ring S HD" tvg-logo="https://rus.hls.gd/images/chIcons/1071.png" tvg-rec="3", Sky High Ring S HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1071/mono.m3u8?token=skynex.v2_NjEnC8jOYiUgczC_hBjQy4Bam9OCns4m17pW3UXJRy-AOzc_Oc0I5iH5z3Rz5uSVOloVH0sh0Q&nostub=1
+#EXTINF:0 tvg-id="ch1072" tvg-name="Sky High Wizz VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/1072.png" tvg-rec="3", Sky High Wizz VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1072/mono.m3u8?token=skynex.v2_IDedxBfJYrE8-coixFEOeSB3vfrvRb7Y0dLvMjFSOALZK7eXpbtXSoEMJfcZOVAoidx-52LlGA&nostub=1
+#EXTINF:0 tvg-id="ch777" tvg-name="Sky High Woonder HD" tvg-logo="https://rus.hls.gd/images/chIcons/777.png" tvg-rec="3", Sky High Woonder HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch777/mono.m3u8?token=skynex.v2_5Rzw_ih4hw48lABUScRUB0HB-zJ25aQTQL8cbD_WMlIZfNcUrEtuCvkmgI22hfpoxzYHiL32&nostub=1
+#EXTINF:0 tvg-id="ch1073" tvg-name="Sky High Dragon HD" tvg-logo="https://rus.hls.gd/images/chIcons/1073.png" tvg-rec="3", Sky High Dragon HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1073/mono.m3u8?token=skynex.v2_sVTt7sKnaIL34nd_RE3vohGoco9pWSlRGuO9UwLELyLdPJj9CBlBKCu9ONF9DpXZG-TV9Ecysg&nostub=1
+#EXTINF:0 tvg-id="ch2281" tvg-name="BOX Anime HD" tvg-logo="https://rus.hls.gd/images/chIcons/2281.png" tvg-rec="3", BOX Anime HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2281/mono.m3u8?token=skynex.v2_DpN_Zgc8Dzc6AFHMqIjS4GwaUwUo_KPAOI6rJPte01mcairR2BbsKX-MjrWnd80EzsvHvo5rqg&nostub=1
+#EXTINF:0 tvg-id="ch2285" tvg-name="BOX Cyber HD" tvg-logo="https://rus.hls.gd/images/chIcons/2285.png" tvg-rec="3", BOX Cyber HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2285/mono.m3u8?token=skynex.v2_QrG2QbNhd0wLG14ks_TbtCNRt8GJiVcaJnwNAEUyE58wiejm4pejnAjUyScdHgICgIwLZgUwuw&nostub=1
+#EXTINF:0 tvg-id="ch2287" tvg-name="BOX Fantasy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2287.png" tvg-rec="3", BOX Fantasy HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2287/mono.m3u8?token=skynex.v2_nqnyZZ6E-AjhVvdqGd5Ow1ZkRYZ_Y4_glbf7AG-ElIilVYwTGZV_dcgxiWZlGJj7T812PujUIg&nostub=1
+#EXTINF:0 tvg-id="ch2290" tvg-name="BOX Gangster HD" tvg-logo="https://rus.hls.gd/images/chIcons/2290.png" tvg-rec="3", BOX Gangster HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2290/mono.m3u8?token=skynex.v2_f_C7KXcKOniqgviu6tNWxL_tkI5Sv09_GjjwryeAHza7VKEVH_UG2YoVmuA_vuKHGCL_l6Egsw&nostub=1
+#EXTINF:0 tvg-id="ch2291" tvg-name="BOX Ghost HD" tvg-logo="https://rus.hls.gd/images/chIcons/2291.png" tvg-rec="3", BOX Ghost HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2291/mono.m3u8?token=skynex.v2_stlCVXTw8KZvnfm-Ver3OqOyA0fhBptjVb6l1gUxHzDmjhzpLtsK9kFZnVDdYaZ9CGl4b_pvag&nostub=1
+#EXTINF:0 tvg-id="ch2292" tvg-name="BOX Hybrid HD" tvg-logo="https://rus.hls.gd/images/chIcons/2292.png" tvg-rec="3", BOX Hybrid HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2292/mono.m3u8?token=skynex.v2_BUqv5o2Ow8bCQDiGYK-wqxNAWvPOb9rqUGqc6BrLyGUEdCvn2NO_T-UOCr18705YvaeFyjbfxg&nostub=1
+#EXTINF:0 tvg-id="ch401" tvg-name="BOX Sitcom HD" tvg-logo="https://rus.hls.gd/images/chIcons/401.png" tvg-rec="3", BOX Sitcom HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch401/mono.m3u8?token=skynex.v2_pORw-VHVtUSD7DndwdVwYpsPi35PoOe3TYUN2CeFwWKnzpQphmzfJRb-VXN5gIQT_dK3gbrA&nostub=1
+#EXTINF:0 tvg-id="ch2301" tvg-name="BOX Serial HD" tvg-logo="https://rus.hls.gd/images/chIcons/2301.png" tvg-rec="3", BOX Serial HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2301/mono.m3u8?token=skynex.v2_2HC0sLDo4vkk3fMQcfULc2aS6kiqJz4pBINSlIHwapG3qQ8eLV18jz4axnjFnv2xLO4hiorbRg&nostub=1
+#EXTINF:0 tvg-id="ch2302" tvg-name="BOX Spy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2302.png" tvg-rec="3", BOX Spy HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2302/mono.m3u8?token=skynex.v2_91eyjXO8xuJu3NO_nGmDJunF8XmXkMcdf-j_XNf8gOzPnIWxwsfljo-4mI0mmiEWellhPCoAjA&nostub=1
+#EXTINF:0 tvg-id="ch2305" tvg-name="BOX Western HD" tvg-logo="https://rus.hls.gd/images/chIcons/2305.png" tvg-rec="3", BOX Western HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2305/mono.m3u8?token=skynex.v2_vqC_MxANKOyY3qJ2V3zOvyVKPoJdN11Ui8-t0Q3qWpO0fpyfFNwLiyCxiLZhowxXRFoN-1idSw&nostub=1
+#EXTINF:0 tvg-id="ch2306" tvg-name="BOX Zombie HD" tvg-logo="https://rus.hls.gd/images/chIcons/2306.png" tvg-rec="3", BOX Zombie HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2306/mono.m3u8?token=skynex.v2_QsaaptwmXFCLcVWwIVL4VMDaVtp9FscpIO_brqo9KffNLKPriR1kNODIrVgYp402RQunoot7WA&nostub=1
+#EXTINF:0 tvg-id="ch2607" tvg-name="BOX Apocalypse HD" tvg-logo="https://rus.hls.gd/images/chIcons/2607.png" tvg-rec="3", BOX Apocalypse HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2607/mono.m3u8?token=skynex.v2_7ea2FWv_OSs2uYdfhD8tL5Rs7N1PngiQHjL007NqaPepj2KnikD_VabbrYd4vIY1MLobtU4Zow&nostub=1
+#EXTINF:0 tvg-id="ch3056" tvg-name="BOX Franchise HD" tvg-logo="https://rus.hls.gd/images/chIcons/3056.png" tvg-rec="3", BOX Franchise HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3056/mono.m3u8?token=skynex.v2_Sc92rPBNLS3MTJ2qqTlwmgBBOzmnMiCAs7fRVJe53MI4LTYtJFZtDroxT44maWmIS5n9-HtpNw&nostub=1
+#EXTINF:0 tvg-id="ch2591" tvg-name="VeleS 60FPS" tvg-logo="https://rus.hls.gd/images/chIcons/2591.png" tvg-rec="3", VeleS 60FPS
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2591/mono.m3u8?token=skynex.v2_olZkwfYfaUOdrxAlMZcMeBnKRzVzU4UMZzwfaMptmbzMpaXyiIVURQs0o2I14hBAMPa30KB7Wg&nostub=1
+#EXTINF:0 tvg-id="ch2592" tvg-name="VeleS Кинопленка" tvg-logo="https://rus.hls.gd/images/chIcons/2592.png" tvg-rec="3", VeleS Кинопленка
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2592/mono.m3u8?token=skynex.v2_b8AcXZRdDSrjjMUgQ5GeJcs-pp5F23EbSOXrdR-cKldzWo0kq1MsEYDlVSo-Y8h_WuIx3Ku59w&nostub=1
+#EXTINF:0 tvg-id="ch2594" tvg-name="VeleS Киносерия" tvg-logo="https://rus.hls.gd/images/chIcons/2594.png" tvg-rec="3", VeleS Киносерия
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2594/mono.m3u8?token=skynex.v2_-1Vz4lu7N1H5DIw0rDKp6x-2Yb2Ovo_2gvcSZq0hEVNrGpzjEfF0KqITVgVHlYr9z04ODsVKTQ&nostub=1
+#EXTINF:0 tvg-id="ch2595" tvg-name="VeleS Premiere" tvg-logo="https://rus.hls.gd/images/chIcons/2595.png" tvg-rec="3", VeleS Premiere
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2595/mono.m3u8?token=skynex.v2_8VWm-PRb5LXcPMvCdu5QwskkpVSryHulDbS2PIDRdK7SSHai68HtrbR_YWTdzjdkVFd9JoCNKg&nostub=1
+#EXTINF:0 tvg-id="ch2596" tvg-name="VeleS Страшное" tvg-logo="https://rus.hls.gd/images/chIcons/2596.png" tvg-rec="3", VeleS Страшное
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2596/mono.m3u8?token=skynex.v2_-ByS13Lwls5BEZ_rG46npfVpDeQRgclDLaJtO3rb13sGzrJaxoFNugxRsB2YpxLbWPZ8oFMuFw&nostub=1
+#EXTINF:0 tvg-id="ch2597" tvg-name="VeleS СССР" tvg-logo="https://rus.hls.gd/images/chIcons/2597.png" tvg-rec="3", VeleS СССР
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2597/mono.m3u8?token=skynex.v2_EXY3XhmAYxgM2qDP2bCODdpNDAwyKRPDJQlfSGYwCvodBLfI9UjOLunUciadQ6-Vc-iYuXVOJA&nostub=1
+#EXTINF:0 tvg-id="ch2598" tvg-name="VeleS Movie Hits" tvg-logo="https://rus.hls.gd/images/chIcons/2598.png" tvg-rec="3", VeleS Movie Hits
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2598/mono.m3u8?token=skynex.v2_HgnlLpLZWO7EuBjlrJaytb5yk6iKjFXaClmo2EfIHDZDBhwpgBZCVnRBDvy7Eefo6I6OCrtBAg&nostub=1
+#EXTINF:0 tvg-id="ch2696" tvg-name="Veles Криминальный" tvg-logo="https://rus.hls.gd/images/chIcons/2696.png" tvg-rec="3", Veles Криминальный
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2696/mono.m3u8?token=skynex.v2_3tLqEQlHxbApM77GFvWbjYX_aPoeP5DnO2_Ys3x6fl7iwzAe86aiKESM5m1mWQ76e5QtHzj_cQ&nostub=1
+#EXTINF:0 tvg-id="ch2314" tvg-name="VeleS Комедия" tvg-logo="https://rus.hls.gd/images/chIcons/2314.png" tvg-rec="3", VeleS Комедия
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2314/mono.m3u8?token=skynex.v2_qWjR0hxHc0CHR_TBI1RUGw-wGHC0blVN_Wf_cuIAQ53IJ4H7Fcc-sdoYAC2Irsr8XbGlKZ4UNg&nostub=1
+#EXTINF:0 tvg-id="ch2612" tvg-name="VeleS Аниме" tvg-logo="https://rus.hls.gd/images/chIcons/2612.png" tvg-rec="3", VeleS Аниме
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2612/mono.m3u8?token=skynex.v2_G7XTEQbd4VL5HQS_bgRvbF9YF7Cjb3JQBvODnxeJO95pXozs9zqqwguAy1o5H1qTrafZR2pNvQ&nostub=1
+#EXTINF:0 tvg-id="ch2799" tvg-name="VeleS Триллер" tvg-logo="https://rus.hls.gd/images/chIcons/2799.png" tvg-rec="3", VeleS Триллер
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2799/mono.m3u8?token=skynex.v2_RQMObDO7cPxrMNHz5JlBMoslRD7yeSrPguvZfXwAZ7UinUdude30zZ7Hctf9e-pleBnjP9jVUw&nostub=1
+#EXTINF:0 tvg-id="ch2800" tvg-name="VeleS Семейный" tvg-logo="https://rus.hls.gd/images/chIcons/2800.png" tvg-rec="3", VeleS Семейный
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2800/mono.m3u8?token=skynex.v2_nkiOLQ8XEEPoQByzAP0oyLFxXf8W9Cs0NuIp574YYyAsDWsaW7ahM5lwnNKSAMGCG_iJVwRdag&nostub=1
+#EXTINF:0 tvg-id="ch2801" tvg-name="VeleS Вестерн" tvg-logo="https://rus.hls.gd/images/chIcons/2801.png" tvg-rec="3", VeleS Вестерн
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2801/mono.m3u8?token=skynex.v2_jHBTbO9Lt3lcT5lRlALjcDuLWvBSx14Nh8BzTgpVge7myH5BZ76dNe4VWLdXQ_fgCVp33FD3Hg&nostub=1
+#EXTINF:0 tvg-id="ch2802" tvg-name="VeleS Наше Кино" tvg-logo="https://rus.hls.gd/images/chIcons/2802.png" tvg-rec="3", VeleS Наше Кино
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2802/mono.m3u8?token=skynex.v2_S79QQZBaKaTOcFSCC_xmPY6AiC4N_bm93n8oTmVbs8FitdfvySIs9-dYp4R_RplLizDQaFhIKw&nostub=1
+#EXTINF:0 tvg-id="ch3176" tvg-name="VeleS Гоблин" tvg-logo="https://rus.hls.gd/images/chIcons/3176.png" tvg-rec="3", VeleS Гоблин
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3176/mono.m3u8?token=skynex.v2_14GG_Pu4E6B9o_ghA_MnrUIt_8F7WG0PpWoiu_6k3tw-wv3xDHSA_BGxSG9y_zW5gah0hcgRVQ&nostub=1
+#EXTINF:0 tvg-id="ch3078" tvg-name="Veles Новогодний" tvg-logo="https://rus.hls.gd/images/chIcons/3078.png" tvg-rec="3", Veles Новогодний
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3078/mono.m3u8?token=skynex.v2_0xySB45jfOa9RBMnxS-TrYPhLDASYb9moRTkXXqaVbtTiXITkdqefBjsSD2oA_jhVTV1geczXw&nostub=1
+#EXTINF:0 tvg-id="ch2510" tvg-name="Oasis Action" tvg-logo="https://rus.hls.gd/images/chIcons/2510.png" tvg-rec="3", Oasis Action
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2510/mono.m3u8?token=skynex.v2_RpAHwZzPaBiEWcP7lS7YXMLFXlQqXR5ZZRLxWiiMqn4lV_W5K-xeSULDCSFI9WTyNZooT6IAnQ&nostub=1
+#EXTINF:0 tvg-id="ch2919" tvg-name="Oasis Чечня и Афган" tvg-logo="https://rus.hls.gd/images/chIcons/2919.png" tvg-rec="3", Oasis Чечня и Афган
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2919/mono.m3u8?token=skynex.v2_Hyw-EujXzt40tZhY1I9l3sUJYvCvAPj8HK1q6We5PKjBDpVHrAPscLaY-sB2lcwOWmywFSvsgQ&nostub=1
+#EXTINF:0 tvg-id="ch2653" tvg-name="Oasis Comedy" tvg-logo="https://rus.hls.gd/images/chIcons/2653.png" tvg-rec="3", Oasis Comedy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2653/mono.m3u8?token=skynex.v2_i1w-NR1qLmQkAVRP_r36McpJTmMJGCntuIJmaYaOaEyHSDwn9O-gMQIzN-erDhR3gMkN9tyyqQ&nostub=1
+#EXTINF:0 tvg-id="ch2688" tvg-name="Oasis Soviet Comedy" tvg-logo="https://rus.hls.gd/images/chIcons/2688.png" tvg-rec="3", Oasis Soviet Comedy
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2688/mono.m3u8?token=skynex.v2_WQq471atHErCWbJzJ-_IJb-iFRhm2nJhEhJd3ZJulX-eL-VAPMRaNbE_F3Xven0X_HMdyA3n0g&nostub=1
+#EXTINF:0 tvg-id="ch2649" tvg-name="Oasis Anime" tvg-logo="https://rus.hls.gd/images/chIcons/2649.png" tvg-rec="3", Oasis Anime
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2649/mono.m3u8?token=skynex.v2_3yqcmlWal4Nl7NzOUTsF26Dxle63JBZlM7s3pvpSY0hwBH99A7MwkgE1VkvpdIGuImxb0qfFEg&nostub=1
+#EXTINF:0 tvg-id="ch2657" tvg-name="Oasis Detective" tvg-logo="https://rus.hls.gd/images/chIcons/2657.png" tvg-rec="3", Oasis Detective
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2657/mono.m3u8?token=skynex.v2_0vLe5_ej1k40iME-vFMHFOXnZWjZuYfiNdH4MXdUTaT19-4M_9sFDI12hnyJbGOhkC0fwhpRfA&nostub=1
+#EXTINF:0 tvg-id="ch2660" tvg-name="Oasis Drama" tvg-logo="https://rus.hls.gd/images/chIcons/2660.png" tvg-rec="3", Oasis Drama
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2660/mono.m3u8?token=skynex.v2_4YoUZqVsJhfGhtrthNIbdMCR3gksdttlK05mbzOgb77cc5Qw80p9TN8PNkS5dA9dEVoscOliOg&nostub=1
+#EXTINF:0 tvg-id="ch2655" tvg-name="Oasis DC" tvg-logo="https://rus.hls.gd/images/chIcons/2655.png" tvg-rec="3", Oasis DC
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2655/mono.m3u8?token=skynex.v2_DTI69RZqZKr66XwZuNcWkC-Va_ShiGNDrHP_N5k89wjA6vG4z82e11yffNZs2pq8zbx3GZiINQ&nostub=1
+#EXTINF:0 tvg-id="ch2675" tvg-name="Oasis Marvel" tvg-logo="https://rus.hls.gd/images/chIcons/2675.png" tvg-rec="3", Oasis Marvel
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2675/mono.m3u8?token=skynex.v2_KX_HQ_wW-kdnngVWU8WXR2sLZZs22eVXOmToKYF5-R8w7roFgnV1lyD9Hrc7piQWQijSrhQgiQ&nostub=1
+#EXTINF:0 tvg-id="ch2662" tvg-name="Oasis Family" tvg-logo="https://rus.hls.gd/images/chIcons/2662.png" tvg-rec="3", Oasis Family
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2662/mono.m3u8?token=skynex.v2_bXrJlmRalylz2BHfC-Og01FUFpVHr4-1vel8FeHdRbpVyXw5Iwm1nvuH1tQEoKfXnxjTDh9Hnw&nostub=1
+#EXTINF:0 tvg-id="ch2676" tvg-name="Oasis Мелодрама" tvg-logo="https://rus.hls.gd/images/chIcons/2676.png" tvg-rec="3", Oasis Мелодрама
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2676/mono.m3u8?token=skynex.v2_tCeOfQ9UXFDb0wLQ-7pnjFHgaZ_yaV3MIFKkaYyIzQiPgiARSs3Nhc1RE2Is2HwPhTsZ4Ee59g&nostub=1
+#EXTINF:0 tvg-id="ch2666" tvg-name="Oasis Horror" tvg-logo="https://rus.hls.gd/images/chIcons/2666.png" tvg-rec="3", Oasis Horror
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2666/mono.m3u8?token=skynex.v2_RB0BGDEavfWtGwFnX604dbisscEqzrozeEOG0a2sgSIAU43BOuddNsh1wydT-LMSK_3VbVcQnQ&nostub=1
+#EXTINF:0 tvg-id="ch2678" tvg-name="Oasis Old Horrors" tvg-logo="https://rus.hls.gd/images/chIcons/2678.png" tvg-rec="3", Oasis Old Horrors
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2678/mono.m3u8?token=skynex.v2_vl0s_9Gga4Pu3KeCA-zlAqi7S5NDgVm7EXJyLVIm3yRmi-2Br_bTsdONpsQiXamyDMrQBfbIeg&nostub=1
+#EXTINF:0 tvg-id="ch2654" tvg-name="Oasis Comedy Horrors" tvg-logo="https://rus.hls.gd/images/chIcons/2654.png" tvg-rec="3", Oasis Comedy Horrors
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2654/mono.m3u8?token=skynex.v2_-P_W-V2mY-1yQgLJ-9mowShgMsN2kE3UhFg_gyBaeUZNPAp2uNFhYW-pFV01eg1QJQ5ljXdhcA&nostub=1
+#EXTINF:0 tvg-id="ch2650" tvg-name="Oasis Biography" tvg-logo="https://rus.hls.gd/images/chIcons/2650.png" tvg-rec="3", Oasis Biography
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2650/mono.m3u8?token=skynex.v2_6JDZNkm5azHtPrGD3E7GwNl_7U0eP72Fq5lQGlLsCWlzV9Y1AKFdz2wJ8eroiArQubJlpOQwiA&nostub=1
+#EXTINF:0 tvg-id="ch2674" tvg-name="Oasis Mafia" tvg-logo="https://rus.hls.gd/images/chIcons/2674.png" tvg-rec="3", Oasis Mafia
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2674/mono.m3u8?token=skynex.v2_cE5pQvTJvGBYUtI-JNT3-4xkpvmNOibKD91FORZ5NtcbcaY-2hvrgcb-rFWSWBeWppJl6N2yAg&nostub=1
+#EXTINF:0 tvg-id="ch2663" tvg-name="Oasis Фантастика" tvg-logo="https://rus.hls.gd/images/chIcons/2663.png" tvg-rec="3", Oasis Фантастика
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2663/mono.m3u8?token=skynex.v2_j-L0kCdbyNjRhjsz0V5I75ZNlGscmGVhmdXkfXCsy2D1euHns0gYjowIW7NU-2J3XLrtqVVzaA&nostub=1
+#EXTINF:0 tvg-id="ch2687" tvg-name="Oasis Тайны Смолвиля" tvg-logo="https://rus.hls.gd/images/chIcons/2687.png" tvg-rec="3", Oasis Тайны Смолвиля
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2687/mono.m3u8?token=skynex.v2_rnIG8G4axidQox2BAukfBPkad9sBmRxUhQpEfCxPKTqfVXFfN2NYRk7Ynv_YYwZSx2CM9_0AHA&nostub=1
+#EXTINF:0 tvg-id="ch1442" tvg-name="Oasis Ufo And Aliens" tvg-logo="https://rus.hls.gd/images/chIcons/1442.png" tvg-rec="3", Oasis Ufo And Aliens
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1442/mono.m3u8?token=skynex.v2_Dof3yEloiceYZsRn4vKT7Lkghy4dG-RFlwhrXhNQuJlw9_pAMPWLaQxJyLazQ-wAmrNIuv4t8Q&nostub=1
+#EXTINF:0 tvg-id="ch2647" tvg-name="Oasis Alien and Predator" tvg-logo="https://rus.hls.gd/images/chIcons/2647.png" tvg-rec="3", Oasis Alien and Predator
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2647/mono.m3u8?token=skynex.v2_XMKKMh7ex9YuESnZai95ps88qnFf5xJzDj_NDTtwlW-EE-Vrwa4pJ29eZil77Yj7C0oI-E03-A&nostub=1
+#EXTINF:0 tvg-id="ch2652" tvg-name="Oasis Celentano Brando Connery" tvg-logo="https://rus.hls.gd/images/chIcons/2652.png" tvg-rec="3", Oasis Celentano Brando Connery
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2652/mono.m3u8?token=skynex.v2_XANwW06MvvxRWbokuuLKKXroy4U46r65TkjH88fu9h7ZOYBB96FyDTgIorRIQLVcwEZyEpK5Ng&nostub=1
+#EXTINF:0 tvg-id="ch2656" tvg-name="Oasis Demon Slayer and Dororo" tvg-logo="https://rus.hls.gd/images/chIcons/2656.png" tvg-rec="3", Oasis Demon Slayer and Dororo
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2656/mono.m3u8?token=skynex.v2_a1MfWdibHho1c5IJ-5zLpUhIDAEwKnH8P7KHsobrHuQx7M_8Et2GTv8g0pxKg55Ur-o3tuJa7Q&nostub=1
+#EXTINF:0 tvg-id="ch2686" tvg-name="Oasis Serkan Bolat" tvg-logo="https://rus.hls.gd/images/chIcons/2686.png" tvg-rec="3", Oasis Serkan Bolat
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2686/mono.m3u8?token=skynex.v2_1kdLWgSfElMP6vADEDKz2bAfY-KRKxRHRn3raAlZF4rAwZ2yVedan5SIqc7qNuwhCJVydoLQ_A&nostub=1
+#EXTINF:0 tvg-id="ch2677" tvg-name="Oasis Миядзаки" tvg-logo="https://rus.hls.gd/images/chIcons/2677.png" tvg-rec="3", Oasis Миядзаки
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2677/mono.m3u8?token=skynex.v2_S-BS1L-ncpYMAIuRNGYhR_F1-Vqqr4r8S2vPuLJrPp4AS6iskZ9uz7WQ40C6gt-a1SNiVtcHEA&nostub=1
+#EXTINF:0 tvg-id="ch1443" tvg-name="Oasis In English" tvg-logo="https://rus.hls.gd/images/chIcons/1443.png" tvg-rec="3", Oasis In English
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1443/mono.m3u8?token=skynex.v2_cEMApn3PFOXtVIyJeVF3-h5kXqVf7yHTJup1wouai0jmHVBpBw-09UqN6hqM1OjOFOobcE6Dxw&nostub=1
+#EXTINF:0 tvg-id="ch2682" tvg-name="Oasis RUS Драма" tvg-logo="https://rus.hls.gd/images/chIcons/2682.png" tvg-rec="3", Oasis RUS Драма
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2682/mono.m3u8?token=skynex.v2_UGamX_EtJWwehSokjJMJ5CyBZFLfmZQFC8yA1NhYGE84BIy3N9iWpQmovYXAgKW3nUV6f8wgMA&nostub=1
+#EXTINF:0 tvg-id="ch2681" tvg-name="Oasis RUS Комедии" tvg-logo="https://rus.hls.gd/images/chIcons/2681.png" tvg-rec="3", Oasis RUS Комедии
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2681/mono.m3u8?token=skynex.v2_-ASt4pR9zwmlNG1-f1NUVGl_T5I43--yf9etbfX7xILsnW1sVLyPBJ90r_fh3c3EGIWqXX63vg&nostub=1
+#EXTINF:0 tvg-id="ch2684" tvg-name="Oasis RUS Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2684.png" tvg-rec="3", Oasis RUS Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2684/mono.m3u8?token=skynex.v2_BsxPC4RqAEqblaaL8vwiUc2KlBfABvQNkRD6m3X5k2JURRCkeR9sX2imICQLPHqRCFXJOlUpww&nostub=1
+#EXTINF:0 tvg-id="ch2685" tvg-name="Oasis RUS Сериалы Драма" tvg-logo="https://rus.hls.gd/images/chIcons/2685.png" tvg-rec="3", Oasis RUS Сериалы Драма
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2685/mono.m3u8?token=skynex.v2_l0pQvzm7wuosB2RcSn7Y__cAS5lA8wxZv-FBRt7lHFTB9iEtcFJbTbPPf5rZcvavmuJyGV3RIQ&nostub=1
+#EXTINF:0 tvg-id="ch2690" tvg-name="Oasis Superheroes Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2690.png" tvg-rec="3", Oasis Superheroes Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2690/mono.m3u8?token=skynex.v2_p-QvNaQol5uUxgt_4jdJf2z_fDZvHRGuqjlcaxisVrh_EJ3Lmw4nvOIcHpBpKJPfCJOD9o4Lrg&nostub=1
+#EXTINF:0 tvg-id="ch2667" tvg-name="Oasis Корейские Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2667.png" tvg-rec="3", Oasis Корейские Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2667/mono.m3u8?token=skynex.v2_tOyn5wTUPfVbkD3qxSLgDmnE0zekM8vA8E5hwS2a8pGggC9xUMXzIKTAga5T_Q9tzJEeL4Qhxg&nostub=1
+#EXTINF:0 tvg-id="ch2669" tvg-name="Oasis Латиноамериканские Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/2669.png" tvg-rec="3", Oasis Латиноамериканские Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2669/mono.m3u8?token=skynex.v2_1YF_ssrl7u4HIJI047k_hvCNeZUE296WgKm25pVHr43uPEBX6617za613oCua4TKenqFnxzckA&nostub=1
+#EXTINF:0 tvg-id="ch2694" tvg-name="Oasis USA Series" tvg-logo="https://rus.hls.gd/images/chIcons/2694.png" tvg-rec="3", Oasis USA Series
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2694/mono.m3u8?token=skynex.v2_ud1AH2qedx2JWM4_8JCWn_6UxccPCuVPUnVyUU3HfPgwkPh3E2B4S8OgsXs5lubb9KGMBXwehA&nostub=1
+#EXTINF:0 tvg-id="ch2918" tvg-name="Oasis UK Series" tvg-logo="https://rus.hls.gd/images/chIcons/2918.png" tvg-rec="3", Oasis UK Series
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2918/mono.m3u8?token=skynex.v2_yurTWI25g-zHU8tO-ipHhCPjbCXdgsR7VmYT7ozr-6CIFo6NUPq3MKynXMJcY7dHxATV6oEyeg&nostub=1
+#EXTINF:0 tvg-id="ch2668" tvg-name="Oasis Кухня Отель" tvg-logo="https://rus.hls.gd/images/chIcons/2668.png" tvg-rec="3", Oasis Кухня Отель
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2668/mono.m3u8?token=skynex.v2_2IoSAL3TFLKfDGcG_PFUufhj0YkwpQGFs9Q0j6Uk6jPDxDbQR3CiAqWjCRqmVrfQyy8mbncs8g&nostub=1
+#EXTINF:0 tvg-id="ch2920" tvg-name="Oasis Доктор Кто" tvg-logo="https://rus.hls.gd/images/chIcons/2920.png" tvg-rec="3", Oasis Доктор Кто
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2920/mono.m3u8?token=skynex.v2_HdTTIVz5U-ITLlxc2jAz9d9TsVtYUgOK3sxzZm_JtbYE23NV30qEwleFr1SVjQF4wnmhn9vfTw&nostub=1
+#EXTINF:0 tvg-id="ch2921" tvg-name="Oasis Саша Таня" tvg-logo="https://rus.hls.gd/images/chIcons/2921.png" tvg-rec="3", Oasis Саша Таня
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2921/mono.m3u8?token=skynex.v2_1hsoxH9d5Tn-bzbiPWw382EGKCSSfN99-yvs0ExxcyAl6ZAbsNWzHhPj4gVk7pGSlCedQEQ14g&nostub=1
+#EXTINF:0 tvg-id="ch2825" tvg-name="KBC-Легендарное HD" tvg-logo="https://rus.hls.gd/images/chIcons/2825.png" tvg-rec="3", KBC-Легендарное HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2825/mono.m3u8?token=skynex.v2_ASJmdV6tKrnKtONuw48XErPUfzlLoDdeFQGLO1jOdLEe942PUYwtA20hVLmiDPTnIEWd0LpUfw&nostub=1
+#EXTINF:0 tvg-id="ch2826" tvg-name="KBC-Кошмарное HD" tvg-logo="https://rus.hls.gd/images/chIcons/2826.png" tvg-rec="3", KBC-Кошмарное HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2826/mono.m3u8?token=skynex.v2_wIn73QWTgJqaDuTp5cgDg7ztMOiGPx8UyS-o8PPS7KzBqovkmg1fbjbbn1Tt3m5YMGBukuftsg&nostub=1
+#EXTINF:0 tvg-id="ch2827" tvg-name="KBC-Видак HD" tvg-logo="https://rus.hls.gd/images/chIcons/2827.png" tvg-rec="3", KBC-Видак HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2827/mono.m3u8?token=skynex.v2_G8ZypTU81vSU9R2toJ98FDrWJdaqW0jutTnOW2x9NRCNBf52xPw8N_m5AS-W2uTKq5gqjSj_XQ&nostub=1
+#EXTINF:0 tvg-id="ch2828" tvg-name="KBC-ДрамаTic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2828.png" tvg-rec="3", KBC-ДрамаTic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2828/mono.m3u8?token=skynex.v2_vTrOuYzSYCZkt7xmbxczj6TOvsFnQ33Ji0BFSHDDMxSHKL0Vy8DRTImMNJTqtU251j41BoIEOw&nostub=1
+#EXTINF:0 tvg-id="ch2831" tvg-name="KBC-Elite comedys HD" tvg-logo="https://rus.hls.gd/images/chIcons/2831.png" tvg-rec="3", KBC-Elite comedys HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2831/mono.m3u8?token=skynex.v2_-h_k0lVdPHcqIwOjXwH3tGbFL_qvGkb_HuV9p6Myf-LHRUeo3OflRbs28BEF6B3jwudt3XlgJw&nostub=1
+#EXTINF:0 tvg-id="ch2832" tvg-name="KBC-Family Animation HD" tvg-logo="https://rus.hls.gd/images/chIcons/2832.png" tvg-rec="3", KBC-Family Animation HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2832/mono.m3u8?token=skynex.v2__M6t-Unjfc1_mzT1GKEAP1d7h23o7857PLvP3kL1-lOGu4CxzGoi64bJcYUX4u5KZCKP_p6G3w&nostub=1
+#EXTINF:0 tvg-id="ch2833" tvg-name="KBC-Russian Комедия HD" tvg-logo="https://rus.hls.gd/images/chIcons/2833.png" tvg-rec="3", KBC-Russian Комедия HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2833/mono.m3u8?token=skynex.v2_FIy1U2bG4tNRxOkbTZAmJkeiHX3yddncoXbwYQK7QOoleyR6NeVyeFIKz2KX5ddTQYLAcR2lqg&nostub=1
+#EXTINF:0 tvg-id="ch2834" tvg-name="KBC-В.О.В. HD" tvg-logo="https://rus.hls.gd/images/chIcons/2834.png" tvg-rec="3", KBC-В.О.В. HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2834/mono.m3u8?token=skynex.v2_iBaOjpSkD0zIdo1Y95oCH_Iig-_Hiu6RAhTwlfRjPse-BxyRTjp67J7hdya9DrqaJ7KZyZbmyQ&nostub=1
+#EXTINF:0 tvg-id="ch2835" tvg-name="KBC-Страна СССР HD" tvg-logo="https://rus.hls.gd/images/chIcons/2835.png" tvg-rec="3", KBC-Страна СССР HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2835/mono.m3u8?token=skynex.v2_w7nVleGPIlM30mk2tTODhNo-QwNrA0wpS7msidipp4AX9M-xsXV7Bg4-LXYs5FUgzdHXQWnKqg&nostub=1
+#EXTINF:0 tvg-id="ch2836" tvg-name="KBC-Шпионское HD" tvg-logo="https://rus.hls.gd/images/chIcons/2836.png" tvg-rec="3", KBC-Шпионское HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2836/mono.m3u8?token=skynex.v2_qB3u05z6mMA_lgiiVH8cxhP05KYx6Y4kE4gyGR8ojDf72lvf8ou58kyASmWW7hQiCB-oz1_pmg&nostub=1
+#EXTINF:0 tvg-id="ch2837" tvg-name="KBC-Comics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2837.png" tvg-rec="3", KBC-Comics HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2837/mono.m3u8?token=skynex.v2_CtzjjgobsLcV__hUjniySayy78VK9A8N0LT6zyEdmmTEdT36HsVpN-wSBd-q_WCwCO28lNXRlQ&nostub=1
+#EXTINF:0 tvg-id="ch2838" tvg-name="KBC-Аниме HD" tvg-logo="https://rus.hls.gd/images/chIcons/2838.png" tvg-rec="3", KBC-Аниме HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2838/mono.m3u8?token=skynex.v2_V_x48CvMHT0APYi0GiN14Uco-ci_Q9NvFQ8WF8itER-Lxql2nBjJyzDReIbrLyikHXmzsT1RvQ&nostub=1
+#EXTINF:0 tvg-id="ch2839" tvg-name="KBC-History HD" tvg-logo="https://rus.hls.gd/images/chIcons/2839.png" tvg-rec="3", KBC-History HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2839/mono.m3u8?token=skynex.v2_LdPnrOE0fjixVoP-lUYpoChIZv81VXixQ7iqW3waLfUgV43-79TTagDuRR9hHeWficzFlifEVA&nostub=1
+#EXTINF:0 tvg-id="ch2840" tvg-name="KBC-Fantastic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2840.png" tvg-rec="3", KBC-Fantastic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2840/mono.m3u8?token=skynex.v2_krrYFTooxMcM_cdJ4t4k9BL1X0SF32dDWogM9k3TFcHQfDBhnpqI-9P35id377Puinb-DvLtCQ&nostub=1
+#EXTINF:0 tvg-id="ch2841" tvg-name="KBC-ГАЙ Ritchie and Tarantino HD" tvg-logo="https://rus.hls.gd/images/chIcons/2841.png" tvg-rec="3", KBC-ГАЙ Ritchie and Tarantino HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2841/mono.m3u8?token=skynex.v2_7nA9eoPTNYxhnZVm8D7V0pQ1nmzdep2IJ4jNsCcwxnnyV5-rzNEOmwbC_-YD7y560zIOQ7n9Qw&nostub=1
+#EXTINF:0 tvg-id="ch2842" tvg-name="KBC-Newfilm HD" tvg-logo="https://rus.hls.gd/images/chIcons/2842.png" tvg-rec="3", KBC-Newfilm HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2842/mono.m3u8?token=skynex.v2_TKMAsqfEzr-AtoNzACdQWeLPShkrnW1kmzzg2q9-uQw396CwHtI0bRqP79ibb4SCHp35CwHeSw&nostub=1
+#EXTINF:0 tvg-id="ch2843" tvg-name="KBC-Гоблин HD" tvg-logo="https://rus.hls.gd/images/chIcons/2843.png" tvg-rec="3", KBC-Гоблин HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2843/mono.m3u8?token=skynex.v2_-j4J3c75Lg8UTJ8NDI5DtyGCpNZqJ42x1S5NXOyMawluvLz1J4-5sDO-cZEqlebFkNvmPSeXqw&nostub=1
+#EXTINF:0 tvg-id="ch2844" tvg-name="KBC-Вестерн HD" tvg-logo="https://rus.hls.gd/images/chIcons/2844.png" tvg-rec="3", KBC-Вестерн HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2844/mono.m3u8?token=skynex.v2_f40kt8RXEopbdIjU2ZQlIoZhntIlLcP9MO5BJ2mcuhwfA_ihehJJ80debJaJXi-JLgmdR4hd2w&nostub=1
+#EXTINF:0 tvg-id="ch2845" tvg-name="KBC-WAR HD" tvg-logo="https://rus.hls.gd/images/chIcons/2845.png" tvg-rec="3", KBC-WAR HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2845/mono.m3u8?token=skynex.v2_nJ3Vr2YNprKMUyjl2t2Xe_dmuE5okrC2USK3VlwxmFYaKd5OlGTc9NsKf31cUkB5zl2NSO0pBw&nostub=1
+#EXTINF:0 tvg-id="ch2846" tvg-name="KBC-MusKino HD" tvg-logo="https://rus.hls.gd/images/chIcons/2846.png" tvg-rec="3", KBC-MusKino HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2846/mono.m3u8?token=skynex.v2_3cljBqk6V5Y5vZPJ9HBOh7VcwjGnZGt2_Ng9_aWPO831IhpjOLVRse5ApuxKGXuxxxquXIE4Ww&nostub=1
+#EXTINF:0 tvg-id="ch2848" tvg-name="KBC-СпортМикс HD" tvg-logo="https://rus.hls.gd/images/chIcons/2848.png" tvg-rec="3", KBC-СпортМикс HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2848/mono.m3u8?token=skynex.v2_Phg3y7JHs-B5XyOs752GPNbTpSXa7XXARXAzeeDzE2xLrwovpXVrqm6mmn4JImU6jOtNDAxABQ&nostub=1
+#EXTINF:0 tvg-id="ch2857" tvg-name="Gold Line Motivation HD" tvg-logo="https://rus.hls.gd/images/chIcons/2857.png" tvg-rec="3", Gold Line Motivation HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2857/mono.m3u8?token=skynex.v2_iB1vjITx32cUhT7P_ie_56mlTutBIRmWReZwdagY1fZXtvA7PR38q7hbKvjVec9rDfTDb3-yDQ&nostub=1
+#EXTINF:0 tvg-id="ch2876" tvg-name="Gold Line Hostage HD" tvg-logo="https://rus.hls.gd/images/chIcons/2876.png" tvg-rec="3", Gold Line Hostage HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2876/mono.m3u8?token=skynex.v2_W9de_ToNiAmrmm3wEJsM4b77DeUIW9XeyeS-CpYUG9AN7i5hfM47L5QYxsMrIYXwE7f-MDy7Zw&nostub=1
+#EXTINF:0 tvg-id="ch2880" tvg-name="Gold Line Girlfight HD" tvg-logo="https://rus.hls.gd/images/chIcons/2880.png" tvg-rec="3", Gold Line Girlfight HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2880/mono.m3u8?token=skynex.v2_nTDVZ3wnjzzcMYvFpTQKZd63mRa2d71N7zx2Pzqs2sBfRlrhULWuUx2QH07gYp_OLjZTOQdVhw&nostub=1
+#EXTINF:0 tvg-id="ch2862" tvg-name="Gold Line Chef HD" tvg-logo="https://rus.hls.gd/images/chIcons/2862.png" tvg-rec="3", Gold Line Chef HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2862/mono.m3u8?token=skynex.v2_X-RvEeQEctZkov3RfHL9YXs376uxe04EGJi15rZDZUix7ecl7GkyWETZWhUoh7lYqJBsewCggQ&nostub=1
+#EXTINF:0 tvg-id="ch3121" tvg-name="Gold Line Brief HD" tvg-logo="https://rus.hls.gd/images/chIcons/3121.png" tvg-rec="3", Gold Line Brief HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3121/mono.m3u8?token=skynex.v2_hK4tH1vim93FJHPJ8zW05Wa2aEV8kTFK-EX0xx4uj39bx3PsFL5hRcSr32_l3_ZpSelljZA7ng&nostub=1
+#EXTINF:0 tvg-id="ch3122" tvg-name="Gold Line  Evidence HD" tvg-logo="https://rus.hls.gd/images/chIcons/3122.png" tvg-rec="3", Gold Line  Evidence HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3122/mono.m3u8?token=skynex.v2_tjA2ORu3JZWGqGw5LbVzGOnMQX-PgcnFm0eLBY3SDQknW7W8ARiNk1wjs7XU2ma69Z4YAOe2Zg&nostub=1
+#EXTINF:0 tvg-id="ch3123" tvg-name="Gold Line Exist HD" tvg-logo="https://rus.hls.gd/images/chIcons/3123.png" tvg-rec="3", Gold Line Exist HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3123/mono.m3u8?token=skynex.v2_oCR3YJ71E-EZZgCgN6zsYiMCKIj1PUNuZkWBUTtykSdc_IP0y_1Tuy5skLDWKQGvA8KPzOfllw&nostub=1
+#EXTINF:0 tvg-id="ch3124" tvg-name="Gold Line Island HD" tvg-logo="https://rus.hls.gd/images/chIcons/3124.png" tvg-rec="3", Gold Line Island HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3124/mono.m3u8?token=skynex.v2_SGK3QxZHLhetSzUhWmdshYSbWkwpba5QNHuFTQRvSrPe3a-dNt3GYSp8Ac1sQhCLd0ybve_DPw&nostub=1
+#EXTINF:0 tvg-id="ch3125" tvg-name="Gold Line Naked and Funny HD" tvg-logo="https://rus.hls.gd/images/chIcons/3125.png" tvg-rec="3", Gold Line Naked and Funny HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3125/mono.m3u8?token=skynex.v2_OVs8WDRQzSr8tvNywlpNn63mK5SdPFt51n1aBo7OInsK2C0ZJmxwXKEVCi4Pyj3Rw5UeijaBRA&nostub=1
+#EXTINF:0 tvg-id="ch3126" tvg-name="Gold Line Psycho HD" tvg-logo="https://rus.hls.gd/images/chIcons/3126.png" tvg-rec="3", Gold Line Psycho HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3126/mono.m3u8?token=skynex.v2_rZrwiTWmAYsvGoxuvAkpQHROuIdEEviMQv-ppyvvq6cxXI0gYZq2tNq_j0gV1i3mhV1BIP2ZfA&nostub=1
+#EXTINF:0 tvg-id="ch3127" tvg-name="Gold Line Series HD" tvg-logo="https://rus.hls.gd/images/chIcons/3127.png" tvg-rec="3", Gold Line Series HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3127/mono.m3u8?token=skynex.v2_aVphZSojup64s5s64yRRpZTzEfGM1cIa1Gp-AVpKMXH7JVYBaNE1Gi1RdvRmQgZbez-y5oA8EQ&nostub=1
+#EXTINF:0 tvg-id="ch3128" tvg-name="Gold Line Survival HD" tvg-logo="https://rus.hls.gd/images/chIcons/3128.png" tvg-rec="3", Gold Line Survival HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3128/mono.m3u8?token=skynex.v2_AdgoknM8nb9msEr5ZF7vapM_7J6YC3fV3o_nV6GpzAvWABewxrF0YiJIU6RD0RWiAwBb-1WH5g&nostub=1
+#EXTINF:0 tvg-id="ch3129" tvg-name="Gold Line Детектив HD" tvg-logo="https://rus.hls.gd/images/chIcons/3129.png" tvg-rec="3", Gold Line Детектив HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3129/mono.m3u8?token=skynex.v2__d6fhQmkRXbR8PyoH0pttwM4b8mvRystjKp8pYEwVbUp5wtO2vqwU71gTLy5BNjnrixMIbmSAA&nostub=1
+#EXTINF:0 tvg-id="ch3130" tvg-name="Gold Line Невский HD" tvg-logo="https://rus.hls.gd/images/chIcons/3130.png" tvg-rec="3", Gold Line Невский HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3130/mono.m3u8?token=skynex.v2_ITbyscCB3YHdEJ0E6FB5jtjcRcT-Vuy_vudDfnk2FnyzFWon1sFH6bqhuXJRLtQ1b27zxe4_4g&nostub=1
+#EXTINF:0 tvg-id="ch4048" tvg-name="Gold Line Civilizations HD" tvg-logo="https://rus.hls.gd/images/chIcons/4048.png" tvg-rec="3", Gold Line Civilizations HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4048/mono.m3u8?token=skynex.v2_rg9U8RZS7Eu8ZsT_zQnoE5ZNoU84fiWeeI-gTYTpc3gIm8FjLDaj8EHeLznsbJ12HpGNcfudEw&nostub=1
+#EXTINF:0 tvg-id="ch4095" tvg-name="Gold Line VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/4095.png" tvg-rec="3", Gold Line VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4095/mono.m3u8?token=skynex.v2_aI_cNGuE9uFMm1s0Cj8S5_ZSpgoF4ekiXob57PC7ICSlvW49MYe3dgd8RUQPOANo6b4w0UeW4Q&nostub=1
+#EXTINF:0 tvg-id="ch3136" tvg-name="Velilla TV Action War Films HD" tvg-logo="https://rus.hls.gd/images/chIcons/3136.png" tvg-rec="3", Velilla TV Action War Films HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3136/mono.m3u8?token=skynex.v2_7H8sxGj3JRrazmlGpzPDHjgOm90W3T9Zile5Bkqq2fCkSc2Xa1YAM3Us2g6nmdv5b8AXC-_MwA&nostub=1
+#EXTINF:0 tvg-id="ch3385" tvg-name="Velilla TV Вестерн HD" tvg-logo="https://rus.hls.gd/images/chIcons/3385.png" tvg-rec="3", Velilla TV Вестерн HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3385/mono.m3u8?token=skynex.v2_D_VL5U56ohIbrMnyGIABncoMnVvlh7Caqi0NJgrJbZv-XzhSN9sDf8M9Md_H-oK5aCOVskTa1A&nostub=1
+#EXTINF:0 tvg-id="ch3137" tvg-name="Velilla TV Русский Сериал HD" tvg-logo="https://rus.hls.gd/images/chIcons/3137.png" tvg-rec="3", Velilla TV Русский Сериал HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3137/mono.m3u8?token=skynex.v2_5myz8c34vTJWOslXwWnJg1H1fkbmy9fh4hKAqbf5ewxV1mQcSE9upi1fsr0iPuntd3w7QM5-MA&nostub=1
+#EXTINF:0 tvg-id="ch2854" tvg-name="Velilla TV Русские Мелодрамы HD" tvg-logo="https://rus.hls.gd/images/chIcons/2854.png" tvg-rec="3", Velilla TV Русские Мелодрамы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2854/mono.m3u8?token=skynex.v2_ErAu4oxCe-6E3V4PWabgy5y4icf2maGIOP9QnYtQ2yB6MhQp__kNEE91jTmRuqE3APdrVc72-g&nostub=1
+#EXTINF:0 tvg-id="ch3138" tvg-name="Velilla TV Домашний HD" tvg-logo="https://rus.hls.gd/images/chIcons/3138.png" tvg-rec="3", Velilla TV Домашний HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3138/mono.m3u8?token=skynex.v2_rcuHx1OgcMxyKIQj_d5EXjKEJ7P-qt2cR8fkFvSUnru1Q7UQE31ZsjCb_1vHjeCUxLlFOwz6Jw&nostub=1
+#EXTINF:0 tvg-id="ch3288" tvg-name="Velilla TV Кухня + Отель Элеон HD" tvg-logo="https://rus.hls.gd/images/chIcons/3288.png" tvg-rec="3", Velilla TV Кухня + Отель Элеон HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3288/mono.m3u8?token=skynex.v2_9maQyLf_wnIfzcQDaFAKdO8X-iFY4yD63WtjQ_ekBIkNPL2WeWdmioRi9SbrNr-fyuIw9VLUNQ&nostub=1
+#EXTINF:0 tvg-id="ch3139" tvg-name="Velilla TV Мосгаз HD" tvg-logo="https://rus.hls.gd/images/chIcons/3139.png" tvg-rec="3", Velilla TV Мосгаз HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3139/mono.m3u8?token=skynex.v2_r8QI0zKj6rVV9E-alqxfJqG_ICkMGTwIn4KUMDL6NVu4L9Xu2S_UZsCKg1WIoZb3BR8mqPV_wA&nostub=1
+#EXTINF:0 tvg-id="ch3152" tvg-name="Velilla TV Морские дьяволы HD" tvg-logo="https://rus.hls.gd/images/chIcons/3152.png" tvg-rec="3", Velilla TV Морские дьяволы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3152/mono.m3u8?token=skynex.v2_Zuwb67w-6nvvNDp-ZibyctgOfI8Z1UdpUIJgTF-TJDcdt80ZjS_UxBqWENfFv7o_xwHZdhpXuw&nostub=1
+#EXTINF:0 tvg-id="ch2874" tvg-name="Velilla TV Морские Дьяволы 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2874.png" tvg-rec="3", Velilla TV Морские Дьяволы 2 HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2874/mono.m3u8?token=skynex.v2_nS-88cyYpBxgKbGk5xXD8bCKKHf5plEed8uEZ7ngcBk9enNIPF4glbMcmieu0JMx-UWf3c6dqQ&nostub=1
+#EXTINF:0 tvg-id="ch3287" tvg-name="Velilla TV ИП Пирогова HD" tvg-logo="https://rus.hls.gd/images/chIcons/3287.png" tvg-rec="3", Velilla TV ИП Пирогова HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3287/mono.m3u8?token=skynex.v2_7akLQjV2KX2HU2LyFRF6XHPLHY1eg3IXThpwLRZxiWVby-K7AuGuO-ZAmoMv0Tyci5gn9P3jOQ&nostub=1
+#EXTINF:0 tvg-id="ch3824" tvg-name="Velilla TV Бандитский Петербург" tvg-logo="https://rus.hls.gd/images/chIcons/3824.png" tvg-rec="3", Velilla TV Бандитский Петербург
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3824/mono.m3u8?token=skynex.v2_aq_C02KabOke4JjyiyoAfBIHAXLz6ah-Tak6WaedcjZ7wb0BeeJ9Tehu6NBwxuINGjOhlWqe-A&nostub=1
+#EXTINF:0 tvg-id="ch4149" tvg-name="Velilla TV Балабол HD" tvg-logo="https://rus.hls.gd/images/chIcons/4149.png" tvg-rec="3", Velilla TV Балабол HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4149/mono.m3u8?token=skynex.v2_u9SM7L8Xe-U4Jun8uvEXbBJ3Q2MkOtwTD0cVHsUQm1P1KL7XF8UrwhmhqUjrVeJVCV7RUXlnUg&nostub=1
+#EXTINF:0 tvg-id="ch2872" tvg-name="Velilla TV Счастливы Bместе HD" tvg-logo="https://rus.hls.gd/images/chIcons/2872.png" tvg-rec="3", Velilla TV Счастливы Bместе HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch2872/mono.m3u8?token=skynex.v2_sSImcIdtdyTUVWq7eXfT4pWo_urwH1Gy2xwuxqMEMXaoZdC-woNNE33zxjEDjTyxFiTmZzYLXg&nostub=1
+#EXTINF:0 tvg-id="ch3839" tvg-name="Velilla TV Элен и Ребята" tvg-logo="https://rus.hls.gd/images/chIcons/3839.png" tvg-rec="3", Velilla TV Элен и Ребята
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3839/mono.m3u8?token=skynex.v2_5PkC_5ci9EpIq1f0g7P6ekGdfnxSPivBI7IVfvdctQ-jdC-eN07WSA1R7EXcdoHQ1cF1FtytyA&nostub=1
+#EXTINF:0 tvg-id="ch1619" tvg-name="Velilla TV Ситком HD" tvg-logo="https://rus.hls.gd/images/chIcons/1619.png" tvg-rec="3", Velilla TV Ситком HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch1619/mono.m3u8?token=skynex.v2_7xEfnor3b10NOU-PGBHjYsWeI2zcNh8ESX5qG7S68zV3zejl05xxDt77IYJDrA07h6FDrIDYRA&nostub=1
+#EXTINF:0 tvg-id="ch3231" tvg-name="Kernel TV Бумажный дом" tvg-logo="https://rus.hls.gd/images/chIcons/3231.png" tvg-rec="3", Kernel TV Бумажный дом
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3231/mono.m3u8?token=skynex.v2_oBu5NVeDJ2tD3Jepvo_HYgOhDgbSBM3hPjOsxnMKw3mwc3HBjo1AVJCv_TOfo3y7uA0Uef7qRA&nostub=1
+#EXTINF:0 tvg-id="ch3235" tvg-name="Kernel TV Комедия" tvg-logo="https://rus.hls.gd/images/chIcons/3235.png" tvg-rec="3", Kernel TV Комедия
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3235/mono.m3u8?token=skynex.v2_JmH3HW01ocHBGpI_hhbrCXxhtUJIpOx0iUXaeSSX7baip_sBNfghMvQWtcS70UPX6nuWA33cqg&nostub=1
+#EXTINF:0 tvg-id="ch3236" tvg-name="Kernel TV Доктор" tvg-logo="https://rus.hls.gd/images/chIcons/3236.png" tvg-rec="3", Kernel TV Доктор
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3236/mono.m3u8?token=skynex.v2_PvhTIL2_pRPxlcmkaXptcZRUR21SudTCFXfjhjGuMmfzhkeKRbDKS2dixld1LJ7-GBLuN-f2eA&nostub=1
+#EXTINF:0 tvg-id="ch3242" tvg-name="Kernel TV Герой" tvg-logo="https://rus.hls.gd/images/chIcons/3242.png" tvg-rec="3", Kernel TV Герой
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3242/mono.m3u8?token=skynex.v2_K0tayzq12kC2MRqvNBqTD-Ap9dTz57SpBRAKGfz5D6uslsDrTeqHVbo-XQGd8sJAB60rnEYhuQ&nostub=1
+#EXTINF:0 tvg-id="ch3247" tvg-name="Kernel TV Счастливого Нового Года" tvg-logo="https://rus.hls.gd/images/chIcons/3247.png" tvg-rec="3", Kernel TV Счастливого Нового Года
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3247/mono.m3u8?token=skynex.v2_jpU9ZBC4PnPNG9NpWabC1FkZ2HNkOlr7dgzjBKZub5DMN-jC3BPOA_BmZYIF9iLER5e12TEhqg&nostub=1
+#EXTINF:0 tvg-id="ch3248" tvg-name="Kernel TV Интерны" tvg-logo="https://rus.hls.gd/images/chIcons/3248.png" tvg-rec="3", Kernel TV Интерны
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3248/mono.m3u8?token=skynex.v2_TAQuPGiE-uc-d7PSCafHghiYNqY5UtS1wWb-6JFlPUsImA1ZiW7BR6yP_cSXrgSUSW3h3S6IJA&nostub=1
+#EXTINF:0 tvg-id="ch3249" tvg-name="Kernel TV Космос" tvg-logo="https://rus.hls.gd/images/chIcons/3249.png" tvg-rec="3", Kernel TV Космос
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3249/mono.m3u8?token=skynex.v2_g5cPx3kOkpFiaRPUn-GoXEvkYaIdbtrC-DQYHI2PYAnhnY9jvAIq0hrILKhDLjHR_EprmIcy2g&nostub=1
+#EXTINF:0 tvg-id="ch3255" tvg-name="Kernel TV Магия" tvg-logo="https://rus.hls.gd/images/chIcons/3255.png" tvg-rec="3", Kernel TV Магия
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3255/mono.m3u8?token=skynex.v2_2JLooSSuHbaJfyOy-w7PNDFWQYJ9v0ccc6E-wBBksV0w9qKfurAgfG9LxL_wUHBvhVGyG3XK8w&nostub=1
+#EXTINF:0 tvg-id="ch3257" tvg-name="Kernel TV Марвел vs DC" tvg-logo="https://rus.hls.gd/images/chIcons/3257.png" tvg-rec="3", Kernel TV Марвел vs DC
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3257/mono.m3u8?token=skynex.v2_RDWq1W6o0I5CJk6otH3k2B7b2mZ8oUAifoyH7X2UyyePpboeMlc44FBOGi1DIO8eesH-fAn4Hw&nostub=1
+#EXTINF:0 tvg-id="ch3258" tvg-name="Kernel TV Марвел Сериалы" tvg-logo="https://rus.hls.gd/images/chIcons/3258.png" tvg-rec="3", Kernel TV Марвел Сериалы
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3258/mono.m3u8?token=skynex.v2_kPnDzxTkUnBA23gx8RkYUJGWPH6zGLI23lvOzRCz7o0Ne8dNKcV1CuVORYzhwGWsVXVl8EcayA&nostub=1
+#EXTINF:0 tvg-id="ch3263" tvg-name="Kernel TV Новинки" tvg-logo="https://rus.hls.gd/images/chIcons/3263.png" tvg-rec="3", Kernel TV Новинки
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3263/mono.m3u8?token=skynex.v2_FwU3pXGr-apvCg7_wYezeCc0nJu6bB0ZEeX8q7Az25sDaEx8FZXCFYnaK9gY1sGqD5CrgtpKBw&nostub=1
+#EXTINF:0 tvg-id="ch3272" tvg-name="Kernel TV Сваты" tvg-logo="https://rus.hls.gd/images/chIcons/3272.png" tvg-rec="3", Kernel TV Сваты
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3272/mono.m3u8?token=skynex.v2_bOuMJQYwbGyyO7t_5FLyRwCwpuEk2zwWR8rri4FqzuJ9d8dvuW3UFgcCGI2GF907JXdLOv1oZA&nostub=1
+#EXTINF:0 tvg-id="ch3273" tvg-name="Kernel TV Время" tvg-logo="https://rus.hls.gd/images/chIcons/3273.png" tvg-rec="3", Kernel TV Время
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3273/mono.m3u8?token=skynex.v2_gbzor8kiSTst7Rejd-KIMtTU-I1eHbgziHgQILqhW9XYpNZhKrZi4YuXU9wz-mtB_dKANHNPBg&nostub=1
+#EXTINF:0 tvg-id="ch3148" tvg-name="SkyCam Action" tvg-logo="https://rus.hls.gd/images/chIcons/3148.png" tvg-rec="3", SkyCam Action
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3148/mono.m3u8?token=skynex.v2_9WWjuGvKYOCAae60R_OGHdcwNMipHZW4FYjYSD6RNYcyPFIDf4_oOPcsLR4mP74UwgSPTFiPIw&nostub=1
+#EXTINF:0 tvg-id="ch3149" tvg-name="SkyCam Catastrophe" tvg-logo="https://rus.hls.gd/images/chIcons/3149.png" tvg-rec="3", SkyCam Catastrophe
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3149/mono.m3u8?token=skynex.v2_p1qPJEu2ZuffTFofNK5w_N6eeaQO-TCKDIt1sIxWuW2rKDVe0c6elqqHV79aeK-lJScbvPVBCA&nostub=1
+#EXTINF:0 tvg-id="ch3150" tvg-name="SkyCam Goblin" tvg-logo="https://rus.hls.gd/images/chIcons/3150.png" tvg-rec="3", SkyCam Goblin
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3150/mono.m3u8?token=skynex.v2_0JZGKObyUf3jSiCkF1QRhPT0X2D6S_-qESU-1M9sAk-Q5Hg5I83GX67kS8Bv7VQyuUAlcXF2IQ&nostub=1
+#EXTINF:0 tvg-id="ch3280" tvg-name="SkyCam Horrors" tvg-logo="https://rus.hls.gd/images/chIcons/3280.png" tvg-rec="3", SkyCam Horrors
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3280/mono.m3u8?token=skynex.v2_pqPC87UUMYx9uH9vx684xvuHr1avwUALAAMFCVNeKUgts1Q-TLjYVII49zp0V0ddLUt0F52Rxg&nostub=1
+#EXTINF:0 tvg-id="ch3282" tvg-name="SkyCam Romantic" tvg-logo="https://rus.hls.gd/images/chIcons/3282.png" tvg-rec="3", SkyCam Romantic
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3282/mono.m3u8?token=skynex.v2_UEEXvrOyyAUANfGpzlp1mnr5n6kSnA5w-XC5GC5hLKPfe992Po6I8ehHKrz80xCkjFZeRfKzOQ&nostub=1
+#EXTINF:0 tvg-id="ch3283" tvg-name="SkyCam RuKino" tvg-logo="https://rus.hls.gd/images/chIcons/3283.png" tvg-rec="3", SkyCam RuKino
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3283/mono.m3u8?token=skynex.v2_jHNXK7lQmgGvEPDo398sbNfA3sIdbxKNsqx18EeZDjN9l4i1amvEqCfW_JLk3Cf9JPUM-fG3Sg&nostub=1
+#EXTINF:0 tvg-id="ch3284" tvg-name="SkyCam Симпсоны" tvg-logo="https://rus.hls.gd/images/chIcons/3284.png" tvg-rec="3", SkyCam Симпсоны
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3284/mono.m3u8?token=skynex.v2_Pu6vW2sz2yF6eLpmN-U3EzUiaceQQOhlOxOwFT4cd43gXZuYOcPq57W5CnHqapZUtwWoevOg2Q&nostub=1
+#EXTINF:0 tvg-id="ch3285" tvg-name="SkyCam Южный Парк" tvg-logo="https://rus.hls.gd/images/chIcons/3285.png" tvg-rec="3", SkyCam Южный Парк
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3285/mono.m3u8?token=skynex.v2_Ul5FW30n4YjMQVBSgl0R18o_cNRZLeMVR2PActs6H2yxKq9RZ5ejhChOF0Fg9UDqntmQvJ_nEQ&nostub=1
+#EXTINF:0 tvg-id="ch3286" tvg-name="SkyCam Victory" tvg-logo="https://rus.hls.gd/images/chIcons/3286.png" tvg-rec="3", SkyCam Victory
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3286/mono.m3u8?token=skynex.v2_2dlp7RfwqVTRVG755LBSYjzu-JBqyU2YxfHzmXpxFkxLE2QzDo51pZJUXMIgdSchoAMpMEehnA&nostub=1
+#EXTINF:0 tvg-id="ch3417" tvg-name="TVPlay Mortal Kombat HD" tvg-logo="https://rus.hls.gd/images/chIcons/3417.png" tvg-rec="3", TVPlay Mortal Kombat HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3417/mono.m3u8?token=skynex.v2_6lM3zAgsX5B3OwCMTFwg7VX0H0UkB_-fDKXWDLZQ_K5a1Pv1kp68fjGit-Ea_SovDWEsihiOgQ&nostub=1
+#EXTINF:0 tvg-id="ch3738" tvg-name="TVPlay VHS HD" tvg-logo="https://rus.hls.gd/images/chIcons/3738.png" tvg-rec="3", TVPlay VHS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3738/mono.m3u8?token=skynex.v2_l7eGe7eEYtP72OxGl9aYeMW164eiHgL1RB0yrNqxNUyn94tOHpzDZaTgtLXjcK6XR4IFG2UMdQ&nostub=1
+#EXTINF:0 tvg-id="ch3739" tvg-name="TVPlay Индийское Кино HD" tvg-logo="https://rus.hls.gd/images/chIcons/3739.png" tvg-rec="3", TVPlay Индийское Кино HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3739/mono.m3u8?token=skynex.v2_BZWT6_lxwOqbHHfQ7KF1mJBePaYwPAd_cOb2Yw_6gxrh0VV4_mx8PzyIUI8WJmJjMtYuHP7o0g&nostub=1
+#EXTINF:0 tvg-id="ch3740" tvg-name="TVPlay Мифы и Легенды HD" tvg-logo="https://rus.hls.gd/images/chIcons/3740.png" tvg-rec="3", TVPlay Мифы и Легенды HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3740/mono.m3u8?token=skynex.v2_iH9JykvWFOECSiVREtDdJGw0w5cSbXpUJCHF1AEY-2Mh_98_Ke7i6FH5jyv3pL2dz3uaghjTmQ&nostub=1
+#EXTINF:0 tvg-id="ch3741" tvg-name="TVPlay Anime HD" tvg-logo="https://rus.hls.gd/images/chIcons/3741.png" tvg-rec="3", TVPlay Anime HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3741/mono.m3u8?token=skynex.v2_HS2OWDYSdgZ3uTKkVUdCTUyJqFIAnuqjv2XGJzE03OaryGF-joXyHX45Ssy2-2oVz4TzgqwNwQ&nostub=1
+#EXTINF:0 tvg-id="ch3742" tvg-name="TVPlay Великая Отечественная HD" tvg-logo="https://rus.hls.gd/images/chIcons/3742.png" tvg-rec="3", TVPlay Великая Отечественная HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3742/mono.m3u8?token=skynex.v2_FV8A75hChp0I_WdCICB2prEJ1BFaRa_5jEFPIiWNJ_WwzQaMJsVEQ6OX8RRD0Wd2FQHxUzi5SQ&nostub=1
+#EXTINF:0 tvg-id="ch3743" tvg-name="TVPlay Детское Кино HD" tvg-logo="https://rus.hls.gd/images/chIcons/3743.png" tvg-rec="3", TVPlay Детское Кино HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3743/mono.m3u8?token=skynex.v2_tnvb1dD1-LzLs-hIa7o-Dlh25mOpG0j-EvjielPOywbIc93NB54CGv21jvNpL9CZwKIUJxKuTg&nostub=1
+#EXTINF:0 tvg-id="ch3744" tvg-name="TVPlay Лихие 90е Кино HD" tvg-logo="https://rus.hls.gd/images/chIcons/3744.png" tvg-rec="3", TVPlay Лихие 90е Кино HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3744/mono.m3u8?token=skynex.v2_Au6MTw6t2lFdipHDCRJT1Skfr88tQ5Au7eaRhMy9EXBpRXGlRBuylFQhicMJpdPxBNe_U72Rgw&nostub=1
+#EXTINF:0 tvg-id="ch3745" tvg-name="TVPlay Лихие 90е Сериал HD" tvg-logo="https://rus.hls.gd/images/chIcons/3745.png" tvg-rec="3", TVPlay Лихие 90е Сериал HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3745/mono.m3u8?token=skynex.v2_B1XkM3rB6cySW6DhELFNdvqJrITjbS7DuEP5GrzLDlmkGUsgfDK9v2tYfwQUjNEiqKc6Upofiw&nostub=1
+#EXTINF:0 tvg-id="ch3746" tvg-name="TVPlay Новинки RUS HD" tvg-logo="https://rus.hls.gd/images/chIcons/3746.png" tvg-rec="3", TVPlay Новинки RUS HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3746/mono.m3u8?token=skynex.v2_z7GO4aiCvk1T5h1iRjFN6kEYnL_9niH49tvxeYOPo_ReD2LVmZ8wYEdY-aP9WG7q-enUfY3V3w&nostub=1
+#EXTINF:0 tvg-id="ch3749" tvg-name="TVPlay Новинки Мир HD" tvg-logo="https://rus.hls.gd/images/chIcons/3749.png" tvg-rec="3", TVPlay Новинки Мир HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3749/mono.m3u8?token=skynex.v2_xtOCYIohqZRwEa-Qupv2haY0pea1fD2UBsUzfKDjFNC2UbLbgko17wuRl4huXbx4uQbRJxLUQQ&nostub=1
+#EXTINF:0 tvg-id="ch3750" tvg-name="TVPlay Советское Кино HD" tvg-logo="https://rus.hls.gd/images/chIcons/3750.png" tvg-rec="3", TVPlay Советское Кино HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3750/mono.m3u8?token=skynex.v2_o3Zur024tP9lEmAPWAelbm-ZYY0p39OqNc9oDmwqzd9ng0pkp8_8IXJ9vHSB20328DD2NQxVAA&nostub=1
+#EXTINF:0 tvg-id="ch3751" tvg-name="TVPlay Ужасы HD" tvg-logo="https://rus.hls.gd/images/chIcons/3751.png" tvg-rec="3", TVPlay Ужасы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3751/mono.m3u8?token=skynex.v2_W_KlPorO-b0l6HoYxGJnuz87SWjcSKcpIAFCYBcqTmfnc85AsTn2yvJTs_Rc7He8C2AGi_Z3oA&nostub=1
+#EXTINF:0 tvg-id="ch3752" tvg-name="TVPlay Фантастика HD" tvg-logo="https://rus.hls.gd/images/chIcons/3752.png" tvg-rec="3", TVPlay Фантастика HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3752/mono.m3u8?token=skynex.v2_6CCgEVWIq7Tjgq0wwhkK8k9PseOt_2QuoLyRK0p2CmwAcrgnTfRCc3M9ccMRedH4AGs0EMpnSg&nostub=1
+#EXTINF:0 tvg-id="ch3753" tvg-name="TVPlay Русская Фантастика  HD" tvg-logo="https://rus.hls.gd/images/chIcons/3753.png" tvg-rec="3", TVPlay Русская Фантастика  HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3753/mono.m3u8?token=skynex.v2_YHSCa7DZzcYN_m5wSnxFoHANqEKQOCqvMnfshUOHTA-HiX_f2p9hI9U5xD96q9slFyGoZSHfWg&nostub=1
+#EXTINF:0 tvg-id="ch3754" tvg-name="TVPlay DC Comics HD" tvg-logo="https://rus.hls.gd/images/chIcons/3754.png" tvg-rec="3", TVPlay DC Comics HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3754/mono.m3u8?token=skynex.v2_Ld0byUU7_-Mx7dbKhZVi3CsKJuhsGv0RriwR8_wfq96eENHfMXfCzUQgp1DbHggJ06f1yBWXQg&nostub=1
+#EXTINF:0 tvg-id="ch3758" tvg-name="TVPlay Marvel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3758.png" tvg-rec="3", TVPlay Marvel HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3758/mono.m3u8?token=skynex.v2_unHdDj-v5FMuMazrok8tQXcebOZoy1KwkT9PXxMvVcvzoQlrYUd49Bkz3GAj4q4VeG0SVzsozw&nostub=1
+#EXTINF:0 tvg-id="ch3761" tvg-name="TVPlay Биографии HD" tvg-logo="https://rus.hls.gd/images/chIcons/3761.png" tvg-rec="3", TVPlay Биографии HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3761/mono.m3u8?token=skynex.v2_vXEIPUBg6oOqB4apsKTLAQ3hY1WXTQOS_BAc2-30lBBGrDXeHJPMjkJcUBVHTx93AUTbKn6qFg&nostub=1
+#EXTINF:0 tvg-id="ch3763" tvg-name="TVPlay Баффи HD" tvg-logo="https://rus.hls.gd/images/chIcons/3763.png" tvg-rec="3", TVPlay Баффи HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3763/mono.m3u8?token=skynex.v2_bNuNBBgqj8OHyDjbgwfcDeSO_M8VvoGnZg23atCzortAIuwXI6ZMDgklRhF2UQ3sheQAY5iZ2Q&nostub=1
+#EXTINF:0 tvg-id="ch3764" tvg-name="TVPlay Латинские Cериалы HD" tvg-logo="https://rus.hls.gd/images/chIcons/3764.png" tvg-rec="3", TVPlay Латинские Cериалы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3764/mono.m3u8?token=skynex.v2_vDlv2v4qqLIp-tumXdybP0A4Bo4i3ggcORq6RvKWnUDvhXqwNjSaqz8NMKoAa8oWk_bzlGZgHw&nostub=1
+#EXTINF:0 tvg-id="ch3765" tvg-name="TVPlay Пародии HD" tvg-logo="https://rus.hls.gd/images/chIcons/3765.png" tvg-rec="3", TVPlay Пародии HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3765/mono.m3u8?token=skynex.v2_ig4lH_qPNbJLm2ytZBItnaXn55s5bARjEM472arpW_Z77Oq450MSs7fKhjZYBRQdlXqq4I7h_w&nostub=1
+#EXTINF:0 tvg-id="ch3766" tvg-name="TVPlay Психо HD" tvg-logo="https://rus.hls.gd/images/chIcons/3766.png" tvg-rec="3", TVPlay Психо HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3766/mono.m3u8?token=skynex.v2_ggaQVtm9fo7ayv1jrdWFYniEBk-WDm2k0KqFTF4QuzVyoTX0f1mxyAM-zz18hL9yMpm_ef7HiQ&nostub=1
+#EXTINF:0 tvg-id="ch3784" tvg-name="TVPlay Зомби HD" tvg-logo="https://rus.hls.gd/images/chIcons/3784.png" tvg-rec="3", TVPlay Зомби HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3784/mono.m3u8?token=skynex.v2_ufwJpgSbuhddGdknGuwuQjfkfL3QIUrlN4p9oxgE7bXalbmoMJ6FJlD9WxRKAzYwKyrxY79cVw&nostub=1
+#EXTINF:0 tvg-id="ch3768" tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://rus.hls.gd/images/chIcons/3768.png" tvg-rec="3", TVPlay Игра Престолов HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3768/mono.m3u8?token=skynex.v2_MECqjos9p8war8v8NoJWwKZEWn38wpoBwPozW7C2AKF5xvwkT4oG3LpaF5b-8Ay7s25NT2aJCw&nostub=1
+#EXTINF:0 tvg-id="ch3771" tvg-name="TVPlay Космический HD" tvg-logo="https://rus.hls.gd/images/chIcons/3771.png" tvg-rec="3", TVPlay Космический HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3771/mono.m3u8?token=skynex.v2_j2TCyXe7z8GcrBktBBQfl3px08hj4piwe9gehgqf39nSrkBfLf54zVvg8BTNRpkj7ft4y9TbjQ&nostub=1
+#EXTINF:0 tvg-id="ch3773" tvg-name="TVPlay Гарри Поттер HD" tvg-logo="https://rus.hls.gd/images/chIcons/3773.png" tvg-rec="3", TVPlay Гарри Поттер HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3773/mono.m3u8?token=skynex.v2_Lw0mx0TXirQYimJBhZAHKUlpGruhI-rpSgz1hIc8bqbggrXkUmmuyBkpM5zRTnul-QPOiQ3yrw&nostub=1
+#EXTINF:0 tvg-id="ch3776" tvg-name="TVPlay Друзья HD" tvg-logo="https://rus.hls.gd/images/chIcons/3776.png" tvg-rec="3", TVPlay Друзья HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3776/mono.m3u8?token=skynex.v2_4dCzHXJkhyKqsWXSTuf_8owtHAgAF9g_v_2QwzH3vtdkrIPaEBzIbAjvFf_v1XyhrLEUzgZPNw&nostub=1
+#EXTINF:0 tvg-id="ch3777" tvg-name="TVPlay Зачарованные HD" tvg-logo="https://rus.hls.gd/images/chIcons/3777.png" tvg-rec="3", TVPlay Зачарованные HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3777/mono.m3u8?token=skynex.v2_MEHeg8ahSOlb-BTaUc2BcfaAWiEawt1WYgUL4vbwztXQh1mQ7uZb9PpHx7qJOHESOW57YIkoIw&nostub=1
+#EXTINF:0 tvg-id="ch3780" tvg-name="TVPlay Моя Прекрасная Няня HD" tvg-logo="https://rus.hls.gd/images/chIcons/3780.png" tvg-rec="3", TVPlay Моя Прекрасная Няня HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3780/mono.m3u8?token=skynex.v2_bdU_9XcrCspEcIAC4lna3276047Rn567bkmoJj-djaKflfnuBkOQTLn9uMNAvUKM7vcQyodsDw&nostub=1
+#EXTINF:0 tvg-id="ch3418" tvg-name="TVPlay Элен и Ребята HD" tvg-logo="https://rus.hls.gd/images/chIcons/3418.png" tvg-rec="3", TVPlay Элен и Ребята HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3418/mono.m3u8?token=skynex.v2_T8UpvwCuDXLX56WzIuUJdnfVH6ah_oBAHbPuZ4HpdzV8AOJi12xmMflNz9_IHx7mlvK8KlFRMw&nostub=1
+#EXTINF:0 tvg-id="ch3781" tvg-name="TVPlay Папины Дочки HD" tvg-logo="https://rus.hls.gd/images/chIcons/3781.png" tvg-rec="3", TVPlay Папины Дочки HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3781/mono.m3u8?token=skynex.v2_WSyS4eiNeeBK_10ipOtVBLG55UochdACDuJg7-NZ_IU5DGECydFpOFNmm_Jwl8S9p-sxb0-Vjw&nostub=1
+#EXTINF:0 tvg-id="ch3782" tvg-name="TVPlay Фильмы Л Гайдая HD" tvg-logo="https://rus.hls.gd/images/chIcons/3782.png" tvg-rec="3", TVPlay Фильмы Л Гайдая HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3782/mono.m3u8?token=skynex.v2_ppxtdHNYiLMzzqGIYL50loTMS-tfouvdiUGh_xrFlxce8ojuEdBsz1Rcg8b50zucjiXb8bZHEw&nostub=1
+#EXTINF:0 tvg-id="ch3783" tvg-name="TVPlay Фильмы Г Данелии HD" tvg-logo="https://rus.hls.gd/images/chIcons/3783.png" tvg-rec="3", TVPlay Фильмы Г Данелии HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3783/mono.m3u8?token=skynex.v2_Pp1vlzk6X67K7_qOhwyOPKOxxFRHoTLmOmhefXe4ljaRGQHstUDXdMXnw2QNIEX_aw--3HLVUg&nostub=1
+#EXTINF:0 tvg-id="ch3786" tvg-name="TVPlay Высоцкий HD" tvg-logo="https://rus.hls.gd/images/chIcons/3786.png" tvg-rec="3", TVPlay Высоцкий HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3786/mono.m3u8?token=skynex.v2_-K7SBGZr3U8KdbBKmCiheaqJaTw1-I0l0tXamROcuMsXc2Pp4CO9NMsIC01lVhkLcuDFy-ZO8w&nostub=1
+#EXTINF:0 tvg-id="ch3816" tvg-name="TVPlay Михаил Галустян HD" tvg-logo="https://rus.hls.gd/images/chIcons/3816.png" tvg-rec="3", TVPlay Михаил Галустян HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3816/mono.m3u8?token=skynex.v2_zOdrdgz-XlNdWbVYfu2Xizu78Lwy6DIGte9lR6RKntgBnI200n6XadsRBH74ptyKBPFtyMyNKg&nostub=1
+#EXTINF:0 tvg-id="ch3817" tvg-name="TVPlay Фильмы А Балабанова HD" tvg-logo="https://rus.hls.gd/images/chIcons/3817.png" tvg-rec="3", TVPlay Фильмы А Балабанова HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3817/mono.m3u8?token=skynex.v2_1_5x1sEiyvn-OjPUylOryPujyKvjwzrhGkx9dZXB_yCXTpU-YmVscbxjBJKJ6xhIMfZlj07yXA&nostub=1
+#EXTINF:0 tvg-id="ch3818" tvg-name="TVPlay Дмитрий Нагиев HD" tvg-logo="https://rus.hls.gd/images/chIcons/3818.png" tvg-rec="3", TVPlay Дмитрий Нагиев HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch3818/mono.m3u8?token=skynex.v2_AG4xJ9O5EvFY2QrsPOivaYgIz0e1NR2B6Ppqq6oCmaK4XEtLncf4hJ1tA87D1yHNGOkyj18zOw&nostub=1
+#EXTINF:0 tvg-id="ch4057" tvg-name="KLI Kinozakaz HD" tvg-logo="https://rus.hls.gd/images/chIcons/4057.png" tvg-rec="3", KLI Kinozakaz HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4057/mono.m3u8?token=skynex.v2_f7PpMDAwla3vizGUhxEvuE9XWnwiOu70HZUeUdb_X-pinm5eUDnEn86zVDeXhXlro4R3g6ycdA&nostub=1
+#EXTINF:0 tvg-id="ch4062" tvg-name="KLI Детективы HD" tvg-logo="https://rus.hls.gd/images/chIcons/4062.png" tvg-rec="3", KLI Детективы HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4062/mono.m3u8?token=skynex.v2_AmhA3UcymqAQUFZJD7VeeS8Jw_B6x6dFvpGmQkP-A8FuxbMtDuuNluXUr-3H0_S_KEwLVabTTA&nostub=1
+#EXTINF:0 tvg-id="ch4069" tvg-name="KLI Action HD" tvg-logo="https://rus.hls.gd/images/chIcons/4069.png" tvg-rec="3", KLI Action HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4069/mono.m3u8?token=skynex.v2_DQmiWW67gCB_xk74CJIRy1fNmSxyWopqELLLSSi2xVr9d5EafxpluhTc6sMcp9alJKgsIFmocA&nostub=1
+#EXTINF:0 tvg-id="ch4070" tvg-name="KLI Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/4070.png" tvg-rec="3", KLI Comedy HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4070/mono.m3u8?token=skynex.v2_eszLmPLNFoDpn_Lc8xljeVuTuYJ7a86y1sR8liu9Yui5W-PqZnl7AEjr6XmEwj8cyWini6b2Sg&nostub=1
+#EXTINF:0 tvg-id="ch4071" tvg-name="KLI Drama HD" tvg-logo="https://rus.hls.gd/images/chIcons/4071.png" tvg-rec="3", KLI Drama HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4071/mono.m3u8?token=skynex.v2_HLZnCu1_egyfZCfG5kChMCbea2_Xdjc0Ky92QsoggteahYKZin-OwhnFZdZK7UiIhjKhWiK6Iw&nostub=1
+#EXTINF:0 tvg-id="ch4072" tvg-name="KLI Family HD" tvg-logo="https://rus.hls.gd/images/chIcons/4072.png" tvg-rec="3", KLI Family HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4072/mono.m3u8?token=skynex.v2_SadnavKldP_FWGtG1CcMDo3hraqg4JP_1285xSAZ0R8hS23O64dQWMTVYJqjyfuxgE3JgMTuWg&nostub=1
+#EXTINF:0 tvg-id="ch4073" tvg-name="KLI Fantastic HD" tvg-logo="https://rus.hls.gd/images/chIcons/4073.png" tvg-rec="3", KLI Fantastic HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4073/mono.m3u8?token=skynex.v2_2MNUvPxP0hEw02LtJ--jsKBCTq7QWsAhjbQh5xiTpXUH2BtV5AGQK1KRsEVIEQcA4cdoKcjnFg&nostub=1
+#EXTINF:0 tvg-id="ch4074" tvg-name="KLI Fantasy HD" tvg-logo="https://rus.hls.gd/images/chIcons/4074.png" tvg-rec="3", KLI Fantasy HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4074/mono.m3u8?token=skynex.v2_hSam-GvC3Z7SUOzVqCzMbrNx-RS-BjmQR88duQ6VMaTPg-FK0jFPDpKZ-qK_1ygfS92OAFNr1w&nostub=1
+#EXTINF:0 tvg-id="ch4075" tvg-name="KLI Horror HD" tvg-logo="https://rus.hls.gd/images/chIcons/4075.png" tvg-rec="3", KLI Horror HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4075/mono.m3u8?token=skynex.v2_xEEBznhu4wHqcIQoJf6sqqKdk9Kvgnvw6PbGwCe11Sa1UvqRY6Zm09a51MGj-iWkNIg4TXlJyw&nostub=1
+#EXTINF:0 tvg-id="ch4077" tvg-name="KLI Marvel HD" tvg-logo="https://rus.hls.gd/images/chIcons/4077.png" tvg-rec="3", KLI Marvel HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4077/mono.m3u8?token=skynex.v2_XjsGCT_NFyrbX1EvDi5L5pLfwJV7ipd6lWQoZNH568Lxrpsnr_mAVGwcw7vYMSxVr2M3DCQvYg&nostub=1
+#EXTINF:0 tvg-id="ch4078" tvg-name="KLI Nostalgia HD" tvg-logo="https://rus.hls.gd/images/chIcons/4078.png" tvg-rec="3", KLI Nostalgia HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4078/mono.m3u8?token=skynex.v2_OdgK4wHHtKW12cIy4j50-OMzFCFBrH1k3gOxZefcv0y5LDjkW9rPdqeplroLORkFBwceVgxkmQ&nostub=1
+#EXTINF:0 tvg-id="ch4079" tvg-name="KLI Premium HD" tvg-logo="https://rus.hls.gd/images/chIcons/4079.png" tvg-rec="3", KLI Premium HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4079/mono.m3u8?token=skynex.v2_AFsMSW5lfhoDmrFBpW7q64uzYCFUbeFZ9yf-gXjdSxPsB47zZzcQ1BsM7C2WYnfXsrpWi_IDaA&nostub=1
+#EXTINF:0 tvg-id="ch4081" tvg-name="KLI Russian HD" tvg-logo="https://rus.hls.gd/images/chIcons/4081.png" tvg-rec="3", KLI Russian HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4081/mono.m3u8?token=skynex.v2_SpWYd6skb6a8x1TzXzP80wrAuPXjshuT6GMUbFg6NxpM76y9ZdNdbxbInIgceG4NzxhWjRfM5w&nostub=1
+#EXTINF:0 tvg-id="ch4082" tvg-name="KLI Triller HD" tvg-logo="https://rus.hls.gd/images/chIcons/4082.png" tvg-rec="3", KLI Triller HD
+#EXTGRP:5. Cinemas/Кинозалы
+https://16.hls.gd/ch4082/mono.m3u8?token=skynex.v2_rPxbDeUcEQa2iwxKTY6p-zI6t_VCzxoQUduQsHf7PSgeNXyv0xO5OyM4vI-SNiXj9I-FXvqv6A&nostub=1
+#EXTINF:0 tvg-id="ch4083" tvg-name="KLI SSSR HD" tvg-logo="https://rus.hls.gd/images/chIcons/4083.png" tvg-rec="3", KLI SSSR HD
+
