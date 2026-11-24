@@ -291,7 +291,8 @@ http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/15164/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/11014/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/11047/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/13080/index.m3u8
-
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11014/index.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/11047/index.m3u8
 
 # Новостные
 
@@ -423,7 +424,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/15009/ind
 http://592e2c7a.kazaktelekom.com/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/15009/index.m3u8
 #EXTINF:-1 tvg-id="ttv31981" tvg-name="Теория большого взрыва 7" catchup="default" catchup-source="http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7CH62SrhPoPmt555JvJlnYjejLzLKl.png",Теория Большого Взрыва 7
 #EXTGRP:Теория большого взрыва
-http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/15009/index.m3u8
 #EXTINF:0 tvg-id="ch3900" tvg-name="Теория большого взрыва 8" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", Теория большого взрыва 8
 #EXTGRP:Теория большого взрыва
 http://nl.hls.gd/ch3900/mono.m3u8?token=masco.v2_tfMf4gm-cBfSVkljRDWXiBhKf5bSYuex9MRcG3gM3ifEgWy92ILD5_v1YPCn5zsqsoCQ_CokiQ
@@ -447,9 +448,9 @@ http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede91
 #EXTINF:-1 tvg-name="ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА" tvg-logo="https://i.pinimg.com/736x/f6/52/c6/f652c68dba9c7266c85651afe8657901.jpg", ВСЕЛЕННАЯ ГАРРИ ПОТТЕРА
 #EXTGRP:Теория большого взрыва
 https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=N6pIx7Fi--1aRyMicxiNYA&e=2087898209&scheme=https
-#EXTINF:0 tvg-name="TVPlay Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , TVPlay Игра Престолов 1
+#EXTINF:0 tvg-name="Игра Престолов HD" tvg-logo="https://iptv.pm/images/epg/1880.png?v1745404924" , Игра Престолов 1
 #EXTGRP:Теория большого взрыва
-http://ru3.hls.gd/ch3784/mono.m3u8?token=leoneeded.v2_9ExP3TtztHqleQd_eMNz3gnzQibR-Qb2giqbT0oBZBMojbwxIEWSsZqBfUT3gsEC3iIxX5yODA0CXA
+http://janina123.ucomist.net/iptv/RB4GVHV8NDC7NCZZXEBQ2DAG/18119/index.m3u8
 #EXTINF:0 tvg-id="ch3768" tvg-name="TVPlay Игра Престолов HD" tvg-logo="http://hls.gd/images/chIcons/3768.png" tvg-rec="3", TVPlay Игра Престолов 2
 #EXTGRP:Теория большого взрыва
 http://ru3.hls.gd/ch3702/mono.m3u8?token=leoneeded.v2_OFrVNF24tdWN-U-VSIQFzT4BYT1g9ey9STy1IGYAhHrrBDcrY_j6YnBU5nXQgMIjpIsx3ZA8SrIxdg
