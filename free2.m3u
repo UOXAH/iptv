@@ -60,9 +60,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/15133/index.m3u8
 #EXTINF:0 tvg-rec="7",Россия К
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/505/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия К HD
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/32078/index.m3u8
 #EXTINF:-1 tvg-id="Россия 24" group-title="Общие" tvg-logo="https://raw.githubusercontent.com/25aibiz25-maker/edit/refs/heads/main/Россия%2024.png",Россия 24
 http://176.118.197.101/Rossiya24/index.m3u8
 #EXTINF:0 tvg-rec="3",НТВ orig
@@ -135,23 +132,6 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/705/index.m3u8
 #EXTGRP:Общие
 http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/520/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВ Центр
-#EXTGRP:Общие
-http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/520/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВ Центр orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9095/index.m3u8
-#EXTINF:0,ТВ Центр HD
-#EXTGRP:Общие
-http://ro01.plink-pile.ch/3334/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0,ТВ Центр
-#EXTGRP:Общие
-http://ro01.plink-pile.ch/334/index.m3u8?token=F3DwiU327mxxCr
-#EXTINF:0 tvg-rec="7",Пятый канал
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/112/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал orig
-#EXTGRP:Общие
-http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9096/index.m3u8
 #EXTINF:0 tvg-rec="7",Пятый канал
 #EXTGRP:Общие
 http://wm1uwyls.virelloso.top/iptv/DXKZDUR2EG3TKMER79DVB7TK/112/index.m3u8
