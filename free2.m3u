@@ -279,9 +279,18 @@ http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/9209/index.m3u8
 
 
 #EXTINF:0,Первый канал HD
-#EXTGRP:Новос
+#EXTGRP:Сваты
 http://nl01.plink-pile.ch/128/index.m3u8?token=mFYDC4cScXy9ZS
 
+#EXTINF:0,Сваты 1
+#EXTGRP:Сваты
+http://592e2c7a.kazaktelekom.com/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/11014/index.m3u8
+
+http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/11014/index.m3u8
+http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/15164/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/11014/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/11047/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/13080/index.m3u8
 
 
 # Новостные
@@ -404,15 +413,15 @@ http://b1d98e28.amazzin.pw/iptv/CN5Y444G9H77QSKXU2V6SEW7/15009/index.m3u8
 http://ultxov4g.streamoras.top/iptv/V5LQDM4CPUCC2C/15009/index.m3u8
 #EXTINF:0 tvg-rec="0",Теория большого взрыва 3
 #EXTGRP:Теория большого взрыва
-http://cowsmq6n.nexeraso.top/iptv/36L66WPXHH5RA9/15009/index.m3u8
+http://592e2c7a.kazaktelekom.com/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",Теория большого взрыва 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/15009/index.m3u8
 #EXTINF:0 group-title="Теория большого взрыва" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",Теория большого взрыва 5
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/H5TC2DEXSM3ERTKNALHGR387/15009/index.m3u8
-#EXTINF:-1 group-title="Теория большого взрыва" tvg-id="ttv31530" tvg-name="Теория Большого Взрыва 6" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QyiTvBWUy2wWWCsS6Be4URJuzGNqyb.png",Теория Большого Взрыва
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DBCQZVNTEKV3PM/15009/index.m3u8
+#EXTINF:-1 group-title="Теория большого взрыва 6" tvg-id="ttv31530" tvg-name="Теория Большого Взрыва 6" catchup="default" catchup-source="http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QyiTvBWUy2wWWCsS6Be4URJuzGNqyb.png",Теория Большого Взрыва 6
 #EXTGRP:Теория большого взрыва
-http://streamer.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3027/stream.m3u8
-#EXTINF:-1 tvg-id="ttv31981" tvg-name="Теория большого взрыва 7" catchup="default" catchup-source="http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7CH62SrhPoPmt555JvJlnYjejLzLKl.png",Чебур ТВ - Теория Большого Взрыва
+http://592e2c7a.kazaktelekom.com/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/15009/index.m3u8
+#EXTINF:-1 tvg-id="ttv31981" tvg-name="Теория большого взрыва 7" catchup="default" catchup-source="http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7CH62SrhPoPmt555JvJlnYjejLzLKl.png",Теория Большого Взрыва 7
 #EXTGRP:Теория большого взрыва
 http://streamer-proxy-ru-18.enchart.one/42/0d30c195ac2372512043d1cacbe1442bede9182b/3460/stream.m3u8
 #EXTINF:0 tvg-id="ch3900" tvg-name="Теория большого взрыва 8" tvg-logo="http://hls.gd/images/chIcons/3900.png" tvg-rec="7", Теория большого взрыва 8
@@ -4873,7 +4882,7 @@ http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/11012/index.m3u8
 http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/11013/index.m3u8
 #EXTINF:0 tvg-rec="7",CineMan Сваты
 #EXTGRP:Cineman
-http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/11014/index.m3u8
+http://592e2c7a.kazaktelekom.com/iptv/Q99YS3GDGRVKQ3THV8RMV5WU/11014/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan Катастрофы
 #EXTGRP:Cineman
 http://ef30fdfc.edmonst.net/iptv/ZV95TXZEDG5S49/15106/index.m3u8
