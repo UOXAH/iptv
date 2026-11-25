@@ -10,6 +10,172 @@
 #https://rus.epg.team/3.1.xml
 #http://iptv-content.rv77.pw/epg.xml.gz
 
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pervy",Первый канал orig
+https://taptv.space/channel/3F26FC483AA52ED116/5956904716.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал
+https://taptv.space/channel/3F26FC483AA52ED116/1038081804.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал HD
+https://taptv.space/channel/3F26FC483AA52ED116/6954476280.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал HD
+https://taptv.space/channel/3F26FC483AA52ED116/7270467834.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Первый канал FHD
+https://taptv.space/channel/3F26FC483AA52ED116/7345275194.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Первый канал UHD
+https://taptv.space/channel/3F26FC483AA52ED116/9186685241.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Первый канал Европа
+https://taptv.space/channel/3F26FC483AA52ED116/6514455272.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia1",Россия 1 orig
+https://taptv.space/channel/3F26FC483AA52ED116/7358070873.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1
+https://taptv.space/channel/3F26FC483AA52ED116/1694539716.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия 1 HD
+https://taptv.space/channel/3F26FC483AA52ED116/6659067476.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия 1 HD 50
+https://taptv.space/channel/3F26FC483AA52ED116/8904433698.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Россия 1 HD
+https://taptv.space/channel/3F26FC483AA52ED116/9851012625.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Россия 1 FHD
+https://taptv.space/channel/3F26FC483AA52ED116/9817815062.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия 1 UHD
+https://taptv.space/channel/3F26FC483AA52ED116/2044019591.m3u8
+#EXTINF:-1 group-title="🔅 Основные",РТР-Планета Европа
+https://taptv.space/channel/3F26FC483AA52ED116/1967408412.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 24
+https://taptv.space/channel/3F26FC483AA52ED116/6040586801.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия 24 HD
+https://taptv.space/channel/3F26FC483AA52ED116/7821331077.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
+https://taptv.space/channel/3F26FC483AA52ED116/7976505109.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Россия К HD
+https://taptv.space/channel/3F26FC483AA52ED116/5745610848.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv",НТВ orig
+https://taptv.space/channel/3F26FC483AA52ED116/8306865028.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",НТВ
+https://taptv.space/channel/3F26FC483AA52ED116/4235195187.m3u8
+#EXTINF:-1 group-title="🔅 Основные",НТВ HD
+https://taptv.space/channel/3F26FC483AA52ED116/3005633145.m3u8
+#EXTINF:-1 group-title="🔅 Основные",НТВ UHD
+https://taptv.space/channel/3F26FC483AA52ED116/5506672792.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",НТВ HD
+https://taptv.space/channel/3F26FC483AA52ED116/9672539171.m3u8
+#EXTINF:-1 group-title="🔅 Основные",НТВ Мир
+https://taptv.space/channel/3F26FC483AA52ED116/5597074375.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="5kanal-ru",Пятый канал orig
+https://taptv.space/channel/3F26FC483AA52ED116/9955791645.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятый канал
+https://taptv.space/channel/3F26FC483AA52ED116/1926244059.m3u8
+#EXTINF:-1 group-title="🔅 Основные" tvg-id="5kanal-ru",Пятый канал HD
+https://taptv.space/channel/3F26FC483AA52ED116/3109346888.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3" tvg-id="otr",ОТР orig
+https://taptv.space/channel/3F26FC483AA52ED116/8059279386.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ОТР
+https://taptv.space/channel/3F26FC483AA52ED116/2877816641.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ОТР HD
+https://taptv.space/channel/3F26FC483AA52ED116/4908816512.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="tvcentr",ТВЦ orig
+https://taptv.space/channel/3F26FC483AA52ED116/6320664613.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВЦ
+https://taptv.space/channel/3F26FC483AA52ED116/2381911191.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТВЦ International
+https://taptv.space/channel/3F26FC483AA52ED116/5517381050.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТВЦ HD
+https://taptv.space/channel/3F26FC483AA52ED116/9305286067.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rentv",Рен ТВ orig
+https://taptv.space/channel/3F26FC483AA52ED116/2719930274.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Рен ТВ
+https://taptv.space/channel/3F26FC483AA52ED116/4079962671.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Рен ТВ HD
+https://taptv.space/channel/3F26FC483AA52ED116/2106541488.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Рен ТВ UHD
+https://taptv.space/channel/3F26FC483AA52ED116/8739751986.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7" tvg-id="spas",Спас orig
+https://taptv.space/channel/3F26FC483AA52ED116/5873180872.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Спас
+https://taptv.space/channel/3F26FC483AA52ED116/8204036385.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",СТС
+https://taptv.space/channel/3F26FC483AA52ED116/2803856352.m3u8
+#EXTINF:-1 group-title="🔅 Основные",СТС International
+https://taptv.space/channel/3F26FC483AA52ED116/1895789913.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",СТС HD
+https://taptv.space/channel/3F26FC483AA52ED116/5281308467.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",СТС HD
+https://taptv.space/channel/3F26FC483AA52ED116/5216920889.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Домашний
+https://taptv.space/channel/3F26FC483AA52ED116/8709932164.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Домашний
+https://taptv.space/channel/3F26FC483AA52ED116/9648165070.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Домашний HD
+https://taptv.space/channel/3F26FC483AA52ED116/1172450404.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТВ3
+https://taptv.space/channel/3F26FC483AA52ED116/2645060715.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТВ3
+https://taptv.space/channel/3F26FC483AA52ED116/5069385032.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТВ3 HD
+https://taptv.space/channel/3F26FC483AA52ED116/3879062155.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Пятница!
+https://taptv.space/channel/3F26FC483AA52ED116/2978649195.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Пятница!
+https://taptv.space/channel/3F26FC483AA52ED116/6659654785.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Пятница! HD
+https://taptv.space/channel/3F26FC483AA52ED116/7159333460.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Ю
+https://taptv.space/channel/3F26FC483AA52ED116/1727534872.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Ю
+https://taptv.space/channel/3F26FC483AA52ED116/5049247315.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Звезда
+https://taptv.space/channel/3F26FC483AA52ED116/5562371087.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда
+https://taptv.space/channel/3F26FC483AA52ED116/6621957254.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Звезда HD
+https://taptv.space/channel/3F26FC483AA52ED116/1461698990.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Звезда Плюс
+https://taptv.space/channel/3F26FC483AA52ED116/5236307362.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Звезда Плюс HD
+https://taptv.space/channel/3F26FC483AA52ED116/3488416845.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Мир
+https://taptv.space/channel/3F26FC483AA52ED116/1107959725.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Мир
+https://taptv.space/channel/3F26FC483AA52ED116/9886519627.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Мир HD
+https://taptv.space/channel/3F26FC483AA52ED116/4332331492.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТНТ
+https://taptv.space/channel/3F26FC483AA52ED116/1042758899.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ
+https://taptv.space/channel/3F26FC483AA52ED116/6874050526.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТНТ International
+https://taptv.space/channel/3F26FC483AA52ED116/1564812531.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТНТ HD
+https://taptv.space/channel/3F26FC483AA52ED116/8585889047.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ HD
+https://taptv.space/channel/3F26FC483AA52ED116/5436580797.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТНТ FHD
+https://taptv.space/channel/3F26FC483AA52ED116/7867632539.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТНТ UHD
+https://taptv.space/channel/3F26FC483AA52ED116/7609624569.m3u8
+#EXTINF:-1 group-title="🔅 Основные",ТНТ HD 50
+https://taptv.space/channel/3F26FC483AA52ED116/3511547454.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТНТ4
+https://taptv.space/channel/3F26FC483AA52ED116/3789886710.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",ТНТ4
+https://taptv.space/channel/3F26FC483AA52ED116/4291790259.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",ТНТ4 HD
+https://taptv.space/channel/3F26FC483AA52ED116/1769817587.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Муз ТВ
+https://taptv.space/channel/3F26FC483AA52ED116/7665893338.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Муз ТВ HD
+https://taptv.space/channel/3F26FC483AA52ED116/3835038990.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",СТС Love
+https://taptv.space/channel/3F26FC483AA52ED116/9846948740.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",СТС Love
+https://taptv.space/channel/3F26FC483AA52ED116/6116053723.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="3",Че!
+https://taptv.space/channel/3F26FC483AA52ED116/2528438055.m3u8
+#EXTINF:-1 group-title="🔅 Основные" catchup="shift" catchup-days="7",Че
+https://taptv.space/channel/3F26FC483AA52ED116/1966321490.m3u8
+#EXTINF:-1 group-title="🔅 Основные",Перец International
+https://taptv.space/channel/3F26FC483AA52ED116/6359547316.m3u8
+
+
 # Общие
 
 #EXTINF:0 tvg-rec="7",Санкт-Петербург
